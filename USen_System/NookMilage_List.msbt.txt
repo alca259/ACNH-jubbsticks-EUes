@@ -1,0 +1,85 @@
+
+---
+label: 110_0
+attribute: 
+---
+Balloon Bobbing
+
+---
+label: 111_0
+attribute: 
+---
+Gems for Gyroids!
+
+---
+label: 111_1
+attribute: 
+---
+Brewster's always been a gyroid fan-- 
+if you truly want to earn the favor of
+this island's "coo"-est coffee connoisseur,
+ trade him your gyroids for gems... and 
+enjoy these miles on the side, hm?
+
+---
+label: 110_1
+attribute: 
+---
+I'm honored to hear that Phineas is now supporting our island's Nook Mileage Program with his own reward system. Support his balloon cart in return, and I'll support you with some extra Nook Miles, yes, yes!
+
+---
+label: 113_0
+attribute: 
+---
+Mass Manufacturer
+
+---
+label: 113_1
+attribute: 
+---
+At Nook Inc. efficiency is a core value.
+And what's more efficient than crafting a 
+whole bunch? Crafting a whole bunch at once!
+
+---
+label: 114_0
+attribute: 
+---
+Flash Fashion
+
+---
+label: 114_1
+attribute: 
+---
+A great way to boost the reputation of
+{{string:IslandName}} is through the promotion
+of stylish wear! {{color id="3"}}Label{{color id="-1"}}'s fashion
+tips are sure to keep us ahead of the curve,
+so give her a listen and earn some miles!
+
+---
+label: 115_0
+attribute: 
+---
+Interference Clearance
+
+---
+label: 115_1
+attribute: 
+---
+No one knows what the future holds--except for meteorologists, hm? Help {{color id="3"}}Digby{{color id="-1"}} record weather data on {{string:IslandName}}, and reap the mileage!
+
+---
+label: 116_0
+attribute: 
+---
+Java in Jeopardy!
+
+---
+label: 116_1
+attribute: 
+---
+Kindness is a most admirable trait in 
+anyone, but it looks especially good on 
+you! Provide coffee for local workers, 
+and have some miles provided to you!

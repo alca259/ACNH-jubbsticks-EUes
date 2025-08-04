@@ -1,0 +1,55 @@
+
+---
+label: 025
+attribute: 0x54585432
+---
+Voy a necesitar más {{65535:65535}}.
+
+---
+label: 026
+attribute: 0xC00B0000
+---
+¡He convertido cada almeja japonesa de mis bolsillos en {{65535:65535}}!
+
+---
+label: 033
+attribute: 0x02000018
+---
+He hecho un montón de {{65535:65535}}
+
+---
+label: 033_a
+attribute: 0x00000000
+---
+¡A por otro proyecto!
+
+---
+label: 033_b
+attribute: 0x00000000
+---
+Lo dejo ya.
+
+---
+label: 040
+attribute: 0x00000018
+---
+Ah, pero llevo los bolsillos llenísimos.{{string:Dots}}
+Mejor lo recojo luego.
+
+---
+label: 090
+attribute: 0x01000018
+---
+Tengo algunas {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}almejas japonesas{{color id="-1"}} conmigo. ¿Qué debo hacer?
+
+---
+label: 090_a
+attribute: 0x00000018
+---
+Fabricar normalmente.
+
+---
+label: 090_b
+attribute: 0x00000018
+---
+{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Cebos para peces{{color id="-1"}} a granel!

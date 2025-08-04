@@ -1,0 +1,7 @@
+
+---
+label: 962
+attribute: 0x000018
+---
+I learned a {{color id="1"}}special technique{{color id="-1"}}!{{delay frames="30"}}
+Now I can craft a whole lot of fish bait,{{delay8}} all at once!

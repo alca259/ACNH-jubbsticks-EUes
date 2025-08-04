@@ -1,0 +1,180 @@
+
+---
+label: 002_03
+attribute: 0x0000000000000000
+---
+Patient
+
+---
+label: 002_04
+attribute: 0x5E0100007C050000
+---
+Profishional
+
+---
+label: 110_03
+attribute: 0x96050000AA050000
+---
+Inflated
+
+---
+label: 110_02
+attribute: 0xBC050000CA050000
+---
+Popping
+
+---
+label: 110_01
+attribute: 0xE60500000A060000
+---
+Playful
+
+---
+label: 110_00
+attribute: 0x1406000026060000
+---
+Bouncing
+
+---
+label: 111_00
+attribute: 0x3606000048060000
+---
+Emerald
+
+---
+label: 111_01
+attribute: 0x6C0600008A060000
+---
+Amethyst
+
+---
+label: 111_02
+attribute: 0xA2060000B6060000
+---
+Ruby
+
+---
+label: 111_03
+attribute: 0xCA060000E2060000
+---
+Sapphire
+
+---
+label: 111_04
+attribute: 0xF00600000A070000
+---
+Silver
+
+---
+label: 071_01
+attribute: 0x2207000036070000
+---
+Safe
+
+---
+label: 071_02
+attribute: 0x4607000060070000
+---
+Wasp
+
+---
+label: 105_03
+attribute: 0x6E07000086070000
+---
+The Very Best
+
+---
+label: 113_00
+attribute: 0x6E07000086070000
+---
+Mass
+
+---
+label: 115_03
+attribute: 0x0000000000000000
+---
+Methodical
+
+---
+label: 115_00
+attribute: 0x0000000000000000
+---
+Resourceful
+
+---
+label: 115_02
+attribute: 0x0000000000000000
+---
+Nature
+
+---
+label: 115_01
+attribute: 0x0000000000000000
+---
+Pioneering
+
+---
+label: 115_04
+attribute: 0x0000000000000000
+---
+Big
+
+---
+label: 116_03
+attribute: 0x0000000000000000
+---
+Painful
+
+---
+label: 116_00
+attribute: 0x0000000000000000
+---
+Good
+
+---
+label: 116_02
+attribute: 0x0000000000000000
+---
+Ache-Inducing
+
+---
+label: 116_01
+attribute: 0x0000000000000000
+---
+Pesky
+
+---
+label: 116_04
+attribute: 0x0000000000000000
+---
+Thirsty
+
+---
+label: 114_03
+attribute: 0x0000000000000000
+---
+Wear
+
+---
+label: 114_00
+attribute: 0x0000000000000000
+---
+Questionable
+
+---
+label: 114_02
+attribute: 0x0000000000000000
+---
+Impressive
+
+---
+label: 114_01
+attribute: 0x0000000000000000
+---
+Interesting
+
+---
+label: 114_04
+attribute: 0x0000000000000000
+---
+Fashionable

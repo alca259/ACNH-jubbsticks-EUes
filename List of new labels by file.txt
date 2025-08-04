@@ -66,6 +66,31 @@ Mail_XXxx.sarc.zs:
 
 ---
 
+TalkObj_USen.sarc.zs:
+	OBJ_RcoMachine.msbt:
+		010
+		010_a
+		010_b
+		010_c
+		010_d
+		010_e
+		010_f
+		011
+		011_a
+		011_b
+		011_c
+		011_d
+		011_e
+		011_f
+		023
+		024_01
+		025_01
+		025_02
+		026_03
+		026_04
+
+---
+
 String_XXxx.sarc.zs:
     /Remake:
         STR_Remake_BodyColor.msbt:

@@ -1,0 +1,408 @@
+
+---
+label: 003
+attribute: 
+---
+Heya, {{string:PlayerName}}!
+
+---
+label: 004
+attribute: 
+---
+Heya, {{string:PlayerName}}!
+
+---
+label: 005
+attribute: 
+---
+Heya, {{string:PlayerName}}!
+
+---
+label: 006
+attribute: 
+---
+Heya, {{string:PlayerName}}!
+
+---
+label: 007
+attribute: 
+---
+Heya, {{string:PlayerName}}!
+
+---
+label: 008
+attribute: 
+---
+Heya, {{string:PlayerName}}!
+
+---
+label: 009
+attribute: 
+---
+Heya, {{string:PlayerName}}!
+
+---
+label: 011
+attribute: 
+---
+{{string:PlayerName}}...
+
+---
+label: 012
+attribute: 
+---
+Sorry, {{string:PlayerName}}...
+
+---
+label: 013
+attribute: 
+---
+Wonderful news, {{string:PlayerName}}!
+
+---
+label: 014
+attribute: 
+---
+Hiya, {{string:PlayerName}}!
+
+---
+label: 015
+attribute: 
+---
+Hi, {{string:PlayerName}}!
+
+---
+label: 016
+attribute: 
+---
+Happy day, {{string:PlayerName}}!
+
+---
+label: 017
+attribute: 
+---
+Bad news, {{string:PlayerName}}...
+
+---
+label: 018
+attribute: 
+---
+Oh boy, {{string:PlayerName}}!
+
+---
+label: 019
+attribute: 
+---
+How are you, {{string:PlayerName}}?
+
+---
+label: 020
+attribute: 
+---
+Heya, {{string:PlayerName}}!
+
+---
+label: 103
+attribute: 
+---
+Last I visited {{string:IslandName}},
+I noticed all the apple trees 
+sprouting up! I thought, "Wow,
+apples sure are happy here!"
+I hope this apple will happily 
+sprout there too, even though 
+it's more sensitive than most.
+
+---
+label: 104
+attribute: 
+---
+Last I visited {{string:IslandName}},
+I noticed all the orange trees 
+sprouting up! I thought, "Wow,
+oranges sure are happy here!"
+I hope this orange will happily 
+sprout there too, even though 
+it's more sensitive than most.
+
+---
+label: 105
+attribute: 
+---
+Last I visited {{string:IslandName}},
+I noticed all the pear trees 
+sprouting up! I thought, "Wow,
+pears sure are happy here!"
+I hope this pear will happily 
+sprout there too, even though 
+it's more sensitive than most.
+
+---
+label: 106
+attribute: 
+---
+Last I visited {{string:IslandName}},
+I noticed all the peach trees 
+sprouting up! I thought, "Wow,
+peaches sure are happy here!" 
+I hope this peach will happily 
+sprout there too, even though 
+it's more sensitive than most.
+
+---
+label: 107
+attribute: 
+---
+Last I visited {{string:IslandName}},
+I noticed all the cherry trees 
+sprouting up! I thought, "Wow,
+cherries sure are happy here!"
+I hope this cherry will happily 
+sprout there too, even though 
+it's more sensitive than most.
+
+---
+label: 108
+attribute: 
+---
+After a couple of days, your 
+cultivation order is now complete!
+Here are your happy little shoots!
+
+---
+label: 109
+attribute: 
+---
+It took quite a while, but 
+your bamboo cultivation order is 
+finally complete! 
+
+Thanks again for your business!
+Let me know if you need any more!
+
+---
+label: 110
+attribute: 
+---
+That young bamboo tree you
+gave me to cultivate was real lively!
+
+It's already produced some shoots!
+Here they are for you, friend.
+Let me know if you need more!
+
+---
+label: 111
+attribute: 
+---
+Your bamboo cultivation was a bit 
+of a failure. It took a long time, 
+and only produced a single shoot...
+But I'm sure you'll be glad
+that it's a PERFECT bamboo shoot!
+Lucky you! Here it is!
+
+---
+label: 112
+attribute: 
+---
+Your perfect bamboo cultivation
+failed! It sadly only produced a
+single shoot in return...
+
+We can always try to cultivate it 
+again, if you'd like to!
+
+---
+label: 113
+attribute: 
+---
+The perfect bamboo cultivation
+was a swift success! Your tree
+already sprouted two whole shoots.
+I hope they'll grow up as
+nice and strong as they are happy!
+
+---
+label: 114
+attribute: 
+---
+Sorry for the wait on your perfect
+bamboo cultivation!
+This one was a real happy little
+sprout, and made three perfect
+bamboo shoots just for you!
+How wonderful!
+
+---
+label: 115
+attribute: 
+---
+Your bamboo cultivation order produced 
+a whole bunch of shoots, which are
+enclosed below. 
+I hope they're as happy as their
+parent tree has been!
+
+---
+label: 116
+attribute: 
+---
+After a couple days, your bamboo 
+cultivation order is now complete!
+
+That tree you gave me was SUPER
+happy, and decided to produce 
+lots of shoots just for you!
+
+---
+label: 117
+attribute: 
+---
+I'm sorry to inform you that
+your perfect bamboo cultivation 
+order was a bit of a failure. 
+It took a long time, but only
+produced one shoot...
+It's unfortunate how sensitive
+perfect bamboo tends to be.
+
+---
+label: 118
+attribute: 
+---
+After just a couple of days,
+the young perfect bamboo tree 
+you gave me to cultivate already 
+sprouted two beautiful little
+shoots! Here they are, for you!
+
+---
+label: 119
+attribute: 
+---
+I'm sorry that your perfect
+bamboo cultivation order took
+so long! It ended up sprouting two
+whole shoots, so I'd say it was
+a success! Thanks for ordering!
+
+---
+label: 120
+attribute: 
+---
+It took quite a while, but 
+your bamboo cultivation order is 
+finally complete.
+And it produced lots of shoots!
+
+Let me know if you need any more!
+
+---
+label: 203
+attribute: 
+---
+Try planting it! –Leif
+
+---
+label: 204
+attribute: 
+---
+Try planting it! –Leif
+
+---
+label: 205
+attribute: 
+---
+Try planting it! –Leif
+
+---
+label: 206
+attribute: 
+---
+Try planting it! –Leif
+
+---
+label: 207
+attribute: 
+---
+Try planting it! –Leif
+
+---
+label: 208
+attribute: 
+---
+Thanks for hiring me! –Leif
+
+---
+label: 209
+attribute: 
+---
+Sorry for the wait! –Leif
+
+---
+label: 210
+attribute: 
+---
+Thank you! –Leif
+
+---
+label: 211
+attribute: 
+---
+You should plant it! –Leif
+
+---
+label: 212
+attribute: 
+---
+I tried my best! –Leif
+
+---
+label: 213
+attribute: 
+---
+Good luck! –Leif
+
+---
+label: 214
+attribute: 
+---
+Thanks for your business! –Leif
+
+---
+label: 215
+attribute: 
+---
+I really appreciate your patronage! –Leif
+
+---
+label: 216
+attribute: 
+---
+I bet they're happy too! –Leif
+
+---
+label: 217
+attribute: 
+---
+We can always try again! –Leif
+
+---
+label: 218
+attribute: 
+---
+Thanks for your business! –Leif
+
+---
+label: 219
+attribute: 
+---
+Have a good day! –Leif
+
+---
+label: 220
+attribute: 
+---
+Have a good day! –Leif
+

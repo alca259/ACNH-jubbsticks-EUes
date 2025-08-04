@@ -1,0 +1,342 @@
+
+---
+label: 002_03_0
+attribute: 0x200B00002A0B0000
+---
+Fishionista
+
+---
+label: 111_04_1
+attribute: 0x380B0000420B0000
+---
+{{85:4}}
+
+---
+label: 110_03_1
+attribute: 0x640B00006E0B0000
+---
+{{85:4}}
+
+---
+label: 110_02_1
+attribute: 0x760B0000800B0000
+---
+{{85:4}}
+
+---
+label: 110_01_1
+attribute: 0x8A0B0000940B0000
+---
+{{85:4}}
+
+---
+label: 110_00_1
+attribute: 0x9E0B0000A80B0000
+---
+{{85:4}}
+
+---
+label: 111_03_1
+attribute: 0xBC0B0000C60B0000
+---
+{{85:4}}
+
+---
+label: 111_02_1
+attribute: 0xE20B0000EC0B0000
+---
+{{85:4}}
+
+---
+label: 111_01_1
+attribute: 0xF60B0000000C0000
+---
+{{85:4}}
+
+---
+label: 111_00_1
+attribute: 0x0E0C0000180C0000
+---
+{{85:4}}
+
+---
+label: 111_04_0
+attribute: 0x2C0C0000340C0000
+---
+Silver
+
+---
+label: 110_00_0
+attribute: 0x480C0000520C0000
+---
+Balloon
+
+---
+label: 110_01_0
+attribute: 0x600C00006A0C0000
+---
+Shape
+
+---
+label: 110_02_0
+attribute: 0x860C0000900C0000
+---
+Popping
+
+---
+label: 110_03_0
+attribute: 0xA20C0000AC0C0000
+---
+Inflation
+
+---
+label: 111_00_0
+attribute: 0xBA0C0000C40C0000
+---
+Emerald
+
+---
+label: 111_01_0
+attribute: 0xD40C0000DE0C0000
+---
+Amethyst
+
+---
+label: 111_02_0
+attribute: 0xEC0C0000F60C0000
+---
+Ruby
+
+---
+label: 111_03_0
+attribute: 0xFE0C0000080D0000
+---
+Sapphire
+
+---
+label: 071_01_1
+attribute: 0x1A0D0000240D0000
+---
+{{85:4}}
+
+---
+label: 071_02_1
+attribute: 0x340D00003E0D0000
+---
+{{85:4}}
+
+---
+label: 071_01_0
+attribute: 0x5A0D0000640D0000
+---
+Tree Shaker
+
+---
+label: 071_02_0
+attribute: 0x7E0D0000880D0000
+---
+Hater
+
+---
+label: 105_03_1
+attribute: 0x960D0000A00D0000
+---
+{{85:4}}
+
+---
+label: 105_03_0
+attribute: 0xB20D0000BC0D0000
+---
+Foodie
+
+---
+label: 113_00_0
+attribute: 0xC1050000320B0000
+---
+Manufacturer
+
+---
+label: 113_00_1
+attribute: 0x0000000000000000
+---
+{{85:4}}
+
+---
+label: 115_03_1
+attribute: 0x0000000000000000
+---
+{{85:4}}
+
+---
+label: 115_03_0
+attribute: 0xC1050000320B0000
+---
+Scientist
+
+---
+label: 115_00_1
+attribute: 0x0000000000000000
+---
+{{85:4}}
+
+---
+label: 115_00_0
+attribute: 0xC1050000320B0000
+---
+Prospector
+
+---
+label: 115_02_1
+attribute: 0x0000000000000000
+---
+{{85:4}}
+
+---
+label: 115_02_0
+attribute: 0xC1050000320B0000
+---
+Scout
+
+---
+label: 115_01_1
+attribute: 0x0000000000000000
+---
+{{85:4}}
+
+---
+label: 115_01_0
+attribute: 0xC1050000320B0000
+---
+Breakthrough
+
+---
+label: 115_04_1
+attribute: 0x0000000000000000
+---
+{{85:4}}
+
+---
+label: 115_04_0
+attribute: 0xC1050000320B0000
+---
+Sharpshooter
+
+---
+label: 116_00_0
+attribute: 0xC1050000320B0000
+---
+Brother
+
+---
+label: 116_00_1
+attribute: 0xC1050000320B0000
+---
+Sister
+
+---
+label: 116_01_0
+attribute: 0xC1050000320B0000
+---
+Drink
+
+---
+label: 116_01_1
+attribute: 0x0000000000000000
+---
+{{85:4}}
+
+---
+label: 116_02_0
+attribute: 0xC1050000320B0000
+---
+Migraine
+
+---
+label: 116_02_1
+attribute: 0x0000000000000000
+---
+{{85:4}}
+
+---
+label: 116_03_0
+attribute: 0xC1050000320B0000
+---
+Withdrawal
+
+---
+label: 116_03_1
+attribute: 0x0000000000000000
+---
+{{85:4}}
+
+---
+label: 116_04_0
+attribute: 0xC1050000320B0000
+---
+Mole
+
+---
+label: 116_04_1
+attribute: 0x0000000000000000
+---
+{{85:4}}
+
+---
+label: 114_00_0
+attribute: 0xC1050000320B0000
+---
+Fashion
+
+---
+label: 114_00_1
+attribute: 0x0000000000000000
+---
+{{85:4}}
+
+---
+label: 114_01_0
+attribute: 0xC1050000320B0000
+---
+Review
+
+---
+label: 114_01_1
+attribute: 0x0000000000000000
+---
+{{85:4}}
+
+---
+label: 114_02_0
+attribute: 0xC1050000320B0000
+---
+Dress
+
+---
+label: 114_02_1
+attribute: 0x0000000000000000
+---
+{{85:4}}
+
+---
+label: 114_03_0
+attribute: 0xC1050000320B0000
+---
+Wear
+
+---
+label: 114_03_1
+attribute: 0x0000000000000000
+---
+{{85:4}}
+
+---
+label: 114_04_0
+attribute: 0xC1050000320B0000
+---
+Fashionista
+
+---
+label: 114_04_1
+attribute: 0xC1050000320B0000
+---
+Fashionisto

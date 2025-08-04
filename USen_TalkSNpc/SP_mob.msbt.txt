@@ -1,0 +1,575 @@
+
+---
+label: 001
+attribute: 0x02000000
+---
+{{anim:Eh target="actor" targetSpec=""}}Huh? I don't believe we've met.{{pageBreak}}{{anim:Greeting target="actor" targetSpec=""}}Well, nice to meet'cha and all that jazz.{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} You probably know {{color id="3"}}Resetti{{color id="-1"}};{{delay20}} 
+I'm his big brother.{{delay8}}
+The name's {{color id="3"}}Don{{color id="-1"}}.{{pageBreak}}{{anim:Serious target="actor" targetSpec=""}}Listen, {{delay8}}straight off,{{delay8}}{{anim:ShyBoy target="actor" targetSpec=""}} I know my little brother can be a real pain.{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}And he ain't no kind of smooth talker,{{delay8}} neither,{{delay8}} so he can SOUND mean even though he really ain't.{{pageBreak}}{{anim:Apologize target="actor" targetSpec=""}}Thanks for puttin' up with him.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Today,{{delay8}} {{color id="3"}}Sonny{{color id="-1"}}, {{delay8}}he's at home takin' it easy. {{delay20}}Kid's got high blood pressure{{string:Dots}}{{pageBreak}}{{anim:Sighing target="actor" targetSpec=""}}He's been workin' on himself, but I s'pose he musta really worked himself up{{anim:Worried target="actor" targetSpec=""}} this time{{string:Dots}}{{pageBreak}}{{anim:ColdChill target="actor" targetSpec=""}}So{{delay20}} yeah,{{delay8}} I'm uh,{{delay8}} fillin' in for him.{{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}For clearin' out a little time to chat with me,{{anim:Nodding target="actor" targetSpec=""}} you got my thanks.{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}Oh, but I've got a bit of a problem that ya might be able to help me with{{string:Dots}}{{pageBreak}}{{anim:BrokenHeart target="actor" targetSpec=""}}I had to skip out on my regular {{color id="1"}}coffee break{{color id="-1"}} to show up today{{string:Dots}}{{pageBreak}}{{anim:SadSpiral target="actor" targetSpec=""}}So, {{delay8}}I've got a headache for the books.{{10:4}}{{delay20}}{{anim:Worried target="actor" targetSpec=""}} It's absolutely killin' me.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}An' if I can be honest,{{delay8}} I'm havin' a {{delay20}}{{anim:Sleepy target="actor" targetSpec=""}}hard time stayin' awake here, too.{{10:4}}{{size value="70"}} Those wind chimes are so relaxin'{{string:Dots}}{{pageBreak}}{{anim:Hesitate target="actor" targetSpec=""}}If you wouldn't mind bringin' me a {{color id="1"}}to-go coffee{{color id="-1"}}{{string:Dots}}I'll give you a free {{color id="1"}}gemstone {{color id="-1"}}in return.
+
+---
+label: 001_a
+attribute: 0x00000000
+---
+{{anim:Assent target="actor" targetSpec=""}}Sure thing!
+
+---
+label: 001_b
+attribute: 0x00000000
+---
+{{anim:Negative target="actor" targetSpec=""}}I'm too busy.
+
+---
+label: 001_01
+attribute: 0x02000000
+---
+{{anim:Greeting target="actor" targetSpec=""}}Oh, hey!{{delay40}}
+{{anim:Silent target="actor" targetSpec=""}}{{string:Dots}}Do ya think you could bring me a {{color id="1"}}to-go coffee{{color id="-1"}} now?
+
+---
+label: 001_01_a
+attribute: 0x00000000
+---
+{{anim:Nodding target="actor" targetSpec=""}}Oh, alright.
+
+---
+label: 001_01_b
+attribute: 0x00000000
+---
+{{anim:Negative target="actor" targetSpec=""}}Nope.
+
+---
+label: 002
+attribute: 0x04000000
+---
+{{anim:Greeting target="actor" targetSpec=""}}Hey, good to see ya, {{delay8}}pal.{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}{{color id="3"}}Resetti{{color id="-1"}}'s out again{{string:Dots}}{{anim:BrokenHeart target="actor" targetSpec=""}}an' I had to skip out on my regular {{color id="1"}}coffee break{{color id="-1"}} to show up today{{string:Dots}}{{pageBreak}}{{anim:Sleepy target="actor" targetSpec=""}}If you wouldn't mind bringin' me a {{color id="1"}}to-go coffee{{color id="-1"}}{{string:Dots}}well,{{delay8}} I'll give you a free {{color id="1"}}gemstone {{color id="-1"}}in return.
+
+---
+label: 002_a
+attribute: 0x00000000
+---
+{{anim:Assent target="actor" targetSpec=""}}Sure thing!
+
+---
+label: 002_b
+attribute: 0x00000000
+---
+{{anim:OhGeez target="actor" targetSpec=""}}Can I buy something?
+
+---
+label: 002_c
+attribute: 0x00000000
+---
+{{anim:Negative target="actor" targetSpec=""}}Not today.
+
+---
+label: 012
+attribute: 0x00000000
+---
+{{anim:Sighing target="actor" targetSpec=""}}You're a lifesaver, kid.{{10:4}}{{anim:Nodding target="actor" targetSpec=""}}
+I'll be waitin' here, {{delay8}}just{{anim:Frantic target="actor" targetSpec=""}} bring that{{color id="1"}} coffee{{color id="-1"}} soon as you can!
+
+---
+label: 013
+attribute: 0x00000000
+---
+{{anim:SadSpiral target="actor" targetSpec=""}}Oh, alright. I understand.{{10:4}}{{delay8}}
+Let me know if you change your mind{{string:Dots}}
+
+---
+label: 014
+attribute: 0x02000000
+---
+{{anim:SadSpiral target="actor" targetSpec=""}}Oh, alright{{delay8}}.{{delay8}}.{{delay8}}.{{10:4}}{{anim:Sighing target="actor" targetSpec=""}}
+I'll have to find someone else to help.{{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}Did'ja need to buy something, though?
+
+---
+label: 014_a
+attribute: 0x00000000
+---
+{{anim:Nodding target="actor" targetSpec=""}}Yes, please.
+
+---
+label: 014_b
+attribute: 0x00000000
+---
+{{anim:Negative target="actor" targetSpec=""}}Nope.
+
+---
+label: 050
+attribute: 0x02000000
+---
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Oh, {{delay8}}hey!{{10:4}}{{delay8}}
+{{anim:QuestionMark target="actor" targetSpec=""}}Did'ja bring a {{color id="1"}}to-go coffee{{color id="-1"}} for me?
+
+---
+label: 050_a
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Yup!
+
+---
+label: 050_b
+attribute: 0x00000000
+---
+{{anim:Explain target="actor" targetSpec=""}}Not yet.
+
+---
+label: 050_01
+attribute: 0x04000000
+---
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Oh, {{delay8}}hey!{{10:4}}{{delay8}}
+{{anim:QuestionMark target="actor" targetSpec=""}}Did'ja bring a {{color id="1"}}to-go coffee{{color id="-1"}} for me?
+
+---
+label: 050_01_a
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Yup!
+
+---
+label: 050_01_b
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}I wanna buy ore!
+
+---
+label: 050_01_c
+attribute: 0x00000000
+---
+{{anim:Explain target="actor" targetSpec=""}}No, bye.
+
+---
+label: 051
+attribute: 0x00000000
+---
+{{anim:SadSpiral target="actor" targetSpec=""}}Oh, alright. I understand.{{10:4}}{{delay8}}
+Just bring that {{color id="1"}}coffee{{color id="-1"}} when ya can{{string:Dots}}
+
+---
+label: 051_01
+attribute: 0x00000000
+---
+{{anim:Sighing target="actor" targetSpec=""}}Oh, yeah. I guess I got business to run here, huh?{{delay40}}
+{{size value="75"}}{{color id="4"}}{{anim:SadSpiral target="actor" targetSpec=""}}AH! My head{{string:Dots}}
+
+---
+label: 052
+attribute: 0x00000000
+---
+{{anim:SadSpiral target="actor" targetSpec=""}}What?{{10:4}}{{delay8}}
+I thought ya had a{{color id="1"}} coffee {{color id="-1"}}for me{{string:Dots}}
+
+---
+label: 053
+attribute: 0x00000000
+---
+{{anim:HappyDance target="actor" targetSpec=""}}Oh, I can't wait!
+
+---
+label: 054
+attribute: 0x00000000
+---
+{{anim:HappyDance target="actor" targetSpec=""}}Ya really saved the day! {{delay20}}Thanks.{{pageBreak}}I'll tuck this away{{delay8}} for now,{{delay8}} so I can give ya that {{color id="1"}}gemstone{{color id="-1"}} I promised.
+
+---
+label: 055
+attribute: 0x05000000
+---
+{{anim:Nodding target="actor" targetSpec=""}}Okay, which {{color id="1"}}gemstone{{color id="-1"}} would'ja like?
+
+---
+label: 055_a
+attribute: 0x00000000
+---
+{{anim:HappyDance target="actor" targetSpec=""}}A {{color id="1"}}ruby{{color id="-1"}}!
+
+---
+label: 055_b
+attribute: 0x00000000
+---
+{{anim:HappyDance target="actor" targetSpec=""}}A {{color id="1"}}sapphire{{color id="-1"}}!
+
+---
+label: 055_c
+attribute: 0x00000000
+---
+{{anim:HappyDance target="actor" targetSpec=""}}An {{color id="1"}}emerald{{color id="-1"}}!
+
+---
+label: 055_d
+attribute: 0x00000000
+---
+{{anim:HappyDance target="actor" targetSpec=""}}An {{color id="1"}}amethyst{{color id="-1"}}!
+
+---
+label: 056
+attribute: 0x00000000
+---
+{{anim:Nodding target="actor" targetSpec=""}}Sure thing, one {{color id="1"}}{{125:4 arg="0x0000"}}{{color id="-1"}}.{{anim:EmotEnd_0 target="player" targetSpec=""}}{{delay20}}
+Here ya go!
+
+---
+label: 057
+attribute: 0x02000000
+---
+{{anim:HappyFlower target="actor" targetSpec=""}}Thanks again for the {{color id="1"}}coffee{{color id="-1"}}!{{10:4}}{{delay8}}
+{{anim:Eh target="actor" targetSpec=""}}Oh, did'ja wanna make a purchase?
+
+---
+label: 057_a
+attribute: 0x02000000
+---
+{{anim:Nodding target="actor" targetSpec=""}}Yes, please!
+
+---
+label: 057_b
+attribute: 0x02000000
+---
+{{anim:Nodding target="actor" targetSpec=""}}I'm good.
+
+---
+label: 058
+attribute: 0x00000000
+---
+{{anim:Nodding target="actor" targetSpec=""}}OK, just checkin'.{{delay20}}
+{{anim:Greeting target="actor" targetSpec=""}}See ya, pal.
+
+
+---
+label: 101
+attribute: 0x02000000
+---
+{{anim:Greeting target="actor" targetSpec=""}}Welcome back.{{delay40}}
+{{anim:QuestionMark target="actor" targetSpec=""}}What didja need?
+
+---
+label: 101_a
+attribute: 0x00000000
+---
+{{anim:Nodding target="actor" targetSpec=""}}Ore, please!
+
+---
+label: 101_b
+attribute: 0x00000000
+---
+{{anim:Negative target="actor" targetSpec=""}}I'm all good.
+
+---
+label: 200
+attribute: 0x06000000
+---
+{{anim:Nodding target="actor" targetSpec=""}}Sure, what did'ja wanna get? 
+
+---
+label: 200_a
+attribute: 0x00000000
+---
+Gemstones!
+
+---
+label: 200_b
+attribute: 0x00000000
+---
+Silver nuggets!
+
+---
+label: 200_c
+attribute: 0x00000000
+---
+Gold nuggets!
+
+---
+label: 200_d
+attribute: 0x00000000
+---
+Nevermind.
+
+---
+label: 200_01
+attribute: 0x06000000
+---
+{{size value="100"}}{{color id="-1"}}{{anim:WrySmile target="actor" targetSpec=""}}Sorry about that.{{delay8}}{{10:4}}{{delay8}}{{anim:QuestionMark target="actor" targetSpec=""}}
+What didja{{string:Dots}} want?
+
+---
+label: 200_01_a
+attribute: 0x00000000
+---
+Gemstones!
+
+---
+label: 200_01_b
+attribute: 0x00000000
+---
+Silver nuggets!
+
+---
+label: 200_01_c
+attribute: 0x00000000
+---
+Gold nuggets!
+
+---
+label: 200_01_d
+attribute: 0x00000000
+---
+Nevermind.
+
+---
+label: 201
+attribute: 0x08000000
+---
+{{anim:Nodding target="actor" targetSpec=""}}We've got {{color id="1"}}rubies{{color id="-1"}}, {{color id="1"}}sapphires{{color id="-1"}}, {{color id="1"}}emeralds{{color id="-1"}}, and {{color id="1"}}amethysts{{color id="-1"}}.
+
+---
+label: 201_a
+attribute: 0x00000000
+---
+I want ruby!
+
+---
+label: 201_b
+attribute: 0x00000000
+---
+I want sapphire!
+
+---
+label: 201_c
+attribute: 0x00000000
+---
+I want emerald!
+
+---
+label: 201_d
+attribute: 0x00000000
+---
+I want amethyst!
+
+---
+label: 201_e
+attribute: 0x00000000
+---
+Nevermind.
+
+---
+label: 201_00
+attribute: 0x08000000
+---
+{{anim:Hot target="actor" targetSpec=""}}We've got {{color id="1"}}rubies{{color id="-1"}}{{string:Dots}}{{color id="1"}}sapphires{{color id="-1"}}{{string:Dots}}{{color id="1"}}emeralds{{color id="-1"}}, and {{color id="1"}}{{delay40}}{{string:Dots}}the purple ones{{color id="-1"}}. {{delay40}}{{size value="75"}}{{color id="4"}}Uuuuff{{string:Dots}}
+
+---
+label: 201_00_a
+attribute: 0x00000000
+---
+I want ruby!
+
+---
+label: 201_00_b
+attribute: 0x00000000
+---
+I want sapphire!
+
+---
+label: 201_00_c
+attribute: 0x00000000
+---
+I want emerald!
+
+---
+label: 201_00_d
+attribute: 0x00000000
+---
+I want amethyst!
+
+---
+label: 201_00_e
+attribute: 0x00000000
+---
+Nevermind.
+
+---
+label: 201_01
+attribute: 0x06000000
+---
+{{anim:Nodding target="actor" targetSpec=""}}Those are {{color id="1"}}{{90:4 arg="0x0000"}} miles{{color id="-1"}} each. {{anim:QuestionMark target="actor" targetSpec=""}}How many would ya like?
+
+---
+label: 201_01_a
+attribute: 0x00000000
+---
+Just one!
+
+---
+label: 201_01_b
+attribute: 0x00000000
+---
+Three, please!
+
+---
+label: 201_01_c
+attribute: 0x00000000
+---
+I want five!
+
+---
+label: 201_01_d
+attribute: 0x00000000
+---
+I'm good, actually.
+
+---
+label: 201_02
+attribute: 0x06000000
+---
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Those are {{string:Dots}}{{color id="1"}}{{90:4 arg="0x0000"}} miles{{color id="-1"}} each. {{anim:QuestionMark target="actor" targetSpec=""}}How many do ya need?
+
+---
+label: 201_02_a
+attribute: 0x00000000
+---
+Just one!
+
+---
+label: 201_02_b
+attribute: 0x00000000
+---
+Three, please!
+
+---
+label: 201_02_c
+attribute: 0x00000000
+---
+I want five!
+
+---
+label: 201_02_d
+attribute: 0x00000000
+---
+I'm good, actually.
+
+---
+label: 202
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Alright,{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} once ya send the miles, I'll hand ya that {{color id="1"}}silver nugget{{color id="-1"}}.{{delay20}}{{anim:Smiling target="actor" targetSpec=""}}
+
+---
+label: 202_01
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Alright,{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} once ya send the miles, I'll hand ya those {{color id="1"}}silver nuggets{{color id="-1"}}.{{delay20}}{{anim:Smiling target="actor" targetSpec=""}}
+
+---
+label: 203
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Alright,{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} once ya send the miles, I'll hand ya that {{color id="1"}}gold nugget{{color id="-1"}}.{{delay20}}{{anim:Smiling target="actor" targetSpec=""}}
+
+---
+label: 203_01
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Alright,{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} once ya send the miles, I'll hand ya those {{color id="1"}}gold nuggets{{color id="-1"}}.{{delay20}}{{anim:Smiling target="actor" targetSpec=""}}
+
+---
+label: 204
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Alright,{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} once ya send the miles, I'll hand ya that {{color id="1"}}ruby{{color id="-1"}}.{{delay20}}{{anim:Smiling target="actor" targetSpec=""}}
+
+---
+label: 204_01
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Alright,{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} once ya send the miles, I'll hand ya those {{color id="1"}}rubies{{color id="-1"}}.{{delay20}}{{anim:Smiling target="actor" targetSpec=""}}
+
+---
+label: 205
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Alright,{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} once ya send the miles, I'll hand ya that {{color id="1"}}sapphire{{color id="-1"}}.{{delay20}}{{anim:Smiling target="actor" targetSpec=""}}
+
+---
+label: 205_01
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Alright,{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} once ya send the miles, I'll hand ya those {{color id="1"}}sapphires{{color id="-1"}}.{{delay20}}{{anim:Smiling target="actor" targetSpec=""}}
+
+---
+label: 206
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Alright,{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} once ya send the miles, I'll hand ya that {{color id="1"}}emerald{{color id="-1"}}.{{delay20}}{{anim:Smiling target="actor" targetSpec=""}}
+
+---
+label: 206_01
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Alright,{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} once ya send the miles, I'll hand ya those {{color id="1"}}emeralds{{color id="-1"}}.{{delay20}}{{anim:Smiling target="actor" targetSpec=""}}
+
+---
+label: 207
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Alright,{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} once ya send the miles, I'll hand ya that {{color id="1"}}amethyst{{color id="-1"}}.{{delay20}}{{anim:Smiling target="actor" targetSpec=""}}
+
+---
+label: 207_01
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Alright,{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} once ya send the miles, I'll hand ya those {{color id="1"}}amethysts{{color id="-1"}}.{{delay20}}{{anim:Smiling target="actor" targetSpec=""}}
+
+---
+label: 210
+attribute: 0x00000000
+---
+{{anim:FaintSmile target="actor" targetSpec=""}}There we go!{{delay8}}
+I s'pose that this is now yours!
+
+---
+label: 210_01
+attribute: 0x00000000
+---
+{{anim:Sighing target="actor" targetSpec=""}}OK{{string:Dots}}{{delay8}}
+I think that did it.
+
+---
+label: 300
+attribute: 0x00000000
+---
+{{anim:Nodding target="actor" targetSpec=""}}Well, {{delay8}}{{anim:Smiling target="actor" targetSpec=""}}thanks for comin' by.
+
+---
+label: 302
+attribute: 0x00000000
+---
+{{anim:Nodding target="actor" targetSpec=""}}Well, {{delay8}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}thanks for comin' by.{{pageBreak}}{{anim:Silent target="actor" targetSpec=""}}{{string:Dots}}Don't forget the coffee.
+
+---
+label: 401
+attribute: 0x00000000
+---
+{{anim:Smiling target="actor" targetSpec=""}}Thanks for the purchase!{{delay8}}
+{{anim:Greeting target="actor" targetSpec=""}}Have a good one.
+
+---
+label: 402
+attribute: 0x00000000
+---
+{{anim:Smiling target="actor" targetSpec=""}}Thanks for purchasin'{{string:Dots}}and all that jazz{{delay40}}
+{{size value="75"}}{{color id="4"}}{{anim:SadSpiral target="actor" targetSpec=""}}Owwwww{{string:Dots}}
+
+---
+label: 601
+attribute: 0x00000000
+---
+{{anim:Eh target="actor" targetSpec=""}}Oh,{{delay8}} looks like you're missing some miles.{{10:4}}{{anim:Greeting target="actor" targetSpec=""}}
+Come back when ya have enough, though!
+
+---
+label: 602
+attribute: 0x00000000
+---
+{{anim:Eh target="actor" targetSpec=""}}You don't have enough m{{delay8}}iles.{{10:4}}{{delay8}}{{anim:Sighing target="actor" targetSpec=""}}
+Try comin' back{{delay8}} when ya do.{{pageBreak}}

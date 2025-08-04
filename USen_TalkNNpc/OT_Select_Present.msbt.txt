@@ -1,0 +1,7 @@
+
+---
+label: 403_01
+attribute: 0x0000000000000000
+---
+{{anim:Blushing target="actor" targetSpec=""}}I'm absolutely flattered, {{string:Catchphrase}}.{{10:4}}
+{{anim:HappyDance target="actor" targetSpec=""}}These are delicious!

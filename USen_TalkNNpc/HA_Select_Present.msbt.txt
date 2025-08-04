@@ -1,0 +1,6 @@
+
+---
+label: 403_01
+attribute: 0x0000000000000000
+---
+{{anim:Frantic target="actor" targetSpec=""}}It's gonna take some discipline not to wolf that down immediately, {{delay8}}{{string:Catchphrase}}{{string:Dots}}

@@ -1,0 +1,6 @@
+
+---
+label: 403_01
+attribute: 0x0000000000000000
+---
+{{string:Catchphrase}}, I'm SOO{{delay8}}O{{delay8}}O{{delay8}}O grateful that you gave me {{wordArticle}}{{125:0 arg="0x0000"}}!

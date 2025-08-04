@@ -1,0 +1,9 @@
+
+---
+label: 403_01
+attribute: 0x0000000000000000
+---
+{{anim:Pardon target="actor" targetSpec=""}}Did you really bring me {{wordArticle}}{{125:0 arg="0x0000"}}?{{delay frames="40"}}{{10:4}}
+{{anim:BigSmile target="actor" targetSpec=""}}THANK YOU!!!{{delay40}}{{pageBreak}}
+{{anim:Frantic target="actor" targetSpec=""}}Ohhh{{delay8}}h{{delay8}}h{{delay8}}h{{delay8}}h{{delay8}} mannn{{string:Dots}}
+I can't wait to eat it!{{pageBreak}}{{anim:Blushing target="actor" targetSpec=""}}{{uppercaseNextWord}}{{string:Catchphrase}}, you're the best, {{string:NickName}}.
