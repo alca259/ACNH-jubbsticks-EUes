@@ -59,6 +59,11 @@ Mail_XXxx.sarc.zs:
             218
             219
             220
+    /SP/slo:
+        MAIL_SP_Mother.msbt:
+            102
+            251_02
+
 ---
 
 String_XXxx.sarc.zs:
@@ -476,7 +481,11 @@ System_XXxx.sarc.zs:
 
 TalkFtr_XXxx.sarc.zs
     FTR_WorkingTable.msbt:
+	    025
+		026
         033
+		033_a
+		033_b
         040
         090
         090_a
