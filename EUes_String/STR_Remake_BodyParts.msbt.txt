@@ -105,31 +105,31 @@ Color
 label: Ftr_04079
 attribute: 
 ---
-Lights
+Luces
 
 ---
 label: Ftr_04082
 attribute: 
 ---
-Lights
+Luces
 
 ---
 label: Ftr_04085
 attribute: 
 ---
-Lights
+Luces
 
 ---
 label: Ftr_04091
 attribute: 
 ---
-Lights
+Luces
 
 ---
 label: Ftr_04095
 attribute: 
 ---
-Illumination
+Iluminación
 
 ---
 label: Net_02051

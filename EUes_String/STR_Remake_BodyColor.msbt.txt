@@ -9,169 +9,169 @@ Natural
 label: Axe_02030_1
 attribute: 
 ---
-Frosty
+Helado
 
 ---
 label: Axe_02030_2
 attribute: 
 ---
-Mesa
+Verde oscuro
 
 ---
 label: Axe_02030_3
 attribute: 
 ---
-Autumn
+Otoñal
 
 ---
 label: Axe_02030_4
 attribute: 
 ---
-Dark
+Oscuro
 
 ---
 label: Axe_02030_5
 attribute: 
 ---
-Jungle
+Jungla
 
 ---
 label: Axe_02030_6
 attribute: 
 ---
-Kiddie
+Pastel
 
 ---
 label: Axe_02030_7
 attribute: 
 ---
-Cherry blossom
+Cerezo
 
 ---
 label: Axe_02055_0
 attribute: 
 ---
-Berry
+Baya
 
 ---
 label: Axe_02055_1
 attribute: 
 ---
-Ash
+Ceniza
 
 ---
 label: Axe_02055_2
 attribute: 
 ---
-Apricot
+Albaricoque
 
 ---
 label: Axe_02055_3
 attribute: 
 ---
-Plum
+Ciruela
 
 ---
 label: Axe_02055_4
 attribute: 
 ---
-Teal
+Verde azulado
 
 ---
 label: Axe_02055_5
 attribute: 
 ---
-Sage
+Verde grisáceo
 
 ---
 label: Axe_02055_6
 attribute: 
 ---
-Redscale
+Escama roja
 
 ---
 label: Axe_02055_7
 attribute: 
 ---
-Pure ruby
+Rubí puro
 
 ---
 label: Axe_02065_0
 attribute: 
 ---
-Cream
+Crema
 
 ---
 label: Axe_02065_1
 attribute: 
 ---
-Yellow
+Amarillo
 
 ---
 label: Axe_02065_2
 attribute: 
 ---
-Rusty
+Oxidado
 
 ---
 label: Axe_02065_3
 attribute: 
 ---
-Minty
+Menta
 
 ---
 label: Axe_02065_4
 attribute: 
 ---
-Cerulean
+Azul claro
 
 ---
 label: Axe_02065_5
 attribute: 
 ---
-Royal
+Real
 
 ---
 label: Axe_02065_6
 attribute: 
 ---
-Bluescale
+Escala azul
 
 ---
 label: Axe_02065_7
 attribute: 
 ---
-Pure sapphire
+Zafiro puro
 
 ---
 label: Axe_02075_0
 attribute: 
 ---
-Sky
+Cielo
 
 ---
 label: Axe_02075_1
 attribute: 
 ---
-Chartreuse
+Monasterio
 
 ---
 label: Axe_02075_2
 attribute: 
 ---
-Navy
+Marina
 
 ---
 label: Axe_02075_3
 attribute: 
 ---
-Petal
+Pétalo
 
 ---
 label: Axe_02075_4
 attribute: 
 ---
-Cherry
+Cereza
 
 ---
 label: Axe_02075_5
@@ -183,139 +183,139 @@ Floral
 label: Axe_02075_6
 attribute: 
 ---
-Greenscale
+Escala verde
 
 ---
 label: Axe_02075_7
 attribute: 
 ---
-Pure emerald
+Esmeralda pura
 
 ---
 label: Axe_02085_0
 attribute: 
 ---
-Teal
+Verde azulado
 
 ---
 label: Axe_02085_1
 attribute: 
 ---
-Blue
+Azul
 
 ---
 label: Axe_02085_2
 attribute: 
 ---
-Rose
+Rosa
 
 ---
 label: Axe_02085_3
 attribute: 
 ---
-Lush
+Verde tropical
 
 ---
 label: Axe_02085_4
 attribute: 
 ---
-Dark
+Oscuro
 
 ---
 label: Axe_02085_5
 attribute: 
 ---
-Gray
+Gris
 
 ---
 label: Axe_02085_6
 attribute: 
 ---
-Purplescale
+Escala violeta
 
 ---
 label: Axe_02085_7
 attribute: 
 ---
-Pure amethyst
+Amatista pura
 
 ---
 label: Axe_02100_0
 attribute: 
 ---
-Red
+Rojo
 
 ---
 label: Axe_02100_1
 attribute: 
 ---
-Yellow
+Amarillo
 
 ---
 label: Axe_02100_2
 attribute: 
 ---
-Green
+Verde
 
 ---
 label: Axe_02100_3
 attribute: 
 ---
-Blue
+Azul
 
 ---
 label: Axe_02100_4
 attribute: 
 ---
-Purple
+Violeta
 
 ---
 label: Axe_02100_5
 attribute: 
 ---
-Pink
+Rosa
 
 ---
 label: Axe_02100_6
 attribute: 
 ---
-White
+Blanco
 
 ---
 label: Axe_02100_7
 attribute: 
 ---
-Black
+Negro
 
 ---
 label: Axe_02514_0
 attribute: 
 ---
-Faithful
+Fiel
 
 ---
 label: Axe_02514_1
 attribute: 
 ---
-Maroon
+Granate
 
 ---
 label: Axe_02514_2
 attribute: 
 ---
-Citrus
+Cítrico
 
 ---
 label: Axe_02514_3
 attribute: 
 ---
-Blue
+Azul
 
 ---
 label: Axe_02514_4
 attribute: 
 ---
-Lavender
+Lavanda
 
 ---
 label: Axe_02514_5
@@ -327,13 +327,13 @@ Coral
 label: Axe_02514_6
 attribute: 
 ---
-Monochrome
+Monocromo
 
 ---
 label: Axe_02514_7
 attribute: 
 ---
-Pure silver
+Plata pura
 
 ---
 label: Axe_03068_0
@@ -345,43 +345,43 @@ Natural
 label: Axe_03068_1
 attribute: 
 ---
-Frosty
+Helado
 
 ---
 label: Axe_03068_2
 attribute: 
 ---
-Mesa
+Verde oscuro
 
 ---
 label: Axe_03068_3
 attribute: 
 ---
-Autumn
+Otoñal
 
 ---
 label: Axe_03068_4
 attribute: 
 ---
-Dark
+Oscuro
 
 ---
 label: Axe_03068_5
 attribute: 
 ---
-Jungle
+Jungla
 
 ---
 label: Axe_03068_6
 attribute: 
 ---
-Kiddie
+Pastel
 
 ---
 label: Axe_03068_7
 attribute: 
 ---
-Cherry blossom
+Cerezo
 
 ---
 label: FishingRod_02026_0
@@ -393,169 +393,169 @@ Natural
 label: FishingRod_02026_1
 attribute: 
 ---
-Frosty
+Helado
 
 ---
 label: FishingRod_02026_2
 attribute: 
 ---
-Mesa
+Verde oscuro
 
 ---
 label: FishingRod_02026_3
 attribute: 
 ---
-Autumn
+Otoñal
 
 ---
 label: FishingRod_02026_4
 attribute: 
 ---
-Dark
+Oscuro
 
 ---
 label: FishingRod_02026_5
 attribute: 
 ---
-Jungle
+Jungla
 
 ---
 label: FishingRod_02026_6
 attribute: 
 ---
-Kiddie
+Pastel
 
 ---
 label: FishingRod_02026_7
 attribute: 
 ---
-Cherry blossom
+Cerezo
 
 ---
 label: FishingRod_02052_0
 attribute: 
 ---
-Berry
+Baya
 
 ---
 label: FishingRod_02052_1
 attribute: 
 ---
-Ash
+Ceniza
 
 ---
 label: FishingRod_02052_2
 attribute: 
 ---
-Apricot
+Albaricoque
 
 ---
 label: FishingRod_02052_3
 attribute: 
 ---
-Plum
+Ciruela
 
 ---
 label: FishingRod_02052_4
 attribute: 
 ---
-Teal
+Verde azulado
 
 ---
 label: FishingRod_02052_5
 attribute: 
 ---
-Sage
+Verde grisáceo
 
 ---
 label: FishingRod_02052_6
 attribute: 
 ---
-Redscale
+Escama roja
 
 ---
 label: FishingRod_02052_7
 attribute: 
 ---
-Pure ruby
+Rubí puro
 
 ---
 label: FishingRod_02062_0
 attribute: 
 ---
-Cream
+Crema
 
 ---
 label: FishingRod_02062_1
 attribute: 
 ---
-Yellow
+Amarillo
 
 ---
 label: FishingRod_02062_2
 attribute: 
 ---
-Rusty
+Oxidado
 
 ---
 label: FishingRod_02062_3
 attribute: 
 ---
-Minty
+Menta
 
 ---
 label: FishingRod_02062_4
 attribute: 
 ---
-Cerulean
+Azul claro
 
 ---
 label: FishingRod_02062_5
 attribute: 
 ---
-Royal
+Real
 
 ---
 label: FishingRod_02062_6
 attribute: 
 ---
-Bluescale
+Escala azul
 
 ---
 label: FishingRod_02062_7
 attribute: 
 ---
-Pure sapphire
+Zafiro puro
 
 ---
 label: FishingRod_02072_0
 attribute: 
 ---
-Sky
+Cielo
 
 ---
 label: FishingRod_02072_1
 attribute: 
 ---
-Chartreuse
+Monasterio
 
 ---
 label: FishingRod_02072_2
 attribute: 
 ---
-Navy
+Marina
 
 ---
 label: FishingRod_02072_3
 attribute: 
 ---
-Petal
+Pétalo
 
 ---
 label: FishingRod_02072_4
 attribute: 
 ---
-Cherry
+Cereza
 
 ---
 label: FishingRod_02072_5
@@ -567,91 +567,91 @@ Floral
 label: FishingRod_02072_6
 attribute: 
 ---
-Greenscale
+Escala verde
 
 ---
 label: FishingRod_02072_7
 attribute: 
 ---
-Pure emerald
+Esmeralda pura
 
 ---
 label: FishingRod_02082_0
 attribute: 
 ---
-Teal
+Verde azulado
 
 ---
 label: FishingRod_02082_1
 attribute: 
 ---
-Blue
+Azul
 
 ---
 label: FishingRod_02082_2
 attribute: 
 ---
-Rose
+Rosa
 
 ---
 label: FishingRod_02082_3
 attribute: 
 ---
-Lush
+Verde tropical
 
 ---
 label: FishingRod_02082_4
 attribute: 
 ---
-Dark
+Oscuro
 
 ---
 label: FishingRod_02082_5
 attribute: 
 ---
-Gray
+Gris
 
 ---
 label: FishingRod_02082_6
 attribute: 
 ---
-Purplescale
+Escala violeta
 
 ---
 label: FishingRod_02082_7
 attribute: 
 ---
-Pure amethyst
+Amatista pura
 
 ---
 label: FishingRod_02518_0
 attribute: 
 ---
-Faithful
+Fiel
 
 ---
 label: FishingRod_02518_1
 attribute: 
 ---
-Maroon
+Granate
 
 ---
 label: FishingRod_02518_2
 attribute: 
 ---
-Citrus
+Cítrico
 
 ---
 label: FishingRod_02518_3
 attribute: 
 ---
-Blue
+Azul
 
 ---
 label: FishingRod_02518_4
 attribute: 
 ---
-Lavender
+Lavanda
 
 ---
 label: FishingRod_02518_5
@@ -663,13 +663,13 @@ Coral
 label: FishingRod_02518_6
 attribute: 
 ---
-Monochrome
+Monocromo
 
 ---
 label: FishingRod_02518_7
 attribute: 
 ---
-Pure silver
+Plata pura
 
 ---
 label: FishingRod_03084_0
@@ -681,205 +681,205 @@ Natural
 label: FishingRod_03084_1
 attribute: 
 ---
-Frosty
+Helado
 
 ---
 label: FishingRod_03084_2
 attribute: 
 ---
-Mesa
+Verde oscuro
 
 ---
 label: FishingRod_03084_3
 attribute: 
 ---
-Autumn
+Otoñal
 
 ---
 label: FishingRod_03084_4
 attribute: 
 ---
-Dark
+Oscuro
 
 ---
 label: FishingRod_03084_5
 attribute: 
 ---
-Jungle
+Jungla
 
 ---
 label: FishingRod_03084_6
 attribute: 
 ---
-Kiddie
+Pastel
 
 ---
 label: FishingRod_03084_7
 attribute: 
 ---
-Cherry blossom
+Cerezo
 
 ---
 label: Ftr_04079_0
 attribute: 
 ---
-Blue
+Azul
 
 ---
 label: Ftr_04079_1
 attribute: 
 ---
-Red & green
+Rojo & verde
 
 ---
 label: Ftr_04079_2
 attribute: 
 ---
-Pink
+Rosa
 
 ---
 label: Ftr_04079_3
 attribute: 
 ---
-Golden
+Dorado
 
 ---
 label: Ftr_04082_0
 attribute: 
 ---
-Pink
+Rosa
 
 ---
 label: Ftr_04082_1
 attribute: 
 ---
-Red & green
+Rojo & verde
 
 ---
 label: Ftr_04082_2
 attribute: 
 ---
-Blue
+Azul
 
 ---
 label: Ftr_04082_3
 attribute: 
 ---
-Golden
+Dorado
 
 ---
 label: Ftr_04085_0
 attribute: 
 ---
-Blue & Pink
+Azul & Rosa
 
 ---
 label: Ftr_04085_1
 attribute: 
 ---
-Red & Green
+Rojo & Verde
 
 ---
 label: Ftr_04085_2
 attribute: 
 ---
-Green & Red
+Verde & Rojo
 
 ---
 label: Ftr_04085_3
 attribute: 
 ---
-Gold & Blue
+Oro & Azul
 
 ---
 label: Ftr_04085_4
 attribute: 
 ---
-Red & Gold
+Rojo & Oro
 
 ---
 label: Ftr_04085_5
 attribute: 
 ---
-Pink
+Rosa
 
 ---
 label: Ftr_04085_6
 attribute: 
 ---
-Blue
+Azul
 
 ---
 label: Ftr_04085_7
 attribute: 
 ---
-Golden
+Dorado
 
 ---
 label: Ftr_04091_0
 attribute: 
 ---
-Golden
+Dorado
 
 ---
 label: Ftr_04091_1
 attribute: 
 ---
-Red & green
+Rojo & verde
 
 ---
 label: Ftr_04091_2
 attribute: 
 ---
-Blue
+Azul
 
 ---
 label: Ftr_04091_3
 attribute: 
 ---
-Pink
+Rosa
 
 ---
 label: Ftr_04095_0
 attribute: 
 ---
-Ice
+Hielo
 
 ---
 label: Ftr_04095_1
 attribute: 
 ---
-Ice blue
+Hielo azul
 
 ---
 label: Ftr_04095_2
 attribute: 
 ---
-Ice pink
+Hielo rosa
 
 ---
 label: Ftr_04095_3
 attribute: 
 ---
-Ice yellow
+Hielo amarillo
 
 ---
 label: Ftr_04095_4
 attribute: 
 ---
-Ice orange
+Hielo naranja
 
 ---
 label: Ftr_04095_5
 attribute: 
 ---
-Ice green
+Hielo verde
 
 ---
 label: Ftr_04095_6
 attribute: 
 ---
-Ice purple
+Hielo violeta
 
 ---
 label: Net_02027_0
@@ -891,169 +891,169 @@ Natural
 label: Net_02027_1
 attribute: 
 ---
-Frosty
+Helado
 
 ---
 label: Net_02027_2
 attribute: 
 ---
-Mesa
+Verde oscuro
 
 ---
 label: Net_02027_3
 attribute: 
 ---
-Autumn
+Otoñal
 
 ---
 label: Net_02027_4
 attribute: 
 ---
-Dark
+Oscuro
 
 ---
 label: Net_02027_5
 attribute: 
 ---
-Jungle
+Jungla
 
 ---
 label: Net_02027_6
 attribute: 
 ---
-Kiddie
+Pastel
 
 ---
 label: Net_02027_7
 attribute: 
 ---
-Cherry blossom
+Cerezo
 
 ---
 label: Net_02051_0
 attribute: 
 ---
-Berry
+Baya
 
 ---
 label: Net_02051_1
 attribute: 
 ---
-Ash
+Ceniza
 
 ---
 label: Net_02051_2
 attribute: 
 ---
-Apricot
+Albaricoque
 
 ---
 label: Net_02051_3
 attribute: 
 ---
-Plum
+Ciruela
 
 ---
 label: Net_02051_4
 attribute: 
 ---
-Teal
+Verde azulado
 
 ---
 label: Net_02051_5
 attribute: 
 ---
-Sage
+Verde grisáceo
 
 ---
 label: Net_02051_6
 attribute: 
 ---
-Redscale
+Escama roja
 
 ---
 label: Net_02051_7
 attribute: 
 ---
-Pure ruby
+Rubí puro
 
 ---
 label: Net_02061_0
 attribute: 
 ---
-Cream
+Crema
 
 ---
 label: Net_02061_1
 attribute: 
 ---
-Yellow
+Amarillo
 
 ---
 label: Net_02061_2
 attribute: 
 ---
-Rusty
+Oxidado
 
 ---
 label: Net_02061_3
 attribute: 
 ---
-Minty
+Menta
 
 ---
 label: Net_02061_4
 attribute: 
 ---
-Cerulean
+Azul claro
 
 ---
 label: Net_02061_5
 attribute: 
 ---
-Royal
+Real
 
 ---
 label: Net_02061_6
 attribute: 
 ---
-Bluescale
+Escala azul
 
 ---
 label: Net_02061_7
 attribute: 
 ---
-Pure sapphire
+Zafiro puro
 
 ---
 label: Net_02071_0
 attribute: 
 ---
-Sky
+Cielo
 
 ---
 label: Net_02071_1
 attribute: 
 ---
-Chartreuse
+Monasterio
 
 ---
 label: Net_02071_2
 attribute: 
 ---
-Navy
+Marina
 
 ---
 label: Net_02071_3
 attribute: 
 ---
-Petal
+Pétalo
 
 ---
 label: Net_02071_4
 attribute: 
 ---
-Cherry
+Cereza
 
 ---
 label: Net_02071_5
@@ -1065,61 +1065,61 @@ Floral
 label: Net_02071_6
 attribute: 
 ---
-Greenscale
+Escala verde
 
 ---
 label: Net_02071_7
 attribute: 
 ---
-Pure emerald
+Esmeralda pura
 
 ---
 label: Net_02081_0
 attribute: 
 ---
-Teal
+Verde azulado
 
 ---
 label: Net_02081_1
 attribute: 
 ---
-Blue
+Azul
 
 ---
 label: Net_02081_2
 attribute: 
 ---
-Rose
+Rosa
 
 ---
 label: Net_02081_3
 attribute: 
 ---
-Lush
+Verde tropical
 
 ---
 label: Net_02081_4
 attribute: 
 ---
-Dark
+Oscuro
 
 ---
 label: Net_02081_5
 attribute: 
 ---
-Gray
+Gris
 
 ---
 label: Net_02081_6
 attribute: 
 ---
-Purplescale
+Escala violeta
 
 ---
 label: Net_02081_7
 attribute: 
 ---
-Pure amethyst
+Amatista pura
 
 ---
 label: Net_02376_0
@@ -1131,73 +1131,73 @@ Natural
 label: Net_02376_1
 attribute: 
 ---
-Frosty
+Helado
 
 ---
 label: Net_02376_2
 attribute: 
 ---
-Mesa
+Verde oscuro
 
 ---
 label: Net_02376_3
 attribute: 
 ---
-Autumn
+Otoñal
 
 ---
 label: Net_02376_4
 attribute: 
 ---
-Dark
+Oscuro
 
 ---
 label: Net_02376_5
 attribute: 
 ---
-Jungle
+Jungla
 
 ---
 label: Net_02376_6
 attribute: 
 ---
-Kiddie
+Pastel
 
 ---
 label: Net_02376_7
 attribute: 
 ---
-Cherry blossom
+Cerezo
 
 ---
 label: Net_02517_0
 attribute: 
 ---
-Faithful
+Fiel
 
 ---
 label: Net_02517_1
 attribute: 
 ---
-Maroon
+Granate
 
 ---
 label: Net_02517_2
 attribute: 
 ---
-Citrus
+Cítrico
 
 ---
 label: Net_02517_3
 attribute: 
 ---
-Blue
+Azul
 
 ---
 label: Net_02517_4
 attribute: 
 ---
-Lavender
+Lavanda
 
 ---
 label: Net_02517_5
@@ -1209,61 +1209,61 @@ Coral
 label: Net_02517_6
 attribute: 
 ---
-Monochrome
+Monocromo
 
 ---
 label: Net_02517_7
 attribute: 
 ---
-Pure silver
+Plata pura
 
 ---
 label: Net_13605_0
 attribute: 
 ---
-Red
+Rojo
 
 ---
 label: Net_13605_1
 attribute: 
 ---
-Yellow
+Amarillo
 
 ---
 label: Net_13605_2
 attribute: 
 ---
-Green
+Verde
 
 ---
 label: Net_13605_3
 attribute: 
 ---
-Blue
+Azul
 
 ---
 label: Net_13605_4
 attribute: 
 ---
-Purple
+Violeta
 
 ---
 label: Net_13605_5
 attribute: 
 ---
-Pink
+Rosa
 
 ---
 label: Net_13605_6
 attribute: 
 ---
-White
+Blanco
 
 ---
 label: Net_13605_7
 attribute: 
 ---
-Black
+Negro
 
 ---
 label: Shovel_02028_0
@@ -1275,169 +1275,169 @@ Natural
 label: Shovel_02028_1
 attribute: 
 ---
-Frosty
+Helado
 
 ---
 label: Shovel_02028_2
 attribute: 
 ---
-Mesa
+Verde oscuro
 
 ---
 label: Shovel_02028_3
 attribute: 
 ---
-Autumn
+Otoñal
 
 ---
 label: Shovel_02028_4
 attribute: 
 ---
-Dark
+Oscuro
 
 ---
 label: Shovel_02028_5
 attribute: 
 ---
-Jungle
+Jungla
 
 ---
 label: Shovel_02028_6
 attribute: 
 ---
-Kiddie
+Pastel
 
 ---
 label: Shovel_02028_7
 attribute: 
 ---
-Cherry blossom
+Cerezo
 
 ---
 label: Shovel_02053_0
 attribute: 
 ---
-Berry
+Baya
 
 ---
 label: Shovel_02053_1
 attribute: 
 ---
-Ash
+Ceniza
 
 ---
 label: Shovel_02053_2
 attribute: 
 ---
-Apricot
+Albaricoque
 
 ---
 label: Shovel_02053_3
 attribute: 
 ---
-Plum
+Ciruela
 
 ---
 label: Shovel_02053_4
 attribute: 
 ---
-Teal
+Verde azulado
 
 ---
 label: Shovel_02053_5
 attribute: 
 ---
-Sage
+Verde grisáceo
 
 ---
 label: Shovel_02053_6
 attribute: 
 ---
-Redscale
+Escama roja
 
 ---
 label: Shovel_02053_7
 attribute: 
 ---
-Pure ruby
+Rubí puro
 
 ---
 label: Shovel_02063_0
 attribute: 
 ---
-Cream
+Crema
 
 ---
 label: Shovel_02063_1
 attribute: 
 ---
-Yellow
+Amarillo
 
 ---
 label: Shovel_02063_2
 attribute: 
 ---
-Rusty
+Oxidado
 
 ---
 label: Shovel_02063_3
 attribute: 
 ---
-Minty
+Menta
 
 ---
 label: Shovel_02063_4
 attribute: 
 ---
-Cerulean
+Azul claro
 
 ---
 label: Shovel_02063_5
 attribute: 
 ---
-Royal
+Real
 
 ---
 label: Shovel_02063_6
 attribute: 
 ---
-Bluescale
+Escala azul
 
 ---
 label: Shovel_02063_7
 attribute: 
 ---
-Pure sapphire
+Zafiro puro
 
 ---
 label: Shovel_02073_0
 attribute: 
 ---
-Sky
+Cielo
 
 ---
 label: Shovel_02073_1
 attribute: 
 ---
-Chartreuse
+Monasterio
 
 ---
 label: Shovel_02073_2
 attribute: 
 ---
-Navy
+Marina
 
 ---
 label: Shovel_02073_3
 attribute: 
 ---
-Petal
+Pétalo
 
 ---
 label: Shovel_02073_4
 attribute: 
 ---
-Cherry
+Cereza
 
 ---
 label: Shovel_02073_5
@@ -1449,91 +1449,91 @@ Floral
 label: Shovel_02073_6
 attribute: 
 ---
-Greenscale
+Escala verde
 
 ---
 label: Shovel_02073_7
 attribute: 
 ---
-Pure emerald
+Esmeralda pura
 
 ---
 label: Shovel_02083_0
 attribute: 
 ---
-Teal
+Verde azulado
 
 ---
 label: Shovel_02083_1
 attribute: 
 ---
-Blue
+Azul
 
 ---
 label: Shovel_02083_2
 attribute: 
 ---
-Rose
+Rosa
 
 ---
 label: Shovel_02083_3
 attribute: 
 ---
-Lush
+Verde tropical
 
 ---
 label: Shovel_02083_4
 attribute: 
 ---
-Dark
+Oscuro
 
 ---
 label: Shovel_02083_5
 attribute: 
 ---
-Gray
+Gris
 
 ---
 label: Shovel_02083_6
 attribute: 
 ---
-Purplescale
+Escala violeta
 
 ---
 label: Shovel_02083_7
 attribute: 
 ---
-Pure amethyst
+Amatista pura
 
 ---
 label: Shovel_02516_0
 attribute: 
 ---
-Faithful
+Fiel
 
 ---
 label: Shovel_02516_1
 attribute: 
 ---
-Maroon
+Granate
 
 ---
 label: Shovel_02516_2
 attribute: 
 ---
-Citrus
+Cítrico
 
 ---
 label: Shovel_02516_3
 attribute: 
 ---
-Blue
+Azul
 
 ---
 label: Shovel_02516_4
 attribute: 
 ---
-Lavender
+Lavanda
 
 ---
 label: Shovel_02516_5
@@ -1545,13 +1545,13 @@ Coral
 label: Shovel_02516_6
 attribute: 
 ---
-Monochrome
+Monocromo
 
 ---
 label: Shovel_02516_7
 attribute: 
 ---
-Pure silver
+Plata pura
 
 ---
 label: Shovel_03082_0
@@ -1563,217 +1563,217 @@ Natural
 label: Shovel_03082_1
 attribute: 
 ---
-Frosty
+Helado
 
 ---
 label: Shovel_03082_2
 attribute: 
 ---
-Mesa
+Verde oscuro
 
 ---
 label: Shovel_03082_3
 attribute: 
 ---
-Autumn
+Otoñal
 
 ---
 label: Shovel_03082_4
 attribute: 
 ---
-Dark
+Oscuro
 
 ---
 label: Shovel_03082_5
 attribute: 
 ---
-Jungle
+Jungla
 
 ---
 label: Shovel_03082_6
 attribute: 
 ---
-Kiddie
+Pastel
 
 ---
 label: Shovel_03082_7
 attribute: 
 ---
-Cherry blossom
+Cerezo
 
 ---
 label: Shovel_13605_0
 attribute: 
 ---
-Red
+Rojo
 
 ---
 label: Shovel_13605_1
 attribute: 
 ---
-Yellow
+Amarillo
 
 ---
 label: Shovel_13605_2
 attribute: 
 ---
-Green
+Verde
 
 ---
 label: Shovel_13605_3
 attribute: 
 ---
-Blue
+Azul
 
 ---
 label: Shovel_13605_4
 attribute: 
 ---
-Purple
+Violeta
 
 ---
 label: Shovel_13605_5
 attribute: 
 ---
-Pink
+Rosa
 
 ---
 label: Shovel_13605_6
 attribute: 
 ---
-White
+Blanco
 
 ---
 label: Shovel_13605_7
 attribute: 
 ---
-Black
+Negro
 
 ---
 label: Slingshot_02056_0
 attribute: 
 ---
-Berry
+Baya
 
 ---
 label: Slingshot_02056_1
 attribute: 
 ---
-Ash
+Ceniza
 
 ---
 label: Slingshot_02056_2
 attribute: 
 ---
-Apricot
+Albaricoque
 
 ---
 label: Slingshot_02056_3
 attribute: 
 ---
-Plum
+Ciruela
 
 ---
 label: Slingshot_02056_4
 attribute: 
 ---
-Teal
+Verde azulado
 
 ---
 label: Slingshot_02056_5
 attribute: 
 ---
-Sage
+Verde grisáceo
 
 ---
 label: Slingshot_02056_6
 attribute: 
 ---
-Redscale
+Escama roja
 
 ---
 label: Slingshot_02056_7
 attribute: 
 ---
-Pure ruby
+Rubí puro
 
 ---
 label: Slingshot_02066_0
 attribute: 
 ---
-Cream
+Crema
 
 ---
 label: Slingshot_02066_1
 attribute: 
 ---
-Yellow
+Amarillo
 
 ---
 label: Slingshot_02066_2
 attribute: 
 ---
-Rusty
+Oxidado
 
 ---
 label: Slingshot_02066_3
 attribute: 
 ---
-Minty
+Menta
 
 ---
 label: Slingshot_02066_4
 attribute: 
 ---
-Cerulean
+Azul claro
 
 ---
 label: Slingshot_02066_5
 attribute: 
 ---
-Royal
+Real
 
 ---
 label: Slingshot_02066_6
 attribute: 
 ---
-Bluescale
+Escala azul
 
 ---
 label: Slingshot_02066_7
 attribute: 
 ---
-Pure sapphire
+Zafiro puro
 
 ---
 label: Slingshot_02076_0
 attribute: 
 ---
-Sky
+Cielo
 
 ---
 label: Slingshot_02076_1
 attribute: 
 ---
-Chartreuse
+Monasterio
 
 ---
 label: Slingshot_02076_2
 attribute: 
 ---
-Navy
+Marina
 
 ---
 label: Slingshot_02076_3
 attribute: 
 ---
-Petal
+Pétalo
 
 ---
 label: Slingshot_02076_4
 attribute: 
 ---
-Cherry
+Cereza
 
 ---
 label: Slingshot_02076_5
@@ -1785,91 +1785,91 @@ Floral
 label: Slingshot_02076_6
 attribute: 
 ---
-Greenscale
+Escala verde
 
 ---
 label: Slingshot_02076_7
 attribute: 
 ---
-Pure emerald
+Esmeralda pura
 
 ---
 label: Slingshot_02086_0
 attribute: 
 ---
-Teal
+Verde azulado
 
 ---
 label: Slingshot_02086_1
 attribute: 
 ---
-Blue
+Azul
 
 ---
 label: Slingshot_02086_2
 attribute: 
 ---
-Rose
+Rosa
 
 ---
 label: Slingshot_02086_3
 attribute: 
 ---
-Lush
+Verde tropical
 
 ---
 label: Slingshot_02086_4
 attribute: 
 ---
-Dark
+Oscuro
 
 ---
 label: Slingshot_02086_5
 attribute: 
 ---
-Gray
+Gris
 
 ---
 label: Slingshot_02086_6
 attribute: 
 ---
-Purplescale
+Escala violeta
 
 ---
 label: Slingshot_02086_7
 attribute: 
 ---
-Pure amethyst
+Amatista pura
 
 ---
 label: Slingshot_02519_0
 attribute: 
 ---
-Faithful
+Fiel
 
 ---
 label: Slingshot_02519_1
 attribute: 
 ---
-Maroon
+Granate
 
 ---
 label: Slingshot_02519_2
 attribute: 
 ---
-Citrus
+Cítrico
 
 ---
 label: Slingshot_02519_3
 attribute: 
 ---
-Blue
+Azul
 
 ---
 label: Slingshot_02519_4
 attribute: 
 ---
-Lavender
+Lavanda
 
 ---
 label: Slingshot_02519_5
@@ -1881,13 +1881,13 @@ Coral
 label: Slingshot_02519_6
 attribute: 
 ---
-Monochrome
+Monocromo
 
 ---
 label: Slingshot_02519_7
 attribute: 
 ---
-Pure silver
+Plata pura
 
 ---
 label: Watering_02029_0
@@ -1899,169 +1899,169 @@ Natural
 label: Watering_02029_1
 attribute: 
 ---
-Frosty
+Helado
 
 ---
 label: Watering_02029_2
 attribute: 
 ---
-Mesa
+Verde oscuro
 
 ---
 label: Watering_02029_3
 attribute: 
 ---
-Autumn
+Otoñal
 
 ---
 label: Watering_02029_4
 attribute: 
 ---
-Dark
+Oscuro
 
 ---
 label: Watering_02029_5
 attribute: 
 ---
-Jungle
+Jungla
 
 ---
 label: Watering_02029_6
 attribute: 
 ---
-Kiddie
+Pastel
 
 ---
 label: Watering_02029_7
 attribute: 
 ---
-Cherry blossom
+Cerezo
 
 ---
 label: Watering_02054_0
 attribute: 
 ---
-Berry
+Baya
 
 ---
 label: Watering_02054_1
 attribute: 
 ---
-Ash
+Ceniza
 
 ---
 label: Watering_02054_2
 attribute: 
 ---
-Apricot
+Albaricoque
 
 ---
 label: Watering_02054_3
 attribute: 
 ---
-Plum
+Ciruela
 
 ---
 label: Watering_02054_4
 attribute: 
 ---
-Teal
+Verde azulado
 
 ---
 label: Watering_02054_5
 attribute: 
 ---
-Sage
+Verde grisáceo
 
 ---
 label: Watering_02054_6
 attribute: 
 ---
-Redscale
+Escama roja
 
 ---
 label: Watering_02054_7
 attribute: 
 ---
-Pure ruby
+Rubí puro
 
 ---
 label: Watering_02064_0
 attribute: 
 ---
-Cream
+Crema
 
 ---
 label: Watering_02064_1
 attribute: 
 ---
-Yellow
+Amarillo
 
 ---
 label: Watering_02064_2
 attribute: 
 ---
-Rusty
+Oxidado
 
 ---
 label: Watering_02064_3
 attribute: 
 ---
-Minty
+Menta
 
 ---
 label: Watering_02064_4
 attribute: 
 ---
-Cerulean
+Azul claro
 
 ---
 label: Watering_02064_5
 attribute: 
 ---
-Royal
+Real
 
 ---
 label: Watering_02064_6
 attribute: 
 ---
-Bluescale
+Escala azul
 
 ---
 label: Watering_02064_7
 attribute: 
 ---
-Pure sapphire
+Zafiro puro
 
 ---
 label: Watering_02074_0
 attribute: 
 ---
-Sky
+Cielo
 
 ---
 label: Watering_02074_1
 attribute: 
 ---
-Chartreuse
+Monasterio
 
 ---
 label: Watering_02074_2
 attribute: 
 ---
-Navy
+Marina
 
 ---
 label: Watering_02074_3
 attribute: 
 ---
-Petal
+Pétalo
 
 ---
 label: Watering_02074_4
 attribute: 
 ---
-Cherry
+Cereza
 
 ---
 label: Watering_02074_5
@@ -2073,91 +2073,91 @@ Floral
 label: Watering_02074_6
 attribute: 
 ---
-Greenscale
+Escala verde
 
 ---
 label: Watering_02074_7
 attribute: 
 ---
-Pure emerald
+Esmeralda pura
 
 ---
 label: Watering_02084_0
 attribute: 
 ---
-Teal
+Verde azulado
 
 ---
 label: Watering_02084_1
 attribute: 
 ---
-Blue
+Azul
 
 ---
 label: Watering_02084_2
 attribute: 
 ---
-Rose
+Rosa
 
 ---
 label: Watering_02084_3
 attribute: 
 ---
-Lush
+Verde tropical
 
 ---
 label: Watering_02084_4
 attribute: 
 ---
-Dark
+Oscuro
 
 ---
 label: Watering_02084_5
 attribute: 
 ---
-Gray
+Gris
 
 ---
 label: Watering_02084_6
 attribute: 
 ---
-Purplescale
+Escala violeta
 
 ---
 label: Watering_02084_7
 attribute: 
 ---
-Pure amethyst
+Amatista pura
 
 ---
 label: Watering_02515_0
 attribute: 
 ---
-Faithful
+Fiel
 
 ---
 label: Watering_02515_1
 attribute: 
 ---
-Maroon
+Granate
 
 ---
 label: Watering_02515_2
 attribute: 
 ---
-Citrus
+Cítrico
 
 ---
 label: Watering_02515_3
 attribute: 
 ---
-Blue
+Azul
 
 ---
 label: Watering_02515_4
 attribute: 
 ---
-Lavender
+Lavanda
 
 ---
 label: Watering_02515_5
@@ -2169,13 +2169,13 @@ Coral
 label: Watering_02515_6
 attribute: 
 ---
-Monochrome
+Monocromo
 
 ---
 label: Watering_02515_7
 attribute: 
 ---
-Pure silver
+Plata pura
 
 ---
 label: Watering_03083_0
@@ -2187,41 +2187,41 @@ Natural
 label: Watering_03083_1
 attribute: 
 ---
-Frosty
+Helado
 
 ---
 label: Watering_03083_2
 attribute: 
 ---
-Mesa
+Verde oscuro
 
 ---
 label: Watering_03083_3
 attribute: 
 ---
-Autumn
+Otoñal
 
 ---
 label: Watering_03083_4
 attribute: 
 ---
-Dark
+Oscuro
 
 ---
 label: Watering_03083_5
 attribute: 
 ---
-Jungle
+Jungla
 
 ---
 label: Watering_03083_6
 attribute: 
 ---
-Kiddie
+Pastel
 
 ---
 label: Watering_03083_7
 attribute: 
 ---
-Cherry blossom
+Cerezo
 
