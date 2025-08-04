@@ -1,0 +1,61 @@
+
+---
+label: Ore_02506
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}silver nugget
+
+---
+label: Ore_02506_pl
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}silver nuggets
+
+---
+label: Ore_02507
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}ruby
+
+---
+label: Ore_02508
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sapphire
+
+---
+label: Ore_02509
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}emerald
+
+---
+label: Ore_02510
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}amethyst
+
+---
+label: Ore_02510_pl
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}amethysts
+
+---
+label: Ore_02509_pl
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}emeralds
+
+---
+label: Ore_02508_pl
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}sapphires
+
+---
+label: Ore_02507_pl
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}rubies
+

@@ -1,0 +1,212 @@
+
+---
+label: Axe_02030
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy axe
+
+---
+label: Watering_02029
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy watering can
+
+---
+label: FishingRod_02026
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy fishing rod
+
+---
+label: Net_02027
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy net
+
+---
+label: Shovel_02028
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy shovel
+
+---
+label: Axe_02514
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}silver axe
+
+---
+label: FishingRod_02518
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}silver rod
+
+---
+label: Net_02517
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}silver net
+
+---
+label: Shovel_02516
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}silver shovel
+
+---
+label: Slingshot_02519
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}silver slingshot
+
+---
+label: Watering_02515
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}silver watering can
+
+---
+label: Axe_02055
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}ruby axe
+
+---
+label: FishingRod_02052
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}ruby rod
+
+---
+label: Net_02051
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}ruby net
+
+---
+label: Shovel_02053
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}ruby shovel
+
+---
+label: Watering_02054
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}ruby watering can
+
+---
+label: Slingshot_02056
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}ruby slingshot
+
+---
+label: Axe_02065
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sapphire axe
+
+---
+label: Axe_02075
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}emerald axe
+
+---
+label: Axe_02085
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}amethyst axe
+
+---
+label: FishingRod_02062
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sapphire rod
+
+---
+label: Net_02061
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sapphire net
+
+---
+label: Shovel_02063
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sapphire shovel
+
+---
+label: Watering_02064
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sapphire watering can
+
+---
+label: Slingshot_02066
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sapphire slingshot
+
+---
+label: Slingshot_02076
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}emerald slingshot
+
+---
+label: Watering_02074
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}emerald watering can
+
+---
+label: Shovel_02073
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}emerald shovel
+
+---
+label: FishingRod_02072
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}emerald rod
+
+---
+label: Net_02071
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}emerald net
+
+---
+label: Watering_02084
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}amethyst watering can
+
+---
+label: Shovel_02083
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}amethyst shovel
+
+---
+label: Net_02081
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}amethyst net
+
+---
+label: FishingRod_02082
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}amethyst rod
+
+---
+label: Slingshot_02086
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}amethyst slingshot
+
+

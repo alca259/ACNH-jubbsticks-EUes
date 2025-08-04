@@ -1,0 +1,18 @@
+
+---
+label: ShellFish_02567_pl
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}manila clams
+
+---
+label: ShellDrift_02567_pl
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}manila clams
+
+---
+label: ShellDrift_02567
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}manila clam

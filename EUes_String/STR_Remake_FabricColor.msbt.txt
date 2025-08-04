@@ -1,0 +1,169 @@
+
+---
+label: Ftr_04079_0
+attribute: 
+---
+Silver
+
+---
+label: Ftr_04079_1
+attribute: 
+---
+Black
+
+---
+label: Ftr_04079_2
+attribute: 
+---
+White
+
+---
+label: Ftr_04079_3
+attribute: 
+---
+Blue
+
+---
+label: Ftr_04079_4
+attribute: 
+---
+Navy
+
+---
+label: Ftr_04079_5
+attribute: 
+---
+Red
+
+---
+label: Ftr_04079_6
+attribute: 
+---
+Golden
+
+---
+label: Ftr_04082_0
+attribute: 
+---
+Silver
+
+---
+label: Ftr_04082_1
+attribute: 
+---
+Black
+
+---
+label: Ftr_04082_2
+attribute: 
+---
+White
+
+---
+label: Ftr_04082_3
+attribute: 
+---
+Blue
+
+---
+label: Ftr_04082_4
+attribute: 
+---
+Navy
+
+---
+label: Ftr_04082_5
+attribute: 
+---
+Red
+
+---
+label: Ftr_04082_6
+attribute: 
+---
+Golden
+
+---
+label: Ftr_04085_0
+attribute: 
+---
+Silver
+
+---
+label: Ftr_04085_1
+attribute: 
+---
+Black
+
+---
+label: Ftr_04085_2
+attribute: 
+---
+White
+
+---
+label: Ftr_04085_3
+attribute: 
+---
+Blue
+
+---
+label: Ftr_04085_4
+attribute: 
+---
+Navy
+
+---
+label: Ftr_04085_5
+attribute: 
+---
+Red
+
+---
+label: Ftr_04085_6
+attribute: 
+---
+Golden
+
+---
+label: Ftr_04091_0
+attribute: 
+---
+Silver
+
+---
+label: Ftr_04091_1
+attribute: 
+---
+Black
+
+---
+label: Ftr_04091_2
+attribute: 
+---
+White
+
+---
+label: Ftr_04091_3
+attribute: 
+---
+Blue
+
+---
+label: Ftr_04091_4
+attribute: 
+---
+Navy
+
+---
+label: Ftr_04091_5
+attribute: 
+---
+Red
+
+---
+label: Ftr_04091_6
+attribute: 
+---
+Golden
+

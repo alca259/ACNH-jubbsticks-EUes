@@ -1,0 +1,210 @@
+
+---
+label: Axe_02030
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}hacha robusta
+
+---
+label: Watering_02029
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}regadera robusta
+
+---
+label: FishingRod_02026
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}caña de pescar robusta
+
+---
+label: Net_02027
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}red robusta
+
+---
+label: Shovel_02028
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}pala robusta
+
+---
+label: Axe_02514
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}hacha de plata
+
+---
+label: FishingRod_02518
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}caña de pescar de plata
+
+---
+label: Net_02517
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}red de plata
+
+---
+label: Shovel_02516
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}pala de plata
+
+---
+label: Slingshot_02519
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}tirachinas de plata
+
+---
+label: Watering_02515
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}regadera de plata
+
+---
+label: Axe_02055
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}hacha de rubí
+
+---
+label: FishingRod_02052
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}caña de pescar de rubí
+
+---
+label: Net_02051
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}red de rubí
+
+---
+label: Shovel_02053
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}pala de rubí
+
+---
+label: Watering_02054
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}regadera de rubí
+
+---
+label: Slingshot_02056
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}tirachinas de rubí
+
+---
+label: Axe_02065
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}hacha de zafiro
+
+---
+label: Axe_02075
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}hacha de esmeralda
+
+---
+label: Axe_02085
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}hacha de amatista
+
+---
+label: FishingRod_02062
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}caña de pescar de zafiro
+
+---
+label: Net_02061
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}red de zafiro
+
+---
+label: Shovel_02063
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}pala de zafiro
+
+---
+label: Watering_02064
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}regadera de zafiro
+
+---
+label: Slingshot_02066
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}tirachinas de zafiro
+
+---
+label: Slingshot_02076
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}tirachinas de esmeralda
+
+---
+label: Watering_02074
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}regadera de esmeralda
+
+---
+label: Shovel_02073
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}pala de esmeralda
+
+---
+label: FishingRod_02072
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}caña de pescar de esmeralda
+
+---
+label: Net_02071
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}red de esmeralda
+
+---
+label: Watering_02084
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}regadera de amatista
+
+---
+label: Shovel_02083
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}pala de amatista
+
+---
+label: Net_02081
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}red de amatista
+
+---
+label: FishingRod_02082
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}caña de pescar de amatista
+
+---
+label: Slingshot_02086
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}tirachinas de amatista

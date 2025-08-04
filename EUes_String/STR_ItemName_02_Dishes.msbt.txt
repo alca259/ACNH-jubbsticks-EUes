@@ -1,0 +1,84 @@
+
+---
+label: Drink_01930
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}zumo de manzana perfecta
+
+---
+label: Drink_01931
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}zumo de naranja perfecta
+
+---
+label: Drink_01932
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}zumo de pera perfecta
+
+---
+label: Drink_01933
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}limonada
+
+---
+label: Drink_01934
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}zumo de melocotón perfecto
+
+---
+label: Drink_01936
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}zumo de cereza perfecta
+
+---
+label: Dishes_01935
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}buñuelo de manzana perfecto
+
+---
+label: Drink_01939
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}zumo de caqui
+
+---
+label: Drink_01940
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}zumo de banana
+
+---
+label: Drink_01941
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}zumo de durián
+
+---
+label: Drink_01942
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}zumo de mango
+
+---
+label: Drink_01943
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}zumo de lichi
+
+---
+label: Dishes_01937
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}chuchería de manzana
+
+---
+label: Dishes_01938
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}manzana caramelizada

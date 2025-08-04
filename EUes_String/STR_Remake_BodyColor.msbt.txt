@@ -1,0 +1,2227 @@
+
+---
+label: Axe_02030_0
+attribute: 
+---
+Natural
+
+---
+label: Axe_02030_1
+attribute: 
+---
+Frosty
+
+---
+label: Axe_02030_2
+attribute: 
+---
+Mesa
+
+---
+label: Axe_02030_3
+attribute: 
+---
+Autumn
+
+---
+label: Axe_02030_4
+attribute: 
+---
+Dark
+
+---
+label: Axe_02030_5
+attribute: 
+---
+Jungle
+
+---
+label: Axe_02030_6
+attribute: 
+---
+Kiddie
+
+---
+label: Axe_02030_7
+attribute: 
+---
+Cherry blossom
+
+---
+label: Axe_02055_0
+attribute: 
+---
+Berry
+
+---
+label: Axe_02055_1
+attribute: 
+---
+Ash
+
+---
+label: Axe_02055_2
+attribute: 
+---
+Apricot
+
+---
+label: Axe_02055_3
+attribute: 
+---
+Plum
+
+---
+label: Axe_02055_4
+attribute: 
+---
+Teal
+
+---
+label: Axe_02055_5
+attribute: 
+---
+Sage
+
+---
+label: Axe_02055_6
+attribute: 
+---
+Redscale
+
+---
+label: Axe_02055_7
+attribute: 
+---
+Pure ruby
+
+---
+label: Axe_02065_0
+attribute: 
+---
+Cream
+
+---
+label: Axe_02065_1
+attribute: 
+---
+Yellow
+
+---
+label: Axe_02065_2
+attribute: 
+---
+Rusty
+
+---
+label: Axe_02065_3
+attribute: 
+---
+Minty
+
+---
+label: Axe_02065_4
+attribute: 
+---
+Cerulean
+
+---
+label: Axe_02065_5
+attribute: 
+---
+Royal
+
+---
+label: Axe_02065_6
+attribute: 
+---
+Bluescale
+
+---
+label: Axe_02065_7
+attribute: 
+---
+Pure sapphire
+
+---
+label: Axe_02075_0
+attribute: 
+---
+Sky
+
+---
+label: Axe_02075_1
+attribute: 
+---
+Chartreuse
+
+---
+label: Axe_02075_2
+attribute: 
+---
+Navy
+
+---
+label: Axe_02075_3
+attribute: 
+---
+Petal
+
+---
+label: Axe_02075_4
+attribute: 
+---
+Cherry
+
+---
+label: Axe_02075_5
+attribute: 
+---
+Floral
+
+---
+label: Axe_02075_6
+attribute: 
+---
+Greenscale
+
+---
+label: Axe_02075_7
+attribute: 
+---
+Pure emerald
+
+---
+label: Axe_02085_0
+attribute: 
+---
+Teal
+
+---
+label: Axe_02085_1
+attribute: 
+---
+Blue
+
+---
+label: Axe_02085_2
+attribute: 
+---
+Rose
+
+---
+label: Axe_02085_3
+attribute: 
+---
+Lush
+
+---
+label: Axe_02085_4
+attribute: 
+---
+Dark
+
+---
+label: Axe_02085_5
+attribute: 
+---
+Gray
+
+---
+label: Axe_02085_6
+attribute: 
+---
+Purplescale
+
+---
+label: Axe_02085_7
+attribute: 
+---
+Pure amethyst
+
+---
+label: Axe_02100_0
+attribute: 
+---
+Red
+
+---
+label: Axe_02100_1
+attribute: 
+---
+Yellow
+
+---
+label: Axe_02100_2
+attribute: 
+---
+Green
+
+---
+label: Axe_02100_3
+attribute: 
+---
+Blue
+
+---
+label: Axe_02100_4
+attribute: 
+---
+Purple
+
+---
+label: Axe_02100_5
+attribute: 
+---
+Pink
+
+---
+label: Axe_02100_6
+attribute: 
+---
+White
+
+---
+label: Axe_02100_7
+attribute: 
+---
+Black
+
+---
+label: Axe_02514_0
+attribute: 
+---
+Faithful
+
+---
+label: Axe_02514_1
+attribute: 
+---
+Maroon
+
+---
+label: Axe_02514_2
+attribute: 
+---
+Citrus
+
+---
+label: Axe_02514_3
+attribute: 
+---
+Blue
+
+---
+label: Axe_02514_4
+attribute: 
+---
+Lavender
+
+---
+label: Axe_02514_5
+attribute: 
+---
+Coral
+
+---
+label: Axe_02514_6
+attribute: 
+---
+Monochrome
+
+---
+label: Axe_02514_7
+attribute: 
+---
+Pure silver
+
+---
+label: Axe_03068_0
+attribute: 
+---
+Natural
+
+---
+label: Axe_03068_1
+attribute: 
+---
+Frosty
+
+---
+label: Axe_03068_2
+attribute: 
+---
+Mesa
+
+---
+label: Axe_03068_3
+attribute: 
+---
+Autumn
+
+---
+label: Axe_03068_4
+attribute: 
+---
+Dark
+
+---
+label: Axe_03068_5
+attribute: 
+---
+Jungle
+
+---
+label: Axe_03068_6
+attribute: 
+---
+Kiddie
+
+---
+label: Axe_03068_7
+attribute: 
+---
+Cherry blossom
+
+---
+label: FishingRod_02026_0
+attribute: 
+---
+Natural
+
+---
+label: FishingRod_02026_1
+attribute: 
+---
+Frosty
+
+---
+label: FishingRod_02026_2
+attribute: 
+---
+Mesa
+
+---
+label: FishingRod_02026_3
+attribute: 
+---
+Autumn
+
+---
+label: FishingRod_02026_4
+attribute: 
+---
+Dark
+
+---
+label: FishingRod_02026_5
+attribute: 
+---
+Jungle
+
+---
+label: FishingRod_02026_6
+attribute: 
+---
+Kiddie
+
+---
+label: FishingRod_02026_7
+attribute: 
+---
+Cherry blossom
+
+---
+label: FishingRod_02052_0
+attribute: 
+---
+Berry
+
+---
+label: FishingRod_02052_1
+attribute: 
+---
+Ash
+
+---
+label: FishingRod_02052_2
+attribute: 
+---
+Apricot
+
+---
+label: FishingRod_02052_3
+attribute: 
+---
+Plum
+
+---
+label: FishingRod_02052_4
+attribute: 
+---
+Teal
+
+---
+label: FishingRod_02052_5
+attribute: 
+---
+Sage
+
+---
+label: FishingRod_02052_6
+attribute: 
+---
+Redscale
+
+---
+label: FishingRod_02052_7
+attribute: 
+---
+Pure ruby
+
+---
+label: FishingRod_02062_0
+attribute: 
+---
+Cream
+
+---
+label: FishingRod_02062_1
+attribute: 
+---
+Yellow
+
+---
+label: FishingRod_02062_2
+attribute: 
+---
+Rusty
+
+---
+label: FishingRod_02062_3
+attribute: 
+---
+Minty
+
+---
+label: FishingRod_02062_4
+attribute: 
+---
+Cerulean
+
+---
+label: FishingRod_02062_5
+attribute: 
+---
+Royal
+
+---
+label: FishingRod_02062_6
+attribute: 
+---
+Bluescale
+
+---
+label: FishingRod_02062_7
+attribute: 
+---
+Pure sapphire
+
+---
+label: FishingRod_02072_0
+attribute: 
+---
+Sky
+
+---
+label: FishingRod_02072_1
+attribute: 
+---
+Chartreuse
+
+---
+label: FishingRod_02072_2
+attribute: 
+---
+Navy
+
+---
+label: FishingRod_02072_3
+attribute: 
+---
+Petal
+
+---
+label: FishingRod_02072_4
+attribute: 
+---
+Cherry
+
+---
+label: FishingRod_02072_5
+attribute: 
+---
+Floral
+
+---
+label: FishingRod_02072_6
+attribute: 
+---
+Greenscale
+
+---
+label: FishingRod_02072_7
+attribute: 
+---
+Pure emerald
+
+---
+label: FishingRod_02082_0
+attribute: 
+---
+Teal
+
+---
+label: FishingRod_02082_1
+attribute: 
+---
+Blue
+
+---
+label: FishingRod_02082_2
+attribute: 
+---
+Rose
+
+---
+label: FishingRod_02082_3
+attribute: 
+---
+Lush
+
+---
+label: FishingRod_02082_4
+attribute: 
+---
+Dark
+
+---
+label: FishingRod_02082_5
+attribute: 
+---
+Gray
+
+---
+label: FishingRod_02082_6
+attribute: 
+---
+Purplescale
+
+---
+label: FishingRod_02082_7
+attribute: 
+---
+Pure amethyst
+
+---
+label: FishingRod_02518_0
+attribute: 
+---
+Faithful
+
+---
+label: FishingRod_02518_1
+attribute: 
+---
+Maroon
+
+---
+label: FishingRod_02518_2
+attribute: 
+---
+Citrus
+
+---
+label: FishingRod_02518_3
+attribute: 
+---
+Blue
+
+---
+label: FishingRod_02518_4
+attribute: 
+---
+Lavender
+
+---
+label: FishingRod_02518_5
+attribute: 
+---
+Coral
+
+---
+label: FishingRod_02518_6
+attribute: 
+---
+Monochrome
+
+---
+label: FishingRod_02518_7
+attribute: 
+---
+Pure silver
+
+---
+label: FishingRod_03084_0
+attribute: 
+---
+Natural
+
+---
+label: FishingRod_03084_1
+attribute: 
+---
+Frosty
+
+---
+label: FishingRod_03084_2
+attribute: 
+---
+Mesa
+
+---
+label: FishingRod_03084_3
+attribute: 
+---
+Autumn
+
+---
+label: FishingRod_03084_4
+attribute: 
+---
+Dark
+
+---
+label: FishingRod_03084_5
+attribute: 
+---
+Jungle
+
+---
+label: FishingRod_03084_6
+attribute: 
+---
+Kiddie
+
+---
+label: FishingRod_03084_7
+attribute: 
+---
+Cherry blossom
+
+---
+label: Ftr_04079_0
+attribute: 
+---
+Blue
+
+---
+label: Ftr_04079_1
+attribute: 
+---
+Red & green
+
+---
+label: Ftr_04079_2
+attribute: 
+---
+Pink
+
+---
+label: Ftr_04079_3
+attribute: 
+---
+Golden
+
+---
+label: Ftr_04082_0
+attribute: 
+---
+Pink
+
+---
+label: Ftr_04082_1
+attribute: 
+---
+Red & green
+
+---
+label: Ftr_04082_2
+attribute: 
+---
+Blue
+
+---
+label: Ftr_04082_3
+attribute: 
+---
+Golden
+
+---
+label: Ftr_04085_0
+attribute: 
+---
+Blue & Pink
+
+---
+label: Ftr_04085_1
+attribute: 
+---
+Red & Green
+
+---
+label: Ftr_04085_2
+attribute: 
+---
+Green & Red
+
+---
+label: Ftr_04085_3
+attribute: 
+---
+Gold & Blue
+
+---
+label: Ftr_04085_4
+attribute: 
+---
+Red & Gold
+
+---
+label: Ftr_04085_5
+attribute: 
+---
+Pink
+
+---
+label: Ftr_04085_6
+attribute: 
+---
+Blue
+
+---
+label: Ftr_04085_7
+attribute: 
+---
+Golden
+
+---
+label: Ftr_04091_0
+attribute: 
+---
+Golden
+
+---
+label: Ftr_04091_1
+attribute: 
+---
+Red & green
+
+---
+label: Ftr_04091_2
+attribute: 
+---
+Blue
+
+---
+label: Ftr_04091_3
+attribute: 
+---
+Pink
+
+---
+label: Ftr_04095_0
+attribute: 
+---
+Ice
+
+---
+label: Ftr_04095_1
+attribute: 
+---
+Ice blue
+
+---
+label: Ftr_04095_2
+attribute: 
+---
+Ice pink
+
+---
+label: Ftr_04095_3
+attribute: 
+---
+Ice yellow
+
+---
+label: Ftr_04095_4
+attribute: 
+---
+Ice orange
+
+---
+label: Ftr_04095_5
+attribute: 
+---
+Ice green
+
+---
+label: Ftr_04095_6
+attribute: 
+---
+Ice purple
+
+---
+label: Net_02027_0
+attribute: 
+---
+Natural
+
+---
+label: Net_02027_1
+attribute: 
+---
+Frosty
+
+---
+label: Net_02027_2
+attribute: 
+---
+Mesa
+
+---
+label: Net_02027_3
+attribute: 
+---
+Autumn
+
+---
+label: Net_02027_4
+attribute: 
+---
+Dark
+
+---
+label: Net_02027_5
+attribute: 
+---
+Jungle
+
+---
+label: Net_02027_6
+attribute: 
+---
+Kiddie
+
+---
+label: Net_02027_7
+attribute: 
+---
+Cherry blossom
+
+---
+label: Net_02051_0
+attribute: 
+---
+Berry
+
+---
+label: Net_02051_1
+attribute: 
+---
+Ash
+
+---
+label: Net_02051_2
+attribute: 
+---
+Apricot
+
+---
+label: Net_02051_3
+attribute: 
+---
+Plum
+
+---
+label: Net_02051_4
+attribute: 
+---
+Teal
+
+---
+label: Net_02051_5
+attribute: 
+---
+Sage
+
+---
+label: Net_02051_6
+attribute: 
+---
+Redscale
+
+---
+label: Net_02051_7
+attribute: 
+---
+Pure ruby
+
+---
+label: Net_02061_0
+attribute: 
+---
+Cream
+
+---
+label: Net_02061_1
+attribute: 
+---
+Yellow
+
+---
+label: Net_02061_2
+attribute: 
+---
+Rusty
+
+---
+label: Net_02061_3
+attribute: 
+---
+Minty
+
+---
+label: Net_02061_4
+attribute: 
+---
+Cerulean
+
+---
+label: Net_02061_5
+attribute: 
+---
+Royal
+
+---
+label: Net_02061_6
+attribute: 
+---
+Bluescale
+
+---
+label: Net_02061_7
+attribute: 
+---
+Pure sapphire
+
+---
+label: Net_02071_0
+attribute: 
+---
+Sky
+
+---
+label: Net_02071_1
+attribute: 
+---
+Chartreuse
+
+---
+label: Net_02071_2
+attribute: 
+---
+Navy
+
+---
+label: Net_02071_3
+attribute: 
+---
+Petal
+
+---
+label: Net_02071_4
+attribute: 
+---
+Cherry
+
+---
+label: Net_02071_5
+attribute: 
+---
+Floral
+
+---
+label: Net_02071_6
+attribute: 
+---
+Greenscale
+
+---
+label: Net_02071_7
+attribute: 
+---
+Pure emerald
+
+---
+label: Net_02081_0
+attribute: 
+---
+Teal
+
+---
+label: Net_02081_1
+attribute: 
+---
+Blue
+
+---
+label: Net_02081_2
+attribute: 
+---
+Rose
+
+---
+label: Net_02081_3
+attribute: 
+---
+Lush
+
+---
+label: Net_02081_4
+attribute: 
+---
+Dark
+
+---
+label: Net_02081_5
+attribute: 
+---
+Gray
+
+---
+label: Net_02081_6
+attribute: 
+---
+Purplescale
+
+---
+label: Net_02081_7
+attribute: 
+---
+Pure amethyst
+
+---
+label: Net_02376_0
+attribute: 
+---
+Natural
+
+---
+label: Net_02376_1
+attribute: 
+---
+Frosty
+
+---
+label: Net_02376_2
+attribute: 
+---
+Mesa
+
+---
+label: Net_02376_3
+attribute: 
+---
+Autumn
+
+---
+label: Net_02376_4
+attribute: 
+---
+Dark
+
+---
+label: Net_02376_5
+attribute: 
+---
+Jungle
+
+---
+label: Net_02376_6
+attribute: 
+---
+Kiddie
+
+---
+label: Net_02376_7
+attribute: 
+---
+Cherry blossom
+
+---
+label: Net_02517_0
+attribute: 
+---
+Faithful
+
+---
+label: Net_02517_1
+attribute: 
+---
+Maroon
+
+---
+label: Net_02517_2
+attribute: 
+---
+Citrus
+
+---
+label: Net_02517_3
+attribute: 
+---
+Blue
+
+---
+label: Net_02517_4
+attribute: 
+---
+Lavender
+
+---
+label: Net_02517_5
+attribute: 
+---
+Coral
+
+---
+label: Net_02517_6
+attribute: 
+---
+Monochrome
+
+---
+label: Net_02517_7
+attribute: 
+---
+Pure silver
+
+---
+label: Net_13605_0
+attribute: 
+---
+Red
+
+---
+label: Net_13605_1
+attribute: 
+---
+Yellow
+
+---
+label: Net_13605_2
+attribute: 
+---
+Green
+
+---
+label: Net_13605_3
+attribute: 
+---
+Blue
+
+---
+label: Net_13605_4
+attribute: 
+---
+Purple
+
+---
+label: Net_13605_5
+attribute: 
+---
+Pink
+
+---
+label: Net_13605_6
+attribute: 
+---
+White
+
+---
+label: Net_13605_7
+attribute: 
+---
+Black
+
+---
+label: Shovel_02028_0
+attribute: 
+---
+Natural
+
+---
+label: Shovel_02028_1
+attribute: 
+---
+Frosty
+
+---
+label: Shovel_02028_2
+attribute: 
+---
+Mesa
+
+---
+label: Shovel_02028_3
+attribute: 
+---
+Autumn
+
+---
+label: Shovel_02028_4
+attribute: 
+---
+Dark
+
+---
+label: Shovel_02028_5
+attribute: 
+---
+Jungle
+
+---
+label: Shovel_02028_6
+attribute: 
+---
+Kiddie
+
+---
+label: Shovel_02028_7
+attribute: 
+---
+Cherry blossom
+
+---
+label: Shovel_02053_0
+attribute: 
+---
+Berry
+
+---
+label: Shovel_02053_1
+attribute: 
+---
+Ash
+
+---
+label: Shovel_02053_2
+attribute: 
+---
+Apricot
+
+---
+label: Shovel_02053_3
+attribute: 
+---
+Plum
+
+---
+label: Shovel_02053_4
+attribute: 
+---
+Teal
+
+---
+label: Shovel_02053_5
+attribute: 
+---
+Sage
+
+---
+label: Shovel_02053_6
+attribute: 
+---
+Redscale
+
+---
+label: Shovel_02053_7
+attribute: 
+---
+Pure ruby
+
+---
+label: Shovel_02063_0
+attribute: 
+---
+Cream
+
+---
+label: Shovel_02063_1
+attribute: 
+---
+Yellow
+
+---
+label: Shovel_02063_2
+attribute: 
+---
+Rusty
+
+---
+label: Shovel_02063_3
+attribute: 
+---
+Minty
+
+---
+label: Shovel_02063_4
+attribute: 
+---
+Cerulean
+
+---
+label: Shovel_02063_5
+attribute: 
+---
+Royal
+
+---
+label: Shovel_02063_6
+attribute: 
+---
+Bluescale
+
+---
+label: Shovel_02063_7
+attribute: 
+---
+Pure sapphire
+
+---
+label: Shovel_02073_0
+attribute: 
+---
+Sky
+
+---
+label: Shovel_02073_1
+attribute: 
+---
+Chartreuse
+
+---
+label: Shovel_02073_2
+attribute: 
+---
+Navy
+
+---
+label: Shovel_02073_3
+attribute: 
+---
+Petal
+
+---
+label: Shovel_02073_4
+attribute: 
+---
+Cherry
+
+---
+label: Shovel_02073_5
+attribute: 
+---
+Floral
+
+---
+label: Shovel_02073_6
+attribute: 
+---
+Greenscale
+
+---
+label: Shovel_02073_7
+attribute: 
+---
+Pure emerald
+
+---
+label: Shovel_02083_0
+attribute: 
+---
+Teal
+
+---
+label: Shovel_02083_1
+attribute: 
+---
+Blue
+
+---
+label: Shovel_02083_2
+attribute: 
+---
+Rose
+
+---
+label: Shovel_02083_3
+attribute: 
+---
+Lush
+
+---
+label: Shovel_02083_4
+attribute: 
+---
+Dark
+
+---
+label: Shovel_02083_5
+attribute: 
+---
+Gray
+
+---
+label: Shovel_02083_6
+attribute: 
+---
+Purplescale
+
+---
+label: Shovel_02083_7
+attribute: 
+---
+Pure amethyst
+
+---
+label: Shovel_02516_0
+attribute: 
+---
+Faithful
+
+---
+label: Shovel_02516_1
+attribute: 
+---
+Maroon
+
+---
+label: Shovel_02516_2
+attribute: 
+---
+Citrus
+
+---
+label: Shovel_02516_3
+attribute: 
+---
+Blue
+
+---
+label: Shovel_02516_4
+attribute: 
+---
+Lavender
+
+---
+label: Shovel_02516_5
+attribute: 
+---
+Coral
+
+---
+label: Shovel_02516_6
+attribute: 
+---
+Monochrome
+
+---
+label: Shovel_02516_7
+attribute: 
+---
+Pure silver
+
+---
+label: Shovel_03082_0
+attribute: 
+---
+Natural
+
+---
+label: Shovel_03082_1
+attribute: 
+---
+Frosty
+
+---
+label: Shovel_03082_2
+attribute: 
+---
+Mesa
+
+---
+label: Shovel_03082_3
+attribute: 
+---
+Autumn
+
+---
+label: Shovel_03082_4
+attribute: 
+---
+Dark
+
+---
+label: Shovel_03082_5
+attribute: 
+---
+Jungle
+
+---
+label: Shovel_03082_6
+attribute: 
+---
+Kiddie
+
+---
+label: Shovel_03082_7
+attribute: 
+---
+Cherry blossom
+
+---
+label: Shovel_13605_0
+attribute: 
+---
+Red
+
+---
+label: Shovel_13605_1
+attribute: 
+---
+Yellow
+
+---
+label: Shovel_13605_2
+attribute: 
+---
+Green
+
+---
+label: Shovel_13605_3
+attribute: 
+---
+Blue
+
+---
+label: Shovel_13605_4
+attribute: 
+---
+Purple
+
+---
+label: Shovel_13605_5
+attribute: 
+---
+Pink
+
+---
+label: Shovel_13605_6
+attribute: 
+---
+White
+
+---
+label: Shovel_13605_7
+attribute: 
+---
+Black
+
+---
+label: Slingshot_02056_0
+attribute: 
+---
+Berry
+
+---
+label: Slingshot_02056_1
+attribute: 
+---
+Ash
+
+---
+label: Slingshot_02056_2
+attribute: 
+---
+Apricot
+
+---
+label: Slingshot_02056_3
+attribute: 
+---
+Plum
+
+---
+label: Slingshot_02056_4
+attribute: 
+---
+Teal
+
+---
+label: Slingshot_02056_5
+attribute: 
+---
+Sage
+
+---
+label: Slingshot_02056_6
+attribute: 
+---
+Redscale
+
+---
+label: Slingshot_02056_7
+attribute: 
+---
+Pure ruby
+
+---
+label: Slingshot_02066_0
+attribute: 
+---
+Cream
+
+---
+label: Slingshot_02066_1
+attribute: 
+---
+Yellow
+
+---
+label: Slingshot_02066_2
+attribute: 
+---
+Rusty
+
+---
+label: Slingshot_02066_3
+attribute: 
+---
+Minty
+
+---
+label: Slingshot_02066_4
+attribute: 
+---
+Cerulean
+
+---
+label: Slingshot_02066_5
+attribute: 
+---
+Royal
+
+---
+label: Slingshot_02066_6
+attribute: 
+---
+Bluescale
+
+---
+label: Slingshot_02066_7
+attribute: 
+---
+Pure sapphire
+
+---
+label: Slingshot_02076_0
+attribute: 
+---
+Sky
+
+---
+label: Slingshot_02076_1
+attribute: 
+---
+Chartreuse
+
+---
+label: Slingshot_02076_2
+attribute: 
+---
+Navy
+
+---
+label: Slingshot_02076_3
+attribute: 
+---
+Petal
+
+---
+label: Slingshot_02076_4
+attribute: 
+---
+Cherry
+
+---
+label: Slingshot_02076_5
+attribute: 
+---
+Floral
+
+---
+label: Slingshot_02076_6
+attribute: 
+---
+Greenscale
+
+---
+label: Slingshot_02076_7
+attribute: 
+---
+Pure emerald
+
+---
+label: Slingshot_02086_0
+attribute: 
+---
+Teal
+
+---
+label: Slingshot_02086_1
+attribute: 
+---
+Blue
+
+---
+label: Slingshot_02086_2
+attribute: 
+---
+Rose
+
+---
+label: Slingshot_02086_3
+attribute: 
+---
+Lush
+
+---
+label: Slingshot_02086_4
+attribute: 
+---
+Dark
+
+---
+label: Slingshot_02086_5
+attribute: 
+---
+Gray
+
+---
+label: Slingshot_02086_6
+attribute: 
+---
+Purplescale
+
+---
+label: Slingshot_02086_7
+attribute: 
+---
+Pure amethyst
+
+---
+label: Slingshot_02519_0
+attribute: 
+---
+Faithful
+
+---
+label: Slingshot_02519_1
+attribute: 
+---
+Maroon
+
+---
+label: Slingshot_02519_2
+attribute: 
+---
+Citrus
+
+---
+label: Slingshot_02519_3
+attribute: 
+---
+Blue
+
+---
+label: Slingshot_02519_4
+attribute: 
+---
+Lavender
+
+---
+label: Slingshot_02519_5
+attribute: 
+---
+Coral
+
+---
+label: Slingshot_02519_6
+attribute: 
+---
+Monochrome
+
+---
+label: Slingshot_02519_7
+attribute: 
+---
+Pure silver
+
+---
+label: Watering_02029_0
+attribute: 
+---
+Natural
+
+---
+label: Watering_02029_1
+attribute: 
+---
+Frosty
+
+---
+label: Watering_02029_2
+attribute: 
+---
+Mesa
+
+---
+label: Watering_02029_3
+attribute: 
+---
+Autumn
+
+---
+label: Watering_02029_4
+attribute: 
+---
+Dark
+
+---
+label: Watering_02029_5
+attribute: 
+---
+Jungle
+
+---
+label: Watering_02029_6
+attribute: 
+---
+Kiddie
+
+---
+label: Watering_02029_7
+attribute: 
+---
+Cherry blossom
+
+---
+label: Watering_02054_0
+attribute: 
+---
+Berry
+
+---
+label: Watering_02054_1
+attribute: 
+---
+Ash
+
+---
+label: Watering_02054_2
+attribute: 
+---
+Apricot
+
+---
+label: Watering_02054_3
+attribute: 
+---
+Plum
+
+---
+label: Watering_02054_4
+attribute: 
+---
+Teal
+
+---
+label: Watering_02054_5
+attribute: 
+---
+Sage
+
+---
+label: Watering_02054_6
+attribute: 
+---
+Redscale
+
+---
+label: Watering_02054_7
+attribute: 
+---
+Pure ruby
+
+---
+label: Watering_02064_0
+attribute: 
+---
+Cream
+
+---
+label: Watering_02064_1
+attribute: 
+---
+Yellow
+
+---
+label: Watering_02064_2
+attribute: 
+---
+Rusty
+
+---
+label: Watering_02064_3
+attribute: 
+---
+Minty
+
+---
+label: Watering_02064_4
+attribute: 
+---
+Cerulean
+
+---
+label: Watering_02064_5
+attribute: 
+---
+Royal
+
+---
+label: Watering_02064_6
+attribute: 
+---
+Bluescale
+
+---
+label: Watering_02064_7
+attribute: 
+---
+Pure sapphire
+
+---
+label: Watering_02074_0
+attribute: 
+---
+Sky
+
+---
+label: Watering_02074_1
+attribute: 
+---
+Chartreuse
+
+---
+label: Watering_02074_2
+attribute: 
+---
+Navy
+
+---
+label: Watering_02074_3
+attribute: 
+---
+Petal
+
+---
+label: Watering_02074_4
+attribute: 
+---
+Cherry
+
+---
+label: Watering_02074_5
+attribute: 
+---
+Floral
+
+---
+label: Watering_02074_6
+attribute: 
+---
+Greenscale
+
+---
+label: Watering_02074_7
+attribute: 
+---
+Pure emerald
+
+---
+label: Watering_02084_0
+attribute: 
+---
+Teal
+
+---
+label: Watering_02084_1
+attribute: 
+---
+Blue
+
+---
+label: Watering_02084_2
+attribute: 
+---
+Rose
+
+---
+label: Watering_02084_3
+attribute: 
+---
+Lush
+
+---
+label: Watering_02084_4
+attribute: 
+---
+Dark
+
+---
+label: Watering_02084_5
+attribute: 
+---
+Gray
+
+---
+label: Watering_02084_6
+attribute: 
+---
+Purplescale
+
+---
+label: Watering_02084_7
+attribute: 
+---
+Pure amethyst
+
+---
+label: Watering_02515_0
+attribute: 
+---
+Faithful
+
+---
+label: Watering_02515_1
+attribute: 
+---
+Maroon
+
+---
+label: Watering_02515_2
+attribute: 
+---
+Citrus
+
+---
+label: Watering_02515_3
+attribute: 
+---
+Blue
+
+---
+label: Watering_02515_4
+attribute: 
+---
+Lavender
+
+---
+label: Watering_02515_5
+attribute: 
+---
+Coral
+
+---
+label: Watering_02515_6
+attribute: 
+---
+Monochrome
+
+---
+label: Watering_02515_7
+attribute: 
+---
+Pure silver
+
+---
+label: Watering_03083_0
+attribute: 
+---
+Natural
+
+---
+label: Watering_03083_1
+attribute: 
+---
+Frosty
+
+---
+label: Watering_03083_2
+attribute: 
+---
+Mesa
+
+---
+label: Watering_03083_3
+attribute: 
+---
+Autumn
+
+---
+label: Watering_03083_4
+attribute: 
+---
+Dark
+
+---
+label: Watering_03083_5
+attribute: 
+---
+Jungle
+
+---
+label: Watering_03083_6
+attribute: 
+---
+Kiddie
+
+---
+label: Watering_03083_7
+attribute: 
+---
+Cherry blossom
+

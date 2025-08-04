@@ -1,0 +1,24 @@
+
+---
+label: Insect_01020
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}viuda negra
+
+---
+label: Insect_01022
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}ciempiés doméstico
+
+---
+label: Insect_01026
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}polilla luna
+
+---
+label: Insect_01030
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}libélula gigante

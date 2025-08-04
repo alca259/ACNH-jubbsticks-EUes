@@ -1,0 +1,120 @@
+
+---
+label: Ftr_00883
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}woodland arch
+
+---
+label: Ftr_00884
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}woodland shrub
+
+---
+label: Ftr_00885
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}woodland watersource
+
+---
+label: Ftr_04079
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}illuminated arch
+
+---
+label: Ftr_04082
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}illuminated heart
+
+---
+label: Ftr_04085
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}illuminated clock
+
+---
+label: Ftr_04091
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}illuminated mini tree
+
+---
+label: Ftr_04095
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}iceberg
+
+---
+label: Ftr_15114
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}golden bed
+
+---
+label: Ftr_15115
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}golden man
+
+---
+label: Ftr_15116
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}golden woman
+
+---
+label: Ftr_15117
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}golden chair
+
+---
+label: Ftr_15118
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}golden bench
+
+---
+label: Ftr_15119
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}golden clock
+
+---
+label: Ftr_15120
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}golden wall torch
+
+---
+label: Ftr_15121
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}golden chest
+
+---
+label: Ftr_15122
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}golden closet
+
+---
+label: Ftr_15123
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}golden table
+
+---
+label: Ftr_15124
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}golden screen
+
+---
+label: Ftr_15125
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}golden apple

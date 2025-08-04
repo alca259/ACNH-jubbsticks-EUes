@@ -1,0 +1,24 @@
+
+---
+label: Insect_01020
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}black widow
+
+---
+label: Insect_01022
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}house centipede
+
+---
+label: Insect_01026
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}luna moth
+
+---
+label: Insect_01030
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}petaltail dragonfly

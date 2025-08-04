@@ -1,0 +1,607 @@
+
+
+---
+label: Balloon_04304
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo plateado
+
+---
+label: Balloon_04305
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo plateado de conejo
+
+---
+label: Balloon_04321
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo plateado de corazón
+
+---
+label: Balloon_04322
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo plateado de gato
+
+---
+label: Balloon_04323
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo plateado de hoja
+
+---
+label: Balloon_04325
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo plateado de estrella
+
+---
+label: Balloon_04335
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}globo de amatista
+
+---
+label: Balloon_04339
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}globo de amatista de conejo
+
+---
+label: Balloon_04346
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}globo de amatista de corazón
+
+---
+label: Balloon_04348
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}globo de amatista de gato
+
+---
+label: Balloon_04353
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}globo de amatista de hoja
+
+---
+label: Balloon_04367
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}globo de amatista de estrella
+
+---
+label: Balloon_04380
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo de rubí
+
+---
+label: Balloon_04382
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo de rubí de conejo
+
+---
+label: Balloon_04385
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo de rubí de corazón
+
+---
+label: Balloon_04387
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo de rubí de gato
+
+---
+label: Balloon_04389
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo de rubí de hoja
+
+---
+label: Balloon_04391
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo de rubí de estrella
+
+---
+label: Balloon_04394
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo de zafiro 
+
+---
+label: Balloon_04397
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo de zafiro de conejo
+
+---
+label: Balloon_04400
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo de zafiro de corazón
+
+---
+label: Balloon_04404
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo de zafiro de gato
+
+---
+label: Balloon_04413
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo de zafiro de hoja
+
+---
+label: Balloon_04414
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo de zafiro de estrella
+
+---
+label: Balloon_04415
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}globo de esmeralda 
+
+---
+label: Balloon_04416
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}globo de esmeralda de conejo
+
+---
+label: Balloon_04427
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}globo de esmeralda de corazón
+
+---
+label: Balloon_04442
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}globo de esmeralda de gato
+
+---
+label: Balloon_04455
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}globo de esmeralda de hoja
+
+---
+label: Balloon_04473
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}globo de esmeralda de estrella
+
+---
+label: Balloon_04301
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo dorado
+
+---
+label: Balloon_04474
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo dorado de conejo
+
+---
+label: Balloon_04477
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo dorado de corazón
+
+---
+label: Balloon_04478
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo dorado de gato
+
+---
+label: Balloon_04479
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo dorado de hoja
+
+---
+label: Balloon_04481
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo dorado de estrella
+
+---
+label: Balloon_04281
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo celeste
+
+---
+label: Balloon_04284
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}globo naranja
+
+---
+label: Balloon_04294
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}globo indigo
+
+---
+label: Balloon_04297
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo blanco
+
+---
+label: Balloon_04298
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo negro
+
+---
+label: Balloon_04516
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo azul de conejo
+
+---
+label: Balloon_04550
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo rojo de conejo
+
+---
+label: Balloon_04554
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo amarillo de conejo
+
+---
+label: Balloon_04562
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo verde de conejo
+
+---
+label: Balloon_04564
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo rosa de conejo
+
+---
+label: Balloon_04568
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo celeste de conejo
+
+---
+label: Balloon_04569
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}globo naranja de conejo
+
+---
+label: Balloon_04571
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}globo indigo de conejo
+
+---
+label: Balloon_04573
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo blanco de conejo
+
+---
+label: Balloon_04580
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo negro de conejo
+
+---
+label: Balloon_04581
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo azul de corazón
+
+---
+label: Balloon_04582
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo rojo de corazón
+
+---
+label: Balloon_04583
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo amarillo de corazón
+
+---
+label: Balloon_04585
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo verde de corazón
+
+---
+label: Balloon_04591
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo rosa de corazón
+
+---
+label: Balloon_04592
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo celeste de corazón
+
+---
+label: Balloon_04618
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}globo naranja de corazón
+
+---
+label: Balloon_04619
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}globo indigo de corazón
+
+---
+label: Balloon_04620
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo blanco de corazón
+
+---
+label: Balloon_04621
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo negro de corazón
+
+---
+label: Balloon_04622
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo azul de gato
+
+---
+label: Balloon_04623
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo rojo de gato
+
+---
+label: Balloon_04624
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo amarillo de gato
+
+---
+label: Balloon_04625
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo verde de gato
+
+---
+label: Balloon_04626
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo rosa de gato
+
+---
+label: Balloon_04627
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo celeste de gato
+
+---
+label: Balloon_04628
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}globo naranja de gato
+
+---
+label: Balloon_04629
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}globo indigo de gato
+
+---
+label: Balloon_04630
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo blanco de gato
+
+---
+label: Balloon_04631
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo negro de gato
+
+---
+label: Balloon_04632
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo marrón de hoja
+
+---
+label: Balloon_04633
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo rojo de hoja
+
+---
+label: Balloon_04634
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo amarillo de hoja
+
+---
+label: Balloon_04635
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo rosa de hoja
+
+---
+label: Balloon_04636
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo celeste de hoja
+
+---
+label: Balloon_04637
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}globo naranja de hoja
+
+---
+label: Balloon_04638
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}globo indigo de hoja
+
+---
+label: Balloon_04639
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo blanco de hoja
+
+---
+label: Balloon_04640
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo negro de hoja
+
+---
+label: Balloon_04482
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo azul de estrella
+
+---
+label: Balloon_04493
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo rojo de estrella
+
+---
+label: Balloon_04494
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo amarillo de estrella
+
+---
+label: Balloon_04495
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo verde de estrella
+
+---
+label: Balloon_04497
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo rosa de estrella
+
+---
+label: Balloon_04498
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo celeste de estrella
+
+---
+label: Balloon_04499
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}globo naranja de estrella
+
+---
+label: Balloon_04500
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}globo indigo de estrella
+
+---
+label: Balloon_04508
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo blanco de estrella
+
+---
+label: Balloon_04509
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo negro de estrella
+
+---
+label: Balloon_04670
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo lima
+
+---
+label: Balloon_04692
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo lima de conejo
+
+---
+label: Balloon_04693
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo lima de corazón
+
+---
+label: Balloon_04694
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo lima de gato
+
+---
+label: Balloon_04695
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo lima de estrella
+
+---
+label: Balloon_04778
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo lima de hoja
+
+---
+label: Candyfloss_15107
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}chuchería de manzana
+
+---
+label: Candyfloss_15108
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}manzana caramelizada
+
+---
+label: DummyRecipe_02289
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Recetas de súper batidos
+
+---
+label: SubToolGeneric_02000
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}radar meteorológico
+
+---
+label: Balloon_14540
+attribute: 
+---
+{{wordInfo gender="1" indefArticle="1" defArticle="3"}}globo verde de hoja

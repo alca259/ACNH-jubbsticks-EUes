@@ -1,0 +1,30 @@
+
+---
+label: Fish_01010
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}barbo
+
+---
+label: Fish_01012
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}anguila
+
+---
+label: Fish_01014
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}trucha arcoíris
+
+---
+label: Fish_01016
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}dragonet
+
+---
+label: Fish_01018
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}nuevo pez 5

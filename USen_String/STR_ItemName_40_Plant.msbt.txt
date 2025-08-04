@@ -1,0 +1,656 @@
+
+---
+label: Flower_09850
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}coral pansies
+
+---
+label: Flower_09850_pl
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}coral pansies
+
+---
+label: Flower_09851
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}pink pansies
+
+---
+label: Flower_09851_pl
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}pink pansies
+
+---
+label: Flower_09852
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}hybrid red pansies
+
+---
+label: Flower_09852_pl
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}hybrid red pansies
+
+---
+label: Flower_09853
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}hybrid blue pansies
+
+---
+label: Flower_09853_pl
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}hybrid blue pansies
+
+---
+label: Flower_09869
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}hybrid coral pansies
+
+---
+label: Flower_09869_pl
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}hybrid coral pansies
+
+---
+label: FlowerBud_09648
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}hybrid red-pansy stems
+
+---
+label: FlowerBud_09649
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}hybrid red-pansy buds
+
+---
+label: FlowerBud_09650
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}hybrid red-pansy plant
+
+---
+label: FlowerBud_09651
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}hybrid blue-pansy stems
+
+---
+label: FlowerBud_09652
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}hybrid blue-pansy buds
+
+---
+label: FlowerBud_09701
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}hybrid blue-pansy plant
+
+---
+label: FlowerBud_09816
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}pink-pansy buds
+
+---
+label: FlowerBud_09817
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}pink-pansy stems
+
+---
+label: FlowerBud_09818
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}pink-pansy plant
+
+---
+label: FlowerBud_09819
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}coral-pansy stems
+
+---
+label: FlowerBud_09820
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}coral-pansy buds
+
+---
+label: FlowerBud_09822
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}coral-pansy plant
+
+---
+label: FlowerBud_09824
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}hybrid coral-pansy stems
+
+---
+label: FlowerBud_09825
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}hybrid coral-pansy buds
+
+---
+label: FlowerBud_09826
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}hybrid coral-pansy plant
+
+---
+label: Fruit_02520
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}durian
+
+---
+label: Fruit_02520_pl
+attribute: 
+---
+{{wordInfo gender="5" indefArticle="4" defArticle="3"}}durians
+
+---
+label: Fruit_02521
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}persimmon
+
+---
+label: Fruit_02522
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}banana
+
+---
+label: Fruit_02523
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}lychee
+
+---
+label: Fruit_02524
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}lemon
+
+---
+label: Fruit_02525
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}mango
+
+---
+label: Fruit_02526
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}perfect apple
+
+---
+label: Fruit_02527
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}perfect orange
+
+---
+label: Fruit_02528
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}perfect pear
+
+---
+label: Fruit_02529
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}perfect peach
+
+---
+label: Fruit_02530
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}perfect cherry
+
+---
+label: Fruit_02531
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}perfect bamboo shoot
+
+---
+label: Fruit_02531_pl
+attribute: 
+---
+{{wordInfo gender="5" indefArticle="4" defArticle="3"}}perfect bamboo shoots
+
+---
+label: Fruit_02530_pl
+attribute: 
+---
+{{wordInfo gender="5" indefArticle="4" defArticle="3"}}perfect cherries
+
+---
+label: Fruit_02529_pl
+attribute: 
+---
+{{wordInfo gender="5" indefArticle="4" defArticle="3"}}perfect peaches
+
+---
+label: Fruit_02528_pl
+attribute: 
+---
+{{wordInfo gender="5" indefArticle="4" defArticle="3"}}perfect pears
+
+---
+label: Fruit_02527_pl
+attribute: 
+---
+{{wordInfo gender="5" indefArticle="4" defArticle="3"}}perfect oranges
+
+---
+label: Fruit_02526_pl
+attribute: 
+---
+{{wordInfo gender="5" indefArticle="4" defArticle="3"}}perfect apples
+
+---
+label: Fruit_02525_pl
+attribute: 
+---
+{{wordInfo gender="5" indefArticle="4" defArticle="3"}}mangoes
+
+---
+label: Fruit_02524_pl
+attribute: 
+---
+{{wordInfo gender="5" indefArticle="4" defArticle="3"}}lemons
+
+---
+label: Fruit_02523_pl
+attribute: 
+---
+{{wordInfo gender="5" indefArticle="4" defArticle="3"}}lychees
+
+---
+label: Fruit_02522_pl
+attribute: 
+---
+{{wordInfo gender="5" indefArticle="4" defArticle="3"}}bananas
+
+---
+label: Fruit_02521_pl
+attribute: 
+---
+{{wordInfo gender="5" indefArticle="4" defArticle="3"}}persimmons
+
+---
+label: Tree_05785
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}nursery perfect bamboo
+
+---
+label: Tree_05786
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}small young perfect bamboo
+
+---
+label: Tree_05787
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}medium young perfect bamboo
+
+---
+label: Tree_05788
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}large young perfect bamboo
+
+---
+label: Tree_05789
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}perfect bamboo tree
+
+---
+label: Tree_06000
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}nursery perfect apple
+
+---
+label: Tree_06001
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}small young perfect apple
+
+---
+label: Tree_06002
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}medium young perfect apple
+
+---
+label: Tree_06003
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}large young perfect apple
+
+---
+label: Tree_06006
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}perfect apple tree
+
+---
+label: Tree_06007
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}nursery perfect orange
+
+---
+label: Tree_06008
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}small young perfect orange
+
+---
+label: Tree_06009
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}medium young perfect orange
+
+---
+label: Tree_06010
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}large young perfect orange
+
+---
+label: Tree_06011
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}perfect orange tree
+
+---
+label: Tree_06012
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}nursery perfect pear
+
+---
+label: Tree_06013
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}small young perfect pear
+
+---
+label: Tree_06014
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}medium young perfect pear
+
+---
+label: Tree_06015
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}large young perfect pear
+
+---
+label: Tree_06017
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}perfect pear tree
+
+---
+label: Tree_06018
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}nursery perfect peach
+
+---
+label: Tree_06019
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}small young perfect peach
+
+---
+label: Tree_06020
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}medium young perfect peach
+
+---
+label: Tree_06021
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}large young perfect peach
+
+---
+label: Tree_06022
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}perfect peach tree
+
+---
+label: Tree_06023
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}nursery perfect cherry
+
+---
+label: Tree_06027
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}small young perfect cherry
+
+---
+label: Tree_06028
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}medium young perfect cherry
+
+---
+label: Tree_06037
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}large young perfect cherry
+
+---
+label: Tree_06038
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}perfect cherry tree
+
+---
+label: Tree_06047
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}nursery lemon
+
+---
+label: Tree_06056
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}small young lemon
+
+---
+label: Tree_06059
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}medium young lemon
+
+---
+label: Tree_06060
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}large young lemon
+
+---
+label: Tree_06061
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}lemon tree
+
+---
+label: Tree_06062
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}nursery mango
+
+---
+label: Tree_06063
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}small young mango
+
+---
+label: Tree_06064
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}medium young mango
+
+---
+label: Tree_06065
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}large young mango
+
+---
+label: Tree_06066
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}mango tree
+
+---
+label: Tree_06067
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}nursery durian
+
+---
+label: Tree_06068
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}small young durian
+
+---
+label: Tree_06069
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}medium young durian
+
+---
+label: Tree_06070
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}large young durian
+
+---
+label: Tree_06071
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}durian tree
+
+---
+label: Tree_06072
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}nursery lychee
+
+---
+label: Tree_06073
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}small young lychee
+
+---
+label: Tree_06074
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}medium young lychee
+
+---
+label: Tree_06076
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}large young lychee
+
+---
+label: Tree_06077
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}lychee tree
+
+---
+label: Tree_06082
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}nursery persimmon
+
+---
+label: Tree_06083
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}small young persimmon
+
+---
+label: Tree_06084
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}medium young persimmon
+
+---
+label: Tree_06085
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}large young persimmon
+
+---
+label: Tree_06086
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}persimmon tree
+
+---
+label: Tree_06087
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}nursery banana
+
+---
+label: Tree_06088
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}small young banana
+
+---
+label: Tree_06089
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}medium young banana
+
+---
+label: Tree_06090
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}large young banana
+
+---
+label: Tree_06094
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}banana tree
+
+

@@ -1,0 +1,60 @@
+
+---
+label: Ore_02506
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}pepita de plata
+
+---
+label: Ore_02506_pl
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}pepitas de plata
+
+---
+label: Ore_02507
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}rubí
+
+---
+label: Ore_02508
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}zafiro
+
+---
+label: Ore_02509
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}esmeralda
+
+---
+label: Ore_02510
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}amatista
+
+---
+label: Ore_02510_pl
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}amatistas
+
+---
+label: Ore_02509_pl
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}esmeraldas
+
+---
+label: Ore_02508_pl
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}zafiros
+
+---
+label: Ore_02507_pl
+attribute: 
+---
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}rubies
