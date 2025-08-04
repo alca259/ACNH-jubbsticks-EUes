@@ -1,0 +1,395 @@
+
+---
+label: 003
+attribute: 
+---
+Ey, {{string:PlayerName}}!
+
+---
+label: 004
+attribute: 
+---
+Ey, {{string:PlayerName}}!
+
+---
+label: 005
+attribute: 
+---
+Ey, {{string:PlayerName}}!
+
+---
+label: 006
+attribute: 
+---
+Ey, {{string:PlayerName}}!
+
+---
+label: 007
+attribute: 
+---
+Ey, {{string:PlayerName}}!
+
+---
+label: 008
+attribute: 
+---
+Ey, {{string:PlayerName}}!
+
+---
+label: 009
+attribute: 
+---
+Ey, {{string:PlayerName}}!
+
+---
+label: 011
+attribute: 
+---
+{{string:PlayerName}}...
+
+---
+label: 012
+attribute: 
+---
+Lo siento, {{string:PlayerName}}...
+
+---
+label: 013
+attribute: 
+---
+Noticias maravillosas, {{string:PlayerName}}!
+
+---
+label: 014
+attribute: 
+---
+Ey, {{string:PlayerName}}!
+
+---
+label: 015
+attribute: 
+---
+Hola, {{string:PlayerName}}!
+
+---
+label: 016
+attribute: 
+---
+Feliz día, {{string:PlayerName}}!
+
+---
+label: 017
+attribute: 
+---
+Malas noticias, {{string:PlayerName}}...
+
+---
+label: 018
+attribute: 
+---
+Caramba, {{string:PlayerName}}!
+
+---
+label: 019
+attribute: 
+---
+¿Cómo estás?, {{string:PlayerName}}?
+
+---
+label: 020
+attribute: 
+---
+Ey, {{string:PlayerName}}!
+
+---
+label: 103
+attribute: 
+---
+La última vez que visité {{string:IslandName}},
+me dí cuenta de que todos los manzanos 
+están creciendo estupendamente y pensé, "¡Guau, 
+los manzanos son muy felices aquí! 
+Tengo la esperanza de que esta manzana
+sea igual de feliz creciendo allí, 
+aunque ten cuidado, es más delicada que la mayoría.
+
+---
+label: 104
+attribute: 
+---
+La última vez que visité {{string:IslandName}},
+me dí cuenta de que todos los naranjos 
+están creciendo estupendamente y pensé, "¡Guau, 
+los naranjos son muy felices aquí! 
+Tengo la esperanza de que esta naranja
+sea igual de feliz creciendo allí, 
+aunque ten cuidado, es más delicada que la mayoría.
+
+---
+label: 105
+attribute: 
+---
+La última vez que visité {{string:IslandName}},
+me dí cuenta de que todos los perales 
+están creciendo estupendamente y pensé, "¡Guau, 
+los perales son muy felices aquí! 
+Tengo la esperanza de que esta pera
+sea igual de feliz creciendo allí, 
+aunque ten cuidado, es más delicada que la mayoría.
+
+---
+label: 106
+attribute: 
+---
+La última vez que visité {{string:IslandName}},
+me dí cuenta de que todos los melocotoneros 
+están creciendo estupendamente y pensé, "¡Guau, 
+los melocotoneros son muy felices aquí! 
+Tengo la esperanza de que este melocotón
+sea igual de feliz creciendo allí, 
+aunque ten cuidado, es más delicada que la mayoría.
+
+---
+label: 107
+attribute: 
+---
+La última vez que visité {{string:IslandName}},
+me dí cuenta de que todos los cerezos 
+están creciendo estupendamente y pensé, "¡Guau, 
+los cerezos son muy felices aquí! 
+Tengo la esperanza de que esta cereza
+sea igual de feliz creciendo allí, 
+aunque ten cuidado, es más delicada que la mayoría.
+
+---
+label: 108
+attribute: 
+---
+Después de un par de días, ¡tu
+pedido de cultivo ya está completo!
+¡Aquí están tus pequeños y felices brotes!
+
+---
+label: 109
+attribute: 
+---
+Ha tardado bastante, pero 
+¡por fin has completado tu pedido 
+de cultivo de bambú!
+
+¡Gracias de nuevo por tu compra!
+¡Avísame si necesitas más!
+
+---
+label: 110
+attribute: 
+---
+¡Ese joven bambú que me diste 
+para cultivar estaba muy vivo!
+
+¡Ya ha producido algunos brotes!
+Aquí están para ti, amigo.
+¡Avísame si necesitas más!
+
+---
+label: 111
+attribute: 
+---
+Tu cultivo de bambú fue un fracaso. Te llevó mucho tiempo y solo dio un brote...
+¡Pero seguro que te alegrarás de que sea un brote de bambú PERFECTO!
+¡Qué suerte! ¡Aquí está!
+
+---
+label: 112
+attribute: 
+---
+Tu cultivo perfecto de bambú 
+¡falló! Lamentablemente, solo produjo un 
+único brote...
+
+Siempre podemos intentar cultivarlo 
+de nuevo, si quieres.
+
+---
+label: 113
+attribute: 
+---
+El cultivo perfecto de bambú 
+¡fue todo un éxito! Tu árbol 
+ya ha brotado dos brotes enteros.
+¡Espero que crezcan tan 
+bonitos y fuertes como felices!
+
+---
+label: 114
+attribute: 
+---
+Disculpa la tardanza en tu cultivo de bambú perfecto.
+¡Este brotó muy feliz y dio tres brotes de bambú perfectos solo para ti!
+¡Qué maravilla!
+
+---
+label: 115
+attribute: 
+---
+Tu pedido de cultivo de bambú produjo un montón de brotes, que te he añadido al paquete. 
+¡Espero que estén tan felices como su árbol madre!
+
+---
+label: 116
+attribute: 
+---
+Después de un par de días, 
+¡tu pedido de cultivo de bambú ya está completo!
+
+¡El árbol que me regalaste está súper feliz 
+y ha dado un montón de brotes solo para tí!
+
+---
+label: 117
+attribute: 
+---
+Lamento informarte de que 
+tu pedido de cultivo de bambú perfecto 
+fue un poco un fracaso. 
+Llevó mucho tiempo, pero sólo 
+produjo un brote...
+Es una pena lo sensible que tiende a ser el bambú perfecto.
+
+---
+label: 118
+attribute: 
+---
+Después de sólo un par de días,
+el joven y perfecto árbol de bambú 
+que me diste para cultivar ya 
+han brotado dos hermosos brotes pequeños.
+Aquí están, para ti.
+
+---
+label: 119
+attribute: 
+---
+Siento que tu pedido de cultivo de bambú perfecto 
+haya tardado tanto. Acabaron brotando dos 
+brotes enteros, ¡así que yo diría que fue 
+un éxito! Gracias por el pedido.
+
+---
+label: 120
+attribute: 
+---
+Ha tardado bastante, pero 
+tú pedido de cultivo de bambú está 
+por fin completaado.
+Y ha producido muchos brotes.
+
+Avísame si necesitas más.
+
+---
+label: 203
+attribute: 
+---
+¡Prueba a plantarlo! Gandulio
+
+---
+label: 204
+attribute: 
+---
+¡Prueba a plantarlo! Gandulio
+
+---
+label: 205
+attribute: 
+---
+¡Prueba a plantarlo! Gandulio
+
+---
+label: 206
+attribute: 
+---
+¡Prueba a plantarlo! Gandulio
+
+---
+label: 207
+attribute: 
+---
+¡Prueba a plantarlo! Gandulio
+
+---
+label: 208
+attribute: 
+---
+¡Gracias por contratarme! Gandulio
+
+---
+label: 209
+attribute: 
+---
+¡Disculpa la espera! Gandulio
+
+---
+label: 210
+attribute: 
+---
+¡Gracias! Gandulio
+
+---
+label: 211
+attribute: 
+---
+¡Deberías probar a plantarlo! Gandulio
+
+---
+label: 212
+attribute: 
+---
+¡Lo hice lo mejor que pude! Gandulio
+
+---
+label: 213
+attribute: 
+---
+¡Buena suerte! Gandulio
+
+---
+label: 214
+attribute: 
+---
+¡Gracias por tu compra! Gandulio
+
+---
+label: 215
+attribute: 
+---
+¡Realmente aprecio tu patrocinio! Gandulio
+
+---
+label: 216
+attribute: 
+---
+¡Apuesto a que también son felices! Gandulio
+
+---
+label: 217
+attribute: 
+---
+¡Siempre podemos volver a intentarlo! Gandulio
+
+---
+label: 218
+attribute: 
+---
+¡Gracias por tu compra! Gandulio
+
+---
+label: 219
+attribute: 
+---
+¡Que tengas un buen día! Gandulio
+
+---
+label: 220
+attribute: 
+---
+¡Que tengas un buen día! Gandulio

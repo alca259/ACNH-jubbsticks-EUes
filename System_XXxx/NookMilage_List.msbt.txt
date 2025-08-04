@@ -1,0 +1,85 @@
+
+---
+label: 110_0
+attribute: 
+---
+Globos flotando
+
+---
+label: 111_0
+attribute: 
+---
+Gemas por Giroides!
+
+---
+label: 111_1
+attribute: 
+---
+Fígaro siempre ha sido un fanático de los giroides-- 
+si de verdad quieres ganarte el favor del 
+mejor "coo"-nocedor del café de la isla, 
+cámbiale tus giroides por gemas... y 
+y disfruta de esas millas extra, eh?
+
+---
+label: 110_1
+attribute: 
+---
+Me honra saber que Elio ahora apoya el Programa de Millas Nook de nuestra isla con su propio sistema de recompensas. A cambio, debes darle tu apoyo a su carrito de globos y yo te apoyaré con Millas Nook adicionales, ¡sí, sí!
+
+---
+label: 113_0
+attribute: 
+---
+Fabricante en masa
+
+---
+label: 113_1
+attribute: 
+---
+En Nook Inc., la eficiencia es un valor fundamental.
+¿Y qué es más eficiente que crear un montón?
+¡Crear un montón de golpe!
+
+---
+label: 114_0
+attribute: 
+---
+Moda pasajera
+
+---
+label: 114_1
+attribute: 
+---
+Una excelente manera de impulsar la reputación de
+{{string:IslandName}} es promocionar ropa con estilo!.
+Los consejos de moda de {{color id="3"}}Tili{{color id="-1"}}
+nos mantendrán a la vanguardia,
+así que escúchala y gana puntos!
+
+---
+label: 115_0
+attribute: 
+---
+Eliminación de interferencias
+
+---
+label: 115_1
+attribute: 
+---
+Nadie sabe qué nos depara el futuro, excepto los meteorólogos, ¿eh? Ayuda a {{color id="3"}}Candrés{{color id="-1"}} a registrar datos meteorológicos en {{string:IslandName}}, y ¡aprovecha los beneficios!
+
+---
+label: 116_0
+attribute: 
+---
+Java en peligro!
+
+---
+label: 116_1
+attribute: 
+---
+La amabilidad es un rasgo admirable en 
+cualquier persona, ¡pero te sienta 
+especialmente bien! Ofrece café a los 
+trabajadores locales y consigue que te den millas!

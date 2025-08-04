@@ -1,0 +1,670 @@
+List of 3.0's new labels, by file
+
+---
+
+Mail_XXxx.sarc.zs:
+    /SNpc/slo:
+        MAIL_SNpc_slo.msbt:
+            003
+            004
+            005
+            006
+            007
+            008
+            009
+            010
+            011
+            012
+            013
+            014
+            015
+            016
+            017
+            018
+            019
+            020
+            103
+            104
+            105
+            106
+            107
+            108
+            109
+            110
+            111
+            112
+            113
+            114
+            115
+            116
+            117
+            118
+            119
+            120
+            203
+            204
+            205
+            206
+            207
+            208
+            209
+            210
+            211
+            212
+            213
+            214
+            215
+            216
+            217
+            218
+            219
+            220
+---
+
+String_XXxx.sarc.zs:
+    /Remake:
+        STR_Remake_BodyColor.msbt:
+            NOTE: Items with BodyColor remake labels will have a 'C' in front of them where they are listed in the Item folder (below). The 'C' will have a number after it, indicating the number of Color remakes. -- Ex: 'C8' means that the item has 8 labels (numbered 0-7) in the 'STR_Remake_BodyColor.msbt' file.
+
+        STR_Remake_BodyParts.msbt:
+            NOTE: all items which have a 'C' next to them WILL have a BodyParts label. The name of this label (NOT THE CONTENTS OF THE LABEL) will be identically to its corresponding ItemName label. -- Ex: 'Axe_02514' is a label in ItemName with the contents 'silver axe,' but 'Axe_02514' is also a label found in BodyParts, with the contents "Color."
+
+        STR_Remake_FabricColor.msbt:
+            NOTE: Items with FabricColor remake labels will have an 'F' in front of them where they are listed in the Item folder (below). The 'F' will have a number after it, indicating the number of Fabric remakes. -- Ex:, 'F5' means that the item has 5 labels (numbered 0-4) in the 'STR_Remake_FabricColor.msbt' file.
+
+        STR_Remake_FabricParts.msbt:
+            NOTE: all items which have an 'F' next to them WILL have a FabricParts label. The name of this label (NOT THE CONTENTS OF THE LABEL) will be identically to its corresponding ItemName label. Ex: 'Ftr_04079' is a label in ItemName with the contents 'illuminated arch,' but 'Ftr_04079' is also a label found in FabricParts, with the contents "Name."
+
+    /Item: 
+NOTE: Labels with an X in front of them also have a matching '_pl' (plural) label!!!
+        STR_ItemName_00_Ftr.msbt:
+            Ftr_00883
+            Ftr_00884
+            Ftr_00885
+C4,F7       Ftr_04079
+C4,F7       Ftr_04082
+C8,F7       Ftr_04085
+C4,F7       Ftr_04091
+C7          Ftr_04095
+
+        STR_ItemName_02_Dishes.msbt:
+            Drink_01930
+            Drink_01931
+            Drink_01932
+            Drink_01933
+            Drink_01934
+            Dishes_01935
+            Drink_01936
+            Dishes_01937
+            Dishes_01938
+            Drink_01939
+            Drink_01940
+            Drink_01941
+            Drink_01942
+            Drink_01943
+
+        STR_ItemName_20_Tool.msbt:
+(silver tools)
+C8        Axe_02514
+C8        Watering_02515
+C8        Shovel_02516
+C8        Net_02517
+C8        FishingRod_02518
+C8        Slingshot_02519
+(sturdy tools)
+C8          FishingRod_02026
+C8          Net_02027
+C8          Shovel_02028
+C8          Watering_02029
+C8          Axe_02030
+(ruby tools)
+C8          Net_02051
+C8          FishingRod_02052
+C8          Shovel_02053
+C8          Watering_02054
+C8          Axe_02055
+C8          Slingshot_02056
+(sapphire tools)
+C8          Net_02061
+C8          FishingRod_02062
+C8          Shovel_02063
+C8          Watering_02064
+C8          Axe_02065
+C8          Slingshot_02066
+(emerald tools)
+C8          Net_02071
+C8          FishingRod_02072
+C8          Shovel_02073
+C8          Watering_02074
+C8          Axe_02075
+C8          Slingshot_02076
+(amethyst tools)
+C8          Net_02081
+C8          FishingRod_02082
+C8          Shovel_02083
+C8          Watering_02084
+C8          Axe_02085
+C8          Slingshot_02086
+(flimsy tools--these need their customization labels added)
+C8          Net_02376 
+C8          Axe_03068 
+C8          Shovel_03082
+C8          Watering_03083
+C8          FishingRod_03084 
+
+
+        STR_ItemName_33_Shell.msbt:
+X           ShellDrift_02567 (add a plural entry for manila clams)
+
+        STR_ItemName_40_Plant.msbt:
+X           Fruit_02520
+X           Fruit_02521
+X           Fruit_02522
+X           Fruit_02523
+X           Fruit_02524
+X           Fruit_02525
+X           Fruit_02526
+X           Fruit_02527
+X           Fruit_02528
+X           Fruit_02529
+X           Fruit_02530
+X           Fruit_02531
+
+(Pbamboo)
+            Tree_05785
+            Tree_05786
+            Tree_05787
+            Tree_05788
+            Tree_05789
+(Papple)
+            Tree_06000
+            Tree_06001
+            Tree_06002
+            Tree_06003
+            Tree_06006
+(Porange)
+            Tree_06007
+            Tree_06008
+            Tree_06009
+            Tree_06010
+            Tree_06011
+(PePear)
+            Tree_06012
+            Tree_06013
+            Tree_06014
+            Tree_06015
+            Tree_06017
+(PePeach)
+            Tree_06018
+            Tree_06019
+            Tree_06020
+            Tree_06021
+            Tree_06022
+(PCherry)
+            Tree_06023
+            Tree_06027
+            Tree_06028
+            Tree_06037
+            Tree_06038
+(lemon)
+            Tree_06047
+            Tree_06056
+            Tree_06059
+            Tree_06060
+            Tree_06061
+(mango)
+            Tree_06062
+            Tree_06063
+            Tree_06064
+            Tree_06065
+            Tree_06066
+(durian)
+            Tree_06067
+            Tree_06068
+            Tree_06068
+            Tree_06069
+            Tree_06070
+(lychee)
+            Tree_06071
+            Tree_06072
+            Tree_06073
+            Tree_06074
+            Tree_06076
+(persimmon)
+            Tree_06082
+            Tree_06083
+            Tree_06084
+            Tree_06085
+            Tree_06086
+(banana)
+            Tree_06087
+            Tree_06088
+            Tree_06089
+            Tree_06090
+            Tree_06094
+
+        STR_ItemName_70_Craft.msbt:
+X           Ore_02506
+X           Ore_02507
+X           Ore_02508
+X           Ore_02509
+X           Ore_02510
+
+        STR_ItemName_80_Etc.msbt:
+(silver balloons)
+            Balloon_04304
+            Balloon_04305
+            Balloon_04321
+            Balloon_04322
+            Balloon_04323
+            Balloon_04325
+(amethyst balloons)
+            Balloon_04335
+            Balloon_04339
+            Balloon_04346
+            Balloon_04348
+            Balloon_04353
+            Balloon_04367
+(ruby balloons)
+            Balloon_04380
+            Balloon_04382
+            Balloon_04385
+            Balloon_04387
+            Balloon_04389
+            Balloon_04391
+(sapphire balloons)
+            Balloon_04394
+            Balloon_04397
+            Balloon_04400
+            Balloon_04404
+            Balloon_04413
+            Balloon_04414
+(emerald balloons)
+            Balloon_04415
+            Balloon_04416
+            Balloon_04427
+            Balloon_04442
+            Balloon_04455
+            Balloon_04473
+(golden balloons)
+            Balloon_04474
+            Balloon_04477
+            Balloon_04478
+            Balloon_04479
+            Balloon_04481
+(regular balloons, new color variants)
+            Balloon_04281
+            Balloon_04284
+            Balloon_04294
+            Balloon_04297
+            Balloon_04298
+            Balloon_04670
+(bunny balloons)
+            Balloon_04516
+            Balloon_04550
+            Balloon_04554
+            Balloon_04562
+            Balloon_04564
+            Balloon_04568
+            Balloon_04569
+            Balloon_04571
+            Balloon_04573
+            Balloon_04580
+            Balloon_04692
+(heart balloons)
+            Balloon_04581
+            Balloon_04582
+            Balloon_04583
+            Balloon_04585
+            Balloon_04591
+            Balloon_04592
+            Balloon_04618
+            Balloon_04619
+            Balloon_04620
+            Balloon_04621
+            Balloon_04693
+(kitty balloons)
+            Balloon_04622
+            Balloon_04623
+            Balloon_04624
+            Balloon_04625
+            Balloon_04626
+            Balloon_04627
+            Balloon_04628
+            Balloon_04629
+            Balloon_04630
+            Balloon_04631
+            Balloon_04694
+(leaf balloons)
+            Balloon_04632
+            Balloon_04633
+            Balloon_04634
+            Balloon_14540 (changes from 'Nook Inc. balloon" to "green leaf balloon")
+            Balloon_04635
+            Balloon_04636
+            Balloon_04637
+            Balloon_04638
+            Balloon_04639
+            Balloon_04640
+            Balloon_04778
+(star balloons)
+            Balloon_04482
+            Balloon_04493
+            Balloon_04494
+            Balloon_04495
+            Balloon_04497
+            Balloon_04498
+            Balloon_04499
+            Balloon_04500
+            Balloon_04508
+            Balloon_04509
+            Balloon_04695
+
+System_XXxx.sarc.zs:
+    /NookMilage
+        NookMilagePlus_Title.msbt:
+            001 
+            150
+        NookMilage_Keyword_Modifier.msbt *AND* NookMilage_Keyword_Modifier_List.msbt: (NOTE: THESE ARE PASSPORT ADJECTIVES)
+            002_03
+            002_04
+            071_01
+            071_02
+            104_03
+            105_03
+            110_00
+            110_01
+            110_02
+            110_03
+            111_00
+            111_01
+            111_02
+            111_03
+            111_04
+            113_00
+            114_00
+            114_01
+            114_02
+            114_03
+            114_04
+            115_00
+            115_01
+            115_02
+            115_03
+            115_04
+            116_00
+            116_01
+            116_02
+            116_03
+            116_04
+        NookMilage_Keyword_Noun.msbt *AND* NookMilage_Keyword_Noun_List.msbt: (NOTE: THESE ARE PASSPORT NOUNS)
+            002_03_0
+            002_04_0
+            071_01_0
+            071_02_0
+            104_03_0
+            105_03_0
+            110_00_0
+            110_01_0
+            110_02_0
+            110_03_0
+            111_00_0
+            111_01_0
+            111_02_0
+            111_03_0
+            111_04_0
+            113_00_0
+            114_00_0
+            114_01_0
+            114_02_0
+            114_03_0
+            114_04_0
+            115_00_0
+            115_01_0
+            115_02_0
+            115_03_0
+            115_04_0
+            116_00_0
+            116_01_0
+            116_02_0
+            116_03_0
+            116_04_0
+            002_03_1
+            002_04_1
+            071_01_1
+            071_02_1
+            104_03_1
+            105_03_1
+            110_00_1
+            110_01_1
+            110_02_1
+            110_03_1
+            111_00_1
+            111_01_1
+            111_02_1
+            111_03_1
+            111_04_1
+            113_00_1
+            114_00_1
+            114_01_1
+            114_02_1
+            114_03_1
+            114_04_1
+            115_00_1
+            115_01_1
+            115_02_1
+            115_03_1
+            115_04_1
+            116_00_1
+            116_01_1
+            116_02_1
+            116_03_1
+            116_04_1
+        NookMilagePlus_Title.msbt:
+            110_0
+            110_1
+            111_0
+            111_1
+            113_0
+            113_1
+            114_0
+            114_1
+            115_0
+            115_1
+            116_0
+            116_1
+
+TalkFtr_XXxx.sarc.zs
+    FTR_WorkingTable.msbt:
+        033
+        040
+        090
+        090_a
+        090_b
+
+TalkNNpc_XXxx.sarc.zs:
+    /B1_Bo/Select:
+        BO_Select_Present.msbt
+            403_01
+    /B2_Ha/Select:
+        HA_Select_Present.msbt
+            403_01
+    /B3_Ko/Select:
+        KO_Select_Present.msbt
+            403_01
+    /B4_Zk/Select:
+        ZK_Select_Present.msbt
+            403_01
+    /G1_Fu/Select:
+        FU_Select_Present.msbt
+            403_01
+    /G2_Ge/Select:
+        GE_Select_Present.msbt
+            403_01
+    /G3_Ot/Select:
+        OT_Select_Present.msbt
+            403_01
+    /G4_An/Select:
+        AN_Select_Present.msbt
+            403_01
+
+TalkSNpc_XXxx.sarc.zs:
+    /fsl:
+        SP_fsl.msbt:
+            This is a new file. All 102 labels in it are brand new.
+        SP_fsl_alt.msbt:
+            This is a new file. All 13 labels in it are brand new.
+    /mol:
+        SP_mol.msbt:
+            This is a new file. All 102 labels in it are brand new.
+    /mob:
+        SP_mob.msbt:
+            This is a new file. All 72 labels in it are brand new.
+    /pge
+        SP_pge_02_Takeout.msbt: (~121 new labels)
+            028
+            029
+            029_1
+            029_2
+            029_3
+            029_4
+            031_1
+            031_2
+            031_3
+            031_4
+            031_5
+            034
+            034_a
+            034_b
+            034_c
+            034_d
+            035
+            035_a
+            035_b
+            035_c
+            035_d
+            035_1
+            035_2
+            036
+            036_a
+            036_b
+            036_c
+            036_d
+            037
+            038
+            039
+            040
+            041
+            042
+            042_a
+            042_b
+            043
+            044
+            045
+            047
+            062
+            062_a
+            062_b
+            062_c
+            062_d
+            062_e
+            098
+            099
+            100
+            101
+            102
+            103
+            104
+            105
+            106
+            107
+            108
+            109
+            110
+            111
+            112
+            113
+            114
+            115
+            116
+            117
+            118
+            119
+            120
+            121
+            122
+            123
+            124
+            125
+            126
+            127
+            128
+            128_1
+            128_2
+            128_3
+            128_4
+            129
+            130
+            131
+            132
+            133
+            134
+            135
+            136
+            2505
+            2505_0
+            2505_01
+            2505_02
+            2505_03
+            2506
+            2506_0
+            2506_01
+            2506_02
+            2506_03
+            2507
+            2507_0
+            2507_01
+            2507_02
+            2507_03
+            2508
+            2508_0
+            2508_01
+            2508_02
+            2508_03
+            2509
+            2509_0
+            2509_01
+            2509_02
+            2509_03
+            2510
+            2510_0
+            2510_01
+            2510_02
+            2510_03
+            Scoop
+            ScoopBye
+            3000
+    /tkk
+        SP_tkk_dream.msbt:
+            300
+            333
+
+TalkSys_XXxx.sarc.zs
+    SYS_Player.msbt:
+        962
+  
+LayoutMsg_XXxx.sarc.zs
+    Version.msbt
+        0001 (changed to include 3.0.0 at the end)
+
+
+
+
+
+
+
+
+
+            
+            
+            

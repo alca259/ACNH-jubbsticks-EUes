@@ -1,0 +1,180 @@
+
+---
+label: 002_03
+attribute: 0x0000000000000000
+---
+Paciente
+
+---
+label: 002_04
+attribute: 0x5E0100007C050000
+---
+Pro-pez-ional
+
+---
+label: 110_03
+attribute: 0x96050000AA050000
+---
+Inflad{{gender6 arg="[0,0,0]" m="o" f="a" n=""}}
+
+---
+label: 110_02
+attribute: 0xBC050000CA050000
+---
+Estallido
+
+---
+label: 110_01
+attribute: 0xE60500000A060000
+---
+Juguet{{gender6 arg="[0,0,0]" m="ón" f="ona" n=""}}
+
+---
+label: 110_00
+attribute: 0x1406000026060000
+---
+Rebotando
+
+---
+label: 111_00
+attribute: 0x3606000048060000
+---
+Esmeralda
+
+---
+label: 111_01
+attribute: 0x6C0600008A060000
+---
+Amatista
+
+---
+label: 111_02
+attribute: 0xA2060000B6060000
+---
+Rubí
+
+---
+label: 111_03
+attribute: 0xCA060000E2060000
+---
+Zafiro
+
+---
+label: 111_04
+attribute: 0xF00600000A070000
+---
+Plata
+
+---
+label: 071_01
+attribute: 0x2207000036070000
+---
+Segur{{gender6 arg="[0,0,0]" m="o" f="a" n=""}}
+
+---
+label: 071_02
+attribute: 0x4607000060070000
+---
+Avispa
+
+---
+label: 105_03
+attribute: 0x6E07000086070000
+---
+{{gender6 arg="[0,0,0]" m="El" f="La" n=""}} mejor
+
+---
+label: 113_00
+attribute: 0x6E07000086070000
+---
+Masa
+
+---
+label: 115_03
+attribute: 0x0000000000000000
+---
+Metódic{{gender6 arg="[0,0,0]" m="o" f="a" n=""}}
+
+---
+label: 115_00
+attribute: 0x0000000000000000
+---
+Ingenios{{gender6 arg="[0,0,0]" m="o" f="a" n=""}}
+
+---
+label: 115_02
+attribute: 0x0000000000000000
+---
+Naturaleza
+
+---
+label: 115_01
+attribute: 0x0000000000000000
+---
+Pioner{{gender6 arg="[0,0,0]" m="o" f="a" n=""}}
+
+---
+label: 115_04
+attribute: 0x0000000000000000
+---
+Enorme
+
+---
+label: 116_03
+attribute: 0x0000000000000000
+---
+Doloros{{gender6 arg="[0,0,0]" m="o" f="a" n=""}}
+
+---
+label: 116_00
+attribute: 0x0000000000000000
+---
+Buen{{gender6 arg="[0,0,0]" m="o" f="a" n=""}}
+
+---
+label: 116_02
+attribute: 0x0000000000000000
+---
+Inductor{{gender6 arg="[0,0,0]" m="" f="a" n=""}} de dolor
+
+---
+label: 116_01
+attribute: 0x0000000000000000
+---
+Maldit{{gender6 arg="[0,0,0]" m="o" f="a" n=""}}
+
+---
+label: 116_04
+attribute: 0x0000000000000000
+---
+Sedient{{gender6 arg="[0,0,0]" m="o" f="a" n=""}}
+
+---
+label: 114_03
+attribute: 0x0000000000000000
+---
+Llevar puesto
+
+---
+label: 114_00
+attribute: 0x0000000000000000
+---
+Cuestionable
+
+---
+label: 114_02
+attribute: 0x0000000000000000
+---
+Impresionante
+
+---
+label: 114_01
+attribute: 0x0000000000000000
+---
+Interesante
+
+---
+label: 114_04
+attribute: 0x0000000000000000
+---
+De moda
