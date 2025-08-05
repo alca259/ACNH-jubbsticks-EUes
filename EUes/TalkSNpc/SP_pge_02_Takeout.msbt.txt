@@ -1,6 +1,6 @@
 
 ---
-label: SCup
+label: Scoop
 attribute: 0x00000000
 ---
 {{string:Dots}}{{anim:Eh target="actor" targetSpec=""}}{{delay8}}{{uppercaseNextWord}}{{string:PlayerName}}.{{pageBreak}}
@@ -10,7 +10,7 @@ attribute: 0x00000000
 Por favor{{string:Dots}}toma esta receta para una {{color id="1"}}pala plateada{{color id="-1"}}{{string:Dots}}
 
 ---
-label: SCupBye
+label: ScoopBye
 attribute: 0x00000000
 ---
 {{string:Dots}}Gracias{{string:Dots}} de nuevo.
