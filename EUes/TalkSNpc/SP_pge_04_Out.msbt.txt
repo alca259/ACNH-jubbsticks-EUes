@@ -4,5 +4,5 @@ label: 007
 attribute: 0x00000000
 ---
 Coo, {{delay8}}{{string:PlayerName}}{{string:Dots}}{{delay20}}{{anim:Serious target="actor" targetSpec=""}}
-I need to ask you a favor.{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}Since opening the café, {{delay8}}I haven't had the chance to go looking for gyroids.{{pageBreak}}If you find any time to{{string:Dots}}would you mind {{delay20}}bringing me a{{anim:QuestionMark target="actor" targetSpec=""}} {{color id="1"}}gyroid{{color id="-1"}} sometime today?{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Coo{{string:Dots}}{{delay8}} I trust you'll be able to help.{{10:4}}{{delay8}} 
-Thanks.
+Necesito pedirte un favor.{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}Desde que abrí el café, {{delay8}}no he tenido tiempo de ir en busca de giroides.{{pageBreak}}Si en algún momento{{string:Dots}} pudieras {{delay20}}traerme un{{anim:QuestionMark target="actor" targetSpec=""}} {{color id="1"}}giroide{{color id="-1"}} hoy, ¿te importaría?{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Coo{{string:Dots}}{{delay8}} Confío en que podrás ayudarme.{{10:4}}{{delay8}}
+Gracias.

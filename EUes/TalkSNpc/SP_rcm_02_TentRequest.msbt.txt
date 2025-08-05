@@ -3,22 +3,29 @@
 label: 057_01
 attribute: 0x00000000
 ---
-{{anim:Hesitate target="actor" targetSpec=""}}Since we have all the materials we need and can start construction on the shop{{string:Dots}}
+{{anim:Hesitate target="actor" targetSpec=""}}Ya que tenemos todos los materiales necesarios, podemos comenzar la construcción de la tienda{{string:Dots}}
 
 ---
 label: 059_01
 attribute: 0x00000000
 ---
-{{anim:Shocked target="actor" targetSpec=""}}Oh!{{delay8}} But it looks like your pockets are full.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Go make some room, and I'll hand you a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}shop construction kit{{color id="-1"}} so you can find a {{anim:Smiling target="actor" targetSpec=""}}spot for it!
+{{anim:Shocked target="actor" targetSpec=""}}¡Oh!{{delay8}} Parece que tienes los bolsillos llenos.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Haz algo de espacio y te daré {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}kit de construcción para la tienda{{color id="-1"}}, así podrás encontrar
+{{anim:Smiling target="actor" targetSpec=""}}un buen lugar para colocarla.
+
 
 ---
 label: 059_02
 attribute: 0x00000000
 ---
-{{anim:BigSmile target="actor" targetSpec=""}}Looks like you made some room! Here you go!
+{{anim:BigSmile target="actor" targetSpec=""}}¡Veo que hiciste algo de espacio! ¡Aquí tienes!
 
 ---
 label: 060
 attribute: 0x00000000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hold on{{string:Dots}}{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}I wanted to give you some {{color id="1"}}rewards{{color id="-1"}} as thanks for helping,{{delay8}} but you don't have{{anim:Oops target="actor" targetSpec=""}} enough room in your pockets.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}If you'll make some space for {{color id="1"}}a few more things{{color id="-1"}}, I'll be ready to {{anim:Smiling target="actor" targetSpec=""}}accept your donation of materials!
+{{anim:Thinking target="actor" targetSpec=""}}Un momento{{string:Dots}}{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Quería darte algunas {{color id="1"}}recompensas{{color id="-1"}} como agradecimiento por tu ayuda,{{delay8}} pero no tienes
+{{anim:Oops target="actor" targetSpec=""}} suficiente espacio en los bolsillos.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Si haces hueco para {{color id="1"}}algunas cositas más{{color id="-1"}}, estaré listo para 
+{{anim:Smiling target="actor" targetSpec=""}}aceptar tu donación de materiales.

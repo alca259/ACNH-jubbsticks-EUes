@@ -3,46 +3,51 @@
 label: 709
 attribute: 0x00000000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}I hope you're all taking full
-advantage of your island time!{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Just remember, {{delay20}}if you push yourself
-too hard, you'll wind up exhausted.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}So, please take a break from time to
-time.{{delay20}} {{anim:Greeting target="actor" targetSpec=""}}It's important to pace yourself!
+{{anim:Smiling target="actor" targetSpec=""}}¡Espero que estés aprovechando al máximo tu tiempo en la isla!{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Solo recuerda que, {{delay20}}si te esfuerzas demasiado, acabarás agotado.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Así que, por favor, tomate un descanso de vez en cuando.{{delay20}}
+{{anim:Greeting target="actor" targetSpec=""}}¡Es importante dosificar tu energía!
 
 ---
 label: 710
 attribute: 0x00000000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Now for today's announcements{{string:Dots}}
+{{anim:Thinking target="actor" targetSpec=""}}Y ahora, pasamos a los anuncios del día{{string:Dots}}
 
 ---
 label: 711
 attribute: 0x00000000
 ---
-{{anim:Greeting target="subNpc" targetSpec=""}}{{delay40}}Hey,{{delay8}} sis!
+{{anim:Greeting target="subNpc" targetSpec=""}}{{delay40}}¡Ey,{{delay8}} hermanit{{gender2 m="o" f="a"}}!
 
 ---
 label: 712
 attribute: 0x00000000
 ---
-Is it really you?
+¿Eres realmente tú?
 
 ---
 label: 713
 attribute: 0x00000000
 ---
-{{anim:Frantic target="actor" targetSpec=""}}Oh, um, sorry everyone!{{delay8}}
-{{anim:Nodding target="actor" targetSpec=""}}That's all for now, {{anim:Greeting target="actor" targetSpec=""}}have a great day!
+{{anim:Frantic target="actor" targetSpec=""}}¡Oh, eh, ¡perdón a todos!{{delay8}}
+{{anim:Nodding target="actor" targetSpec=""}}Eso es todo por hoy, {{anim:Greeting target="actor" targetSpec=""}}¡que tengáis un gran día!
 
 ---
 label: 990
 attribute: 0x00000000
 ---
-{{anim:Shocked target="actor" targetSpec=""}}Ohh!{{10:4}}
-{{anim:Oops target="actor" targetSpec=""}}I almost forgot!{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}I recently came across a bundle of five unique festive recipes.{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}I haven't seen anything like them before, {{delay8}}but they're super {{anim:BigSmile target="actor" targetSpec=""}}cute!{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Just one moment{{string:Dots}}
+{{anim:Shocked target="actor" targetSpec=""}}¡Ohh!{{10:4}}
+{{anim:Oops target="actor" targetSpec=""}}¡Casi se me olvida!{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Hace poco encontré un lote con cinco recetas festivas únicas.{{pageBreak}}
+{{anim:Thinking target="actor" targetSpec=""}}Nunca había visto nada igual, {{delay8}}¡y son súper {{anim:BigSmile target="actor" targetSpec=""}}monas!{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Un momentito{{string:Dots}}
 
 ---
 label: 991
 attribute: 0x00000000
 ---
-{{anim:HappyFlower target="actor" targetSpec=""}}As a special treat for today,{{delay8}} I've just sent all {{color id="1"}}DIY Recipes{{color id="-1"}} app users this {{delay8}}special set of recipes{{anim:Smiling target="actor" targetSpec=""}}.{{pageBreak}}{{anim:HappyDance target="actor" targetSpec=""}}Happy holidays, {{delay8}}everyone!{{delay20}}
-That's all for now!
+{{anim:HappyFlower target="actor" targetSpec=""}}Como detalle especial por hoy,{{delay8}} acabo de enviar a todos los usuarios de la app {{color id="1"}}Recetas DIY{{color id="-1"}} este {{delay8}}conjunto especial de recetas
+{{anim:Smiling target="actor" targetSpec=""}}.{{pageBreak}}
+{{anim:HappyDance target="actor" targetSpec=""}}¡Felices fiestas a todos!{{delay20}}
+¡Eso es todo por ahora!

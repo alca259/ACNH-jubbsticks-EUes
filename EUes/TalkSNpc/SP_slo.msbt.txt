@@ -3,183 +3,197 @@
 label: 312
 attribute: 0x00000000
 ---
-{{anim:Hello target="actor" targetSpec=""}}Hiya, {{delay40}}{{string:PlayerName}}!{{pageBreak}}{{anim:Hesitate target="actor" targetSpec=""}}I have something that's{{delay40}}{{anim:Worried target="actor" targetSpec=""}} not-so-happy{{delay8}} to tell you,{{delay20}} but{{string:Dots}}{{delay20}}{{anim:Serious target="actor" targetSpec=""}} please don't get upset,{{delay20}} okay?{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}I've noticed that{{delay8}} here on {{string:IslandName}}, {{delay40}}the {{color id="1"}}bamboo trees{{color id="-1"}}{{anim:Negative target="actor" targetSpec=""}} aren't doing so great.{{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}They grow up nice {{delay40}}and tall,{{anim:SadSpiral target="actor" targetSpec=""}}{{delay8}} but they only sprout{{delay20}} a single shoot.{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}Usually,{{delay8}} bamboo trees sprout lots of shoots over time.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}If you've tried growing{{delay20}} lots of {{color id="1"}}bamboo shoots{{color id="-1"}},{{delay20}} you may have noticed this {{delay20}}already.{{pageBreak}}All that to say,{{delay40}}{{anim:SmugFace target="actor" targetSpec=""}} I'm offering a new bamboo cultivation service!{{pageBreak}}{{anim:HappyFlower target="actor" targetSpec=""}}For only {{color id="1"}}3,000 Bells{{color id="-1"}}, I can cultivate any {{color id="1"}}young bamboo tree{{color id="-1"}} for you,{{delay40}}{{anim:BigSmile target="actor" targetSpec=""}} and produce lots of {{color id="1"}}bamboo shoots{{color id="-1"}}!{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Of course,{{delay8}} the process will {{delay20}}take some time,{{anim:Nodding target="actor" targetSpec=""}} so I'll mail shoots {{delay20}}to you after they're happy {{delay20}}{{anim:FaintSmile target="actor" targetSpec=""}}and ready.{{pageBreak}}{{anim:Greeting target="actor" targetSpec=""}}I hope you'll use this new service of mine sometime!
+{{anim:Hello target="actor" targetSpec=""}}¡Holaaa, {{delay40}}{{string:PlayerName}}!{{pageBreak}}
+{{anim:Hesitate target="actor" targetSpec=""}}Tengo algo {{delay40}}{{anim:Worried target="actor" targetSpec=""}}no tan alegre{{delay8}} que contarte,{{delay20}} pero{{string:Dots}}{{delay20}}{{anim:Serious target="actor" targetSpec=""}} por favor no te disgustes, ¿vale?{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}He notado que{{delay8}} aquí en {{string:IslandName}}, {{delay40}}los {{color id="1"}}bambúes{{color id="-1"}}{{anim:Negative target="actor" targetSpec=""}} no están creciendo muy bien.{{pageBreak}}
+{{anim:ShyBoy target="actor" targetSpec=""}}Se hacen altos y bonitos {{delay40}},{{anim:SadSpiral target="actor" targetSpec=""}}{{delay8}} pero solo brota un único retoño.{{pageBreak}}
+{{anim:Thinking target="actor" targetSpec=""}}Normalmente,{{delay8}} los bambúes producen muchos brotes con el tiempo.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Si has intentado cultivar{{delay20}} varios {{color id="1"}}brotes de bambú{{color id="-1"}},{{delay20}} quizá ya te hayas dado cuenta.{{pageBreak}}Dicho eso,{{delay40}}{{anim:SmugFace target="actor" targetSpec=""}} ¡estoy ofreciendo un nuevo servicio de cultivo de bambú!{{pageBreak}}
+{{anim:HappyFlower target="actor" targetSpec=""}}Por solo {{color id="1"}}3.000 bayas{{color id="-1"}}, puedo cultivar cualquier {{color id="1"}}bambú joven{{color id="-1"}} para ti,{{delay40}}{{anim:BigSmile target="actor" targetSpec=""}} ¡y sacar montones de {{color id="1"}}brotes de bambú{{color id="-1"}}!{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Claro que{{delay8}} el proceso {{delay20}}llevará algo de tiempo,{{anim:Nodding target="actor" targetSpec=""}} así que te enviaré los brotes {{delay20}}por correo cuando estén felices {{delay20}}{{anim:FaintSmile target="actor" targetSpec=""}}y listos.{{pageBreak}}
+{{anim:Greeting target="actor" targetSpec=""}}¡Espero que utilices mi nuevo servicio algún día!
 
 ---
 label: 313
 attribute: 0x08000000
 ---
-{{anim:Smiling target="mainNpc" targetSpec=""}}I'm so happy to {{delay8}}see you again!{{delay20}}
-{{anim:QuestionMark target="mainNpc" targetSpec=""}}What can I do for you?
+{{anim:Smiling target="mainNpc" targetSpec=""}}¡Qué alegría {{delay8}}verte de nuevo!{{delay20}}
+{{anim:QuestionMark target="mainNpc" targetSpec=""}}¿En qué puedo ayudarte?
 
 ---
 label: 313_a
 attribute: 0x00000000
 ---
-I'm here to shop!
+¡Estoy aquí para comprar!
 
 ---
 label: 313_b
 attribute: 0x00000000
 ---
-Let's talk weeds!
+¡Hablemos de los hierbajos!
 
 ---
 label: 313_c
 attribute: 0x00000000
 ---
-Bamboo cultivation!
+¡Cultivo de bambú!
 
 ---
 label: 313_d
 attribute: 0x00000000
 ---
-Weeding service...
+Servicio de limpieza de hierbajos...
 
 ---
 label: 313_e
 attribute: 0x00000000
 ---
-Nothing.
+Nada.
 
 ---
 label: 314
 attribute: 0x08000000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}I'd be happy to know{{delay8}} what I can do
-{{delay20}}for you today.
+{{anim:FaintSmile target="actor" targetSpec=""}}Estaría encantado de saber{{delay8}} en qué puedo ayudarte
+{{delay20}}hoy.
 
 ---
 label: 314_a
 attribute: 0x00000000
 ---
-I'm here to shop!
+¡Estoy aquí para comprar!
 
 ---
 label: 314_b
 attribute: 0x00000000
 ---
-Let's talk weeds!
+¡Hablemos de los hierbajos!
 
 ---
 label: 314_c
 attribute: 0x00000000
 ---
-Bamboo cultivation!
+¡Cultivo de bambú!
 
 ---
 label: 314_d
 attribute: 0x00000000
 ---
-Weeding service...
+Servicio de limpieza de hierbajos...
 
 ---
 label: 314_e
 attribute: 0x00000000
 ---
-Nothing.
+Nada
 
 ---
 label: 315
 attribute: 0x08000000
 ---
-Can I help{{delay8}}{{anim:QuestionMark target="mainNpc" targetSpec=""}} with anything else?
+¿Puedo ayudarte{{delay8}}{{anim:QuestionMark target="mainNpc" targetSpec=""}} con algo más?
 
 ---
 label: 315_a
 attribute: 0x00000000
 ---
-Show me your stock!
+¡Enseñame qué vendes!
 
 ---
 label: 315_b
 attribute: 0x00000000
 ---
-Let's talk weeds!
+¡Hablemos de los hierbajos!
 
 ---
 label: 315_c
 attribute: 0x00000000
 ---
-Bamboo cultivation!
+¡Cultivo de bambú!
 
 ---
 label: 315_d
 attribute: 0x00000000
 ---
-Weeding service...
+Servicio de limpieza de hierbajos...
 
 ---
 label: 315_e
 attribute: 0x00000000
 ---
-Nothing.
+Nada
 
 ---
 label: 316
 attribute: 0x00000000
 ---
-{{anim:BigSmile target="actor" targetSpec=""}}Of course!{{delay20}}
-{{anim:QuestionMark target="actor" targetSpec=""}}And which lucky {{color id="1"}}young bamboo tree{{color id="-1"}} might I cultivate for you today?
+{{anim:BigSmile target="actor" targetSpec=""}}¡Claro que sí!{{delay20}}
+{{anim:QuestionMark target="actor" targetSpec=""}}¿Y qué {{color id="1"}}bambú joven{{color id="-1"}} afortunado quieres que cultive hoy?
 
 ---
 label: 316_01
 attribute: 0x00000000
 ---
-{{anim:Oops target="actor" targetSpec=""}}Ah,{{delay8}} did you change your mind?{{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}No worries,{{delay8}} I'll be here all day in case you decide to {{anim:Nodding target="actor" targetSpec=""}}change it again.
+{{anim:Oops target="actor" targetSpec=""}}Ah,{{delay8}} ¿cambiaste de opinión?{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}No pasa nada,{{delay8}} estaré aquí todo el día por si decides {{anim:Nodding target="actor" targetSpec=""}}volver a cambiarla.
 
 ---
 label: 317
 attribute: 0x00000000
 ---
-{{anim:Laughing target="actor" targetSpec=""}}That's not a {{color id="1"}}young bamboo tree{{color id="-1"}},{{delay8}} silly!
+{{anim:Laughing target="actor" targetSpec=""}}¡Eso no es un {{color id="1"}}bambú joven{{color id="-1"}}!{{delay8}} ¡Qué despiste!
 
 ---
 label: 318
 attribute: 0x00000000
 ---
-{{anim:Eh target="actor" targetSpec=""}}Oh, {{delay20}}I can't cultivate shoots effectively{{anim:Negative target="actor" targetSpec=""}} with a {{color id="1"}}nursery bamboo{{color id="-1"}} tree.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}If you have any {{color id="1"}}bamboo trees{{color id="-1"}} that have grown just a little bit, {{delay20}}{{anim:Nodding target="actor" targetSpec=""}}those would probably work best.{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}Don't bring an adult tree,{{delay8}} though! {{10:4}}{{delay8}}{{anim:Negative target="actor" targetSpec=""}} That'd be too big to take with me{{string:Dots}}
+{{anim:Eh target="actor" targetSpec=""}}Oh, {{delay20}}no puedo cultivar brotes de manera efectiva{{anim:Negative target="actor" targetSpec=""}} a partir de un {{color id="1"}}brote de bambú{{color id="-1"}}.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Si tienes algún {{color id="1"}}bambú{{color id="-1"}} que haya crecido un poquito, {{delay20}}{{anim:Nodding target="actor" targetSpec=""}}probablemente ese funcionaría mucho mejor.{{pageBreak}}
+{{anim:Laughing target="actor" targetSpec=""}}¡Pero no traigas un bambú adulto!{{delay8}} {{10:4}}{{delay8}}{{anim:Negative target="actor" targetSpec=""}} Sería demasiado grande para que me lo lleve{{string:Dots}}
 
 ---
 label: 319
 attribute: 0x00000000
 ---
-{{anim:Eh target="actor" targetSpec=""}}Oh, {{delay20}}I can't cultivate shoots effectively{{anim:Negative target="actor" targetSpec=""}} with a fully-grown tree.{{anim:Explain target="actor" targetSpec=""}}If you have any {{color id="1"}}bamboo trees{{color id="-1"}} that have grown just a little bit, {{delay20}}{{anim:Nodding target="actor" targetSpec=""}}those would probably work best.{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}Don't bring a nursery tree,{{delay8}} though! {{10:4}}{{delay8}}{{anim:Worried target="actor" targetSpec=""}}It wouldn't last long enough to take with me{{string:Dots}}
+{{anim:Eh target="actor" targetSpec=""}}Oh, {{delay20}}no puedo cultivar brotes de manera efectiva{{anim:Negative target="actor" targetSpec=""}} si se trata de un árbol completamente desarrollado.{{anim:Explain target="actor" targetSpec=""}}Si tienes algún {{color id="1"}}bambú{{color id="-1"}} que haya crecido solo un poquito, {{delay20}}{{anim:Nodding target="actor" targetSpec=""}}probablemente funcionaría mucho mejor.{{pageBreak}}
+{{anim:Laughing target="actor" targetSpec=""}}¡Pero no traigas uno de vivero!{{delay8}} {{10:4}}{{delay8}}{{anim:Worried target="actor" targetSpec=""}}No aguantaría lo suficiente como para que me lo lleve{{string:Dots}}
 
 ---
 label: 320
 attribute: 0x02000000
 ---
-{{anim:HappyFlower target="actor" targetSpec=""}}This one looks real{{delay8}} happy and {{delay20}}spry!{{10:4}}{{delay8}}
-{{anim:Nodding target="actor" targetSpec=""}}It'll be {{color id="1"}}3,000 Bells{{color id="-1"}} to cultivate.
-Is that {{delay20}}{{anim:QuestionMark target="actor" targetSpec=""}}alright with you?
+{{anim:HappyFlower target="actor" targetSpec=""}}¡Este se ve muy {{delay8}}feliz y {{delay20}}vivaz!{{10:4}}{{delay8}}
+{{anim:Nodding target="actor" targetSpec=""}}Cultivarlo costará {{color id="1"}}3.000 bayas{{color id="-1"}}.
+¿Te parece {{delay20}}{{anim:QuestionMark target="actor" targetSpec=""}}bien?
 
 ---
 label: 320_a
 attribute: 0x00000000
 ---
-Yup!
+¡Sí!
 
 ---
 label: 320_b
 attribute: 0x00000000
 ---
-Actually, nevermind.
+En realidad, no importa.
 
 ---
 label: 321
 attribute: 0x00000000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}All good. Let me know if you change your mind.
+{{anim:FaintSmile target="actor" targetSpec=""}}Todo bien. Avísame si cambias de opinión.
 
 ---
 label: 322
 attribute: 0x00000000
 ---
-Aw,{{delay8}}{{anim:BigSmile target="actor" targetSpec=""}} thanks!{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}I'll try to have some {{color id="1"}}bamboo shoots{{color id="-1"}} ready for you soon,{{delay8}} {{anim:Hesitate target="actor" targetSpec=""}}but please know it can take more than a day. 
+Aiss,{{delay8}}{{anim:BigSmile target="actor" targetSpec=""}} ¡gracias!{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Intentaré tener algunos {{color id="1"}}brotes de bambú{{color id="-1"}} listos para ti pronto,{{delay8}} {{anim:Hesitate target="actor" targetSpec=""}}pero ten en cuenta que puede tardar más de un día.
 
 ---
 label: 323
 attribute: 0x00000000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}{{uppercaseNextWord}}{{string:PlayerName}}, I think you've already given me bamboo to cultivate today.{{pageBreak}}{{anim:Blushing target="actor" targetSpec=""}}I appreciate your business,{{delay8}} but please give me time to focus on this order first.
+{{anim:Thinking target="actor" targetSpec=""}}{{uppercaseNextWord}}{{string:PlayerName}}, creo que ya me diste bambú para cultivar hoy.{{pageBreak}}
+{{anim:Blushing target="actor" targetSpec=""}}Agradezco tu confianza,{{delay8}} pero por favor dame tiempo para concentrarme en este encargo primero.

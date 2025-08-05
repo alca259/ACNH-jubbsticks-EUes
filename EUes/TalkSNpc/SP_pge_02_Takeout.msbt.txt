@@ -1,294 +1,312 @@
 
 ---
-label: Scoop
+label: SCup
 attribute: 0x00000000
 ---
-{{string:Dots}}{{anim:Eh target="actor" targetSpec=""}}{{delay8}}{{uppercaseNextWord}}{{string:PlayerName}}.{{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}I believe with this {{color id="1"}}{{125:0 arg="0x0000"}}{{color id="-1"}}{{string:Dots}}
-you've now given me one of each type of gyroid.{{pageBreak}}{{anim:Silent target="actor" targetSpec=""}}I want to thank you{{delay20}} for your kindness.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}And I was thinking{{string:Dots}}you could probably use a better shovel{{delay8}} since you dig up so many{{anim:Smiling target="actor" targetSpec=""}} gyroids.{{pageBreak}}Please{{string:Dots}}take this recipe for a
-{{color id="1"}}silver shovel{{color id="-1"}}{{string:Dots}}
+{{string:Dots}}{{anim:Eh target="actor" targetSpec=""}}{{delay8}}{{uppercaseNextWord}}{{string:PlayerName}}.{{pageBreak}}
+{{anim:FaintSmile target="actor" targetSpec=""}}Creo que con este {{color id="1"}}{{125:0 arg="0x0000"}}{{color id="-1"}}{{string:Dots}} ya me has entregado uno giroide de cada tipo.{{pageBreak}}
+{{anim:Silent target="actor" targetSpec=""}}Quiero darte las gracias{{delay20}} por tu generosidad.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Y estaba pensando{{string:Dots}}que tal vez te vendría bien una pala mejor{{delay8}} ya que desentierras tantos{{anim:Smiling target="actor" targetSpec=""}} giroides.{{pageBreak}}
+Por favor{{string:Dots}}toma esta receta para una {{color id="1"}}pala plateada{{color id="-1"}}{{string:Dots}}
 
 ---
-label: ScoopBye
+label: SCupBye
 attribute: 0x00000000
 ---
-{{string:Dots}}Thanks again.
+{{string:Dots}}Gracias{{string:Dots}} de nuevo.
 
 ---
 label: 031
 attribute: 0x54585432
 ---
-{{anim:Eh target="actor" targetSpec=""}}Coo!
+{{anim:Eh target="actor" targetSpec=""}}Cu!
 
 ---
 label: 032
 attribute: 0x9E3C0000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Thanks, but{{string:Dots}}I'm already a bit absorbed with the last gyroid you gave me today{{string:Dots}}
+{{anim:Thinking target="actor" targetSpec=""}}Gracias, pero{{string:Dots}}ya estoy bastante absorto con el último giroide que me diste hoy{{string:Dots}}
 
 ---
 label: 033
 attribute: 0x00000000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}If you'd like to place an order instead, you're welcome to{{string:Dots}}{{delay40}}
-Coo{{string:Dots}}
+{{anim:FaintSmile target="actor" targetSpec=""}}Si prefieres hacer un pedido, estás en tu derecho{{string:Dots}}{{delay40}}
+Cu{{string:Dots}}
 
 ---
 label: 034
 attribute: 0x06000000
 ---
-{{string:Dots}}What can I do for you?
+{{string:Dots}}¿Qué puedo hacer por ti?
 
 ---
 label: 034_a
 attribute: 0x00000000
 ---
-To-go coffee, please!
+¡Café para llevar, por favor!
 
 ---
 label: 034_b
 attribute: 0x00000000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}I brought a gyroid!
+{{anim:Nodding target="actor" targetSpec=""}}¡He traido un giroide!
 
 ---
 label: 034_c
 attribute: 0x00000000
 ---
-Tell me about this!
+¡Cuéntame sobre esto!
 
 ---
 label: 034_d
 attribute: 0x00000000
 ---
-{{anim:Negative target="actor" targetSpec=""}}Nothing.
+{{anim:Negative target="actor" targetSpec=""}}Nada.
 
 ---
 label: 035
 attribute: 0x06000000
 ---
-{{string:Dots}}Coffee to go?
+{{string:Dots}}¿Café para llevar?
 
 ---
 label: 035_a
 attribute: 0x00000000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}Yes, please!
+{{anim:Nodding target="actor" targetSpec=""}}¡Si, por favor!
 
 ---
 label: 035_b
 attribute: 0x00000000
 ---
-{{anim:Negative target="actor" targetSpec=""}}Nope, here's a gyroid!
+{{anim:Negative target="actor" targetSpec=""}}¡No, aquí tienes un giroide!
 
 ---
 label: 035_c
 attribute: 0x00000000
 ---
-Tell me about this!
+¡Cuéntame sobre esto!
 
 ---
 label: 035_d
 attribute: 0x00000000
 ---
-I'm okay.
+Estoy bien.
 
 ---
 label: 036
 attribute: 0x06000000
 ---
-{{string:Dots}}How can I help?
+{{string:Dots}}¿Cómo puedo ayudar?
 
 ---
 label: 036_a
 attribute: 0x00000000
 ---
-I want coffee!
+¡Quiero café!
 
 ---
 label: 036_b
 attribute: 0x00000000
 ---
-I want to trade!
+¡Quiero intercambiar!
 
 ---
 label: 036_c
 attribute: 0x00000000
 ---
-Tell me about this!
+¡Cuéntame sobre esto!
 
 ---
 label: 036_d
 attribute: 0x00000000
 ---
-Nevermind.
+No importa.
 
 ---
 label: 062
 attribute: 0x08000000
 ---
-Hello, {{delay8}}{{string:PlayerName}}. {{delay20}} What can I do for you?
+Hola, {{delay8}}{{string:PlayerName}}. {{delay20}} ¿Qué puedo hacer por ti?
 
 ---
 label: 062_a
 attribute: 0x00000000
 ---
-Coffee, please!
+Café, ¡por favor!
 
 ---
 label: 062_b
 attribute: 0x00000000
 ---
-Need help?
+¿Necesitas ayuda?
 
 ---
 label: 062_c
 attribute: 0x00000000
 ---
-I brought a gyroid!
+¡He traido un giroide!
 
 ---
 label: 062_d
 attribute: 0x00000000
 ---
-Tell me about this!
+¡Cuéntame sobre esto!
 
 ---
 label: 062_e
 attribute: 0x00000000
 ---
-Nevermind.
+No importa.
 
 ---
 label: 040
 attribute: 0x00000000
 ---
-{{anim:Worried target="actor" targetSpec=""}}{{string:Dots}}That's not a gyroid.
+{{anim:Worried target="actor" targetSpec=""}}{{string:Dots}}Eso no es un giroide.
 
 ---
 label: 037
 attribute: 0x66000000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}{{string:Dots}}{{delay8}}Could I take a look?
+{{anim:FaintSmile target="actor" targetSpec=""}}{{string:Dots}}{{delay8}}¿Podría echar un vistazo?
 
 ---
 label: 038
 attribute: 0x66000000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}{{string:Dots}}{{delay40}}What is it?
+{{anim:FaintSmile target="actor" targetSpec=""}}{{string:Dots}}{{delay40}}¿Qué es?
 
 ---
 label: 039
 attribute: 0x66000000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}{{string:Dots}}{{delay8}}Did you bring a gyroid?
+{{anim:FaintSmile target="actor" targetSpec=""}}{{string:Dots}}{{delay8}}¿Trajiste un giroide?
 
 ---
 label: 099
 attribute: 0x9C010000
 ---
-{{anim:AbsentMindedness target="actor" targetSpec=""}}{{string:Dots}}Let me know if you grow one.
+{{anim:AbsentMindedness target="actor" targetSpec=""}}{{string:Dots}}Avísame si cultivas uno.
 
 ---
 label: 100
 attribute: 0xB0010000
 ---
-{{anim:Negative target="actor" targetSpec=""}}{{string:Dots}}This is a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}gyroid fragment{{color id="-1"}}.
-
+{{anim:Negative target="actor" targetSpec=""}}{{string:Dots}}Esto es un {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}fragmento de giroide{{color id="-1"}}.
 
 ---
 label: 042
 attribute: 0x02000000
 ---
-{{anim:HappyDance target="actor" targetSpec=""}}It's{{string:Dots}}{{wordArticle}}{{color id="1"}}{{125:0 arg="0x0000"}}{{color id="-1"}}!{{10:4}}{{delay8}}
-{{anim:FaintSmile target="actor" targetSpec=""}}{{string:Dots}}Would you mind if I share my 
-thoughts on this type of gyroid?
+{{anim:HappyDance target="actor" targetSpec=""}}¡Es{{string:Dots}}{{wordArticle}}{{color id="1"}}{{125:0 arg="0x0000"}}{{color id="-1"}}!{{10:4}}{{delay8}}  
+{{anim:FaintSmile target="actor" targetSpec=""}}{{string:Dots}}¿Te importaría que compartiera mis impresiones sobre este tipo de giroide?
 
 ---
 label: 042_a
 attribute: 0x00000000
 ---
-Tell me!
+¡Cuéntame!
 
 ---
 label: 042_b
 attribute: 0x00000000
 ---
-I'm busy.
+Ando con lío
 
 ---
 label: 043
 attribute: 0x00000000
 ---
-{{anim:HappyDance target="actor" targetSpec=""}}It's{{string:Dots}}{{wordArticle}}{{color id="1"}}{{125:0 arg="0x0000"}}{{color id="-1"}}!
+{{anim:HappyDance target="actor" targetSpec=""}}Es{{string:Dots}}{{wordArticle}}{{color id="1"}}{{125:0 arg="0x0000"}}{{color id="-1"}}!
 
 ---
 label: 047
 attribute: 0x00000000
 ---
-{{anim:BigSmile target="actor" targetSpec=""}}Of course!
+{{anim:BigSmile target="actor" targetSpec=""}}¡Por supuesto!
 
 ---
 label: 044
 attribute: 0x00000000
 ---
-{{string:Dots}}Thank you for giving this gyroid to me.
+{{string:Dots}}Gracias por darme este giroide.
 
 ---
 label: 045
 attribute: 0x00000000
 ---
-Very well.
-
+Muy bien.
 
 ---
 label: 101
 attribute: 0x98090000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Of the melodic types, the 
-{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}xylophoid{{color id="-1"}} is certainly one of the most percussive.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}It emits its wonderful sound 
-{{anim:Worried target="actor" targetSpec=""}}by striking its own side rapidly{{string:Dots}}{{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}Fortunately,{{delay8}} gyroids seem unable to feel pain, {{delay8}}and the {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}xylophoid{{color id="-1"}}'s exterior is especially durable.
+{{anim:Thinking target="actor" targetSpec=""}}De los tipos melódicos, el  
+{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}xilofóide{{color id="-1"}} es sin duda uno de los más percusivos.{{pageBreak}}  
+{{anim:Nodding target="actor" targetSpec=""}}Emite su maravilloso sonido  
+{{anim:Worried target="actor" targetSpec=""}}al golpear rápidamente su propio costado{{string:Dots}}{{pageBreak}}  
+{{anim:FaintSmile target="actor" targetSpec=""}}Por suerte,{{delay8}} los giroides parecen no sentir dolor, {{delay8}}y el exterior del {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}xilofóide{{color id="-1"}} es especialmente resistente.
 
 ---
 label: 102
 attribute: 0x2A020000
 ---
 {{anim:Nodding target="actor" targetSpec=""}}The {{color id="1"}}babbloid{{color id="-1"}} loves to take 
-center stage.{{pageBreak}}{{anim:HappyFlower target="actor" targetSpec=""}}It is an eloquent performer, {{delay8}}expressing itself through its every motion.{{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}Because of this,{{delay8}} some might label it as somewhat of a{{delay20}} "prima donna."{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}But{{delay20}} what are the performing arts for{{string:Dots}}{{anim:QuestionMark target="actor" targetSpec=""}}if not performances?{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Coo{{string:Dots}}{{10:4}}I find myself impressed by
+center stage.{{pageBreak}}
+{{anim:HappyFlower target="actor" targetSpec=""}}It is an eloquent performer, {{delay8}}expressing itself through its every motion.{{pageBreak}}
+{{anim:ShyBoy target="actor" targetSpec=""}}Because of this,{{delay8}} some might label it as somewhat of a{{delay20}} "prima donna."{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}But{{delay20}} what are the performing arts for{{string:Dots}}{{anim:QuestionMark target="actor" targetSpec=""}}if not performances?{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Cu{{string:Dots}}{{10:4}}I find myself impressed by
 the {{color id="1"}}babbloid{{color id="-1"}}'s {{anim:Nodding target="actor" targetSpec=""}}passion.
 
 ---
 label: 103
 attribute: 0x2A020000
 ---
-{{anim:AbsentMindedness target="actor" targetSpec=""}}Coo{{string:Dots}}when I first encountered an {{color id="1"}}arfoid{{color id="-1"}}{{string:Dots}}{{pageBreak}}{{anim:TakenAback target="actor" targetSpec=""}}It startled me{{delay8}} with its strange noise.{{10:4}}{{delay8}}{{anim:Thinking target="actor" targetSpec=""}} And what's stranger is its dog-like appearance.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Coo{{string:Dots}}{{anim:Negative target="actor" targetSpec=""}}of course, dogs don't really make these noises.{{delay20}} They use their words,{{delay20}}{{anim:Negative target="actor" targetSpec=""}} like anyone else would.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}While they're a bit{{delay8}}{{anim:ShyBoy target="actor" targetSpec=""}} strange, 
-I still find {{color id="1"}}arfoids{{color id="-1"}} and their little noises endearing.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}I'll have to give this one a listen later.
-
+{{anim:AbsentMindedness target="actor" targetSpec=""}}Cu{{string:Dots}}when I first encountered an {{color id="1"}}arfoid{{color id="-1"}}{{string:Dots}}{{pageBreak}}
+{{anim:TakenAback target="actor" targetSpec=""}}It startled me{{delay8}} with its strange noise.{{10:4}}{{delay8}}{{anim:Thinking target="actor" targetSpec=""}} And what's stranger is its dog-like appearance.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Cu{{string:Dots}}{{anim:Negative target="actor" targetSpec=""}}of course, dogs don't really make these noises.{{delay20}} They use their words,{{delay20}}{{anim:Negative target="actor" targetSpec=""}} like anyone else would.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}While they're a bit{{delay8}}{{anim:ShyBoy target="actor" targetSpec=""}} strange, 
+I still find {{color id="1"}}arfoids{{color id="-1"}} and their little noises endearing.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}I'll have to give this one a listen later.
 
 ---
 label: 104
 attribute: 0x6E020000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Coo{{string:Dots}}{{delay40}}
-{{anim:Nodding target="actor" targetSpec=""}}The {{color id="1"}}whistloid{{color id="-1"}} makes a great leader.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}It has a high register {{delay20}}
-and crystal-clear phonation.{{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}Which is to say{{string:Dots}}{{delay20}}
-{{anim:FaintSmile target="actor" targetSpec=""}}It carries a melody exceptionally well.{{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}As soothing as it is to admire, {{delay8}}
-it is also{{anim:Nodding target="actor" targetSpec=""}} quite fragile.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Rest assured{{string:Dots}}{{delay8}}
+{{anim:FaintSmile target="actor" targetSpec=""}}Cu{{string:Dots}}{{delay40}}
+{{anim:Nodding target="actor" targetSpec=""}}The {{color id="1"}}whistloid{{color id="-1"}} makes a great leader.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}It has a high register {{delay20}}
+and crystal-clear phonation.{{pageBreak}}
+{{anim:ShyBoy target="actor" targetSpec=""}}Which is to say{{string:Dots}}{{delay20}}
+{{anim:FaintSmile target="actor" targetSpec=""}}It carries a melody exceptionally well.{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}As soothing as it is to admire, {{delay8}}
+it is also{{anim:Nodding target="actor" targetSpec=""}} quite fragile.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Rest assured{{string:Dots}}{{delay8}}
 I will take good {{anim:Smiling target="actor" targetSpec=""}}care of it.
-
 
 ---
 label: 105
 attribute: 0xAA020000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}The {{color id="1"}}bwongoid{{color id="-1"}}'s {{delay8}}pitter-patter resembles that of bongo drums. {{pageBreak}}While this sound is cute,{{delay8}} it means the {{color id="1"}}bwongoid{{color id="-1"}} {{anim:Worried target="actor" targetSpec=""}}often isn't as desirable as other percussive gyroids{{string:Dots}}{{pageBreak}}{{anim:Silent target="actor" targetSpec=""}}Coo{{string:Dots}}many believe that gyroids are simply not predictable enough for a precise sound like that to {{delay20}}"fit in."{{pageBreak}}{{anim:Serious target="actor" targetSpec=""}}I{{delay8}} beg to differ.{{delay20}} The {{color id="1"}}bwongoid{{color id="-1"}} is a beautiful agent of chaos with its random thrums.{{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}And I have solace{{delay8}} knowing that its decorative pattern often earns it a spot on shelves anyway.
+{{anim:Nodding target="actor" targetSpec=""}}The {{color id="1"}}bwongoid{{color id="-1"}}'s {{delay8}}pitter-patter resembles that of bongo drums. {{pageBreak}}While this sound is cute,{{delay8}} it means the {{color id="1"}}bwongoid{{color id="-1"}} {{anim:Worried target="actor" targetSpec=""}}often isn't as desirable as other percussive gyroids{{string:Dots}}{{pageBreak}}
+{{anim:Silent target="actor" targetSpec=""}}Cu{{string:Dots}}many believe that gyroids are simply not predictable enough for a precise sound like that to {{delay20}}"fit in."{{pageBreak}}
+{{anim:Serious target="actor" targetSpec=""}}I{{delay8}} beg to differ.{{delay20}} The {{color id="1"}}bwongoid{{color id="-1"}} is a beautiful agent of chaos with its random thrums.{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}And I have solace{{delay8}} knowing that its decorative pattern often earns it a spot on shelves anyway.
 
 ---
 label: 106
 attribute: 0xAA020000
 ---
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}Despite the {{color id="1"}}twangoid{{color id="-1"}}'s spooky looks, {{delay8}}it is one of the most special gyroids.{{pageBreak}}{{anim:QuestionMark target="actor" targetSpec=""}}"Why?" {{delay8}}you may ask?{{10:4}}{{delay8}}{{anim:Nodding target="actor" targetSpec=""}} Well, {{delay8}}it is 
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Despite the {{color id="1"}}twangoid{{color id="-1"}}'s spooky looks, {{delay8}}it is one of the most special gyroids.{{pageBreak}}
+{{anim:QuestionMark target="actor" targetSpec=""}}"Why?" {{delay8}}you may ask?{{10:4}}{{delay8}}{{anim:Nodding target="actor" targetSpec=""}} Well, {{delay8}}it is 
 the only gyroid with the ability{{delay8}} 
-to play chords.{{pageBreak}}{{anim:HappyFlower target="actor" targetSpec=""}}{{color id="1"}}Twangoids{{color id="-1"}} tend to generate some of the most unique elements while performing because of this trait.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}While other gyroids have to play singular notes in sequence,{{delay8}} these special strummers harmonize.{{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}Say what you will about 
+to play chords.{{pageBreak}}
+{{anim:HappyFlower target="actor" targetSpec=""}}{{color id="1"}}Twangoids{{color id="-1"}} tend to generate some of the most unique elements while performing because of this trait.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}While other gyroids have to play singular notes in sequence,{{delay8}} these special strummers harmonize.{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}Say what you will about 
 the {{color id="1"}}twangoid{{color id="-1"}},{{delay20}} it is anything but 
 one-note.
 
@@ -296,16 +314,24 @@ one-note.
 label: 107
 attribute: 0xAA020000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Coo{{string:Dots}}{{delay20}}have you noticed{{anim:QuestionMark target="actor" targetSpec=""}} that the {{color id="1"}}laseroid{{color id="-1"}}{{delay20}} is always in motion?{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}While almost every gyroid is animated,{{delay8}} the {{color id="1"}}laseroid{{color id="-1"}} has a unique understanding of movement.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}It moves by springing itself at specific angles, each bounce taking on a slightly different tilt.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}You see{{string:Dots}}the {{color id="1"}}laseroid{{color id="-1"}} is impressionable,{{delay20}} and seems{{delay8}} easily fascinated {{delay8}}by its surroundings.{{pageBreak}}{{anim:AbsentMindedness target="actor" targetSpec=""}}It longs to view the world at every angle; {{delay40}}to understand, {{delay20}}{{anim:Nodding target="actor" targetSpec=""}}to savor its environment,{{delay8}} at all axes.{{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}Coo{{string:Dots}}perhaps the melodies it creates {{delay20}}are but a harmonic product {{delay20}}of its {{anim:Hello target="actor" targetSpec=""}}appreciation.
+{{anim:Thinking target="actor" targetSpec=""}}Cu{{string:Dots}}{{delay20}}have you noticed{{anim:QuestionMark target="actor" targetSpec=""}} that the {{color id="1"}}laseroid{{color id="-1"}}{{delay20}} is always in motion?{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}While almost every gyroid is animated,{{delay8}} the {{color id="1"}}laseroid{{color id="-1"}} has a unique understanding of movement.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}It moves by springing itself at specific angles, each bounce taking on a slightly different tilt.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}You see{{string:Dots}}the {{color id="1"}}laseroid{{color id="-1"}} is impressionable,{{delay20}} and seems{{delay8}} easily fascinated {{delay8}}by its surroundings.{{pageBreak}}
+{{anim:AbsentMindedness target="actor" targetSpec=""}}It longs to view the world at every angle; {{delay40}}to understand, {{delay20}}{{anim:Nodding target="actor" targetSpec=""}}to savor its environment,{{delay8}} at all axes.{{pageBreak}}
+{{anim:FaintSmile target="actor" targetSpec=""}}Cu{{string:Dots}}perhaps the melodies it creates {{delay20}}are but a harmonic product {{delay20}}of its {{anim:Hello target="actor" targetSpec=""}}appreciation.
 
 ---
 label: 108
 attribute: 0xAA020000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Of all the gyroids,{{delay8}} the {{color id="1"}}squeakoid{{color id="-1"}} is one of the most {{anim:Love target="actor" targetSpec=""}}beloved among collectors.{{pageBreak}}Coo{{string:Dots}}{{10:4}}{{delay8}}
-{{anim:Nodding target="actor" targetSpec=""}}It's easy to see why.{{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}It has a vicacious personality,{{delay8}} and seems to playfully mimic different expressions as it moves.{{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}Popularity can be overwhelming, 
+{{anim:FaintSmile target="actor" targetSpec=""}}Of all the gyroids,{{delay8}} the {{color id="1"}}squeakoid{{color id="-1"}} is one of the most {{anim:Love target="actor" targetSpec=""}}beloved among collectors.{{pageBreak}}Cu{{string:Dots}}{{10:4}}{{delay8}}
+{{anim:Nodding target="actor" targetSpec=""}}It's easy to see why.{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}It has a vicacious personality,{{delay8}} and seems to playfully mimic different expressions as it moves.{{pageBreak}}
+{{anim:ShyBoy target="actor" targetSpec=""}}Popularity can be overwhelming, 
 {{delay8}}yet the {{anim:SmugFace target="actor" targetSpec=""}}brave {{color id="1"}}squeakoid{{color id="-1"}} relishes in
-all of the attention.{{pageBreak}}{{anim:BigSmile target="actor" targetSpec=""}}With that kind of attitude{{string:Dots}}{{delay20}}
+all of the attention.{{pageBreak}}
+{{anim:BigSmile target="actor" targetSpec=""}}With that kind of attitude{{string:Dots}}{{delay20}}
 it's no wonder that the {{color id="1"}}squeakoid{{color id="-1"}} has captured the {{anim:FaintSmile target="actor" targetSpec=""}}hearts of so many.
 
 ---
@@ -314,44 +340,63 @@ attribute: 0xAA020000
 ---
 {{anim:EmotEnd_0 target="actor" targetSpec=""}}If you had assumed the {{color id="1"}}tockoid{{color id="-1"}} 
 was a product of fine woodworking, {{delay8}}{{anim:Negative target="actor" targetSpec=""}}
-you wouldn't be the first.{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}I've heard they sometimes end up in antique stores,{{delay20}} only to startle customers {{anim:Eh target="actor" targetSpec=""}}when they move.{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}But the {{color id="1"}}tockoid{{color id="-1"}} is no threat.{{10:4}}{{delay8}}
-{{anim:Smiling target="actor" targetSpec=""}}Coo{{string:Dots}}{{delay20}}it's only curious about its surroundings.{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}It even seems somewhat bored of trees and forests.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}I will make sure it remains well-tended to here.
+you wouldn't be the first.{{pageBreak}}
+{{anim:Worried target="actor" targetSpec=""}}I've heard they sometimes end up in antique stores,{{delay20}} only to startle customers {{anim:Eh target="actor" targetSpec=""}}when they move.{{pageBreak}}
+{{anim:Negative target="actor" targetSpec=""}}But the {{color id="1"}}tockoid{{color id="-1"}} is no threat.{{10:4}}{{delay8}}
+{{anim:Smiling target="actor" targetSpec=""}}Cu{{string:Dots}}{{delay20}}it's only curious about its surroundings.{{pageBreak}}
+{{anim:WrySmile target="actor" targetSpec=""}}It even seems somewhat bored of trees and forests.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}I will make sure it remains well-tended to here.
 
 
 ---
 label: 110
 attribute: 0xAA020000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}Coo{{string:Dots}}{{delay20}} the {{anim:Explain target="actor" targetSpec=""}}{{color id="1"}}ringoid{{color id="-1"}} is one of the lightest gyroids.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}You may have noticed this while observing its{{anim:Smiling target="actor" targetSpec=""}} tranquil movement.{{pageBreak}}A number of gyroids move by snapping into position,{{delay8}} {{anim:Negative target="actor" targetSpec=""}}but the {{color id="1"}}ringoid{{color id="-1"}} is in no rush.{{anim:Smiling target="actor" targetSpec=""}}{{pageBreak}}{{anim:AbsentMindedness target="actor" targetSpec=""}}{{delay8}}It sways{{delay8}} and drifts{{delay20}} in constant motion, {{delay8}}as if floating in the breeze.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}And despite being such a free spirit{{string:Dots}}{{delay20}}{{anim:Smiling target="actor" targetSpec=""}}it always roams {{anim:Nodding target="actor" targetSpec=""}}{{delay8}}into the right note {{delay8}}at the right time.{{delay20}}{{anim:Smiling target="actor" targetSpec=""}}
+{{anim:Smiling target="actor" targetSpec=""}}Cu{{string:Dots}}{{delay20}} the {{anim:Explain target="actor" targetSpec=""}}{{color id="1"}}ringoid{{color id="-1"}} is one of the lightest gyroids.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}You may have noticed this while observing its{{anim:Smiling target="actor" targetSpec=""}} tranquil movement.{{pageBreak}}A number of gyroids move by snapping into position,{{delay8}} {{anim:Negative target="actor" targetSpec=""}}but the {{color id="1"}}ringoid{{color id="-1"}} is in no rush.{{anim:Smiling target="actor" targetSpec=""}}{{pageBreak}}
+{{anim:AbsentMindedness target="actor" targetSpec=""}}{{delay8}}It sways{{delay8}} and drifts{{delay20}} in constant motion, {{delay8}}as if floating in the breeze.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}And despite being such a free spirit{{string:Dots}}{{delay20}}{{anim:Smiling target="actor" targetSpec=""}}it always roams {{anim:Nodding target="actor" targetSpec=""}}{{delay8}}into the right note {{delay8}}at the right time.{{delay20}}{{anim:Smiling target="actor" targetSpec=""}}
 
 ---
 label: 111
 attribute: 0xAA020000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}Coo{{string:Dots}}I've come to admire the work ethic of the {{color id="1"}}oinkoid{{color id="-1"}}.{{pageBreak}}In terms of pure accomplishment,
+{{anim:Smiling target="actor" targetSpec=""}}Cu{{string:Dots}}I've come to admire the work ethic of the {{color id="1"}}oinkoid{{color id="-1"}}.{{pageBreak}}In terms of pure accomplishment,
 {{delay8}}{{anim:Negative target="actor" targetSpec=""}}it isn't the hastiest.{{pageBreak}}But{{delay8}} it more than makes {{anim:FaintSmile target="actor" targetSpec=""}}up for this in its consistency and demeanor.{{pageBreak}}It has an easygoing {{delay20}}and playful
-presence,{{anim:Nodding target="actor" targetSpec=""}}{{delay8}} creating a mellow atmosphere around it.{{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}The humble {{color id="1"}}oinkoid{{color id="-1"}} remains 
-amiable,{{delay8}} {{anim:Negative target="actor" targetSpec=""}}without sacrificing its value in performance.{{pageBreak}}{{anim:Hesitate target="actor" targetSpec=""}}Personally{{string:Dots}}that's a balance I would love to someday achieve.
+presence,{{anim:Nodding target="actor" targetSpec=""}}{{delay8}} creating a mellow atmosphere around it.{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}The humble {{color id="1"}}oinkoid{{color id="-1"}} remains 
+amiable,{{delay8}} {{anim:Negative target="actor" targetSpec=""}}without sacrificing its value in performance.{{pageBreak}}
+{{anim:Hesitate target="actor" targetSpec=""}}Personally{{string:Dots}}that's a balance I would love to someday achieve.
 
 
 ---
 label: 112
 attribute: 0xAA020000
 ---
-{{anim:IdeaBulb target="actor" targetSpec=""}}You may be surprised to learn that the {{color id="1"}}tremoloid{{color id="-1"}}{{string:Dots}}{{delay20}}{{anim:Eh target="actor" targetSpec=""}}is completely silent.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Indeed{{string:Dots}}
-Coo{{string:Dots}}{{anim:Negative target="actor" targetSpec=""}}{{delay8}}this gyroid creates no sounds
-of its own.{{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}Instead,{{delay8}} the {{color id="1"}}tremoloid{{color id="-1"}} is {{delay8}}very keen 
-to the noises in its environment.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Through a series of fluid motions,{{delay8}} 
-it weaves each vibration that passes through it into entirely new sounds.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Some discredit the {{color id="1"}}tremoloid{{color id="-1"}}
-on the basis of "unoriginality."{{pageBreak}}{{anim:QuestionMark target="actor" targetSpec=""}}But what is creativity without inspiration?
+{{anim:IdeaBulb target="actor" targetSpec=""}}You may be surprised to learn that the {{color id="1"}}tremoloid{{color id="-1"}}{{string:Dots}}{{delay20}}{{anim:Eh target="actor" targetSpec=""}}is completely silent.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Indeed{{string:Dots}}
+Cu{{string:Dots}}{{anim:Negative target="actor" targetSpec=""}}{{delay8}}this gyroid creates no sounds
+of its own.{{pageBreak}}
+{{anim:FaintSmile target="actor" targetSpec=""}}Instead,{{delay8}} the {{color id="1"}}tremoloid{{color id="-1"}} is {{delay8}}very keen 
+to the noises in its environment.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Through a series of fluid motions,{{delay8}} 
+it weaves each vibration that passes through it into entirely new sounds.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Some discredit the {{color id="1"}}tremoloid{{color id="-1"}}
+on the basis of "unoriginality."{{pageBreak}}
+{{anim:QuestionMark target="actor" targetSpec=""}}But what is creativity without inspiration?
 
 ---
 label: 113
 attribute: 0xAA020000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Coo{{string:Dots}}{{delay8}}the {{color id="1"}}bubbloid{{color id="-1"}}'s bubbly {{delay8}}
-bubble-blowing bloops {{delay8}}are iconic and inspiring{{string:Dots}}{{anim:Worried target="actor" targetSpec=""}}yet I am jealous.{{pageBreak}}{{delay8}}{{anim:AbsentMindedness target="actor" targetSpec=""}}The thought{{delay8}} of bubble-blowing reminds me of firework festivals when I was but a small squab.{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}But of course, {{delay8}}with a beak,{{delay8}} 
-bubble-blowing has never been my strong suit.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}And even when I managed to blow a bubble, {{delay8}}{{anim:Sighing target="actor" targetSpec=""}}I'd just pop it on accident{{delay8}} soon after.{{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}So{{delay8}} I'm somewhat jealous of the {{color id="1"}}bubbloid{{color id="-1"}}'s ability,{{delay8}} in that sense.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}It eventually pops each of its bubbles, {{delay8}}too,{{delay8}} though,{{delay8}} so{{string:Dots}}{{anim:Smiling target="actor" targetSpec=""}}{{delay20}} 
+{{anim:FaintSmile target="actor" targetSpec=""}}Cu{{string:Dots}}{{delay8}}the {{color id="1"}}bubbloid{{color id="-1"}}'s bubbly {{delay8}}
+bubble-blowing bloops {{delay8}}are iconic and inspiring{{string:Dots}}{{anim:Worried target="actor" targetSpec=""}}yet I am jealous.{{pageBreak}}
+{{delay8}}{{anim:AbsentMindedness target="actor" targetSpec=""}}The thought{{delay8}} of bubble-blowing reminds me of firework festivals when I was but a small squab.{{pageBreak}}
+{{anim:Worried target="actor" targetSpec=""}}But of course, {{delay8}}with a beak,{{delay8}} 
+bubble-blowing has never been my strong suit.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}And even when I managed to blow a bubble, {{delay8}}{{anim:Sighing target="actor" targetSpec=""}}I'd just pop it on accident{{delay8}} soon after.{{pageBreak}}
+{{anim:ShyBoy target="actor" targetSpec=""}}So{{delay8}} I'm somewhat jealous of the {{color id="1"}}bubbloid{{color id="-1"}}'s ability,{{delay8}} in that sense.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}It eventually pops each of its bubbles, {{delay8}}too,{{delay8}} though,{{delay8}} so{{string:Dots}}{{anim:Smiling target="actor" targetSpec=""}}{{delay20}} 
 perhaps I am not alone.
 
 ---
@@ -359,103 +404,161 @@ label: 114
 attribute: 0xAA020000
 ---
 {{anim:EmotEnd_0 target="actor" targetSpec=""}}There is a simple {{delay20}}yet{{anim:Nodding target="actor" targetSpec=""}} elegant{{delay20}}
-beauty{{delay8}} to the {{color id="1"}}petaloid{{color id="-1"}}.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}It's favored among admirers for 
-its melodic tones {{delay8}}and delightful colors.{{pageBreak}}{{anim:IdeaBulb target="actor" targetSpec=""}}Coo!{{10:4}}{{delay8}}{{anim:QuestionMark target="actor" targetSpec=""}}
+beauty{{delay8}} to the {{color id="1"}}petaloid{{color id="-1"}}.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}It's favored among admirers for 
+its melodic tones {{delay8}}and delightful colors.{{pageBreak}}
+{{anim:IdeaBulb target="actor" targetSpec=""}}Cu!{{10:4}}{{delay8}}{{anim:QuestionMark target="actor" targetSpec=""}}
 Have you ever tried {{delay20}}customizing {{delay8}}
-your gyroids?{{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}You may be surprised by the varied and vivid hues they may don. {{pageBreak}}{{anim:Love target="actor" targetSpec=""}}And this {{color id="1"}}petaloid{{color id="-1"}} here{{string:Dots}}{{delay20}}
+your gyroids?{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}You may be surprised by the varied and vivid hues they may don. {{pageBreak}}
+{{anim:Love target="actor" targetSpec=""}}And this {{color id="1"}}petaloid{{color id="-1"}} here{{string:Dots}}{{delay20}}
 has a striking array of its own.
 
 ---
 label: 115
 attribute: 0xAA020000
 ---
-{{anim:Love target="actor" targetSpec=""}}Coo{{string:Dots}}{{delay40}}the reliable {{color id="1"}}aluminoid{{color id="-1"}} is always an excellent addition to any{{anim:Nodding target="actor" targetSpec=""}} gyroid performance.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}It is steady {{delay8}}{{anim:Silent target="actor" targetSpec=""}}but punctual, {{delay8}}providing structure while still standing out by itself.{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}To maintain this balance, it must demonstrate clockwork efficacy.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}As a result, the {{color id="1"}}aluminoid{{color id="-1"}} is one of the more lively gyroids.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Just holding it here{{string:Dots}}{{delay20}}I can almost feel it {{delay8}}pulse in my hands, {{delay8}}
-like a heartbeat.{{pageBreak}}{{string:Dots}}It must be ready to go.
+{{anim:Love target="actor" targetSpec=""}}Cu{{string:Dots}}{{delay40}}the reliable {{color id="1"}}aluminoid{{color id="-1"}} is always an excellent addition to any{{anim:Nodding target="actor" targetSpec=""}} gyroid performance.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}It is steady {{delay8}}{{anim:Silent target="actor" targetSpec=""}}but punctual, {{delay8}}providing structure while still standing out by itself.{{pageBreak}}
+{{anim:Thinking target="actor" targetSpec=""}}To maintain this balance, it must demonstrate clockwork efficacy.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}As a result, the {{color id="1"}}aluminoid{{color id="-1"}} is one of the more lively gyroids.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Just holding it here{{string:Dots}}{{delay20}}I can almost feel it {{delay8}}pulse in my hands, {{delay8}}
+like a heartbeat.{{pageBreak}}
+{{string:Dots}}It must be ready to go.
 
 
 ---
 label: 116
 attribute: 0xAA020000
 ---
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}The {{color id="1"}}wallopoid{{color id="-1"}} {{delay20}}is one of the easiest gyroids to spot in a crowd.{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}This is due to its{{string:Dots}}spirited performance.{{10:4}}{{delay8}}{{anim:Eh target="actor" targetSpec=""}}{{delay8}} Which, {{delay8}}visually, {{delay8}}is passionate and kinetic.{{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}However,{{delay8}} if you try to listen for the {{color id="1"}}wallopoid{{color id="-1"}}, you may struggle to hear its sonic contribution.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Indeed{{string:Dots}}this gyroid's fiery energy seems to juxtapose its{{delay8}} understated{{delay8}} musical output.{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}But the {{color id="1"}}wallopoid{{color id="-1"}} isn't more bark than bite. {{delay20}}It is simply keen {{delay8}}to melodic balance.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}In other words,{{delay8}} it's more than capable of stealing the show, {{delay8}}but decidedly plays a supporting role. {{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}Ultimately, the {{color id="1"}}wallopoid{{color id="-1"}}'s subtle additions add up{{string:Dots}}even if the fruits of its labor often go unnoticed.
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}The {{color id="1"}}wallopoid{{color id="-1"}} {{delay20}}is one of the easiest gyroids to spot in a crowd.{{pageBreak}}
+{{anim:WrySmile target="actor" targetSpec=""}}This is due to its{{string:Dots}}spirited performance.{{10:4}}{{delay8}}{{anim:Eh target="actor" targetSpec=""}}{{delay8}} Which, {{delay8}}visually, {{delay8}}is passionate and kinetic.{{pageBreak}}
+{{anim:ShyBoy target="actor" targetSpec=""}}However,{{delay8}} if you try to listen for the {{color id="1"}}wallopoid{{color id="-1"}}, you may struggle to hear its sonic contribution.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Indeed{{string:Dots}}this gyroid's fiery energy seems to juxtapose its{{delay8}} understated{{delay8}} musical output.{{pageBreak}}
+{{anim:Negative target="actor" targetSpec=""}}But the {{color id="1"}}wallopoid{{color id="-1"}} isn't more bark than bite. {{delay20}}It is simply keen {{delay8}}to melodic balance.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}In other words,{{delay8}} it's more than capable of stealing the show, {{delay8}}but decidedly plays a supporting role. {{pageBreak}}
+{{anim:FaintSmile target="actor" targetSpec=""}}Ultimately, the {{color id="1"}}wallopoid{{color id="-1"}}'s subtle additions add up{{string:Dots}}even if the fruits of its labor often go unnoticed.
 
 ---
 label: 117
 attribute: 0xAA020000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}On first impression,{{delay8}} the {{color id="1"}}drummoid{{color id="-1"}} might look relatively simple.{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}Coo{{string:Dots}}each part of this gyroid is distinct and multifaceted.{{pageBreak}}{{anim:Love target="actor" targetSpec=""}}Observing its versatility in movement alone is enchanting.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}This mobility further allows the {{color id="1"}}drummoid{{color id="-1"}} to produce a vast array of different sounds.{{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}In this way{{string:Dots}}it's somewhat of a 
-one-gyroid band.{{pageBreak}}{{string:Dots}}I suppose {{delay8}}it isn't always so bad to do things alone like that.
+{{anim:Nodding target="actor" targetSpec=""}}On first impression,{{delay8}} the {{color id="1"}}drummoid{{color id="-1"}} might look relatively simple.{{pageBreak}}
+{{anim:Negative target="actor" targetSpec=""}}Cu{{string:Dots}}each part of this gyroid is distinct and multifaceted.{{pageBreak}}
+{{anim:Love target="actor" targetSpec=""}}Observing its versatility in movement alone is enchanting.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}This mobility further allows the {{color id="1"}}drummoid{{color id="-1"}} to produce a vast array of different sounds.{{pageBreak}}
+{{anim:ShyBoy target="actor" targetSpec=""}}In this way{{string:Dots}}it's somewhat of a 
+one-gyroid band.{{pageBreak}}
+{{string:Dots}}I suppose {{delay8}}it isn't always so bad to do things alone like that.
 
 ---
 label: 118
 attribute: 0x00000000
 ---
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}While the {{color id="1"}}dootoid{{color id="-1"}} might {{delay8}}look {{delay8}}holistic,{{delay8}} there is much more going on than meets the eye.{{pageBreak}}{{anim:Shocked target="actor" targetSpec=""}}This gyroid is actually composed of many different elements,{{delay8}} seemingly stitched together.{{delay8}}{{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}These knobs, {{delay8}}bells,{{delay8}} and whistles allow it to produce a variety of peculiar noises.{{pageBreak}}{{delay8}}{{anim:Thinking target="actor" targetSpec=""}}Instead of growing slow and steadily,{{delay8}} like most gyroids, {{delay8}}the{{anim:SmugFace target="actor" targetSpec=""}} {{color id="1"}}dootoid{{color id="-1"}} embraces the unstable.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}It takes in an array of different minerals, {{delay8}}shaping itself with the vast world around it.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Coo{{string:Dots}}we could stand to learn from the {{color id="1"}}dootoid{{color id="-1"}}.{{10:4}}{{delay8}} Don't be afraid to step outside of your comfort zone.
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}While the {{color id="1"}}dootoid{{color id="-1"}} might {{delay8}}look {{delay8}}holistic,{{delay8}} there is much more going on than meets the eye.{{pageBreak}}
+{{anim:Shocked target="actor" targetSpec=""}}This gyroid is actually composed of many different elements,{{delay8}} seemingly stitched together.{{delay8}}{{pageBreak}}
+{{anim:FaintSmile target="actor" targetSpec=""}}These knobs, {{delay8}}bells,{{delay8}} and whistles allow it to produce a variety of peculiar noises.{{pageBreak}}
+{{delay8}}{{anim:Thinking target="actor" targetSpec=""}}Instead of growing slow and steadily,{{delay8}} like most gyroids, {{delay8}}the{{anim:SmugFace target="actor" targetSpec=""}} {{color id="1"}}dootoid{{color id="-1"}} embraces the unstable.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}It takes in an array of different minerals, {{delay8}}shaping itself with the vast world around it.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Cu{{string:Dots}}we could stand to learn from the {{color id="1"}}dootoid{{color id="-1"}}.{{10:4}}{{delay8}} Don't be afraid to step outside of your comfort zone.
 
 ---
 label: 119
 attribute: 0xAA020000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Despite the rigid appearance, {{delay8}}the {{color id="1"}}whirroid{{color id="-1"}} is quite the contortionist.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}It is capable of bending and twisting itself in precise rhythms.{{pageBreak}}It{{string:Dots}}{{delay20}}{{anim:WrySmile target="actor" targetSpec=""}}isn't as grizzly as it sounds.{{10:4}}{{delay8}}{{anim:Negative target="actor" targetSpec=""}}
-The {{color id="1"}}whirroid{{color id="-1"}} has a {{delay8}}gentle {{delay8}}nature. {{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}Its combination of fluid movement{{delay20}} and clockwork timing{{delay20}} is {{delay20}}hypnotic
-to observe.{{pageBreak}}{{anim:AbsentMindedness target="actor" targetSpec=""}}Coo{{string:Dots}}{{delay20}}
+{{anim:FaintSmile target="actor" targetSpec=""}}Despite the rigid appearance, {{delay8}}the {{color id="1"}}whirroid{{color id="-1"}} is quite the contortionist.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}It is capable of bending and twisting itself in precise rhythms.{{pageBreak}}It{{string:Dots}}{{delay20}}{{anim:WrySmile target="actor" targetSpec=""}}isn't as grizzly as it sounds.{{10:4}}{{delay8}}{{anim:Negative target="actor" targetSpec=""}}
+The {{color id="1"}}whirroid{{color id="-1"}} has a {{delay8}}gentle {{delay8}}nature. {{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}Its combination of fluid movement{{delay20}} and clockwork timing{{delay20}} is {{delay20}}hypnotic
+to observe.{{pageBreak}}
+{{anim:AbsentMindedness target="actor" targetSpec=""}}Cu{{string:Dots}}{{delay20}}
 I'm mesmerized by the thought alone{{string:Dots}}{{delay20}}
 
 ---
 label: 120
 attribute: 0xAA020000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}The {{color id="1"}}thwopoid{{color id="-1"}} is notable for its exaggerated features.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Interestingly, {{delay8}}it seems to resemble the beached remains of a strange deep-sea fish.{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}Luckily,{{delay8}} its similarities end there.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}One distinct attribute of the {{color id="1"}}thwopoid{{color id="-1"}} is the soft, {{delay8}}stretchy material it is composed of.{{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}As odd as it feels to the touch,{{delay8}} this stretchiness is crucial to produce the gyroid's signature{{delay8}} "thwop."{{pageBreak}}{{anim:Silent target="actor" targetSpec=""}}Coo{{string:Dots}}when it comes to performance,{{delay8}} one thing is sure: The {{color id="1"}}thwopoid{{color id="-1"}}{{string:Dots}}{{delay20}}{{anim:Grin target="actor" targetSpec=""}}is no fish out of water.
+{{anim:Smiling target="actor" targetSpec=""}}The {{color id="1"}}thwopoid{{color id="-1"}} is notable for its exaggerated features.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Interestingly, {{delay8}}it seems to resemble the beached remains of a strange deep-sea fish.{{pageBreak}}
+{{anim:WrySmile target="actor" targetSpec=""}}Luckily,{{delay8}} its similarities end there.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}One distinct attribute of the {{color id="1"}}thwopoid{{color id="-1"}} is the soft, {{delay8}}stretchy material it is composed of.{{pageBreak}}
+{{anim:ShyBoy target="actor" targetSpec=""}}As odd as it feels to the touch,{{delay8}} this stretchiness is crucial to produce the gyroid's signature{{delay8}} "thwop."{{pageBreak}}
+{{anim:Silent target="actor" targetSpec=""}}Cu{{string:Dots}}when it comes to performance,{{delay8}} one thing is sure: The {{color id="1"}}thwopoid{{color id="-1"}}{{string:Dots}}{{delay20}}{{anim:Grin target="actor" targetSpec=""}}is no fish out of water.
 
 ---
 label: 121
 attribute: 0xAA020000
 ---
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}I hope you have had the pleasure of seeing a {{color id="1"}}rumbloid{{color id="-1"}} perform.{{pageBreak}}{{anim:Love target="actor" targetSpec=""}}It has a wonderful timbre{{delay8}} that is both sonorous {{delay8}}and melodic.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Because of these attributes,{{delay8}} the {{color id="1"}}rumbloid{{color id="-1"}} plays well under any conditions. {{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}It's capable of grounding a performance {{delay20}}and adding depth to compositions.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}I find that the {{color id="1"}}rumbloid{{color id="-1"}} is at its strongest as a team player.
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}I hope you have had the pleasure of seeing a {{color id="1"}}rumbloid{{color id="-1"}} perform.{{pageBreak}}
+{{anim:Love target="actor" targetSpec=""}}It has a wonderful timbre{{delay8}} that is both sonorous {{delay8}}and melodic.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Because of these attributes,{{delay8}} the {{color id="1"}}rumbloid{{color id="-1"}} plays well under any conditions. {{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}It's capable of grounding a performance {{delay20}}and adding depth to compositions.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}I find that the {{color id="1"}}rumbloid{{color id="-1"}} is at its strongest as a team player.
 
 
 ---
 label: 122
 attribute: 0x00000000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Coo{{string:Dots}}the {{color id="1"}}bendoid{{color id="-1"}} seems ironic {{delay8}}
-at first.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}While it resembles a castle turret,{{delay8}} 
-it appears to lack the solidity of such a structure.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}It stands tall, but it remains flexible—{{delay20}}fluid and relaxed.{{pageBreak}}{{anim:Shocked target="actor" targetSpec=""}}Yet the {{color id="1"}}bendoid{{color id="-1"}} is incredibly strong at its core.{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}Maybe it's an example for us to follow{{string:Dots}}{{pageBreak}}{{delay20}}{{anim:Negative target="actor" targetSpec=""}}{{pageBreak}}Strength doesn't {{delay8}}entail {{delay8}}rigidity.
+{{anim:Thinking target="actor" targetSpec=""}}Cu{{string:Dots}}the {{color id="1"}}bendoid{{color id="-1"}} seems ironic {{delay8}}
+at first.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}While it resembles a castle turret,{{delay8}} 
+it appears to lack the solidity of such a structure.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}It stands tall, but it remains flexible—{{delay20}}fluid and relaxed.{{pageBreak}}
+{{anim:Shocked target="actor" targetSpec=""}}Yet the {{color id="1"}}bendoid{{color id="-1"}} is incredibly strong at its core.{{pageBreak}}
+{{anim:Thinking target="actor" targetSpec=""}}Maybe it's an example for us to follow{{string:Dots}}{{pageBreak}}
+{{delay20}}{{anim:Negative target="actor" targetSpec=""}}{{pageBreak}}Strength doesn't {{delay8}}entail {{delay8}}rigidity.
 
 
 ---
 label: 123
 attribute: 0xAA020000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}Every gyroid is unique, and the {{color id="1"}}boomoid{{color id="-1"}} is no exception.{{pageBreak}}{{anim:Love target="actor" targetSpec=""}}It is adorned with an intricate display of beautiful markings.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}From an initial glance, {{delay8}}these patterns may appear standard for every {{color id="1"}}boomoid{{color id="-1"}}.{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}But, if you look {{delay8}}very,{{delay8}} very closely{{string:Dots}}you will find{{delay8}}{{anim:Eh target="actor" targetSpec=""}} subtle intricacies{{delay8}} unique to each one.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}I have yet to see two {{color id="1"}}boomoids{{color id="-1"}} that look exactly alike.
+{{anim:Nodding target="actor" targetSpec=""}}Every gyroid is unique, and the {{color id="1"}}boomoid{{color id="-1"}} is no exception.{{pageBreak}}
+{{anim:Love target="actor" targetSpec=""}}It is adorned with an intricate display of beautiful markings.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}From an initial glance, {{delay8}}these patterns may appear standard for every {{color id="1"}}boomoid{{color id="-1"}}.{{pageBreak}}
+{{anim:Thinking target="actor" targetSpec=""}}But, if you look {{delay8}}very,{{delay8}} very closely{{string:Dots}}you will find{{delay8}}{{anim:Eh target="actor" targetSpec=""}} subtle intricacies{{delay8}} unique to each one.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}I have yet to see two {{color id="1"}}boomoids{{color id="-1"}} that look exactly alike.
 
 
 ---
 label: 124
 attribute: 0xAA020000
 ---
-{{anim:Explain target="actor" targetSpec=""}}The {{color id="1"}}bloopoid{{color id="-1"}} is closely related to the {{color id="1"}}bubbloid{{color id="-1"}}.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Instead of creating sounds by way of bubble formation, {{delay8}}it forms them silently before popping them. {{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}I can only imagine this process is incredibly delicate. {{pageBreak}}{{anim:AbsentMindedness target="actor" targetSpec=""}}Coo{{string:Dots}}perhaps{{delay8}} it spins each bubble {{delay8}}like a bolt of cloth,{{delay8}} or engineers each with precise measurement.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Coo{{string:Dots}}{{delay20}}I suppose meticulous work is often the most worthwhile.
+{{anim:Explain target="actor" targetSpec=""}}The {{color id="1"}}bloopoid{{color id="-1"}} is closely related to the {{color id="1"}}bubbloid{{color id="-1"}}.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Instead of creating sounds by way of bubble formation, {{delay8}}it forms them silently before popping them. {{pageBreak}}
+{{anim:WrySmile target="actor" targetSpec=""}}I can only imagine this process is incredibly delicate. {{pageBreak}}
+{{anim:AbsentMindedness target="actor" targetSpec=""}}Cu{{string:Dots}}perhaps{{delay8}} it spins each bubble {{delay8}}like a bolt of cloth,{{delay8}} or engineers each with precise measurement.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Cu{{string:Dots}}{{delay20}}I suppose meticulous work is often the most worthwhile.
 
 ---
 label: 125
 attribute: 0xAA020000
 ---
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}This gyroid sports an extraterrestrial look,{{delay8}} and has a wacky song and dance to boot.{{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}It sounds a little strange,{{delay8}} but it seems to have fun anyway, {{delay8}}{{anim:Laughing target="actor" targetSpec=""}}wiggling its arms around hilariously.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Despite its strange sound, {{delay8}}the {{color id="1"}}sproingoid{{color id="-1"}} is still well-loved for its playful spirit.
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}This gyroid sports an extraterrestrial look,{{delay8}} and has a wacky song and dance to boot.{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}It sounds a little strange,{{delay8}} but it seems to have fun anyway, {{delay8}}{{anim:Laughing target="actor" targetSpec=""}}wiggling its arms around hilariously.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Despite its strange sound, {{delay8}}the {{color id="1"}}sproingoid{{color id="-1"}} is still well-loved for its playful spirit.
 
 ---
 label: 126
 attribute: 0xAA020000
 ---
-{{anim:Sighing target="actor" targetSpec=""}}Coo{{string:Dots}}I have pitied {{color id="1"}}crumploids{{color id="-1"}}
-in the past.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}To produce their signature {{delay8}}"crunch,"{{delay8}} the lids of {{color id="1"}}crumploids{{color id="-1"}} compress their thin exteriors with astounding force.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Rest assured, though: {{delay20}}
-{{color id="1"}}crumploids{{color id="-1"}} are {{delay8}}"pre-crumpled"{{delay20}} when they initially grow.{{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}For a {{color id="1"}}crumploid{{color id="-1"}},{{delay8}} wrinkles are as natural{{delay8}} {{anim:Nodding target="actor" targetSpec=""}}as my feathers are to me.{{pageBreak}}Coo{{string:Dots}}all that to say:{{delay20}} {{anim:Negative target="actor" targetSpec=""}}don't judge a gyroid by its looks.{{10:4}}{{delay8}}{{anim:Eh target="actor" targetSpec=""}}{{delay20}}
+{{anim:Sighing target="actor" targetSpec=""}}Cu{{string:Dots}}I have pitied {{color id="1"}}crumploids{{color id="-1"}}
+in the past.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}To produce their signature {{delay8}}"crunch,"{{delay8}} the lids of {{color id="1"}}crumploids{{color id="-1"}} compress their thin exteriors with astounding force.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Rest assured, though: {{delay20}}
+{{color id="1"}}crumploids{{color id="-1"}} are {{delay8}}"pre-crumpled"{{delay20}} when they initially grow.{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}For a {{color id="1"}}crumploid{{color id="-1"}},{{delay8}} wrinkles are as natural{{delay8}} {{anim:Nodding target="actor" targetSpec=""}}as my feathers are to me.{{pageBreak}}Cu{{string:Dots}}all that to say:{{delay20}} {{anim:Negative target="actor" targetSpec=""}}don't judge a gyroid by its looks.{{10:4}}{{delay8}}{{anim:Eh target="actor" targetSpec=""}}{{delay20}}
 Or anyone,{{delay8}} for that matter!
 
 ---
 label: 127
 attribute: 0xAA020000
 ---
-{{anim:WrySmile target="actor" targetSpec=""}}{{color id="1"}}Clatteroids{{color id="-1"}} are notoriously confusing to novice collectors,{{delay8}} because they often appear to be broken.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}In reality, the {{color id="1"}}clatteroid{{color id="-1"}}'s flexible,{{delay20}} thin core allows it to jolt without toppling,{{delay8}} even though it appears to.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}You can imagine it like a strong {{delay20}}noodle{{string:Dots}}{{delay40}}{{anim:WrySmile target="actor" targetSpec=""}}of sorts.{{pageBreak}}{{anim:Hello target="actor" targetSpec=""}}Isn't that fascinating?
+{{anim:WrySmile target="actor" targetSpec=""}}{{color id="1"}}Clatteroids{{color id="-1"}} are notoriously confusing to novice collectors,{{delay8}} because they often appear to be broken.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}In reality, the {{color id="1"}}clatteroid{{color id="-1"}}'s flexible,{{delay20}} thin core allows it to jolt without toppling,{{delay8}} even though it appears to.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}You can imagine it like a strong {{delay20}}noodle{{string:Dots}}{{delay40}}{{anim:WrySmile target="actor" targetSpec=""}}of sorts.{{pageBreak}}
+{{anim:Hello target="actor" targetSpec=""}}Isn't that fascinating?
 
 ---
 label: 128
@@ -468,7 +571,14 @@ attribute: 0x58080000
 label: 128_1
 attribute: 0xCE080000
 ---
-{{anim:Worried target="actor" targetSpec=""}}Listen{{string:Dots}}I appreciate the gift, but this {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}brewstoid{{color id="-1"}} was meant for you.{{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}Coo{{string:Dots}}it is at least nice to see it again{{string:Dots}}{{pageBreak}}I suppose I can still tell you about it,{{anim:Apologize target="actor" targetSpec=""}} but you'll have to keep it.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}I've made quite a few of these {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}brewstoids{{color id="-1"}}, but this is one of only a few that was grown.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}You see, older gyroid types weren't grown like these new kinds you've been bringing me.{{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}In the past, my {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}brewstoids{{color id="-1"}} were merely gyroids I decorated and trained to play new sounds.{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}Unlike those, I grew this {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}brewstoid{{color id="-1"}}  from a modified {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}gyroid fragment{{color id="-1"}} with {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Blathers{{color id="-1"}}' help.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}For that reason, I consider these fragment-grown types of {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}brewstoids{{color id="-1"}}{{delay40}} "GMO's."{{pageBreak}}{{14:40 arg="0x250000CD43006F006F000E006E000000000020004900200063006F0069006E006500640020007400"}}Coo{{string:Dots}}I coined that acronym myself{{anim:BigSmile target="actor" targetSpec=""}}
+{{anim:Worried target="actor" targetSpec=""}}Listen{{string:Dots}}I appreciate the gift, but this {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}brewstoid{{color id="-1"}} was meant for you.{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}Cu{{string:Dots}}it is at least nice to see it again{{string:Dots}}{{pageBreak}}I suppose I can still tell you about it,{{anim:Apologize target="actor" targetSpec=""}} but you'll have to keep it.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}I've made quite a few of these {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}brewstoids{{color id="-1"}}, but this is one of only a few that was grown.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}You see, older gyroid types weren't grown like these new kinds you've been bringing me.{{pageBreak}}
+{{anim:ShyBoy target="actor" targetSpec=""}}In the past, my {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}brewstoids{{color id="-1"}} were merely gyroids I decorated and trained to play new sounds.{{pageBreak}}
+{{anim:Negative target="actor" targetSpec=""}}Unlike those, I grew this {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}brewstoid{{color id="-1"}}  from a modified {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}gyroid fragment{{color id="-1"}} with {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Blathers{{color id="-1"}}' help.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}For that reason, I consider these fragment-grown types of {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}brewstoids{{color id="-1"}}{{delay40}} "GMO's."{{pageBreak}}
+{{14:40 arg="0x250000CD43006F006F000E006E000000000020004900200063006F0069006E006500640020007400"}}Cu{{string:Dots}}I coined that acronym myself{{anim:BigSmile target="actor" targetSpec=""}}
 It stands for{{delay8}} "Gyrating Modified Object."
 
 ---
@@ -488,19 +598,27 @@ label: 128_4
 attribute: 0x00000000
 ---
 {{anim:FaintSmile target="actor" targetSpec=""}}Anyhow{{string:Dots}}please take this back{{string:Dots}}{{delay40}}{{anim:Grin target="actor" targetSpec=""}}
-for now, coo.
+for now, Cu.
 
 ---
 label: 129
 attribute: 0xAA020000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}The {{color id="1"}}scatteroid{{color id="-1"}} sure seems to know how to enjoy island life.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}With grassy getup and a funky shake, {{color id="1"}}scatteroids{{color id="-1"}} are pretty little dancers with a partying spirit.{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}It almost seems like their sounds are just an accidental result of dancing on-beat.{{pageBreak}}{{anim:QuestionMark target="actor" targetSpec=""}}But who can blame them?{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}Coo{{string:Dots}}{{delay8}}maybe the {{color id="1"}}scatteroids{{color id="-1"}} aren't all dancing too much{{string:Dots}}{{delay20}}{{anim:Grin target="actor" targetSpec=""}} the rest of us just aren't dancing enough.
+{{anim:Smiling target="actor" targetSpec=""}}The {{color id="1"}}scatteroid{{color id="-1"}} sure seems to know how to enjoy island life.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}With grassy getup and a funky shake, {{color id="1"}}scatteroids{{color id="-1"}} are pretty little dancers with a partying spirit.{{pageBreak}}
+{{anim:WrySmile target="actor" targetSpec=""}}It almost seems like their sounds are just an accidental result of dancing on-beat.{{pageBreak}}
+{{anim:QuestionMark target="actor" targetSpec=""}}But who can blame them?{{pageBreak}}
+{{anim:Thinking target="actor" targetSpec=""}}Cu{{string:Dots}}{{delay8}}maybe the {{color id="1"}}scatteroids{{color id="-1"}} aren't all dancing too much{{string:Dots}}{{delay20}}{{anim:Grin target="actor" targetSpec=""}} the rest of us just aren't dancing enough.
 
 ---
 label: 130
 attribute: 0xAA020000
 ---
-{{anim:WrySmile target="actor" targetSpec=""}}On first encounter, the {{color id="1"}}spikenoid{{color id="-1"}} may come across as somewhat {{delay20}}imposing.{{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}Considering the namesake bristles that cover it,{{delay20}}{{anim:Negative target="actor" targetSpec=""}} caution is not unwarranted.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Each spike has a small hole at the end that the {{color id="1"}}spikenoid{{color id="-1"}} pushes air through.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}This creates an abrasive sound,{{anim:IdeaBulb target="actor" targetSpec=""}} similar to a kazoo. {{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}It may relieve you to know{{string:Dots}}
+{{anim:WrySmile target="actor" targetSpec=""}}On first encounter, the {{color id="1"}}spikenoid{{color id="-1"}} may come across as somewhat {{delay20}}imposing.{{pageBreak}}
+{{anim:ShyBoy target="actor" targetSpec=""}}Considering the namesake bristles that cover it,{{delay20}}{{anim:Negative target="actor" targetSpec=""}} caution is not unwarranted.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Each spike has a small hole at the end that the {{color id="1"}}spikenoid{{color id="-1"}} pushes air through.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}This creates an abrasive sound,{{anim:IdeaBulb target="actor" targetSpec=""}} similar to a kazoo. {{pageBreak}}
+{{anim:FaintSmile target="actor" targetSpec=""}}It may relieve you to know{{string:Dots}}
 these spines are completely soft to the touch.{{pageBreak}}But{{string:Dots}}I understand if you still wish to handle these gyroids with care.
 
 
@@ -509,34 +627,52 @@ label: 131
 attribute: 0xAA020000
 ---
 {{anim:ShyBoy target="actor" targetSpec=""}}You might have noticed that the {{color id="1"}}squeezoid{{color id="-1"}} is embedded with{{delay8}}
-web-like markings.{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}This gives it the appearance of being damaged,{{delay8}} or even shattered.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Luckily{{string:Dots}}{{delay20}}this gyroid is actually in{{anim:Smiling target="actor" targetSpec=""}} perfect condition:{{delay20}} prized {{color id="1"}}squeezoids{{color id="-1"}} are covered with these marks.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}The {{color id="1"}}squeezoid{{color id="-1"}} is pliable,{{delay8}} loving nothing more than to twist and{{string:Dots}}{{delay8}}{{anim:ShyBoy target="actor" targetSpec=""}}well, {{delay20}}{{size value="60"}}{{delay8}}squeeze{{delay40}}{{size value="100"}} into all sorts of shapes.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}These lines that adorn it are less like scars,{{delay8}} and more like calluses.{{pageBreak}}Essentially{{string:Dots}}there's no {{anim:Smiling target="actor" targetSpec=""}}need to worry about this {{color id="1"}}squeezoid{{color id="-1"}}'s markings.
+web-like markings.{{pageBreak}}
+{{anim:Worried target="actor" targetSpec=""}}This gives it the appearance of being damaged,{{delay8}} or even shattered.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Luckily{{string:Dots}}{{delay20}}this gyroid is actually in{{anim:Smiling target="actor" targetSpec=""}} perfect condition:{{delay20}} prized {{color id="1"}}squeezoids{{color id="-1"}} are covered with these marks.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}The {{color id="1"}}squeezoid{{color id="-1"}} is pliable,{{delay8}} loving nothing more than to twist and{{string:Dots}}{{delay8}}{{anim:ShyBoy target="actor" targetSpec=""}}well, {{delay20}}{{size value="60"}}{{delay8}}squeeze{{delay40}}{{size value="100"}} into all sorts of shapes.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}These lines that adorn it are less like scars,{{delay8}} and more like calluses.{{pageBreak}}Essentially{{string:Dots}}there's no {{anim:Smiling target="actor" targetSpec=""}}need to worry about this {{color id="1"}}squeezoid{{color id="-1"}}'s markings.
 
 ---
 label: 132
 attribute: 0xAA020000
 ---
-{{color id="1"}}{{anim:Nodding target="actor" targetSpec=""}}Flutteroids{{color id="-1"}} are often considered the {{color id="1"}}squeakoids{{color id="-1"}} of percussion.{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}Perhaps it isn't a coincidence that the two of them are often considered to be among the cutest types.{{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}I myself {{delay20}}am subscribed to the theory that {{color id="1"}}flutteroids{{color id="-1"}} are a close relative of {{color id="1"}}squeakoids{{color id="-1"}}.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}It's been speculated that a small mutation makes some {{color id="1"}}squeakoid{{color id="-1"}} fragments develop into {{color id="1"}}flutteroids{{color id="-1"}}.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Coo{{string:Dots}}sometimes the smallest changes{{delay20}} have the most influence.
+{{color id="1"}}{{anim:Nodding target="actor" targetSpec=""}}Flutteroids{{color id="-1"}} are often considered the {{color id="1"}}squeakoids{{color id="-1"}} of percussion.{{pageBreak}}
+{{anim:Thinking target="actor" targetSpec=""}}Perhaps it isn't a coincidence that the two of them are often considered to be among the cutest types.{{pageBreak}}
+{{anim:ShyBoy target="actor" targetSpec=""}}I myself {{delay20}}am subscribed to the theory that {{color id="1"}}flutteroids{{color id="-1"}} are a close relative of {{color id="1"}}squeakoids{{color id="-1"}}.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}It's been speculated that a small mutation makes some {{color id="1"}}squeakoid{{color id="-1"}} fragments develop into {{color id="1"}}flutteroids{{color id="-1"}}.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Cu{{string:Dots}}sometimes the smallest changes{{delay20}} have the most influence.
 
 ---
 label: 133
 attribute: 0xAA020000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}The {{color id="1"}}boioingoid{{color id="-1"}} has a false "face" structure protruding from its front.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}In reality, this face composes the musical toolkit with which this gyroid makes its song.{{pageBreak}}Coo{{string:Dots}}could we learn from{{anim:QuestionMark target="actor" targetSpec=""}} the {{color id="1"}}boioingoid{{color id="-1"}}?{{10:4}}{{delay8}}{{anim:Thinking target="actor" targetSpec=""}} Perhaps disguise can be an adequate means to an end.
+{{anim:Nodding target="actor" targetSpec=""}}The {{color id="1"}}boioingoid{{color id="-1"}} has a false "face" structure protruding from its front.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}In reality, this face composes the musical toolkit with which this gyroid makes its song.{{pageBreak}}Cu{{string:Dots}}could we learn from{{anim:QuestionMark target="actor" targetSpec=""}} the {{color id="1"}}boioingoid{{color id="-1"}}?{{10:4}}{{delay8}}{{anim:Thinking target="actor" targetSpec=""}} Perhaps disguise can be an adequate means to an end.
 
 ---
 label: 134
 attribute: 0xAA020000
 ---
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}When I first came across the {{color id="1"}}stelloid{{color id="-1"}}{{string:Dots}}I was taken aback by its many{{delay20}}{{anim:ShyBoy target="actor" targetSpec=""}} oddities.{{delay20}}{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}It produces a peculiar sound, 
-{{delay8}}one that warps {{delay20}}and echoes around the room.{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}It even achieves this through its own unusual way of movement.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}If you observe it in motion,{{delay8}} you can see this correlation for yourself.{{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}Coo{{string:Dots}}they say that you never know what you might see when you meet a new gyroid.{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}Even so{{string:Dots}}something about the {{color id="1"}}stelloid{{color id="-1"}} still feels{{string:Dots}}{{delay20}}otherworldly{{delay20}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}When I first came across the {{color id="1"}}stelloid{{color id="-1"}}{{string:Dots}}I was taken aback by its many{{delay20}}{{anim:ShyBoy target="actor" targetSpec=""}} oddities.{{delay20}}{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}It produces a peculiar sound, 
+{{delay8}}one that warps {{delay20}}and echoes around the room.{{pageBreak}}
+{{anim:WrySmile target="actor" targetSpec=""}}It even achieves this through its own unusual way of movement.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}If you observe it in motion,{{delay8}} you can see this correlation for yourself.{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}Cu{{string:Dots}}they say that you never know what you might see when you meet a new gyroid.{{pageBreak}}
+{{anim:Thinking target="actor" targetSpec=""}}Even so{{string:Dots}}something about the {{color id="1"}}stelloid{{color id="-1"}} still feels{{string:Dots}}{{delay20}}otherworldly{{delay20}}
 to me{{string:Dots}}
 
 ---
 label: 135
 attribute: 0xAA020000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}{{color id="1"}}Jingloids{{color id="-1"}} are some of the most fashionable gyroids.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Sparkly adornments cover both their base and head.{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}But the {{color id="1"}}jingloid{{color id="-1"}}'s sparkle isn't just for show.{{pageBreak}}{{anim:HappyFlower target="actor" targetSpec=""}}These little pieces create the 
-iconic{{delay8}} "jingle" that these gyroids are named for.{{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}Why choose between fashion and practicality?{{delay40}} The {{color id="1"}}jingloid{{color id="-1"}} gets the best of both worlds.
+{{anim:Nodding target="actor" targetSpec=""}}{{color id="1"}}Jingloids{{color id="-1"}} are some of the most fashionable gyroids.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Sparkly adornments cover both their base and head.{{pageBreak}}
+{{anim:Negative target="actor" targetSpec=""}}But the {{color id="1"}}jingloid{{color id="-1"}}'s sparkle isn't just for show.{{pageBreak}}
+{{anim:HappyFlower target="actor" targetSpec=""}}These little pieces create the 
+iconic{{delay8}} "jingle" that these gyroids are named for.{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}Why choose between fashion and practicality?{{delay40}} The {{color id="1"}}jingloid{{color id="-1"}} gets the best of both worlds.
 
 ---
 label: 136
@@ -544,7 +680,10 @@ attribute: 0xAA020000
 ---
 {{anim:Explain target="actor" targetSpec=""}}The {{color id="1"}}rattloid{{color id="-1"}} produces its sound 
 by manipulating the environment 
-around it.{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}If you look closely,{{delay8}} you might be able to see a small object clattering within it.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Some speculation exists on how {{color id="1"}}rattloids{{color id="-1"}} obtain their instruments.{{pageBreak}}{{anim:AbsentMindedness target="actor" targetSpec=""}}Perhaps it's similar to an oyster and its pearl{{string:Dots}}{{delay20}}refining surrounding irritants{{delay20}} into a treat for the senses.{{pageBreak}}Coo{{string:Dots}}{{anim:Silent target="actor" targetSpec=""}}just one thing is for certain.{{pageBreak}}The {{color id="1"}}rattloid{{color id="-1"}}{{string:Dots}}{{delay20}}{{anim:Negative target="actor" targetSpec=""}}would make a{{delay8}} poor {{delay20}}piggy bank.
+around it.{{pageBreak}}
+{{anim:Thinking target="actor" targetSpec=""}}If you look closely,{{delay8}} you might be able to see a small object clattering within it.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Some speculation exists on how {{color id="1"}}rattloids{{color id="-1"}} obtain their instruments.{{pageBreak}}
+{{anim:AbsentMindedness target="actor" targetSpec=""}}Perhaps it's similar to an oyster and its pearl{{string:Dots}}{{delay20}}refining surrounding irritants{{delay20}} into a treat for the senses.{{pageBreak}}Cu{{string:Dots}}{{anim:Silent target="actor" targetSpec=""}}just one thing is for certain.{{pageBreak}}The {{color id="1"}}rattloid{{color id="-1"}}{{string:Dots}}{{delay20}}{{anim:Negative target="actor" targetSpec=""}}would make a{{delay8}} poor {{delay20}}piggy bank.
 
 ---
 label: 098
@@ -552,7 +691,8 @@ attribute: 0x0E030000
 ---
 {{anim:Nodding target="actor" targetSpec=""}}Plant it in the ground. Give it some
 water and some time.{{delay20}} It will grow up
-strong the next day{{string:Dots}}{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Gyroids take root fast{{delay20}} when you
+strong the next day{{string:Dots}}{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Gyroids take root fast{{delay20}} when you
 return them to the ground.
 
 ---
@@ -565,7 +705,7 @@ attribute: 0x50030000
 label: 028
 attribute: 0x7E030000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Coo{{string:Dots}}let's see{{string:Dots}}
+{{anim:Thinking target="actor" targetSpec=""}}Cu{{string:Dots}}let's see{{string:Dots}}
 
 ---
 label: 029_1
@@ -595,7 +735,8 @@ attribute: 0xFA040000
 label: 031_1
 attribute: 0x00000000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}I have good news for you.{{delay20}} {{anim:Explain target="actor" targetSpec=""}}One of my regulars, {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Don{{color id="-1"}}, told me he recently got back into {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}digging underground{{color id="-1"}}.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Well, {{delay8}}he had several {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}gemstones and rare ores{{color id="-1"}}, and I allowed him to purchase his coffee with them.
+{{anim:FaintSmile target="actor" targetSpec=""}}I have good news for you.{{delay20}} {{anim:Explain target="actor" targetSpec=""}}One of my regulars, {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Don{{color id="-1"}}, told me he recently got back into {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}digging underground{{color id="-1"}}.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Well, {{delay8}}he had several {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}gemstones and rare ores{{color id="-1"}}, and I allowed him to purchase his coffee with them.
 
 ---
 label: 031_2
@@ -607,7 +748,10 @@ I've been meaning to tell you{{string:Dots}}
 label: 031_3
 attribute: 0x00000000
 ---
-{{anim:ShyBoy target="actor" targetSpec=""}}Coo{{string:Dots}}regardless{{string:Dots}}{{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}Last time you gave me a gyroid, {{anim:Worried target="actor" targetSpec=""}}I had nothing, save for a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}takeout coffee{{color id="-1"}}, to give you in return. {{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}I hope that these {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}rare stones{{color id="-1"}} I mentioned will incentivize you to continue bringing me gyroids.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}I'll let you know if arrangements change, but I think we can count on {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Don{{color id="-1"}} to continue supplying them.
+{{anim:ShyBoy target="actor" targetSpec=""}}Cu{{string:Dots}}regardless{{string:Dots}}{{pageBreak}}
+{{anim:FaintSmile target="actor" targetSpec=""}}Last time you gave me a gyroid, {{anim:Worried target="actor" targetSpec=""}}I had nothing, save for a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}takeout coffee{{color id="-1"}}, to give you in return. {{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}I hope that these {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}rare stones{{color id="-1"}} I mentioned will incentivize you to continue bringing me gyroids.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}I'll let you know if arrangements change, but I think we can count on {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Don{{color id="-1"}} to continue supplying them.
 
 ---
 label: 031_4
@@ -661,13 +805,14 @@ attribute: 0xE4070000
 label: 203_2
 attribute: 0x02080000
 ---
-{{anim:Love target="actor" targetSpec=""}}On a special day like todaysuch a wintry gyroid is certainly felicitous {{anim:Nodding target="actor" targetSpec=""}}It makes for a great present, too.{{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}Coo{{anim:HappyFlower target="actor" targetSpec=""}}thank you, {{delay8}}{{string:PlayerName}}.
+{{anim:Love target="actor" targetSpec=""}}On a special day like todaysuch a wintry gyroid is certainly felicitous {{anim:Nodding target="actor" targetSpec=""}}It makes for a great present, too.{{pageBreak}}
+{{anim:FaintSmile target="actor" targetSpec=""}}Cu{{anim:HappyFlower target="actor" targetSpec=""}}thank you, {{delay8}}{{string:PlayerName}}.
 
 ---
 label: 203_3
 attribute: 0x22080000
 ---
-{{anim:HappyDance target="actor" targetSpec=""}}Coothis gyroid's wintry temperament makes me so excited me for Toy Day tomorrow.
+{{anim:HappyDance target="actor" targetSpec=""}}Cuthis gyroid's wintry temperament makes me so excited me for Toy Day tomorrow.
 
 ---
 label: 035_1
@@ -679,7 +824,7 @@ attribute: 0x440A0000
 label: 035_2
 attribute: 0x780A0000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}{{string:PlayerName}}{{string:Dots}}{{pageBreak}}This {{color id="1"}}{{125:0 arg="0x0000"}}{{color id="-1"}} has absorbed my attention for the day{{string:Dots}}but if you'll bring more gyroids another day{{string:Dots}}{{pageBreak}}I'll do my best to have a better {{color id="1"}}reward{{color id="-1"}} ready for you next time.{{pageBreak}}Coo{{string:Dots}}
+{{anim:FaintSmile target="actor" targetSpec=""}}{{string:PlayerName}}{{string:Dots}}{{pageBreak}}This {{color id="1"}}{{125:0 arg="0x0000"}}{{color id="-1"}} has absorbed my attention for the day{{string:Dots}}but if you'll bring more gyroids another day{{string:Dots}}{{pageBreak}}I'll do my best to have a better {{color id="1"}}reward{{color id="-1"}} ready for you next time.{{pageBreak}}Cu{{string:Dots}}
 so please{{delay20}} bring more sometime.{{delay40}}
 Thanks again.
 
@@ -712,7 +857,7 @@ attribute: 0xD40B0000
 label: 203_6
 attribute: 0x1A0C0000
 ---
-{{anim:Sighing target="actor" targetSpec=""}}Cooand that wonderful winter spirit makes me miss Toy Day already
+{{anim:Sighing target="actor" targetSpec=""}}Cu and that wonderful winter spirit makes me miss Toy Day already
 
 ---
 label: 203_7
@@ -736,7 +881,8 @@ attribute: 0xAE0D0000
 label: 205
 attribute: 0xF40D0000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}It's another {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}precious stone{{color id="-1"}} I saved just for you.{{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}Coo{{anim:BigSmile target="actor" targetSpec=""}}happy Toy Day, {{delay8}}{{string:PlayerName}}.
+{{anim:Nodding target="actor" targetSpec=""}}It's another {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}precious stone{{color id="-1"}} I saved just for you.{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}Cu{{anim:BigSmile target="actor" targetSpec=""}}happy Toy Day, {{delay8}}{{string:PlayerName}}.
 
 ---
 label: 2505_0
@@ -767,7 +913,7 @@ attribute: 0x46100000
 label: 2506_01
 attribute: 0x46100000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}CooHere's a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}silver nugget{{color id="-1"}}{{delay20}} as a thank-you.
+{{anim:Nodding target="actor" targetSpec=""}}CuHere's a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}silver nugget{{color id="-1"}}{{delay20}} as a thank-you.
 
 ---
 label: 2507
@@ -798,7 +944,9 @@ attribute: 0x9C100000
 label: 2507_03
 attribute: 0x9C100000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}I have a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}ruby{{color id="-1"}} for you today.{{delay20}}{{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}Cooapparently they're said {{delay8}}to contain the essence{{delay8}} of fire{{string:Dots}}{{delay20}}{{pageBreak}}{{string:Dots}}{{delay20}}{{anim:Negative target="actor" targetSpec=""}}But they feel cold to me.
+{{anim:FaintSmile target="actor" targetSpec=""}}I have a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}ruby{{color id="-1"}} for you today.{{delay20}}{{pageBreak}}
+{{anim:FaintSmile target="actor" targetSpec=""}}Cuapparently they're said {{delay8}}to contain the essence{{delay8}} of fire{{string:Dots}}{{delay20}}{{pageBreak}}
+{{string:Dots}}{{delay20}}{{anim:Negative target="actor" targetSpec=""}}But they feel cold to me.
 
 ---
 label: 2508
@@ -846,13 +994,15 @@ attribute: 0x5C120000
 label: 2509_01
 attribute: 0x5C120000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}As a thank-you, here's an {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}emerald{{color id="-1"}}{{delay20}}.{{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}Coo{{string:Dots}}{{delay20}}its green hue is so pleasing{{string:Dots}}
+{{anim:FaintSmile target="actor" targetSpec=""}}As a thank-you, here's an {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}emerald{{color id="-1"}}{{delay20}}.{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}Cu{{string:Dots}}{{delay20}}its green hue is so pleasing{{string:Dots}}
 
 ---
 label: 2509_02
 attribute: 0x5C120000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Please take this {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}emerald{{color id="-1"}}.{{pageBreak}}{{string:Dots}}{{anim:FaintSmile target="actor" targetSpec=""}}I appreciate you{{string:Dots}}
+{{anim:FaintSmile target="actor" targetSpec=""}}Please take this {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}emerald{{color id="-1"}}.{{pageBreak}}
+{{string:Dots}}{{anim:FaintSmile target="actor" targetSpec=""}}I appreciate you{{string:Dots}}
 
 ---
 label: 2509_03
@@ -888,13 +1038,14 @@ attribute: 0xA0120000
 label: 2510_03
 attribute: 0xA0120000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Coo{{string:Dots}}{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}amethysts{{color id="-1"}} have such beautiful {{delay8}}lustre to them{{string:Dots}}{{pageBreak}}Please accept this one as a thank-you.
+{{anim:FaintSmile target="actor" targetSpec=""}}Cu{{string:Dots}}{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}amethysts{{color id="-1"}} have such beautiful {{delay8}}lustre to them{{string:Dots}}{{pageBreak}}Please accept this one as a thank-you.
 
 ---
 label: 2505_02
 attribute: 0x34130000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}Please take this{{anim:Nodding target="actor" targetSpec=""}} a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}gold nugget{{color id="-1"}}.{{pageBreak}}{{string:Dots}}I hope you don't{{anim:Serious target="actor" targetSpec=""}} just sell these.
+{{anim:Smiling target="actor" targetSpec=""}}Please take this{{anim:Nodding target="actor" targetSpec=""}} a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}gold nugget{{color id="-1"}}.{{pageBreak}}
+{{string:Dots}}I hope you don't{{anim:Serious target="actor" targetSpec=""}} just sell these.
 
 ---
 label: 2505_03
