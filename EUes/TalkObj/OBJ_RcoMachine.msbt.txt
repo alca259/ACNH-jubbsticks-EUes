@@ -1,0 +1,128 @@
+
+---
+label: 010
+attribute: 0x0A0021
+---
+Por favor, selecciona el número de 
+{{color id="1"}}cupones de bayas{{delay8}}{{color id="-1"}} para canjear.
+
+---
+label: 010_a
+attribute: 0x000021
+---
+Canjear 1 ({{color id="1"}}500 Millas{{color id="-1"}})
+
+---
+label: 010_b
+attribute: 0x000021
+---
+Canjear 3 ({{color id="1"}}1.500 Millas{{color id="-1"}})
+
+---
+label: 010_c
+attribute: 0x000021
+---
+Canjear 5 ({{color id="1"}}2.500 Millas{{color id="-1"}})
+
+---
+label: 010_d
+attribute: 0x000021
+---
+Canjear 10 ({{color id="1"}}5.000 Millas{{color id="-1"}})
+
+---
+label: 010_e
+attribute: 0x000021
+---
+Canjear 20 ({{color id="1"}}10.000 Millas{{color id="-1"}})
+
+---
+label: 010_f
+attribute: 0x000021
+---
+Cancelar
+
+---
+label: 011
+attribute: 0x0A0021
+---
+Por favor, selecciona el número de 
+{{color id="1"}}cupones de millas{{delay8}}{{color id="-1"}} para canjear.
+
+---
+label: 011_a
+attribute: 0x000021
+---
+Canjear 1 ({{color id="1"}}2.000 Millas{{color id="-1"}})
+
+---
+label: 011_b
+attribute: 0x000021
+---
+Canjear 3 ({{color id="1"}}6.000 Millas{{color id="-1"}})
+
+---
+label: 011_c
+attribute: 0x000021
+---
+Canjear 5 ({{color id="1"}}10.000 Millas{{color id="-1"}})
+
+---
+label: 011_d
+attribute: 0x000021
+---
+Canjear 10 ({{color id="1"}}20.000 Millas{{color id="-1"}})
+
+---
+label: 011_e
+attribute: 0x000021
+---
+Canjear 20 ({{color id="1"}}40.000 Millas{{color id="-1"}})
+
+---
+label: 011_f
+attribute: 0x000021
+---
+Cancelar
+
+---
+label: 023
+attribute: 0x000021
+---
+No puedes recibir tus artículos solicitados 
+porque tu saldo de millas es insuficiente.{{pageBreak}}Inténtalo de nuevo más tarde.
+
+---
+label: 024_01
+attribute: 0x000021
+---
+No puedes recibir tus artículos solicitados 
+porque tus bolsillos están llenos.{{pageBreak}}Organiza tus bolsillos y prueba de nuevo.
+
+---
+label: 025_01
+attribute: 0x000021
+---
+Imprimiendo 
+{{color id="1"}}cupones de bayas{{color id="-1"}}{{string:Dots}}{{10:8 arg="0x37000000"}}
+
+---
+label: 025_02
+attribute: 0x000021
+---
+Imprimiendo 
+{{color id="1"}}cupones de millas{{color id="-1"}}{{string:Dots}}{{10:8 arg="0x37000000"}}
+
+---
+label: 026_03
+attribute: 0x000021
+---
+Tus {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}cupones de millas {{color id="-1"}}se han impreso.
+{{pageBreak}}Por favor, llevalos contigo al {{color id="1"}}{{uppercaseNextWord}}{{string:IslandName}} aeropuerto{{color id="-1"}} cuando quieras utilizarlos.
+
+---
+label: 026_04
+attribute: 0x000021
+---
+Tus {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}cupones de bayas {{color id="-1"}}se han impreso.
+{{pageBreak}}Por favor, llevalos contigo al {{color id="1"}}Mini Nook{{color id="-1"}} cuando quieras intercambiarlos por bayas.

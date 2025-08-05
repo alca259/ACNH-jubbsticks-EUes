@@ -1,0 +1,6 @@
+
+---
+label: 403_01
+attribute: 0x0000000000000000
+---
+{{anim:ShyBoy target="actor" targetSpec=""}}Este tipo de frutas están riquísimas, {{string:Catchphrase}}. {{delay40}}{{anim:BigSmile target="actor" targetSpec=""}}¡No puedo creer que me estés dando una de gratis!

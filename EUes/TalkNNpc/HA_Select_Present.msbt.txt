@@ -1,0 +1,6 @@
+
+---
+label: 403_01
+attribute: 0x0000000000000000
+---
+{{anim:Frantic target="actor" targetSpec=""}}Voy a necesitar algo de disciplina para no devorarlo inmediatamente, {{delay8}}{{string:Catchphrase}}{{string:Dots}}

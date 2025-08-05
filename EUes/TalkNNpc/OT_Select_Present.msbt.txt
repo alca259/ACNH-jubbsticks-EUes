@@ -1,0 +1,7 @@
+
+---
+label: 403_01
+attribute: 0x0000000000000000
+---
+{{anim:Blushing target="actor" targetSpec=""}}Estoy que lo flipo, {{string:Catchphrase}}.{{10:4}}
+{{anim:HappyDance target="actor" targetSpec=""}}¡Esto está buenísimo!

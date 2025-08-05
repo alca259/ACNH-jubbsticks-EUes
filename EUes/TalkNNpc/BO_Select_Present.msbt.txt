@@ -1,0 +1,9 @@
+
+---
+label: 403_01
+attribute: 0x0000000000000000
+---
+{{anim:Pardon target="actor" targetSpec=""}}De verdad me estás regalando {{wordArticle}}{{125:0 arg="0x0000"}}?{{delay frames="40"}}{{10:4}}
+{{anim:BigSmile target="actor" targetSpec=""}}¡¡¡GRACIAS!!!{{delay40}}{{pageBreak}}
+{{anim:Frantic target="actor" targetSpec=""}}Ohhh{{delay8}}h{{delay8}}h{{delay8}}h{{delay8}}h{{delay8}} no te creo{{string:Dots}}
+¡No puedo esperar a comérmelo!{{pageBreak}}{{anim:Blushing target="actor" targetSpec=""}}{{uppercaseNextWord}}{{string:Catchphrase}}, eres lo mas, {{string:NickName}}.

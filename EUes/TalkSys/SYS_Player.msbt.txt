@@ -1,0 +1,7 @@
+
+---
+label: 962
+attribute: 0x000018
+---
+He aprendido una {{color id="1"}}técnica especial{{color id="-1"}}!{{delay frames="30"}}
+Ahora puedo fabricar el cebo para pescado en lotes,{{delay8}} ¡todo de una vez!

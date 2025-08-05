@@ -1,0 +1,6 @@
+
+---
+label: 403_01
+attribute: 0x0000000000000000
+---
+{{string:Catchphrase}}, ¡Estoy MUU{{delay8}}U{{delay8}}U{{delay8}}UY agradecida de que me des {{wordArticle}}{{125:0 arg="0x0000"}}!

@@ -1,0 +1,7 @@
+
+---
+label: 403_01
+attribute: 0x0000000000000000
+---
+{{anim:Clapping target="actor" targetSpec=""}}Estás subiendo el listón de las frutas por aquí, {{string:Catchphrase}}.{{delay40}}{{anim:BigSmile target="actor" targetSpec=""}} ¡Qué inspirador! {{delay8}}Incroyable!{{delay8}} ¡Magnífico!{{delay20}}
+{{size value="40"}}Etc., etc.{{string:Dots}}

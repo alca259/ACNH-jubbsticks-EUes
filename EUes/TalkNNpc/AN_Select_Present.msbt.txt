@@ -1,0 +1,7 @@
+
+---
+label: 403_01
+attribute: 0x0000000000000000
+---
+{{anim:Nodding target="actor" targetSpec=""}}Esto es {{delay8}}TAN{{delay8}} sabroso.{{delay20}} 
+{{anim:Love target="actor" targetSpec=""}}Me gusta, {{string:Catchphrase}}, como tú.
