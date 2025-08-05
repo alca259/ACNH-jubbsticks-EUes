@@ -1,0 +1,210 @@
+
+---
+label: 2100
+attribute: 0xABABABAB
+---
+{{anim:Thinking target="actor" targetSpec=""}}Lessee here{{string:Dots}} Aha! {{anim:Hello target="actor" targetSpec=""}}Here you go!
+
+---
+label: 2101
+attribute: 0xABABABAB
+---
+{{anim:Smiling target="actor" targetSpec=""}}Alright, I'm sure I've got{{anim:Nodding target="actor" targetSpec=""}} just the thing for you.
+
+---
+label: 2102
+attribute: 0x54585432
+---
+{{anim:Nodding target="actor" targetSpec=""}}Balloons come from the sky, which is why they're always trying to get back there.{{anim:Greeting target="actor" targetSpec=""}} Better hold on tight!
+
+---
+label: 2103
+attribute: 0xA8E90000
+---
+
+
+---
+label: 2104
+attribute: 0x00000000
+---
+{{anim:Nodding target="actor" targetSpec=""}}Okey dokey, artichokey.{{delay frames="40"}} {{anim:Smiling target="actor" targetSpec=""}}Stop by sometime.
+
+---
+label: 2105
+attribute: 0x00000000
+---
+{{anim:Smiling target="actor" targetSpec=""}}Oh, me?{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}Arrrk ark ark!{{delay frames="40"}} Why, I'm {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Phineas{{color id="-1"}}, the badge{{anim:FaintSmile target="actor" targetSpec=""}} man! {{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}At least{{string:Dots}}{{anim:Worried target="actor" targetSpec=""}} I used to be.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}You see, my hobby was once giving out badges to all the good kiddos, like you.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}But, these newfound {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}nook miles goals{{color id="-1"}} have taken the world by storm, and, well{{string:Dots}}{{pageBreak}}{{anim:Sighing target="actor" targetSpec=""}}Looks like it's back to balloons for me.{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}But{{string:Dots}}{{delay frames="40"}} I still want to encourage you kiddos{{anim:Assent target="actor" targetSpec=""}} to go out there and try new things!{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Even though I'm not the badge man anymore, I'll{{anim:Explain target="actor" targetSpec=""}} still give you special rewards if you're real good.{{pageBreak}}{{anim:HappyFlower target="actor" targetSpec=""}}Just come by sometime, and be sure to show me all the {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}nook miles stamps{{color id="-1"}} you've earned!{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}I'll be here {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}every Wednesday and Saturday{{color id="-1"}}.{{delay frames="40"}} See{{anim:Greeting target="actor" targetSpec=""}} you around, kiddo.
+
+---
+label: 2106
+attribute: 0x53010000
+---
+{{anim:Nodding target="actor" targetSpec=""}}Sure,{{delay frames="40"}} one balloon{{anim:FaintSmile target="actor" targetSpec=""}} coming right up{{string:Dots}} {{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}} which one would be good today{{string:Dots}}?
+
+---
+label: 2107
+attribute: 0x50050000
+---
+{{anim:Smiling target="actor" targetSpec=""}}This should do the trick.
+
+---
+label: 2108
+attribute: 0xC8070000
+---
+{{anim:Laughing target="actor" targetSpec=""}}Arrrk ark ark!{{delay frames="40"}} I just knew you'd ask.
+
+---
+label: 2109
+attribute: 0x9A080000
+---
+{{anim:Smiling target="actor" targetSpec=""}}I've got one just for you.
+
+---
+label: 2110
+attribute: 0x8C090000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Well,{{delay frames="40"}} since you asked{{anim:Nodding target="actor" targetSpec=""}} so nicely, I think you deserve one.
+
+---
+label: 2111
+attribute: 0x9C0B0000
+---
+{{anim:Thinking target="actor" targetSpec=""}}For today{{string:Dots}} {{anim:FaintSmile target="actor" targetSpec=""}}I think this'll do.
+
+---
+label: 2112
+attribute: 0x740C0000
+---
+5-option menu placeholder
+
+---
+label: 2113
+attribute: 0x780E0000
+---
+{{anim:Smiling target="actor" targetSpec=""}}Have fun, kiddo.{{delay frames="40"}} Just be careful not to let go of your new balloon!
+
+---
+label: 2114
+attribute: 0x38100000
+---
+{{anim:Hello target="actor" targetSpec=""}}Don't let it fly away!
+
+---
+label: 2115
+attribute: 0x34120000
+---
+{{anim:Smiling target="actor" targetSpec=""}}I hope you enjoy it.{{delay frames="40"}} Just be sure to watch your balance with it{{string:Dots}} {{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}I've seen some pretty bad falls in my day{{string:Dots}} {{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}Well, I don't want to scare you.{{anim:Laughing target="actor" targetSpec=""}} Arrrk ark ark!{{delay frames="40"}} Just be{{anim:Greeting target="actor" targetSpec=""}} careful!
+
+---
+label: 2112_a
+attribute: 0xBE120000
+---
+
+
+---
+label: 2112_b
+attribute: 0xD8120000
+---
+
+
+---
+label: 2112_c
+attribute: 0xFA120000
+---
+
+
+---
+label: 2112_d
+attribute: 0x36130000
+---
+
+
+---
+label: 2112_e
+attribute: 0xC0130000
+---
+
+
+---
+label: 2116
+attribute: 0xDA130000
+---
+{{anim:Smiling target="actor" targetSpec=""}}Be careful with that, okay? I'll{{anim:Greeting target="actor" targetSpec=""}} see you around.
+
+---
+label: 2123
+attribute: 0xFC130000
+---
+{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}} {{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}Sorry, it doesn't seem like you've done anything new{{anim:Negative target="actor" targetSpec=""}} recently.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}On the bright side, that means you still have more to do! More to look forward to!{{pageBreak}}{{anim:Cheering target="actor" targetSpec=""}}Go get 'em, kiddo!{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}I believe in you.
+
+---
+label: 2103_a
+attribute: 0x28140000
+---
+
+
+---
+label: 2103_b
+attribute: 0x64140000
+---
+
+
+---
+label: 2103_c
+attribute: 0xEE140000
+---
+
+
+---
+label: 2124
+attribute: 0x08150000
+---
+{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}} {{pageBreak}}{{anim:Shocked target="actor" targetSpec=""}}Oh, wow!{{delay frames="40"}} It seems like{{anim:HappyFlower target="actor" targetSpec=""}} your critterpedia has all sorts of fun fish in it!{{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}You know, I have a special{{anim:Nodding target="actor" targetSpec=""}} reward for kiddos like you who know a lot about fish.{{pageBreak}}{{anim:BigSmile target="actor" targetSpec=""}}Here you go.{{delay frames="40"}} It's a special DIY recipe{{anim:Nodding target="actor" targetSpec=""}} for a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}silver rod{{color id="-1"}}. I know you'll make good use of it.
+
+---
+label: 2125
+attribute: 0x2A150000
+---
+{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}} {{pageBreak}}{{anim:Shocked target="actor" targetSpec=""}}Oh, wow!{{delay frames="40"}} It seems like{{anim:HappyFlower target="actor" targetSpec=""}} you've added a whole lot of little insects to your critterpedia!{{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}I have a special{{anim:Nodding target="actor" targetSpec=""}} reward for kiddos like you who know a thing or two about bugs.{{pageBreak}}{{anim:BigSmile target="actor" targetSpec=""}}So, here you go!{{delay frames="40"}} It's a special DIY recipe{{anim:Nodding target="actor" targetSpec=""}} for a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}silver net{{color id="-1"}}. I know you'll make good use of it.
+
+---
+label: 2117
+attribute: 0x6A150000
+---
+{{anim:Shocked target="actor" targetSpec=""}}Oh no! I'm afraid I {{anim:Frantic target="actor" targetSpec=""}}haven't prepared a balloon to give you today{{string:Dots}} {{pageBreak}}{{anim:IdeaBulb target="actor" targetSpec=""}}Oh, I know! I was saving this for a more special occasion, but I have some  {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}special balloon recipes{{color id="-1"}} for you.{{pageBreak}}{{anim:SmugFace target="actor" targetSpec=""}}I came up with them myself after I bought a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}gemstone{{color id="-1"}} from a vendor I met here recently.{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}What was his name again{{string:Dots}}? Remy? Resty? {{string:Dots}}Risotto?{{pageBreak}}{{anim:Oops target="actor" targetSpec=""}}Oh well, it seems like I've forgotten.{{anim:Explain target="actor" targetSpec=""}} Anyway, he was scouting out the area for a nice spot to sell his wares.{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}I probably won't see him again myself;{{anim:Negative target="actor" targetSpec=""}} I believe he said he only plans to be here on {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Fridays{{color id="-1"}} .{{pageBreak}}{{anim:Oops target="actor" targetSpec=""}}Let me know if you meet him, though! I'll look into creating more {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}special balloon recipes{{color id="-1"}} based on those {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}gemstones{{color id="-1"}} .
+
+---
+label: 2118
+attribute: 0xA6150000
+---
+{{anim:Nodding target="actor" targetSpec=""}}I'll send you recipes for every kind of {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}amethyst balloon{{color id="-1"}} for now.{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}You'll need  {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}indigo-colored balloons{{color id="-1"}} to craft them.  I'm sure I've given you one of these before.{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}Arrrk ark ark!{{delay frames="40"}} For such a smart kiddo as yourself, it'll be a breeze.
+
+---
+label: 2119
+attribute: 0xF2160000
+---
+{{anim:Nodding target="actor" targetSpec=""}}I'll send you recipes for every kind of {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}ruby balloon{{color id="-1"}} for now.{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}You'll need  {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}pink-colored balloons{{color id="-1"}} to craft them.  I'm sure I've given you one of these before.{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}Arrrk ark ark!{{delay frames="40"}} For such a smart kiddo as yourself, it'll be a breeze.
+
+---
+label: 2120
+attribute: 0x0C170000
+---
+{{anim:Nodding target="actor" targetSpec=""}}I'll send you recipes for every kind of {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sapphire balloon{{color id="-1"}} for now.{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}You'll need  {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}cyan-colored balloons{{color id="-1"}} to craft them.  I'm sure I've given you one of these before.{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}Arrrk ark ark!{{delay frames="40"}} For such a smart kiddo as yourself, it'll be a breeze.
+
+---
+label: 2121
+attribute: 0x2E170000
+---
+{{anim:Nodding target="actor" targetSpec=""}}I'll send you recipes for every kind of {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}emerald balloon{{color id="-1"}} for now.{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}You'll need  {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}green-colored balloons{{color id="-1"}} to craft them.  I'm sure I've given you one of these before.{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}Arrrk ark ark!{{delay frames="40"}} For such a smart kiddo as yourself, it'll be a breeze.
+
+---
+label: 2126
+attribute: 0x5E170000
+---
+{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}} {{pageBreak}}{{anim:Shocked target="actor" targetSpec=""}}Oh, wow!{{delay frames="40"}} It seems like{{anim:HappyFlower target="actor" targetSpec=""}} you're a real sharpshooter when it comes to present balloons!{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}Arrrk ark ark!{{delay frames="40"}} I think that's deserving of a special prize, don't you?{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}Lessee see here{{string:Dots}}{{delay frames="40"}} {{anim:BigSmile target="actor" targetSpec=""}}Ah! Of course. Here's a special DIY recipe{{anim:Nodding target="actor" targetSpec=""}} for a special kid: the {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}silver slingshot{{color id="-1"}} recipe, 
+
+---
+label: 2127
+attribute: 0xAA180000
+---
+{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}} {{pageBreak}}{{anim:Shocked target="actor" targetSpec=""}}Wonderful job, {{delay8}}{{string:PlayerName}}!{{14:0 arg="0x00000E00"}}

@@ -1,0 +1,73 @@
+
+---
+label: 100
+attribute: 0x08000000
+---
+{{anim:FaintSmile target="actor" targetSpec=""}}I'd be happy to know{{delay8}} what I can do
+{{delay20}}for you today.
+
+---
+label: 100_a
+attribute: 0x00000000
+---
+I'm here to shop!
+
+---
+label: 100_b
+attribute: 0x00000000
+---
+Let's talk weeds!
+
+---
+label: 100_c
+attribute: 0x00000000
+---
+Bamboo cultivation!
+
+---
+label: 100_d
+attribute: 0x00000000
+---
+Weeding service...
+
+---
+label: 100_e
+attribute: 0x00000000
+---
+Nothing.
+
+---
+label: 200
+attribute: 0x08000000
+---
+{{anim:Smiling target="actor" targetSpec=""}}Heya! What can I do for you?
+
+---
+label: 200_a
+attribute: 0x00000000
+---
+I'm here to shop!
+
+---
+label: 200_b
+attribute: 0x00000000
+---
+Let's talk weeds!
+
+---
+label: 200_c
+attribute: 0x00000000
+---
+Bamboo cultivation!
+
+---
+label: 200_d
+attribute: 0x00000000
+---
+Weeding service...
+
+---
+label: 200_e
+attribute: 0x00000000
+---
+Nothing.

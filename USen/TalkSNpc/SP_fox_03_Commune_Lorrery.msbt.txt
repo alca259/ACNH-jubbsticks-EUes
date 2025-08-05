@@ -1,0 +1,139 @@
+
+---
+label: 132
+attribute: 0x00000000
+---
+{{anim:Smiling target="actor" targetSpec=""}}Number 31!{{delay8}} Woah!{{planeAnnounce type="3"}}{{delay frames="40"}}
+It's a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}mango{{color id="-1"}}!{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Enjoy it, pal!
+
+---
+label: 134
+attribute: 0x00000000
+---
+{{anim:Smiling target="actor" targetSpec=""}}The number 37's pretty funky, huh?{{planeAnnounce type="3"}}{{delay20}} Well anyway, here's your {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}lemon{{color id="-1"}}.{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Enjoy!
+
+---
+label: 133
+attribute: 0x00000000
+---
+{{anim:Surprised target="actor" targetSpec=""}}WOAH! {{delay40}}Lucky you!{{10:4}}{{delay8}}{{anim:Clapping target="actor" targetSpec=""}}
+You pulled the lucky {{color id="1"}}silver ticket{{color id="-1"}}!{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}The prize for this one is real special:{{delay40}} a recipe for a {{anim:Smiling target="actor" targetSpec=""}}{{color id="1"}}silver axe{{color id="-1"}}! 
+Here ya go,{{delay8}} kid!
+
+---
+label: 137
+attribute: 0x54585432
+---
+{{anim:Smiling target="actor" targetSpec=""}}Number 40!{{delay8}} Uuf{{string:Dots}}{{anim:OhGeez target="actor" targetSpec=""}}what's that smell?{{planeAnnounce type="3"}}Oh, right. It's your prize,
+a{{anim:Smiling target="actor" targetSpec=""}} {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}durian{{color id="-1"}}!{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Here,{{delay20}} kid,{{delay8}} for you!
+
+---
+label: 142
+attribute: 0x203E0000
+---
+{{anim:Smiling target="actor" targetSpec=""}}Let's see here{{string:Dots}} it's number 33!{{delay8}} Seems kinda special to me!{{planeAnnounce type="3"}}{{delay frames="40"}}
+Today you get a tasty {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}cherry{{color id="-1"}}!{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Enjoy!
+
+---
+label: 141
+attribute: 0x00000000
+---
+{{anim:Smiling target="actor" targetSpec=""}}Here we go! {{delay8}}Is that a number 53?!{{planeAnnounce type="3"}}{{delay20}} Nope, it's 35, of course! Here's
+your prize: a {{color id="1"}}{{wordInfo gender="0" indefArticle="4" defArticle="3"}}peach{{color id="-1"}}!{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Enjoy!
+
+---
+label: 140
+attribute: 0x00000000
+---
+{{anim:Smiling target="actor" targetSpec=""}}Sounds like number 34{{delay8}} is a-knockin' at your door!{{planeAnnounce type="3"}}{{delay20}} And today you win 
+a {{color id="1"}}{{wordInfo gender="0" indefArticle="4" defArticle="3"}}pear{{color id="-1"}}!{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Enjoy!
+
+---
+label: 138
+attribute: 0x48000000
+---
+{{anim:Smiling target="actor" targetSpec=""}}Hmm{{string:Dots}}{{anim:Surprised target="actor" targetSpec=""}}WOAH!!!{{delay8}} It's number 32!{{planeAnnounce type="3"}}{{delay frames="40"}}
+{{string:Dots}}Your prize{{string:Dots}}{{delay20}}is{{string:Dots}}{{anim:Smiling target="actor" targetSpec=""}} an {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}apple{{color id="-1"}}!{{delay20}}
+{{anim:Clapping target="actor" targetSpec=""}}How exciting!
+
+---
+label: 135
+attribute: 0x24010000
+---
+{{anim:Smiling target="actor" targetSpec=""}}Wait, wait, wait!!!{{delay8}} It's number 38!{{planeAnnounce type="3"}}{{delay frames="40"}}
+And you earned a yummy {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}lychee{{color id="-1"}}.{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Enjoy!
+
+---
+label: 136
+attribute: 0x98010000
+---
+{{anim:Smiling target="actor" targetSpec=""}}Wasn't that fun!? {{delay8}}You drew 
+number 39!{{planeAnnounce type="3"}}{{delay20}} Here's your prize—
+a {{color id="1"}}{{wordInfo gender="0" indefArticle="4" defArticle="3"}}banana{{color id="-1"}}!{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Enjoy!
+
+---
+label: 139
+attribute: 0x9E020000
+---
+{{anim:Smiling target="actor" targetSpec=""}}Oh boy! {{delay8}}Is that a number 36?!{{planeAnnounce type="3"}}{{delay20}} 
+Yes, yes it is! And you get
+a sweet {{color id="1"}}{{wordInfo gender="0" indefArticle="4" defArticle="3"}}orange{{color id="-1"}}!{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Enjoy!
+
+---
+label: 145
+attribute: 0xBA020000
+---
+{{anim:Thinking target="actor" targetSpec=""}}Hold on{{string:Dots}}don't {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}apples{{color id="-1"}}{{delay20}} {{anim:QuestionMark target="actor" targetSpec=""}}grow all over on {{10:13}}{{color id="1"}}{{uppercaseNextWord}}{{string:OtherIslandName}}{{color id="15"}}{{color id="-1"}}?{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}That's a bit of an unfortunate lucky item for ya today{{string:Dots}}
+
+
+---
+label: 148
+attribute: 0xDE020000
+---
+{{anim:Thinking target="actor" targetSpec=""}}Hold on{{string:Dots}}don't {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}peaches{{color id="-1"}}{{delay20}} {{anim:QuestionMark target="actor" targetSpec=""}}grow all over on {{10:13}}{{color id="1"}}{{uppercaseNextWord}}{{string:OtherIslandName}}{{color id="15"}}{{color id="-1"}}?{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}That's a bit of an unfortunate lucky item for ya today{{string:Dots}}
+
+---
+label: 150
+attribute: 0x92030000
+---
+{{anim:Apologize target="actor" targetSpec=""}}I'm afraid that's just the luck of the draw, {{50:3}}{{string:PlayerName}}.{{delay20}} {{anim:Scheming target="actor" targetSpec=""}}But you could always try again tomorrow{{string:Dots}}
+
+---
+label: 146
+attribute: 0xAE030000
+---
+{{anim:Thinking target="actor" targetSpec=""}}Hold on{{string:Dots}}don't {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}oranges{{color id="-1"}}{{delay20}} {{anim:QuestionMark target="actor" targetSpec=""}}grow all over on {{10:13}}{{color id="1"}}{{uppercaseNextWord}}{{string:OtherIslandName}}{{color id="15"}}{{color id="-1"}}?{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}That's a bit of an unfortunate lucky item for ya today{{string:Dots}}
+
+
+---
+label: 147
+attribute: 0xD2030000
+---
+{{anim:Thinking target="actor" targetSpec=""}}Hold on{{string:Dots}}don't {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}pears{{color id="-1"}}{{delay20}} {{anim:QuestionMark target="actor" targetSpec=""}}grow all over on {{10:13}}{{color id="1"}}{{uppercaseNextWord}}{{string:OtherIslandName}}{{color id="15"}}{{color id="-1"}}?{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}That's a bit of an unfortunate lucky item for ya today{{string:Dots}}
+
+
+---
+label: 149
+attribute: 0xD0040000
+---
+{{anim:Thinking target="actor" targetSpec=""}}Hold on{{string:Dots}}don't {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}cherries{{color id="-1"}}{{delay20}} {{anim:QuestionMark target="actor" targetSpec=""}}grow all over on {{10:13}}{{color id="1"}}{{uppercaseNextWord}}{{string:OtherIslandName}}{{color id="15"}}{{color id="-1"}}?{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}That's a bit of an unfortunate lucky item for ya today{{string:Dots}}
+
+---
+label: 160
+attribute: 0xD0040000
+---
+{{anim:Eh target="actor" targetSpec=""}}Oh,{{delay20}} and it looks like ya found your {{anim:Smiling target="actor" targetSpec=""}}lucky ticket of the day,{{delay8}} pal!{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Keep playing for the usual treats and trinkets,{{delay8}} but you'll have to wait 'till tomorrow to get another lucky ticket.
+
+---
+label: 161
+attribute: 0x00000000
+---
+{{anim:TakenAback target="actor" targetSpec=""}}No way!{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}You're SUPER lucky today,{{delay8}} pal!{{delay8}}{{delay8}}{{delay8}}{{delay8}}{{delay8}}{{10:4}}{{delay8}}{{anim:Clapping target="actor" targetSpec=""}}
+You drew the rainbow{{delay8}} ticket!{{pageBreak}}{{anim:Clapping target="actor" targetSpec=""}}Your prize is a special bundle of {{color id="1"}}gemstone axe{{color id="-1"}} recipes!{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}They'll let ya recolor that {{color id="1"}}silver axe{{color id="-1"}} you won a while back.{{delay20}} Lucky you!{{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}I'll send that recipe bundle to ya now.
+
+---
+label: 162
+attribute: 0x00000000
+---
+{{anim:Smiling target="actor" targetSpec=""}}And there ya have it!{{delay40}}
+{{anim:Hello target="actor" targetSpec=""}}Enjoy!
