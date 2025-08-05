@@ -1,0 +1,92 @@
+
+---
+label: 701
+attribute: 0x00000000
+---
+{{20:1 arg="0x0A00500030003E004E003100"}}{{anim:Greeting target="actor" targetSpec=""}}Heya, {{string:PlayerName}}!{{delay8}}
+How've you been?{{delay20}}{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}I've got someone 
+I'd like you to meet.
+
+---
+label: 702
+attribute: 0x00000000
+---
+{{20:1 arg="0x1600500030003E004E0030002C004E0031003E004E003000"}}{{anim:Eh target="actor" targetSpec=""}}Oh, me?
+
+---
+label: 702_2
+attribute: 0x00000000
+---
+{{20:1 arg="0x1600500030003E004E0030002C004E0031003E004E003000"}}{{anim:Laughing target="actor" targetSpec=""}}Arrrk ark ark!{{20:1 arg="0x0A004E0030003E0050003000"}}{{delay frames="40"}} Why, hello there,{{delay20}}{{anim:Greeting target="actor" targetSpec=""}} kiddo!{{pageBreak}}I'm {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Phineas{{color id="-1"}},{{delay8}} the badge{{anim:FaintSmile target="actor" targetSpec=""}} man! {{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}At least{{string:Dots}}{{anim:Worried target="actor" targetSpec=""}} I used to be.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}You see, my hobby was once giving out badges to all the good kiddos, like you.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}But, those newfound {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}
+Nook Miles Goals{{color id="-1"}} have taken the world by storm, and, well{{string:Dots}}{{pageBreak}}{{anim:Sighing target="actor" targetSpec=""}}Looks like it's 
+back to balloons for me.{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}But{{string:Dots}}{{delay frames="40"}} I still want to encourage 
+you kiddos{{anim:Assent target="actor" targetSpec=""}} to go out there 
+and try new things!{{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}Even though I'm not the badge 
+man anymore, I'll{{anim:Explain target="actor" targetSpec=""}} still give you
+{{color id="1"}}special rewards {{color id="-1"}}{{delay20}}if you're real good.
+
+---
+label: 703
+attribute: 0x00000000
+---
+{{20:1 arg="0x0A00500030003E004E003100"}}{{anim:Shocked target="actor" targetSpec=""}}Well isn't that somethin'!?
+
+---
+label: 703_2
+attribute: 0x00000000
+---
+{{20:1 arg="0x0A00500030003E004E003100"}}{{anim:Explain target="actor" targetSpec=""}}I thought{{color id="3"}} Phineas {{color id="-1"}}was just 
+here to sell his balloons!
+
+---
+label: 704
+attribute: 0x00000000
+---
+{{20:1 arg="0x1600500030003E004E0030002C004E0031003E004E003000"}}{{anim:WrySmile target="actor" targetSpec=""}}Actually{{string:Dots}}
+
+---
+label: 704_2
+attribute: 0x00000000
+---
+{{20:1 arg="0x1600500030003E004E0030002C004E0031003E004E003000"}}{{anim:Negative target="actor" targetSpec=""}}The balloons aren't for sale,{{delay20}}
+{{anim:BigSmile target="actor" targetSpec=""}}they're free!
+
+---
+label: 705
+attribute: 0x00000000
+---
+{{20:1 arg="0x0A00500030003E004E003100"}}{{anim:Shocked target="actor" targetSpec=""}}Well isn't{{delay8}} THAT somethin'!?{{10:4}}{{delay8}}
+{{anim:Laughing target="actor" targetSpec=""}}Free stuff is my kinda stuff!
+
+---
+label: 705_2
+attribute: 0x00000000
+---
+{{20:1 arg="0x0A00500030003E004E003100"}}{{anim:Smiling target="actor" targetSpec=""}}He's just full of surprises, huh?
+
+---
+label: 706
+attribute: 0x00000000
+---
+{{20:1 arg="0x1600500030003E004E0030002C004E0031003E004E003000"}}{{anim:Laughing target="actor" targetSpec=""}}Arrrk ark ark!{{delay frames="40"}}
+I suppose I am!
+
+---
+label: 706_2
+attribute: 0x00000000
+---
+{{20:1 arg="0x1600500030003E004E0030002C004E0031003E004E003000"}}Well it was nice meeting you, {{delay8}}kiddo!{{pageBreak}}Don't forget to come by sometime,{{delay8}} and be sure to show me all the {{color id="1"}}
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Nook Miles Stamps{{color id="-1"}} you earn!
+
+---
+label: 706_3
+attribute: 0x00000000
+---
+{{20:1 arg="0x1600500030003E004E0030002C004E0031003E004E003000"}}{{anim:ShyBoy target="actor" targetSpec=""}}Oh, and{{string:Dots}} I won't usually be here on {{color id="1"}}{{110:18}}s{{color id="-1"}}{{anim:Negative target="actor" targetSpec=""}}{{delay20}} like today.{{pageBreak}}I came today to set up my balloon cart!{{delay40}}{{anim:Explain target="actor" targetSpec=""}} After today, I'll only be here {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}every Wednesday and Saturday{{color id="-1"}}. {{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}There's lots of other places where kiddos like {{anim:SmugFace target="actor" targetSpec=""}}yourself are in desperate need of balloons!{{delay40}}{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}Arrrk ark ark!{{10:4}}
+See you around!{{anim:Hello target="actor" targetSpec=""}}{{delay40}}
+
+---
+label: 706_4
+attribute: 0x00000000
+---
+{{20:1 arg="0x1600500030003E004E0031002C004E0030003E004E003100"}}{{anim:ShyBoy target="actor" targetSpec=""}}I'll only be here {{color id="1"}}every Wednesday and Saturday{{color id="-1"}}. {{pageBreak}}There's lots of other places where kiddos like yourself need balloons!{{delay40}}{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}Arrrk ark ark! See you around!{{anim:Hello target="actor" targetSpec=""}}{{delay40}}

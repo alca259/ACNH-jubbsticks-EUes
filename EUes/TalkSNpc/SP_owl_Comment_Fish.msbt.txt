@@ -1,0 +1,14 @@
+
+---
+label: Fish_01010
+attribute: 0x00000000
+---
+{{anim:Explain target="actor" targetSpec=""}}While {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}barbel steeds{{color id="-1"}} 
+have many of the same features as {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}carps{{color id="-1"}},{{anim:OhGeez target="actor" targetSpec=""}} they're a bit less exciting, to my mind.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}For example, both have whiskers.{{10:4}}Yet,{{delay8}} the 
+{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}barbel steed's{{color id="-1"}} are just a hair shorter{{string:Dots}}
+{{delay8}}{{anim:ShyBoy target="actor" targetSpec=""}}pun not intended.{{pageBreak}}
+{{anim:Negative target="actor" targetSpec=""}}In fact, calling these whiskers "hairs" would be incorrect. {{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}In reality, these whiskers are barbels, a sensory taste organ wielded by 
+{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}barbel steeds{{color id="-1"}} and {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}carps{{color id="-1"}} alike.{{pageBreak}}
+{{anim:Shaking target="actor" targetSpec=""}}{{string:Dots}}Could you imagine having that many tongues sticking out of your face{{string:Dots}}?

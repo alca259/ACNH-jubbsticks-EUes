@@ -1,0 +1,185 @@
+
+---
+label: 312
+attribute: 0x00000000
+---
+{{anim:Hello target="actor" targetSpec=""}}Hiya, {{delay40}}{{string:PlayerName}}!{{pageBreak}}{{anim:Hesitate target="actor" targetSpec=""}}I have something that's{{delay40}}{{anim:Worried target="actor" targetSpec=""}} not-so-happy{{delay8}} to tell you,{{delay20}} but{{string:Dots}}{{delay20}}{{anim:Serious target="actor" targetSpec=""}} please don't get upset,{{delay20}} okay?{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}I've noticed that{{delay8}} here on {{string:IslandName}}, {{delay40}}the {{color id="1"}}bamboo trees{{color id="-1"}}{{anim:Negative target="actor" targetSpec=""}} aren't doing so great.{{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}They grow up nice {{delay40}}and tall,{{anim:SadSpiral target="actor" targetSpec=""}}{{delay8}} but they only sprout{{delay20}} a single shoot.{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}Usually,{{delay8}} bamboo trees sprout lots of shoots over time.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}If you've tried growing{{delay20}} lots of {{color id="1"}}bamboo shoots{{color id="-1"}},{{delay20}} you may have noticed this {{delay20}}already.{{pageBreak}}All that to say,{{delay40}}{{anim:SmugFace target="actor" targetSpec=""}} I'm offering a new bamboo cultivation service!{{pageBreak}}{{anim:HappyFlower target="actor" targetSpec=""}}For only {{color id="1"}}3,000 Bells{{color id="-1"}}, I can cultivate any {{color id="1"}}young bamboo tree{{color id="-1"}} for you,{{delay40}}{{anim:BigSmile target="actor" targetSpec=""}} and produce lots of {{color id="1"}}bamboo shoots{{color id="-1"}}!{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Of course,{{delay8}} the process will {{delay20}}take some time,{{anim:Nodding target="actor" targetSpec=""}} so I'll mail shoots {{delay20}}to you after they're happy {{delay20}}{{anim:FaintSmile target="actor" targetSpec=""}}and ready.{{pageBreak}}{{anim:Greeting target="actor" targetSpec=""}}I hope you'll use this new service of mine sometime!
+
+---
+label: 313
+attribute: 0x08000000
+---
+{{anim:Smiling target="mainNpc" targetSpec=""}}I'm so happy to {{delay8}}see you again!{{delay20}}
+{{anim:QuestionMark target="mainNpc" targetSpec=""}}What can I do for you?
+
+---
+label: 313_a
+attribute: 0x00000000
+---
+I'm here to shop!
+
+---
+label: 313_b
+attribute: 0x00000000
+---
+Let's talk weeds!
+
+---
+label: 313_c
+attribute: 0x00000000
+---
+Bamboo cultivation!
+
+---
+label: 313_d
+attribute: 0x00000000
+---
+Weeding service...
+
+---
+label: 313_e
+attribute: 0x00000000
+---
+Nothing.
+
+---
+label: 314
+attribute: 0x08000000
+---
+{{anim:FaintSmile target="actor" targetSpec=""}}I'd be happy to know{{delay8}} what I can do
+{{delay20}}for you today.
+
+---
+label: 314_a
+attribute: 0x00000000
+---
+I'm here to shop!
+
+---
+label: 314_b
+attribute: 0x00000000
+---
+Let's talk weeds!
+
+---
+label: 314_c
+attribute: 0x00000000
+---
+Bamboo cultivation!
+
+---
+label: 314_d
+attribute: 0x00000000
+---
+Weeding service...
+
+---
+label: 314_e
+attribute: 0x00000000
+---
+Nothing.
+
+---
+label: 315
+attribute: 0x08000000
+---
+Can I help{{delay8}}{{anim:QuestionMark target="mainNpc" targetSpec=""}} with anything else?
+
+---
+label: 315_a
+attribute: 0x00000000
+---
+Show me your stock!
+
+---
+label: 315_b
+attribute: 0x00000000
+---
+Let's talk weeds!
+
+---
+label: 315_c
+attribute: 0x00000000
+---
+Bamboo cultivation!
+
+---
+label: 315_d
+attribute: 0x00000000
+---
+Weeding service...
+
+---
+label: 315_e
+attribute: 0x00000000
+---
+Nothing.
+
+---
+label: 316
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Of course!{{delay20}}
+{{anim:QuestionMark target="actor" targetSpec=""}}And which lucky {{color id="1"}}young bamboo tree{{color id="-1"}} might I cultivate for you today?
+
+---
+label: 316_01
+attribute: 0x00000000
+---
+{{anim:Oops target="actor" targetSpec=""}}Ah,{{delay8}} did you change your mind?{{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}No worries,{{delay8}} I'll be here all day in case you decide to {{anim:Nodding target="actor" targetSpec=""}}change it again.
+
+---
+label: 317
+attribute: 0x00000000
+---
+{{anim:Laughing target="actor" targetSpec=""}}That's not a {{color id="1"}}young bamboo tree{{color id="-1"}},{{delay8}} silly!
+
+---
+label: 318
+attribute: 0x00000000
+---
+{{anim:Eh target="actor" targetSpec=""}}Oh, {{delay20}}I can't cultivate shoots effectively{{anim:Negative target="actor" targetSpec=""}} with a {{color id="1"}}nursery bamboo{{color id="-1"}} tree.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}If you have any {{color id="1"}}bamboo trees{{color id="-1"}} that have grown just a little bit, {{delay20}}{{anim:Nodding target="actor" targetSpec=""}}those would probably work best.{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}Don't bring an adult tree,{{delay8}} though! {{10:4}}{{delay8}}{{anim:Negative target="actor" targetSpec=""}} That'd be too big to take with me{{string:Dots}}
+
+---
+label: 319
+attribute: 0x00000000
+---
+{{anim:Eh target="actor" targetSpec=""}}Oh, {{delay20}}I can't cultivate shoots effectively{{anim:Negative target="actor" targetSpec=""}} with a fully-grown tree.{{anim:Explain target="actor" targetSpec=""}}If you have any {{color id="1"}}bamboo trees{{color id="-1"}} that have grown just a little bit, {{delay20}}{{anim:Nodding target="actor" targetSpec=""}}those would probably work best.{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}Don't bring a nursery tree,{{delay8}} though! {{10:4}}{{delay8}}{{anim:Worried target="actor" targetSpec=""}}It wouldn't last long enough to take with me{{string:Dots}}
+
+---
+label: 320
+attribute: 0x02000000
+---
+{{anim:HappyFlower target="actor" targetSpec=""}}This one looks real{{delay8}} happy and {{delay20}}spry!{{10:4}}{{delay8}}
+{{anim:Nodding target="actor" targetSpec=""}}It'll be {{color id="1"}}3,000 Bells{{color id="-1"}} to cultivate.
+Is that {{delay20}}{{anim:QuestionMark target="actor" targetSpec=""}}alright with you?
+
+---
+label: 320_a
+attribute: 0x00000000
+---
+Yup!
+
+---
+label: 320_b
+attribute: 0x00000000
+---
+Actually, nevermind.
+
+---
+label: 321
+attribute: 0x00000000
+---
+{{anim:FaintSmile target="actor" targetSpec=""}}All good. Let me know if you change your mind.
+
+---
+label: 322
+attribute: 0x00000000
+---
+Aw,{{delay8}}{{anim:BigSmile target="actor" targetSpec=""}} thanks!{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}I'll try to have some {{color id="1"}}bamboo shoots{{color id="-1"}} ready for you soon,{{delay8}} {{anim:Hesitate target="actor" targetSpec=""}}but please know it can take more than a day. 
+
+---
+label: 323
+attribute: 0x00000000
+---
+{{anim:Thinking target="actor" targetSpec=""}}{{uppercaseNextWord}}{{string:PlayerName}}, I think you've already given me bamboo to cultivate today.{{pageBreak}}{{anim:Blushing target="actor" targetSpec=""}}I appreciate your business,{{delay8}} but please give me time to focus on this order first.

@@ -1,0 +1,1000 @@
+
+---
+label: 000
+attribute: 0x00000000
+---
+{{anim:Nodding target="actor" targetSpec=""}}Touchdown like {{randomHobby otherArg="0x00CD"}}
+in {{wordArticle}}{{randomObj otherArg="0x00CD"}}—{{delay20}}we are
+parked and proud!{{delay20}}{{anim:Assent target="actor" targetSpec=""}}{{delay8}}{{delay40}}
+Give a quack to—{{anim:Eh target="actor" targetSpec=""}}{{delay20}}{{20:1 arg="0x0A004E0030003E004E003100"}}{{delay40}}{{20:1 arg="0x0A00500030003E004E003100"}}
+
+---
+label: 001_01
+attribute: 0x02000000
+---
+{{anim:EmotEnd_0 target="mainNpc" targetSpec=""}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Hey there! {{anim:ShyBoy target="actor" targetSpec=""}}Good to meetcha.
+
+
+---
+label: 001_01_a
+attribute: 0x00000000
+---
+Hi!
+
+---
+label: 001_01_b
+attribute: 0x00000000
+---
+Who are you?
+
+---
+label: 001
+attribute: 0x01000000
+---
+{{anim:EmotEnd_0 target="mainNpc" targetSpec=""}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Hey, 'scuze me! {{anim:ShyBoy target="actor" targetSpec=""}}Mind if I bend yer ear for a bit? Won't take a second. {{20:1 arg="0x0A004E0030003E0050003000"}}
+
+---
+label: 001_a
+attribute: 0x00000000
+---
+Go ahead!
+
+---
+label: 001_b
+attribute: 0x00000000
+---
+{{anim:QuestionMark target="actor" targetSpec=""}}...?
+
+---
+label: 120
+attribute: 0x00000000
+---
+{{anim:Serious target="actor" targetSpec=""}}Great!{{10:4}}{{delay8}}
+Follow me!{{20:1 arg="0x0A004E0031003E004E003200"}}
+
+---
+label: 121
+attribute: 0x00000000
+---
+{{anim:Serious target="actor" targetSpec=""}}Was that a nod? 
+I feel like I heard ya noddin'.{{10:4}}{{delay8}}
+Follow me!{{20:1 arg="0x0A004E0031003E004E003200"}}
+
+---
+label: 013
+attribute: 0x00000000
+---
+Lessee{{string:Dots}}{{delay8}}Uh{{string:Dots}}{{delay40}}{{anim:IdeaBulb target="actor" targetSpec=""}}Oh,{{delay8}} right.{{10:4}}{{delay8}}{{anim:FaintSmile target="actor" targetSpec=""}} I should introduce myself proper {{delay8}}and such. {{delay8}}The name's {{anim:Serious target="actor" targetSpec=""}}{{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Resetti{{color id="-1"}}.{{pageBreak}}Most people call me {{delay8}}Mr.{{delay8}} {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Resetti{{color id="-1"}},{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} on account of me bein' a respected member of the community and such.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Lookin' forward to workin' with ya!{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}Ahem,{{delay20}} so,{{delay8}}{{delay8}}I've been workin' my {{anim:Pardon target="actor" targetSpec=""}}MOLESKINS off over here, diggin' from the underbelly of this island.
+
+---
+label: 012
+attribute: 0x00000000
+---
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Here we are!{{pageBreak}}{{anim:Silent target="actor" targetSpec=""}}Apologies for the intrusion over there.{{10:4}}{{delay8}}{{anim:EmotEnd_0 target="actor" targetSpec=""}} I ain't worked in sales since{{anim:OhGeez target="actor" targetSpec=""}}{{string:Dots}}ever. Just a bit rusty.{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}Lessee{{string:Dots}}{{delay8}}Uh{{string:Dots}}{{delay40}}{{anim:IdeaBulb target="actor" targetSpec=""}}Oh,{{delay8}} right.{{10:4}}{{delay8}}{{anim:FaintSmile target="actor" targetSpec=""}} I should introduce myself proper {{delay8}}and such. {{delay8}}The name's {{anim:Serious target="actor" targetSpec=""}}{{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Resetti{{color id="-1"}}.{{pageBreak}}Most people call me {{delay8}}Mr.{{delay8}} {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Resetti{{color id="-1"}},{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} on account of me bein' a respected member of the community and such.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Lookin' forward to workin' with ya!{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}Ahem,{{delay20}} so,{{delay8}} this here island{{string:Dots}} 
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}{{color id="1"}}H{{delay8}}a{{delay8}}r{{delay8}}v{{delay8}}'{{delay8}}s{{delay8}} I{{delay8}}s{{delay8}}l{{delay8}}a{{delay8}}n{{delay8}}d{{color id="-1"}},{{delay20}} I should say{{string:Dots}}{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}{{string:Dots}}That's how he says it anyway.{{delay20}}
+By "he," I mean {{color id="3"}}Harvey{{color id="-1"}}, of course.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Point is, {{delay8}}I've been workin' my {{anim:Pardon target="actor" targetSpec=""}}MOLESKINS off over here, diggin' from the underbelly of this island!
+
+---
+label: 002
+attribute: 0x04000000
+---
+{{anim:Silent target="actor" targetSpec=""}}And{{string:Dots}}d'ya wanna know what I have to show for it?
+
+---
+label: 002_a
+attribute: 0x00000000
+---
+{{anim:QuestionMark target="actor" targetSpec=""}}What?
+
+---
+label: 002_b
+attribute: 0x00000000
+---
+Uhh...
+
+---
+label: 002_c
+attribute: 0x00000000
+---
+No thanks.
+
+---
+label: 003
+attribute: 0x00000000
+---
+{{10:12}}{{anim:Fuming target="actor" targetSpec=""}}{{10:10}}{{100:2}}　　  　{{size value="200"}}NOTHIN'{{anim:Shocked target="player" targetSpec=""}}!{{size value="100"}}{{15:100 arg="0x0200"}}
+
+---
+label: 004
+attribute: 0x00000000
+---
+{{anim:EmotEnd target="player" targetSpec=""}}{{string:Dots}}{{anim:Hot target="actor" targetSpec=""}}Sorry. Force'a habit.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}My job was basically to get angry at folks for some 17 years,{{delay8}} so{{string:Dots}}{{anim:ShyBoy target="actor" targetSpec=""}}it still comes out some'a the time{{string:Dots}}
+
+---
+label: 005
+attribute: 0x00000000
+---
+{{anim:EmotEnd target="player" targetSpec=""}}{{string:Dots}}{{anim:OhGeez target="actor" targetSpec=""}}Sorry.{{delay40}} That's what they call a {{delay20}}"rhetorical{{delay20}} question," not a{{anim:Pardon target="actor" targetSpec=""}}{{delay20}} "sit-there-and-drool-at-me{{delay20}} question." {{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}Oh, I'm just teasin',{{delay8}} of course.{{delay8}}{{anim:Blushing target="actor" targetSpec=""}} Force'a habit.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}My job was basically to get angry at folks for some 17 years,{{delay8}} so{{string:Dots}}{{anim:ShyBoy target="actor" targetSpec=""}}it still comes out some'a the time{{string:Dots}}
+
+---
+label: 006
+attribute: 0x00000000
+---
+{{anim:EmotEnd target="player" targetSpec=""}}{{anim:Worried target="actor" targetSpec=""}}Oh{{string:Dots}}{{delay40}} Sorry, ya said {{delay40}}{{anim:Negative target="actor" targetSpec=""}}"No thanks,"{{delay40}} like that, didn't'cha?{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}S'cuze my yellin', it's just a force'a habit{{anim:EmotEnd_0 target="actor" targetSpec=""}}.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}My job was basically to get angry at folks for some 17 years,{{delay8}} so{{string:Dots}}{{anim:ShyBoy target="actor" targetSpec=""}}it still comes out some'a the time{{string:Dots}}
+
+---
+label: 007
+attribute: 0x00000000
+---
+{{anim:Silent target="actor" targetSpec=""}}S'pose I should get to the gist, though,{{delay8}} right? {{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}When I said I had "NOTHIN'!" to show for my work, I really meant "nothin' of value to ME."
+
+---
+label: 008
+attribute: 0x04000000
+---
+See that there{{delay8}} {{20:1 arg="0x0A004E0031003E004E003300"}}{{color id="1"}}manhole cover{{color id="-1"}}{{delay8}}{{anim:QuestionMark target="actor" targetSpec=""}} in the ground? Looks kinda like a{{color id="1"}} reset surveillance center{{color id="-1"}}?{{pageBreak}}{{size value="75"}}{{string:Dots}}
+{{anim:Worried target="actor" targetSpec=""}}{{20:1 arg="0x0A004E0031003E0050003000"}}Not that ya'd know what THAT means{{string:Dots}}{{color id="-1"}}
+
+---
+label: 008_a
+attribute: 0x00000000
+---
+{{20:1 arg="0x0A00500030003E004E003300"}}{{anim:Nodding target="actor" targetSpec=""}}Yeah, cool!
+
+---
+label: 008_b
+attribute: 0x00000000
+---
+{{anim:QuestionMark target="actor" targetSpec=""}}Reset... surveillance?
+
+---
+label: 008_c
+attribute: 0x00000000
+---
+{{anim:Negative target="actor" targetSpec=""}}Nope. Don't see it.
+
+---
+label: 009_01
+attribute: 0x00000000
+---
+{{anim:Negative target="actor" targetSpec=""}}"Cool" ain't the right word. {{delay8}}{{20:1 arg="0x0A00500030003E004E003100"}}It's pretty warm in there.{{delay20}}
+{{anim:Angry target="actor" targetSpec=""}}It's a mineshaft.
+
+---
+label: 009
+attribute: 0x02000000
+---
+{{anim:Negative target="actor" targetSpec=""}}"Cool" ain't the right word. {{delay8}}It's pretty warm in there.{{delay20}}
+It's a mineshaft. 
+
+---
+label: 009_a
+attribute: 0x00000000
+---
+{{anim:QuestionMark target="actor" targetSpec=""}}Woah. Can I go in?
+
+---
+label: 009_b
+attribute: 0x00000000
+---
+...Okay then.
+
+---
+label: 018
+attribute: 0x01000000
+---
+{{anim:Silent target="actor" targetSpec=""}}Like I said{{string:Dots}}{{delay40}}
+{{anim:Negative target="actor" targetSpec=""}}ya wouldn't know about it.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Anyway, there's a mineshaft down there where I've been runnin' a mining operation.
+
+---
+label: 018_a
+attribute: 0x00000000
+---
+Woah. Can I go in?
+
+---
+label: 018_b
+attribute: 0x00000000
+---
+Cool.
+
+---
+label: 022
+attribute: 0x01000000
+---
+{{anim:Hot target="actor" targetSpec=""}}{{string:Dots}}{{delay40}}Took ya long enough.{{pageBreak}}Anyway, there's a mineshaft down there in that {{color id="1"}}m{{delay40}}a{{delay40}}n{{delay40}}h{{delay40}}o{{delay40}}l{{delay40}}e{{delay40}}{{delay40}}{{color id="-1"}}{{delay40}}{{color id="1"}}{{delay40}} c{{delay40}}o{{delay40}}v{{delay40}}e{{delay40}}r{{delay40}}{{color id="-1"}}{{delay40}} where I'm runnin' a mining operation.
+
+---
+label: 022_a
+attribute: 0x00000000
+---
+{{anim:QuestionMark target="actor" targetSpec=""}}Woah. Can I go in?
+
+---
+label: 022_b
+attribute: 0x00000000
+---
+That's cool!
+
+---
+label: 022_01
+attribute: 0x01000000
+---
+{{anim:Serious target="actor" targetSpec=""}}{{size value="200"}}
+{{delay40}}{{delay40}}{{delay40}}{{delay40}}.{{delay40}}{{delay40}}.{{delay40}}{{delay40}}.{{delay40}}{{delay40}}{{delay40}}{{delay40}}{{pageBreak}}{{size value="100"}}I'm gonna take that as a yes.{{pageBreak}}Anyway, there's a mineshaft down there in that {{color id="1"}}m{{delay40}}a{{delay40}}n{{delay40}}h{{delay40}}o{{delay40}}l{{delay40}}e{{delay40}}{{delay40}}{{color id="-1"}}{{delay40}}{{color id="1"}}{{delay40}} c{{delay40}}o{{delay40}}v{{delay40}}e{{delay40}}r{{delay40}}{{color id="-1"}}{{delay40}} where I'm runnin' a mining operation.
+
+---
+label: 022_01_a
+attribute: 0x00000000
+---
+{{anim:QuestionMark target="actor" targetSpec=""}}...Can I go in?
+
+---
+label: 022_01_b
+attribute: 0x00000000
+---
+Cool!
+
+---
+label: 019
+attribute: 0x02000000
+---
+{{anim:ColdChill target="actor" targetSpec=""}}It's right there.
+
+---
+label: 019_a
+attribute: 0x00000000
+---
+{{anim:Oops target="actor" targetSpec=""}}Oh, my bad.
+
+---
+label: 019_b
+attribute: 0x00000000
+---
+{{anim:QuestionMark target="actor" targetSpec=""}}Where?
+
+---
+label: 023
+attribute: 0x02000000
+---
+{{anim:Silent target="actor" targetSpec=""}}C'mon. {{delay40}}Right next to us. In the grass. Ya see it there, {{delay8}}right?
+
+---
+label: 023_a
+attribute: 0x00000000
+---
+{{anim:Oops target="actor" targetSpec=""}}Ah, of course!
+
+---
+label: 023_b
+attribute: 0x00000000
+---
+{{anim:Negative target="actor" targetSpec=""}}I don't...
+
+---
+label: 024
+attribute: 0x00000000
+---
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Okay.{{delay40}} Kid.{{delay40}} I need ya to work with me here.{{pageBreak}}{{anim:Serious target="actor" targetSpec=""}}Do ya even KNOW what a {{delay8}}{{color id="1"}}manhole {{anim:QuestionMark target="actor" targetSpec=""}}cover{{color id="-1"}}{{delay8}} is? {{delay40}}{{color id="4"}}{{size value="75"}}{{string:Dots}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Shouldn't be that hard.{{color id="-1"}}{{size value="100"}}{{pageBreak}}{{delay20}}{{anim:Nodding target="actor" targetSpec=""}}Lemme spell it out for ya,{{delay8}} before ya answer.{{10:4}}{{anim:Pardon target="actor" targetSpec=""}} Just so there's no misunderstanding.{{delay8}}{{pageBreak}}Two words: {{anim:Serious target="actor" targetSpec=""}}{{delay8}}
+ {{color id="1"}}m{{delay40}}{{10:4}}-a{{delay40}}{{10:4}}-n{{delay40}}{{10:4}}-h{{delay40}}{{10:4}}-o{{delay40}}{{10:4}}-l{{delay40}}{{10:4}}-e{{delay40}}{{10:4}}{{delay40}}{{10:4}}{{color id="-1"}} SPACE{{10:4}}{{delay40}}
+ {{color id="1"}}{{delay40}}{{10:4}}c{{delay40}}{{10:4}}-o{{delay40}}{{10:4}}-v{{delay40}}{{10:4}}-e{{delay40}}{{10:4}}-r{{delay40}}{{10:4}}{{10:4}}{{10:4}}{{color id="-1"}}{{delay8}}{{delay40}}{{10:4}}{{delay40}}{{10:4}}{{color id="-1"}}{{10:4}}{{10:4}}{{10:4}}.{{delay40}}{{10:4}}{{10:4}}{{10:4}}{{10:4}}{{10:4}}
+
+---
+label: 031
+attribute: 0x02000000
+---
+{{anim:Fuming target="actor" targetSpec=""}}{{size value="200"}}GAAAAAAAH!{{pageBreak}}I CAN'T TAKE IT!{{pageBreak}}"TAP TAP TAP!"{{pageBreak}}"TAP TAP TAP!"{{pageBreak}}"TAP!"{{pageBreak}}"TAP TAP!"{{pageBreak}}BRAIN{{delay8}}.{{delay8}}.{{delay8}}.HURTS!{{pageBreak}}{{anim:Fuming target="actor" targetSpec=""}}{{size value="100"}}What ya got against buttons?! Ya should stop mashin' 'em like that,{{delay8}} punk!{{pageBreak}}{{anim:Sighing target="actor" targetSpec=""}}{{delay40}}{{string:Dots}}{{delay40}}{{pageBreak}}{{string:Dots}}{{anim:SadSpiral target="actor" targetSpec=""}}Sorry kid. I didn't mean to call ya a punk.{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}My shrink says I should use words like "champ"{{delay40}} or "pal" {{delay20}} or "buddy" instead.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}If we're gonna work together, {{delay40}}I need ya not to get on my nerves.{{pageBreak}}{{anim:Hesitate target="actor" targetSpec=""}}Have we reached an {{delay20}}understanding about all this?
+
+---
+label: 031_a
+attribute: 0x00000000
+---
+{{anim:Shaking target="actor" targetSpec=""}}Yes.
+
+---
+label: 031_b
+attribute: 0x00000000
+---
+...
+
+---
+label: 010
+attribute: 0x00000000
+---
+{{anim:Negative target="actor" targetSpec=""}}Not a chance. If ya tried, I'd 
+probably say something like:{{delay20}} {{10:12}}{{anim:Fuming target="actor" targetSpec=""}}{{10:10}}{{100:2}}　　  　{{size value="125"}}SCRAM!{{size value="75"}}{{20:1 arg="0x0A00500030003E004E003100"}}{{anim:Shocked target="player" targetSpec=""}}{{delay40}}{{delay40}}{{10:4}}{{delay20}}{{string:Dots}}{{anim:ColdChill target="actor" targetSpec=""}}or somethin'.{{15:100 arg="0x0200"}}{{size value="100"}}
+
+---
+label: 011
+attribute: 0x04000000
+---
+{{anim:OhGeez target="actor" targetSpec=""}}Yeah. But like I was sayin' WAY earlier, I've been workin' my MOLESKINS off diggin' down there.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Blah blah and so on and so forth, right?{{delay20}}{{anim:Sleepy target="actor" targetSpec=""}}{{delay40}}{{delay40}}{{pageBreak}}{{anim:Grin target="actor" targetSpec=""}}But here's the part I think you're gonna like:{{delay8}} there's fancy sorts'a {{color id="1"}}ores{{color id="-1"}} down there. {{pageBreak}}{{anim:Eh target="actor" targetSpec=""}}Now,{{delay8}} while I ain't able{{anim:Negative target="actor" targetSpec=""}} to let ya down there yourself{{string:Dots}}{{anim:Explain target="actor" targetSpec=""}}if you wanna buy some {{color id="1"}}ore{{color id="-1"}}, I'm out here to sell.
+
+---
+label: 011_a
+attribute: 0x00000000
+---
+Awesome!
+
+---
+label: 011_b
+attribute: 0x00000000
+---
+Neat!
+
+---
+label: 011_c
+attribute: 0x00000000
+---
+...
+
+---
+label: 014
+attribute: 0x04000000
+---
+{{anim:Grin target="actor" targetSpec=""}}Right? Heh, I knew ya'd be interested.{{pageBreak}}{{anim:Aha target="actor" targetSpec=""}}Oh, one more thing 'fore I let ya off the hook!{{delay40}} This is important.{{delay40}}{{anim:QuestionMark target="actor" targetSpec=""}}
+Where ya from?
+
+---
+label: 014_a
+attribute: 0x00000000
+---
+{{anim:Explain target="actor" targetSpec=""}}I'm from {{color id="0"}}{{string:IslandName}}{{color id="-1"}}.
+
+---
+label: 014_b
+attribute: 0x00000000
+---
+{{anim:Negative target="actor" targetSpec=""}}Not telling!
+
+---
+label: 014_c
+attribute: 0x00000000
+---
+...
+
+---
+label: 017
+attribute: 0x04000000
+---
+{{anim:WrySmile target="actor" targetSpec=""}}Heh, I knew ya'd be interested.{{delay40}}{{string:Dots}}{{anim:OhGeez target="actor" targetSpec=""}}
+ya look interested, anyway.{{pageBreak}}{{anim:Aha target="actor" targetSpec=""}}Oh, one more thing 'fore I let ya 
+off the hook!{{delay40}} This is important.
+{{delay40}}{{anim:QuestionMark target="actor" targetSpec=""}}Where ya from?
+
+---
+label: 017_a
+attribute: 0x00000000
+---
+{{anim:Explain target="actor" targetSpec=""}}I'm from {{color id="0"}}{{string:IslandName}}{{color id="-1"}}.
+
+---
+label: 017_b
+attribute: 0x00000000
+---
+{{anim:Negative target="actor" targetSpec=""}}Not telling!
+
+---
+label: 017_c
+attribute: 0x00000000
+---
+...
+
+---
+label: 016
+attribute: 0x00000000
+---
+Oh, {{color id="0"}}{{string:IslandName}}{{color id="-1"}}? Y'know, that's great.{{anim:Laughing target="actor" targetSpec=""}} Perfect, really! {{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Ya might know that I work for {{color id="1"}}Rescue Services {{color id="-1"}}over there.{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}No worries, though, {{delay8}}{{anim:Assent target="actor" targetSpec=""}}I'm still on-call if ya ever need help.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Since ya come from {{color id="0"}}{{string:IslandName}}{{color id="-1"}}, I'm assumin' ya know what {{color id="1"}}Nook Miles{{color id="-1"}} are already. {{pageBreak}}{{anim:Angry target="actor" targetSpec=""}}If ya want my {{color id="1"}}ores{{color id="-1"}}, it's gonna cost ya those {{color id="1"}}Miles{{color id="-1"}}.{{delay8}}{{10:4}}{{delay8}}{{anim:Pardon target="actor" targetSpec=""}}
+Capisce?
+
+---
+label: 020
+attribute: 0x00000000
+---
+{{anim:OhGeez target="actor" targetSpec=""}}Alright, buster.
+{{delay8}}Keep your secrets.{{pageBreak}}Just know, {{delay20}}{{anim:Angry target="actor" targetSpec=""}}If ya want my {{color id="1"}}ores{{color id="-1"}}, it's gonna cost ya {{color id="1"}}Nook Miles{{color id="-1"}}.{{10:4}}{{anim:Pardon target="actor" targetSpec=""}} Hope they got those where ya come from.
+
+---
+label: 025
+attribute: 0x00000000
+---
+{{anim:Aha target="actor" targetSpec=""}}Oh, and I won't be here on the weekends.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Rescue call volume is way too high on weekends.{{delay40}}{{anim:Negative target="actor" targetSpec=""}} Couldn't tell ya why.{{pageBreak}}{{anim:ColdChill target="actor" targetSpec=""}}I guess that's about it,{{delay8}} though{{string:Dots}}{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}So{{delay8}} I'll stop runnin' my trap at'cha{{delay8}} 
+for now, {{delay8}}kid. {{10:4}}{{delay8}}{{anim:Greeting target="actor" targetSpec=""}}Come by sometime,{{delay8}} would'ja?
+
+---
+label: 030
+attribute: 0x00000000
+---
+But listen to me! Runnin' my trap like a fancy pirate or somethin'! {{delay40}}{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}And right after sayin' I "won't take a second" and all that. My bad.
+
+---
+label: 050
+attribute: 0x02000000
+---
+{{anim:Shocked target="actor" targetSpec=""}}Back already?{{10:4}}{{delay8}}{{anim:Thinking target="actor" targetSpec=""}}
+{{size value="70"}}Didn't think I was THAT good at sales{{string:Dots}}{{pageBreak}}{{anim:IdeaBulb target="actor" targetSpec=""}}{{size value="100"}}Ah, but how can I help ya?
+
+---
+label: 050_a
+attribute: 0x00000000
+---
+{{anim:Cheering target="actor" targetSpec=""}}I want some {{color id="1"}}ore{{color id="-1"}}!
+
+---
+label: 050_b
+attribute: 0x00000000
+---
+{{anim:Negative target="actor" targetSpec=""}}I'm all good.
+
+---
+label: 051
+attribute: 0x00000000
+---
+{{delay40}}{{anim:Eh target="actor" targetSpec=""}}
+
+---
+label: 100
+attribute: 0x02000000
+---
+{{anim:FaintSmile target="actor" targetSpec=""}}Hey, pal.{{10:4}}{{delay8}}{{anim:QuestionMark target="actor" targetSpec=""}} 
+Ya need something?
+
+---
+label: 100_a
+attribute: 0x00000000
+---
+{{anim:Nodding target="actor" targetSpec=""}}Ore, please!
+
+---
+label: 100_b
+attribute: 0x00000000
+---
+{{anim:Negative target="actor" targetSpec=""}}I'm all good.
+
+---
+label: 101
+attribute: 0x02000000
+---
+{{anim:Grin target="actor" targetSpec=""}}Back for more? Must be that ol' {{color id="3"}}Resetti{{color id="-1"}} charm.{{delay40}}{{anim:QuestionMark target="actor" targetSpec=""}} Whaddaya need?
+
+---
+label: 101_a
+attribute: 0x00000000
+---
+{{anim:Nodding target="actor" targetSpec=""}}Ore, please!
+
+---
+label: 101_b
+attribute: 0x00000000
+---
+{{anim:Negative target="actor" targetSpec=""}}I'm all good.
+
+---
+label: 200
+attribute: 0x06000000
+---
+{{anim:QuestionMark target="actor" targetSpec=""}}What kinda ore do ya want? 
+
+---
+label: 200_a
+attribute: 0x00000000
+---
+Gemstone!
+
+---
+label: 200_b
+attribute: 0x00000000
+---
+Silver nuggets!
+
+---
+label: 200_c
+attribute: 0x00000000
+---
+Gold nuggets!
+
+---
+label: 200_d
+attribute: 0x00000000
+---
+Nevermind.
+
+---
+label: 201
+attribute: 0x08000000
+---
+{{anim:Nodding target="actor" targetSpec=""}}Gotcha.{{delay20}} I've got {{color id="1"}}ruby{{color id="-1"}}, {{color id="1"}}sapphire{{color id="-1"}}, {{color id="1"}}emerald{{color id="-1"}}, and {{color id="1"}}amethyst{{color id="-1"}}. {{delay8}}
+Whaddaya want?
+
+---
+label: 201_a
+attribute: 0x00000000
+---
+Ruby!
+
+---
+label: 201_b
+attribute: 0x00000000
+---
+Sapphire!
+
+---
+label: 201_c
+attribute: 0x00000000
+---
+Emerald!
+
+---
+label: 201_d
+attribute: 0x00000000
+---
+Amethyst!
+
+---
+label: 201_e
+attribute: 0x00000000
+---
+Nevermind.
+
+---
+label: 201_01
+attribute: 0x06000000
+---
+{{anim:Nodding target="actor" targetSpec=""}}Those'll run ya {{color id="1"}}{{90:4 arg="0x0000"}} miles{{color id="-1"}} each.{{anim:QuestionMark target="actor" targetSpec=""}} How many didja want?
+
+---
+label: 201_01_a
+attribute: 0x00000000
+---
+Just one!
+
+---
+label: 201_01_b
+attribute: 0x00000000
+---
+Three, please!
+
+---
+label: 201_01_c
+attribute: 0x00000000
+---
+I want five!
+
+---
+label: 201_01_d
+attribute: 0x00000000
+---
+I'm good, actually.
+
+---
+label: 202
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Sounds good to me!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} I'll hand ya that {{color id="1"}}silver nugget{{color id="-1"}} soon as you've sent me the miles.
+
+---
+label: 202_01
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Sounds good to me!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} I'll hand ya those {{color id="1"}}silver nuggets{{color id="-1"}} soon as you've sent me the miles for 'em.
+
+---
+label: 203
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Sounds good to me!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} I'll hand ya that {{color id="1"}}gold nugget{{color id="-1"}} soon as you've sent me the miles.
+
+---
+label: 203_01
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Sounds good to me!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} I'll hand ya those {{color id="1"}}gold nuggets{{color id="-1"}} soon as you've sent me the miles for 'em.
+
+---
+label: 204
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Sounds good to me!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} I'll hand ya that {{color id="1"}}ruby{{color id="-1"}} soon as you've sent me the miles.
+
+---
+label: 204_01
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Sounds good to me!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} I'll hand ya those {{color id="1"}}rubies{{color id="-1"}} soon as you've sent the miles for 'em.
+
+---
+label: 205
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Sounds good to me!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} I'll hand ya that {{color id="1"}}sapphire{{color id="-1"}} soon as you've sent me the miles.
+
+---
+label: 205_01
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Sounds good to me!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} I'll hand ya those {{color id="1"}}sapphires{{color id="-1"}} soon as you've sent the miles for 'em.
+
+---
+label: 206
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Sounds good to me!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} I'll hand ya that {{color id="1"}}emerald{{color id="-1"}} soon as you've sent me the miles.
+
+---
+label: 206_01
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Sounds good to me!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} I'll hand ya those {{color id="1"}}emeralds{{color id="-1"}} soon as you've sent the miles for 'em.
+
+---
+label: 207
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Sounds good to me!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} I'll hand ya that {{color id="1"}}amethyst{{color id="-1"}} soon as you've sent me the miles.
+
+---
+label: 207_01
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Sounds good to me!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} I'll hand ya those {{color id="1"}}amethysts{{color id="-1"}} soon as you've sent the miles for 'em.
+
+---
+label: 210
+attribute: 0x00000000
+---
+{{anim:FaintSmile target="actor" targetSpec=""}}Seems like that did it!
+Here's that ore for ya.
+
+---
+label: 300
+attribute: 0x00000000
+---
+{{anim:ColdChill target="actor" targetSpec=""}}Well. Thanks for comin' by anyway.
+
+---
+label: 300_01
+attribute: 0x00000000
+---
+{{anim:Smiling target="actor" targetSpec=""}}Well, thanks for purchasin' and all that!
+
+---
+label: 300_02_00
+attribute: 0x00000000
+---
+{{anim:Worried target="actor" targetSpec=""}}Oh,{{delay8}} just one more thing 'fore ya go.
+
+---
+label: 300_02_01
+attribute: 0x00000000
+---
+{{anim:Worried target="actor" targetSpec=""}}Oh, hold on.{{delay20}}
+One last thing.
+
+---
+label: 300_02_02
+attribute: 0x00000000
+---
+{{anim:Aha target="actor" targetSpec=""}}Hey,{{delay8}} hold it.
+
+---
+label: 300_02_03
+attribute: 0x00000000
+---
+{{anim:ShyBoy target="actor" targetSpec=""}}Oh,{{delay8}} yeah,{{delay8}} one last thing{{string:Dots}}
+
+---
+label: 300_02_04
+attribute: 0x00000000
+---
+{{anim:IdeaBulb target="actor" targetSpec=""}}Oh,{{delay8}} and before I forget{{string:Dots}}
+
+---
+label: 301
+attribute: 0x00000000
+---
+{{anim:Negative target="actor" targetSpec=""}}It ain't "bob wire."{{10:4}}{{delay8}}
+It's {{delay8}}{{anim:Nodding target="actor" targetSpec=""}}"barbed{{delay8}} wire."{{delay40}}{{pageBreak}}{{anim:Outraged target="actor" targetSpec=""}}It's got barbs. {{delay20}}
+{{anim:Outraged target="actor" targetSpec=""}}It ain't got bobs!{{delay40}}
+{{anim:Outraged target="actor" targetSpec=""}}NO{{anim:Eh target="player" targetSpec=""}} BOBS!
+
+---
+label: 302
+attribute: 0x00000000
+---
+{{anim:Negative target="actor" targetSpec=""}}Ya don't drink "expresso."{{delay20}} 
+It's {{delay8}}{{anim:Silent target="actor" targetSpec=""}}"espresso."{{delay40}}{{anim:Outraged target="actor" targetSpec=""}}
+"Expresso" ain't even a thing!{{pageBreak}}{{anim:AbsentMindedness target="actor" targetSpec=""}}{{size value="75"}}A cup o' joe on a trainride doesn't sound too bad, {{delay8}}though{{string:Dots}}{{color id="-1"}}{{pageBreak}}{{anim:Eh target="actor" targetSpec=""}}{{size value="100"}}Oh, that was all.{{delay8}}
+Ya can {{anim:Nodding target="actor" targetSpec=""}}go, now.
+
+---
+label: 303
+attribute: 0x00000000
+---
+{{anim:Explain target="actor" targetSpec=""}}A really bad headache is called a "migraine," not a "mindgrain."{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}It's painful,{{delay8}} but it ain't some{{anim:Angry target="actor" targetSpec=""}} fancy health food for your noggin!{{pageBreak}}{{10:12}}{{anim:Fuming target="actor" targetSpec=""}}{{size value="150"}}BELIEVE ME;{{delay40}} I'D KNOW!{{size value="100"}}{{15:100 arg="0x0200"}}
+
+---
+label: 304
+attribute: 0x00000000
+---
+{{anim:Explain target="actor" targetSpec=""}}When ya don't care 'bout somethin', ya {{delay20}}"couldn't{{delay20}} care less." {{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}If ya {{delay20}}"could {{delay20}}care less," {{delay8}}that means ya still care.{{pageBreak}}{{anim:Silent target="actor" targetSpec=""}}It ain't that tough.{{delay8}} "Couldn't care" means ya don't care.{{pageBreak}}{{anim:Pardon target="actor" targetSpec=""}}Stop carin' 'bout stuff ya don't care 'bout!
+
+---
+label: 305
+attribute: 0x00000000
+---
+{{anim:Negative target="actor" targetSpec=""}}Ya don't get a {{delay8}}"new leash on life." 
+Ya get a "new lease."{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}A "new lease" means you're excited 'bout livin'.{{pageBreak}}{{anim:Pardon target="actor" targetSpec=""}}New leash?{{delay40}}{{anim:Laughing target="actor" targetSpec=""}}
+That means ya got a new pet
+{{delay8}}or somethin'!
+
+---
+label: 306
+attribute: 0x00000000
+---
+{{anim:Serious target="actor" targetSpec=""}}They call it "cole" slaw,{{delay8}} not "cold" slaw.{{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}I don't really see the big deal,{{delay8}} but{{string:Dots}}{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}"Gee,{{delay8}} Ma,"{{delay8}} I says.
+{{delay40}}{{anim:Frantic target="actor" targetSpec=""}}"Give a mole a break! It ain't like I said HOT slaw."
+
+---
+label: 307
+attribute: 0x00000000
+---
+{{anim:QuestionMark target="actor" targetSpec=""}}Ya know how sometimes, ya get to a point in a conversation where the whole thing's a {{delay8}}"mute" point?{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}Well it ain't on mute!{{delay20}}
+The point's{{delay8}} "moot!"{{10:4}}{{anim:Outraged target="actor" targetSpec=""}}
+"MOOT!"{{pageBreak}}{{anim:Aha target="actor" targetSpec=""}}Like a cow!{{10:4}}{{delay8}}{{anim:Negative target="actor" targetSpec=""}} 
+Ya can't mute a cow.
+
+---
+label: 308
+attribute: 0x00000000
+---
+{{anim:QuestionMark target="actor" targetSpec=""}}Ya know when ya say somethin' happened 'cause some other thing caused it?{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Like "I chalked up his resettin' ways to not knowin' the rules"
+{{string:Dots}}Ya ever hear that one before?{{pageBreak}}{{anim:Sighing target="actor" targetSpec=""}}{{color id="4"}}{{size value="75"}}Prolly not,{{delay8}} these days{{string:Dots}}{{size value="100"}}{{15:100 arg="0x0200"}}{{color id="-1"}}
+
+---
+label: 308_01
+attribute: 0x00000000
+---
+{{anim:OhGeez target="actor" targetSpec=""}}Well, notice how I said{{delay8}} "chalked up,"{{delay8}} not {{delay8}}"chucked up."{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}That's 'cause I ain't throwin' nothin'.{{10:4}}{{delay8}}
+"Chuck"{{delay8}} means "throw."{{pageBreak}}{{anim:Angry target="actor" targetSpec=""}}Don't throw things.{{delay20}} Ya could put an eye out.{{delay20}} {{anim:Negative target="actor" targetSpec=""}}It's all fun and games until a mole loses an eye.
+
+---
+label: 309
+attribute: 0x00000000
+---
+{{anim:Negative target="actor" targetSpec=""}}It ain't {{delay8}}"more better,"{{delay8}}
+it's just {{delay8}}"better."{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}And if ya need something better than "better"{{delay40}} {{anim:Pardon target="actor" targetSpec=""}}try "best!"
+
+---
+label: 310
+attribute: 0x00000000
+---
+{{anim:QuestionMark target="actor" targetSpec=""}}Ya ever heard someone say something was "irregardless" of something else?{{pageBreak}}{{anim:Fuming target="actor" targetSpec=""}}WELL I HAVE.{{10:4}}{{delay8}}
+And it's just plain wrong!{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}"Irregardless" ain't even a word!{{delay20}}{{anim:Explain target="actor" targetSpec=""}} If somethin' ain't relevant to somethin' else, it's just plain "regardless."
+
+---
+label: 311
+attribute: 0x00000000
+---
+{{anim:QuestionMark target="actor" targetSpec=""}}Y'know "chai tea?"{{10:4}}
+{{anim:Negative target="actor" targetSpec=""}}{{string:Dots}}It doesn't exist.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}"Chai" MEANS "tea." {{delay20}}
+So sayin' "chai tea" doesn't make any sense!{{pageBreak}}{{anim:Pardon target="actor" targetSpec=""}}
+{{10:12}}{{anim:Fuming target="actor" targetSpec=""}}{{size value="160"}}"TEA TEA" AIN'T A THING!{{size value="100"}}{{15:100 arg="0x0200"}}
+
+---
+label: 312
+attribute: 0x00000000
+---
+{{anim:Silent target="actor" targetSpec=""}}Brush your teeth.
+
+---
+label: 312_01
+attribute: 0x00000000
+---
+{{anim:Eh target="actor" targetSpec=""}}Oh, I ain't callin' ya stinky{{delay40}}
+{{color id="4"}}{{size value="75"}}{{anim:Worried target="actor" targetSpec=""}}This mole nose sure is sensitive,{{delay8}} though{{string:Dots}}{{color id="-1"}}{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}{{size value="100"}}Brushin's just a good habit to have. {{delay20}}{{anim:Serious target="actor" targetSpec=""}}Ya want your teeth to rot out? {{delay20}}{{anim:Pardon target="actor" targetSpec=""}}HUH?{{pageBreak}}Didn't think so.
+{{anim:Nodding target="actor" targetSpec=""}}So,{{delay8}} be sure to brush 'em real good before ya nod off, OK?{{pageBreak}}{{string:Dots}}{{anim:Sleepy target="actor" targetSpec=""}}S'pose I'll let ya go for now, though.
+
+---
+label: 313
+attribute: 0x00000000
+---
+{{anim:QuestionMark target="actor" targetSpec=""}}Ya know how someone says a story really made 'em emotional?{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}That makes it a {{delay8}}"touching"{{delay8}} story, {{anim:Negative target="actor" targetSpec=""}}not a {{delay8}}"touchy" {{delay8}}story.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}"Touchy" means it's a sensitive topic.{{delay8}} "Touching" means it{{anim:Smiling target="actor" targetSpec=""}} warms hearts.{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}{{string:Dots}}And mushy-gushy stuff like that.
+
+---
+label: 314
+attribute: 0x00000000
+---
+
+
+---
+label: 315
+attribute: 0x00000000
+---
+{{anim:Nodding target="actor" targetSpec=""}}When ya write, "whether or not," make sure that's the "W{{delay8}}-H{{delay8}}-E," kind not the "W{{delay8}}-E{{delay8}}-A" kinda weather.{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}When ya write "whether or not" wrong, {{delay8}}you're askin' if there's gonna be weather today!{{pageBreak}}{{anim:Pardon target="actor" targetSpec=""}}HELLO,{{delay20}} there's weather {{delay8}}EVERY{{delay8}} day!{{pageBreak}}{{anim:Sighing target="actor" targetSpec=""}}It's hard to explain out loud.{{delay8}}{{10:4}}{{delay8}}{{anim:Thinking target="actor" targetSpec=""}}{{delay40}}{{color id="4"}}{{size value="75"}}{{color id="4"}}
+If only ya could just READ what I'm sayin' instead{{string:Dots}}{{color id="-1"}}
+
+---
+label: 316
+attribute: 0x00000000
+---
+{{anim:Explain target="actor" targetSpec=""}}Every now and then,{{delay8}} go to bed early!{{pageBreak}}{{anim:Angry target="actor" targetSpec=""}}Stayin' up late all the time is for chumps!
+
+---
+label: 317
+attribute: 0x00000000
+---
+{{anim:QuestionMark target="actor" targetSpec=""}}Before tuckin' into bed tonight?{{delay40}}
+{{anim:Shocked target="actor" targetSpec=""}}Scrub behind those ears!{{delay40}}{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}Ya don't want potatoes growin' back there, do ya?{{delay40}}
+{{anim:Pardon target="actor" targetSpec=""}}Didn't think so!
+
+---
+label: 318
+attribute: 0x00000000
+---
+{{anim:Angry target="actor" targetSpec=""}}Wash your hands after you go to the bathroom!{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}No one likes a stinky,{{delay8}} sticky,{{delay8}}{{anim:Outraged target="actor" targetSpec=""}} PUNK!{{pageBreak}}{{anim:Hot target="actor" targetSpec=""}}{{color id="4"}}{{size value="75"}}But I'm not talkin' about you, or nothin'{{string:Dots}}{{pageBreak}}{{anim:Silent target="actor" targetSpec=""}}At least I{{delay8}} HOPE I'm not!{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}Ya'd be surprised at the number of folks who don't wash their grabbers on the regular.{{pageBreak}}{{anim:Aha target="actor" targetSpec=""}}Careful whose hands ya shake!{{delay20}}{{anim:Worried target="actor" targetSpec=""}}And, {{delay8}}keep your hands outta your mouth!
+
+---
+label: 319
+attribute: 0x00000000
+---
+{{anim:Serious target="actor" targetSpec=""}}Chew your food!{{delay40}}
+And stop talking with your mouth full!{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Nobody wants ta see all that in your mouth when they're tryin' to {{anim:Negative target="actor" targetSpec=""}}eat with ya!{{anim:EmotEnd_0 target="actor" targetSpec=""}}{{pageBreak}}If ya asked me, {{delay8}}{{anim:Hesitate target="actor" targetSpec=""}}{{delay20}}"Mr. {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Resetti{{color id="-1"}},{{delay20}} Sir, {{delay8}}Good Sir, how can I {{anim:Pardon target="actor" targetSpec=""}}LOSE FRIENDS AS FAST AS POSSIBLE?!"{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}{{string:Dots}}I might tell ya, "Chew with your mouth open! And make sure to smack your lips real loud!"{{pageBreak}}{{anim:Outraged target="actor" targetSpec=""}}Oh, lip smackin' is a whole 'nother ordeal{{string:Dots}}{{delay40}}{{anim:Sighing target="actor" targetSpec=""}}but,{{delay8}} I shouldn't run my trap too long,{{delay8}} huh?
+
+---
+label: 320
+attribute: 0x06000000
+---
+{{anim:QuestionMark target="actor" targetSpec=""}}Ya got anything in the laundry right now?
+
+---
+label: 320_a
+attribute: 0x00000000
+---
+{{anim:Nodding target="actor" targetSpec=""}}Yeah, in the washer.
+
+
+---
+label: 320_b
+attribute: 0x00000000
+---
+{{anim:Nodding target="actor" targetSpec=""}}Yeah, in the dryer.
+
+---
+label: 320_c
+attribute: 0x00000000
+---
+{{anim:Frantic target="actor" targetSpec=""}}I was just about to!
+
+---
+label: 320_01
+attribute: 0x00000000
+---
+{{anim:Nodding target="actor" targetSpec=""}}Good on ya.{{delay8}} Just don't forget to finish what'cha started,{{delay8}} ya hear me?{{pageBreak}}{{anim:ColdChill target="actor" targetSpec=""}}Ya gotta get 'em out to dry fast, unless ya wanna be wearin' moldy wrinkles all week!{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}Lemme tell ya,{{delay40}}{{anim:Outraged target="actor" targetSpec=""}} I do NOT wanna have to walk around in clothes that smell like old dish towels!{{pageBreak}}{{anim:Angry target="actor" targetSpec=""}}And neither should you! 
+{{delay40}}{{anim:Pardon target="actor" targetSpec=""}}That clear?{{delay8}} Crystal?{{delay40}}{{anim:Worried target="actor" targetSpec=""}}
+Good.
+
+---
+label: 320_02
+attribute: 0x00000000
+---
+{{anim:OhGeez target="actor" targetSpec=""}}I'm assumin' ya washed 'em first then, huh?{{10:4}}{{delay8}} At{{anim:EmotEnd_0 target="actor" targetSpec=""}} least I hope ya did.
+{{delay40}}{{pageBreak}}{{anim:Serious target="actor" targetSpec=""}}Listen, this ain't an accusation or nothin'; {{delay20}}if it were I'd let'cha know real brazen-like.{{pageBreak}}Just{{string:Dots}} don't forget the washin' part of washin' your clothes{{string:Dots}}{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}Otherwise, ya might start to get a little smelly{{string:Dots}}
+{{anim:Pardon target="actor" targetSpec=""}}Trust me, I know smelly!{{anim:ColdChill target="actor" targetSpec=""}}We all clear?{{delay8}} Crystal?{{delay40}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}
+Good.
+
+---
+label: 320_03
+attribute: 0x00000000
+---
+{{anim:OhGeez target="actor" targetSpec=""}}Sure.{{delay40}} Y'know, I ain't your parent or nothin'. Ya ain't gotta lie to me like that.{{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}That bein' said{{string:Dots}}{{delay20}}ya gotta take care of that sometime tonight, {{anim:QuestionMark target="actor" targetSpec=""}}{{delay8}}okay?{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}I ain't a mean mole, {{delay8}}really,{{delay8}}{{anim:Negative target="actor" targetSpec=""}} I'm not. {{delay20}}Ask anybody.{{pageBreak}}{{anim:EmotEnd_24 target="actor" targetSpec=""}}It's just, {{delay8}}if ya got time to dilly-dally here,{{delay8}}{{anim:Sighing target="actor" targetSpec=""}} the least ya could do is have some laundry in, {{delay8}}too.{{anim:Nodding target="actor" targetSpec=""}}Ya gotta take care of yourself!{{pageBreak}}{{anim:QuestionMark target="actor" targetSpec=""}}We clear?{{delay8}}
+{{anim:Smiling target="actor" targetSpec=""}}Good!
+
+---
+label: 320_d
+attribute: 0x00000000
+---
+{{anim:Negative target="actor" targetSpec=""}}Not right now...
+
+---
+label: 320_04
+attribute: 0x00000000
+---
+{{anim:ShyBoy target="actor" targetSpec=""}}If you've been waiting on it, ya gotta take care of it sometime tonight, {{anim:QuestionMark target="actor" targetSpec=""}}{{delay8}}okay?{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}I ain't a mean mole, {{delay8}}really,{{delay8}}{{anim:Negative target="actor" targetSpec=""}} I'm not. {{delay20}}Ask anybody.{{pageBreak}}{{anim:EmotEnd_24 target="actor" targetSpec=""}}It's just, {{delay8}}if ya got time to dilly-dally here,{{delay8}}{{anim:Sighing target="actor" targetSpec=""}} the least ya could do is have some laundry in, {{delay8}}too.{{anim:Nodding target="actor" targetSpec=""}}Ya gotta take care of yourself!{{pageBreak}}{{anim:QuestionMark target="actor" targetSpec=""}}We clear?{{delay8}}{{anim:Smiling target="actor" targetSpec=""}}Good!
+
+---
+label: 321
+attribute: 0x06000000
+---
+{{anim:Oops target="actor" targetSpec=""}}{{delay40}}{{string:Dots}}I forgot.{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}Well,{{delay8}} if ya come back tomorrow,{{delay8}} maybe I'll remember then.{{delay40}}{{anim:Explain target="actor" targetSpec=""}}It was real important, {{delay8}}promise. 
+
+---
+label: 340
+attribute: 0x00000000
+---
+{{anim:QuestionMark target="actor" targetSpec=""}}Got that?{{10:4}}{{delay8}}
+{{string:Dots}}{{anim:EmotEnd_1 target="actor" targetSpec=""}}Good.
+
+---
+label: 341
+attribute: 0x00000000
+---
+{{anim:Pardon target="actor" targetSpec=""}}Don't'cha forget it!
+
+---
+label: 342
+attribute: 0x00000000
+---
+{{anim:Hot target="actor" targetSpec=""}}{{string:Dots}}Keep{{delay8}} that{{delay40}} in mind.
+
+---
+label: 343
+attribute: 0x00000000
+---
+{{anim:OhGeez target="actor" targetSpec=""}}That's all there is to it.{{delay20}}
+
+---
+label: 344
+attribute: 0x00000000
+---
+{{anim:QuestionMark target="actor" targetSpec=""}}We clear?{{delay8}}{{anim:Smiling target="actor" targetSpec=""}}Good!
+
+---
+label: 345
+attribute: 0x00000000
+---
+{{anim:WrySmile target="actor" targetSpec=""}}Hopefully that'll stick in that
+big ol' head o' yours.
+
+---
+label: 346
+attribute: 0x00000000
+---
+{{anim:Nodding target="actor" targetSpec=""}}That's my tip o' the day.{{pageBreak}}{{anim:Pardon target="actor" targetSpec=""}}Whaddya want?{{delay8}}
+I'm a cultured mole.
+
+---
+label: 350
+attribute: 0x00000000
+---
+{{anim:Pardon target="actor" targetSpec=""}}Got that?{{10:4}}{{delay8}}
+Now{{string:Dots}}
+
+---
+label: 351
+attribute: 0x00000000
+---
+{{10:12}}{{anim:Angry target="actor" targetSpec=""}}{{10:10}}{{100:2}}　　  　{{size value="200"}}SCRAM!{{size value="100"}}{{15:100 arg="0x0200"}}
+
+---
+label: 352
+attribute: 0x00000000
+---
+{{anim:Sighing target="actor" targetSpec=""}}{{color id="4"}}{{size value="75"}}{{delay20}}{{delay20}}Doesn't really have the same ring it used to{{string:Dots}}{{delay20}}{{color id="-1"}}
+
+---
+label: 400
+attribute: 0x00000000
+---
+{{anim:OhGeez target="actor" targetSpec=""}}Well.{{delay40}}
+Thanks for comin' by anyway. Hope to see ya.
+
+---
+label: 401
+attribute: 0x00000000
+---
+{{anim:Smiling target="actor" targetSpec=""}}Thanks for the purchase.{{delay8}}
+See ya'round.
+
+---
+label: 600
+attribute: 0x06000000
+---
+{{anim:Silent target="actor" targetSpec=""}}Hold it, champ!{{delay8}}{{anim:Sighing target="actor" targetSpec=""}}{{delay20}}
+You're gonna need some space in your pockets.{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}Let me know when ya do, THEN we can talk about ore.
+
+---
+label: 601
+attribute: 0x00000000
+---
+{{anim:ColdChill target="actor" targetSpec=""}}Y'ain't got enough miles.{{10:4}}{{anim:OhGeez target="actor" targetSpec=""}}
+Try comin' back when ya do.

@@ -1,0 +1,24 @@
+
+---
+label: 057_01
+attribute: 0x00000000
+---
+{{anim:Hesitate target="actor" targetSpec=""}}Since we have all the materials we need and can start construction on the shop{{string:Dots}}
+
+---
+label: 059_01
+attribute: 0x00000000
+---
+{{anim:Shocked target="actor" targetSpec=""}}Oh!{{delay8}} But it looks like your pockets are full.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Go make some room, and I'll hand you a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}shop construction kit{{color id="-1"}} so you can find a {{anim:Smiling target="actor" targetSpec=""}}spot for it!
+
+---
+label: 059_02
+attribute: 0x00000000
+---
+{{anim:BigSmile target="actor" targetSpec=""}}Looks like you made some room! Here you go!
+
+---
+label: 060
+attribute: 0x00000000
+---
+{{anim:Thinking target="actor" targetSpec=""}}Hold on{{string:Dots}}{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}I wanted to give you some {{color id="1"}}rewards{{color id="-1"}} as thanks for helping,{{delay8}} but you don't have{{anim:Oops target="actor" targetSpec=""}} enough room in your pockets.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}If you'll make some space for {{color id="1"}}a few more things{{color id="-1"}}, I'll be ready to {{anim:Smiling target="actor" targetSpec=""}}accept your donation of materials!
