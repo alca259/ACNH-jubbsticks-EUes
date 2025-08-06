@@ -1,0 +1,723 @@
+﻿
+---
+label: 000
+attribute: 0x020018
+---
+Hay una publicación titulada 
+"Busco giroide".{{pageBreak}}{{string:Dots}}Parece que {{color id="3"}}Fígaro{{color id="-1"}} la publicó.
+¿Debería leerla?
+
+---
+label: 000_a
+attribute: 0x000000
+---
+Veamos...
+
+---
+label: 000_b
+attribute: 0x000000
+---
+Quizás más tarde.
+
+---
+label: 100
+attribute: 0x020018
+---
+"Busco giroide"
+{{pageBreak}}{{string:Dots}}Parece que la publicación es la misma que la última vez que la comprobé. {{delay20}}
+¿Debería volver a leerla?
+
+---
+label: 100_a
+attribute: 0x000000
+---
+Revisemos.
+
+---
+label: 100_b
+attribute: 0x000000
+---
+Estoy bien.
+
+---
+label: 200
+attribute: 0x020018
+---
+"Busco giroide"
+{{pageBreak}}¡Parece que {{color id="3"}}Fígaro{{color id="0"}} tachó el giroide que le di ayer de la publicación!{{pageBreak}}{{color id="-1"}}¿Debería comprobar la lista restante?
+
+---
+label: 200_a
+attribute: 0x000000
+---
+Veamos...
+
+---
+label: 200_b
+attribute: 0x000000
+---
+En otro momento.
+
+---
+label: 300
+attribute: 0x020018
+---
+"Busco giroide"
+{{pageBreak}}¡Parece que {{color id="3"}}Fígaro{{color id="0"}} tachó los giroide que le he dado recientemente de la publicación!{{pageBreak}}{{color id="-1"}}
+¿Debería comprobar la lista restante?
+
+---
+label: 300_a
+attribute: 0x000000
+---
+Veamos...
+
+---
+label: 300_b
+attribute: 0x000000
+---
+Ahora no.
+
+---
+label: 400
+attribute: 0x000018
+---
+{{color id="4"}}Actualmente busco adquirir
+{{color id="1"}}{{90:1 arg="0x0000"}} {{color id="4"}}{{grammaticalNumber arg="[0,0]" zero="tipos de giroide más" one="tipo de giroide más" multiple="tipos de giroide más"}}.{{pageBreak}}{{grammaticalNumber arg="[0,0]" zero="La lista es la siguiente:" one="Específicamente, busco..." multiple="La lista es la siguiente:"}}
+------------------
+
+---
+label: 500
+attribute: 0x000018
+---
+{{color id="4"}}Si encuentras {{grammaticalNumber arg="[0,0]" zero="alguno de estos" one="este" multiple="alguno de estos"}}, por favor {{grammaticalNumber arg="[0,0]" zero="tráemelos" one="tráemelo" multiple="tráemelos"}} al mostrador.{{pageBreak}}— {{color id="3"}}Fígaro
+
+---
+label: 001
+attribute: 0x02001A
+---
+{{color id="1"}}Xilofoide
+
+---
+label: 001_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 001_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 002
+attribute: 0x02001A
+---
+{{color id="1"}}Dulzoide
+
+---
+label: 002_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 002_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 003
+attribute: 0x02001A
+---
+{{color id="1"}}Ladroide
+
+---
+label: 003_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 003_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 004
+attribute: 0x02001A
+---
+{{color id="1"}}Silboide
+
+---
+label: 004_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 004_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 005
+attribute: 0x02001A
+---
+{{color id="1"}}Puntoide
+
+---
+label: 005_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 005_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 006
+attribute: 0x02001A
+---
+{{color id="1"}}Rasgueoide
+
+---
+label: 006_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 006_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 007
+attribute: 0x02001A
+---
+{{color id="1"}}Hablaseroide
+
+---
+label: 007_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 007_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 008
+attribute: 0x02001A
+---
+{{color id="1"}}Estrujónido
+
+---
+label: 008_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 008_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 009
+attribute: 0x02001A
+---
+{{color id="1"}}Varítono
+
+---
+label: 009_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 009_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 010
+attribute: 0x02001A
+---
+{{color id="1"}}Monotoide
+
+---
+label: 010_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 010_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 011
+attribute: 0x02001A
+---
+{{color id="1"}}Oinkoide
+
+---
+label: 011_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 011_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 012
+attribute: 0x02001A
+---
+{{color id="1"}}Sinusoide
+
+---
+label: 012_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 012_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 013
+attribute: 0x02001A
+---
+{{color id="1"}}Mirlitoide
+
+---
+label: 013_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 013_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 014
+attribute: 0x02001A
+---
+{{color id="1"}}Clavicoina
+
+---
+label: 014_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 014_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 015
+attribute: 0x02001A
+---
+{{color id="1"}}Aluminoide
+
+---
+label: 015_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 015_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 016
+attribute: 0x02001A
+---
+{{color id="1"}}Acolchoida
+
+---
+label: 016_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 016_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 017
+attribute: 0x02001A
+---
+{{color id="1"}}Platoide
+
+---
+label: 017_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 017_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 018
+attribute: 0x02001A
+---
+{{color id="1"}}Bipoide
+
+---
+label: 018_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 018_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 019
+attribute: 0x02001A
+---
+{{color id="1"}}Zumbínida
+
+---
+label: 019_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 019_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 020
+attribute: 0x02001A
+---
+{{color id="1"}}Flopoide
+
+---
+label: 020_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 020_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 021
+attribute: 0x02001A
+---
+{{color id="1"}}Tetracordia
+
+---
+label: 021_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 021_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 022
+attribute: 0x02001A
+---
+{{color id="1"}}Arcoviol
+
+---
+label: 022_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 022_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 023
+attribute: 0x02001A
+---
+{{color id="1"}}Bomboina
+
+---
+label: 023_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 023_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 024
+attribute: 0x02001A
+---
+{{color id="1"}}Hidroide
+
+---
+label: 024_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 024_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 025
+attribute: 0x02001A
+---
+{{color id="1"}}Muelloide
+
+---
+label: 025_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 025_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 026
+attribute: 0x02001A
+---
+{{color id="1"}}Arrugandia
+
+---
+label: 026_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 026_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 027
+attribute: 0x02001A
+---
+{{color id="1"}}Castañoide
+
+---
+label: 027_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 027_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 029
+attribute: 0x02001A
+---
+{{color id="1"}}Agitoide
+
+---
+label: 029_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 029_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 030
+attribute: 0x02001A
+---
+{{color id="1"}}Pinchoide
+
+---
+label: 030_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 030_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 031
+attribute: 0x02001A
+---
+{{color id="1"}}Gomicoida
+
+---
+label: 031_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 031_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 032
+attribute: 0x02001A
+---
+{{color id="1"}}Aletensoide
+
+---
+label: 032_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 032_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 033
+attribute: 0x02001A
+---
+{{color id="1"}}Vibroide
+
+---
+label: 033_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 033_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 034
+attribute: 0x02001A
+---
+{{color id="1"}}Reverberoide
+
+---
+label: 034_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 034_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 035
+attribute: 0x02001A
+---
+{{color id="1"}}Cascabela
+
+---
+label: 035_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 035_b
+attribute: 0x000000
+---
+Dejar de leer.
+
+---
+label: 036
+attribute: 0x02001A
+---
+{{color id="1"}}Cacharroide
+
+---
+label: 036_a
+attribute: 0x000000
+---
+Seguir leyendo.
+
+---
+label: 036_b
+attribute: 0x000000
+---
+Dejar de leer.
