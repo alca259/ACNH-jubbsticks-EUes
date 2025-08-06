@@ -3,41 +3,42 @@
 label: 000
 attribute: 0x00000000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}Touchdown like {{randomHobby otherArg="0x00CD"}}
-in {{wordArticle}}{{randomObj otherArg="0x00CD"}}—{{delay20}}we are
-parked and proud!{{delay20}}{{anim:Assent target="actor" targetSpec=""}}{{delay8}}{{delay40}}
-Give a quack to—{{anim:Eh target="actor" targetSpec=""}}{{delay20}}{{20:1 arg="0x0A004E0030003E004E003100"}}{{delay40}}{{20:1 arg="0x0A00500030003E004E003100"}}
+{{anim:Nodding target="actor" targetSpec=""}}Aterrizaje como {{randomHobby otherArg="0x00CD"}}
+en {{wordArticle}}{{randomObj otherArg="0x00CD"}}—{{delay20}}¡estamos
+aparcados y orgullosos!{{delay20}}{{anim:Assent target="actor" targetSpec=""}}{{delay8}}{{delay40}}
+Da un graznido a—{{anim:Eh target="actor" targetSpec=""}}{{delay20}}{{20:1 arg="0x0A004E0030003E004E003100"}}{{delay40}}{{20:1 arg="0x0A00500030003E004E003100"}}
 
 ---
 label: 001_01
 attribute: 0x02000000
 ---
-{{anim:EmotEnd_0 target="mainNpc" targetSpec=""}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Hey there! {{anim:ShyBoy target="actor" targetSpec=""}}Good to meetcha.
+{{anim:EmotEnd_0 target="mainNpc" targetSpec=""}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}¡Hola! {{anim:ShyBoy target="actor" targetSpec=""}}Encantado de conocerte.
 
 
 ---
 label: 001_01_a
 attribute: 0x00000000
 ---
-Hi!
+¡Hola!
 
 ---
 label: 001_01_b
 attribute: 0x00000000
 ---
-Who are you?
+¿Quién eres?
 
 ---
 label: 001
 attribute: 0x01000000
 ---
-{{anim:EmotEnd_0 target="mainNpc" targetSpec=""}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Hey, 'scuze me! {{anim:ShyBoy target="actor" targetSpec=""}}Mind if I bend yer ear for a bit? Won't take a second. {{20:1 arg="0x0A004E0030003E0050003000"}}
+{{anim:EmotEnd_0 target="mainNpc" targetSpec=""}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}¡Oye, disculpa! 
+{{anim:ShyBoy target="actor" targetSpec=""}}¿Te importa si charlamos un ratito? No llevará ni un segundo. {{20:1 arg="0x0A004E0030003E0050003000"}}
 
 ---
 label: 001_a
 attribute: 0x00000000
 ---
-Go ahead!
+¡Adelante!
 
 ---
 label: 001_b
@@ -49,247 +50,285 @@ attribute: 0x00000000
 label: 120
 attribute: 0x00000000
 ---
-{{anim:Serious target="actor" targetSpec=""}}Great!{{10:4}}{{delay8}}
-Follow me!{{20:1 arg="0x0A004E0031003E004E003200"}}
+{{anim:Serious target="actor" targetSpec=""}}¡Estupendo!{{10:4}}{{delay8}}
+¡Sígueme!{{20:1 arg="0x0A004E0031003E004E003200"}}
 
 ---
 label: 121
 attribute: 0x00000000
 ---
-{{anim:Serious target="actor" targetSpec=""}}Was that a nod? 
-I feel like I heard ya noddin'.{{10:4}}{{delay8}}
-Follow me!{{20:1 arg="0x0A004E0031003E004E003200"}}
+{{anim:Serious target="actor" targetSpec=""}}¿Ha sido eso un asentimiento? 
+Me parece haber escuchado que asentías.{{10:4}}{{delay8}}
+¡Sígueme!{{20:1 arg="0x0A004E0031003E004E003200"}}
 
 ---
 label: 013
 attribute: 0x00000000
 ---
-Lessee{{string:Dots}}{{delay8}}Uh{{string:Dots}}{{delay40}}{{anim:IdeaBulb target="actor" targetSpec=""}}Oh,{{delay8}} right.{{10:4}}{{delay8}}{{anim:FaintSmile target="actor" targetSpec=""}} I should introduce myself proper {{delay8}}and such. {{delay8}}The name's {{anim:Serious target="actor" targetSpec=""}}{{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Resetti{{color id="-1"}}.{{pageBreak}}Most people call me {{delay8}}Mr.{{delay8}} {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Resetti{{color id="-1"}},{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} on account of me bein' a respected member of the community and such.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Lookin' forward to workin' with ya!{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}Ahem,{{delay20}} so,{{delay8}}{{delay8}}I've been workin' my {{anim:Pardon target="actor" targetSpec=""}}MOLESKINS off over here, diggin' from the underbelly of this island.
+A ver{{string:Dots}}{{delay8}}Eh{{string:Dots}}{{delay40}}{{anim:IdeaBulb target="actor" targetSpec=""}}Ah,{{delay8}} claro.{{10:4}}{{delay8}}
+{{anim:FaintSmile target="actor" targetSpec=""}} Debería presentarme como es debido {{delay8}}y tal. {{delay8}}Me llamo {{anim:Serious target="actor" targetSpec=""}}{{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Rese T{{color id="-1"}}.{{pageBreak}}
+La mayoría de la gente me llama {{delay8}}Don{{delay8}} {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Rese T{{color id="-1"}},{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} porque soy un miembro respetado de la comunidad y tal.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}¡Espero trabajar contigo!{{pageBreak}}
+{{anim:Worried target="actor" targetSpec=""}}Ejem,{{delay20}} bueno,{{delay8}}{{delay8}}he estado trabajando hasta la {{anim:Pardon target="actor" targetSpec=""}}EXTENUACIÓN aquí abajo, cavando desde las entrañas de esta isla.
 
 ---
 label: 012
 attribute: 0x00000000
 ---
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}Here we are!{{pageBreak}}{{anim:Silent target="actor" targetSpec=""}}Apologies for the intrusion over there.{{10:4}}{{delay8}}{{anim:EmotEnd_0 target="actor" targetSpec=""}} I ain't worked in sales since{{anim:OhGeez target="actor" targetSpec=""}}{{string:Dots}}ever. Just a bit rusty.{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}Lessee{{string:Dots}}{{delay8}}Uh{{string:Dots}}{{delay40}}{{anim:IdeaBulb target="actor" targetSpec=""}}Oh,{{delay8}} right.{{10:4}}{{delay8}}{{anim:FaintSmile target="actor" targetSpec=""}} I should introduce myself proper {{delay8}}and such. {{delay8}}The name's {{anim:Serious target="actor" targetSpec=""}}{{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Resetti{{color id="-1"}}.{{pageBreak}}Most people call me {{delay8}}Mr.{{delay8}} {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Resetti{{color id="-1"}},{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} on account of me bein' a respected member of the community and such.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Lookin' forward to workin' with ya!{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}Ahem,{{delay20}} so,{{delay8}} this here island{{string:Dots}} 
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}{{color id="1"}}H{{delay8}}a{{delay8}}r{{delay8}}v{{delay8}}'{{delay8}}s{{delay8}} I{{delay8}}s{{delay8}}l{{delay8}}a{{delay8}}n{{delay8}}d{{color id="-1"}},{{delay20}} I should say{{string:Dots}}{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}{{string:Dots}}That's how he says it anyway.{{delay20}}
-By "he," I mean {{color id="3"}}Harvey{{color id="-1"}}, of course.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Point is, {{delay8}}I've been workin' my {{anim:Pardon target="actor" targetSpec=""}}MOLESKINS off over here, diggin' from the underbelly of this island!
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}¡Ya hemos llegado!{{pageBreak}}
+{{anim:Silent target="actor" targetSpec=""}}Disculpas por la intrusión de ahí atrás.{{10:4}}{{delay8}}{{anim:EmotEnd_0 target="actor" targetSpec=""}} No he trabajado en ventas desde{{anim:OhGeez target="actor" targetSpec=""}}{{string:Dots}}nunca. Solo estoy un poco oxidado.{{pageBreak}}
+{{anim:Thinking target="actor" targetSpec=""}}A ver{{string:Dots}}{{delay8}}Eh{{string:Dots}}{{delay40}}{{anim:IdeaBulb target="actor" targetSpec=""}}Ah,{{delay8}} claro.{{10:4}}{{delay8}}
+{{anim:FaintSmile target="actor" targetSpec=""}} Debería presentarme como es debido {{delay8}}y tal. {{delay8}}Me llamo {{anim:Serious target="actor" targetSpec=""}}{{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Rese T{{color id="-1"}}.{{pageBreak}}
+La mayoría de la gente me llama {{delay8}}Don{{delay8}} {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Rese T{{color id="-1"}},{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} porque soy un miembro respetado de la comunidad y tal.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}¡Espero trabajar contigo!{{pageBreak}}
+{{anim:Worried target="actor" targetSpec=""}}Ejem,{{delay20}} bueno,{{delay8}} esta isla{{string:Dots}} 
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}{{color id="1"}}C{{delay8}}a{{delay8}}y{{delay8}}o{{delay8}} {{delay8}}F{{delay8}}a{{delay8}}{{delay8}}u{{delay8}}n{{delay8}}o{{color id="-1"}},{{delay20}} debería decir{{string:Dots}}{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}{{string:Dots}}Así es como él la llama.{{delay20}}
+Con "él," me refiero a {{color id="3"}}Fauno{{color id="-1"}}, por supuesto.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}El caso es que, {{delay8}}¡he estado trabajando hasta la {{anim:Pardon target="actor" targetSpec=""}}EXTENUACIÓN aquí abajo, cavando desde las entrañas de esta isla!
 
 ---
 label: 002
 attribute: 0x04000000
 ---
-{{anim:Silent target="actor" targetSpec=""}}And{{string:Dots}}d'ya wanna know what I have to show for it?
+{{anim:Silent target="actor" targetSpec=""}}Y{{string:Dots}}¿quieres saber qué tengo que mostrar por ello?
 
 ---
 label: 002_a
 attribute: 0x00000000
 ---
-{{anim:QuestionMark target="actor" targetSpec=""}}What?
+{{anim:QuestionMark target="actor" targetSpec=""}}¿Qué?
 
 ---
 label: 002_b
 attribute: 0x00000000
 ---
-Uhh...
+Ehh...
 
 ---
 label: 002_c
 attribute: 0x00000000
 ---
-No thanks.
+No, gracias.
 
 ---
 label: 003
 attribute: 0x00000000
 ---
-{{10:12}}{{anim:Fuming target="actor" targetSpec=""}}{{10:10}}{{100:2}}　　  　{{size value="200"}}NOTHIN'{{anim:Shocked target="player" targetSpec=""}}!{{size value="100"}}{{15:100 arg="0x0200"}}
+{{10:12}}{{anim:Fuming target="actor" targetSpec=""}}{{10:10}}{{100:2}}　　  　{{size value="200"}}¡NADA!{{anim:Shocked target="player" targetSpec=""}}{{size value="100"}}{{15:100 arg="0x0200"}}
 
 ---
 label: 004
 attribute: 0x00000000
 ---
-{{anim:EmotEnd target="player" targetSpec=""}}{{string:Dots}}{{anim:Hot target="actor" targetSpec=""}}Sorry. Force'a habit.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}My job was basically to get angry at folks for some 17 years,{{delay8}} so{{string:Dots}}{{anim:ShyBoy target="actor" targetSpec=""}}it still comes out some'a the time{{string:Dots}}
+{{anim:EmotEnd target="player" targetSpec=""}}{{string:Dots}}{{anim:Hot target="actor" targetSpec=""}}Perdón. Es la costumbre.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Mi trabajo básicamente era enfadarme con la gente durante unos 17 años,{{delay8}} así que{{string:Dots}}{{anim:ShyBoy target="actor" targetSpec=""}}aún se me escapa de vez en cuando{{string:Dots}}
 
 ---
 label: 005
 attribute: 0x00000000
 ---
-{{anim:EmotEnd target="player" targetSpec=""}}{{string:Dots}}{{anim:OhGeez target="actor" targetSpec=""}}Sorry.{{delay40}} That's what they call a {{delay20}}"rhetorical{{delay20}} question," not a{{anim:Pardon target="actor" targetSpec=""}}{{delay20}} "sit-there-and-drool-at-me{{delay20}} question." {{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}Oh, I'm just teasin',{{delay8}} of course.{{delay8}}{{anim:Blushing target="actor" targetSpec=""}} Force'a habit.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}My job was basically to get angry at folks for some 17 years,{{delay8}} so{{string:Dots}}{{anim:ShyBoy target="actor" targetSpec=""}}it still comes out some'a the time{{string:Dots}}
+{{anim:EmotEnd target="player" targetSpec=""}}{{string:Dots}}{{anim:OhGeez target="actor" targetSpec=""}}Perdón.{{delay40}} A eso se le llama una pregunta {{delay20}}"retórica",{{delay20}} no una{{anim:Pardon target="actor" targetSpec=""}}{{delay20}} pregunta de "quédate-ahí-y-babea-mientras-me-miras." {{pageBreak}}
+{{anim:OhGeez target="actor" targetSpec=""}}Oh, solo bromeaba,{{delay8}} por supuesto.{{delay8}}{{anim:Blushing target="actor" targetSpec=""}} Es la costumbre.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Mi trabajo básicamente era enfadarme con la gente durante unos 17 años,{{delay8}} así que{{string:Dots}}{{anim:ShyBoy target="actor" targetSpec=""}}aún se me escapa de vez en cuando{{string:Dots}}
 
 ---
 label: 006
 attribute: 0x00000000
 ---
-{{anim:EmotEnd target="player" targetSpec=""}}{{anim:Worried target="actor" targetSpec=""}}Oh{{string:Dots}}{{delay40}} Sorry, ya said {{delay40}}{{anim:Negative target="actor" targetSpec=""}}"No thanks,"{{delay40}} like that, didn't'cha?{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}S'cuze my yellin', it's just a force'a habit{{anim:EmotEnd_0 target="actor" targetSpec=""}}.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}My job was basically to get angry at folks for some 17 years,{{delay8}} so{{string:Dots}}{{anim:ShyBoy target="actor" targetSpec=""}}it still comes out some'a the time{{string:Dots}}
+{{anim:EmotEnd target="player" targetSpec=""}}{{anim:Worried target="actor" targetSpec=""}}Oh{{string:Dots}}{{delay40}} Perdón, dijiste {{delay40}}{{anim:Negative target="actor" targetSpec=""}}"No, gracias,"{{delay40}} así, ¿verdad?{{pageBreak}}
+{{anim:WrySmile target="actor" targetSpec=""}}Disculpa mis gritos, es solo la costumbre{{anim:EmotEnd_0 target="actor" targetSpec=""}}.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Mi trabajo básicamente era enfadarme con la gente durante unos 17 años,{{delay8}} así que{{string:Dots}}{{anim:ShyBoy target="actor" targetSpec=""}}aún se me escapa de vez en cuando{{string:Dots}}
 
 ---
 label: 007
 attribute: 0x00000000
 ---
-{{anim:Silent target="actor" targetSpec=""}}S'pose I should get to the gist, though,{{delay8}} right? {{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}When I said I had "NOTHIN'!" to show for my work, I really meant "nothin' of value to ME."
+{{anim:Silent target="actor" targetSpec=""}}Supongo que debería ir al grano,{{delay8}} ¿verdad? {{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Cuando dije que tenía "¡NADA!" que mostrar por mi trabajo, realmente quería decir "nada de valor para MÍ."
 
 ---
 label: 008
 attribute: 0x04000000
 ---
-See that there{{delay8}} {{20:1 arg="0x0A004E0031003E004E003300"}}{{color id="1"}}manhole cover{{color id="-1"}}{{delay8}}{{anim:QuestionMark target="actor" targetSpec=""}} in the ground? Looks kinda like a{{color id="1"}} reset surveillance center{{color id="-1"}}?{{pageBreak}}{{size value="75"}}{{string:Dots}}
-{{anim:Worried target="actor" targetSpec=""}}{{20:1 arg="0x0A004E0031003E0050003000"}}Not that ya'd know what THAT means{{string:Dots}}{{color id="-1"}}
+¿Ves esa{{delay8}} {{20:1 arg="0x0A004E0031003E004E003300"}}{{color id="1"}}tapa de alcantarilla{{color id="-1"}}{{delay8}}{{anim:QuestionMark target="actor" targetSpec=""}} en el suelo? ¿Parece un poco como un{{color id="1"}} centro de vigilancia de reinicio{{color id="-1"}}?{{pageBreak}}
+{{size value="75"}}{{string:Dots}}
+{{anim:Worried target="actor" targetSpec=""}}{{20:1 arg="0x0A004E0031003E0050003000"}}No es que sepas lo que ESO significa{{string:Dots}}{{color id="-1"}}
 
 ---
 label: 008_a
 attribute: 0x00000000
 ---
-{{20:1 arg="0x0A00500030003E004E003300"}}{{anim:Nodding target="actor" targetSpec=""}}Yeah, cool!
+{{20:1 arg="0x0A00500030003E004E003300"}}{{anim:Nodding target="actor" targetSpec=""}}¡Sí, genial!
 
 ---
 label: 008_b
 attribute: 0x00000000
 ---
-{{anim:QuestionMark target="actor" targetSpec=""}}Reset... surveillance?
+{{anim:QuestionMark target="actor" targetSpec=""}}¿Vigilancia de... reinicio?
 
 ---
 label: 008_c
 attribute: 0x00000000
 ---
-{{anim:Negative target="actor" targetSpec=""}}Nope. Don't see it.
+{{anim:Negative target="actor" targetSpec=""}}No. No la veo.
 
 ---
 label: 009_01
 attribute: 0x00000000
 ---
-{{anim:Negative target="actor" targetSpec=""}}"Cool" ain't the right word. {{delay8}}{{20:1 arg="0x0A00500030003E004E003100"}}It's pretty warm in there.{{delay20}}
-{{anim:Angry target="actor" targetSpec=""}}It's a mineshaft.
+{{anim:Negative target="actor" targetSpec=""}}"Genial" no es la palabra correcta. {{delay8}}{{20:1 arg="0x0A00500030003E004E003100"}}Hace bastante calor ahí dentro.{{delay20}}
+{{anim:Angry target="actor" targetSpec=""}}Es un pozo de mina.
 
 ---
 label: 009
 attribute: 0x02000000
 ---
-{{anim:Negative target="actor" targetSpec=""}}"Cool" ain't the right word. {{delay8}}It's pretty warm in there.{{delay20}}
-It's a mineshaft. 
+{{anim:Negative target="actor" targetSpec=""}}"Genial" no es la palabra correcta. {{delay8}}Hace bastante calor ahí dentro.{{delay20}}
+Es un pozo de mina.
 
 ---
 label: 009_a
 attribute: 0x00000000
 ---
-{{anim:QuestionMark target="actor" targetSpec=""}}Woah. Can I go in?
+{{anim:QuestionMark target="actor" targetSpec=""}}Vaya. ¿Puedo entrar?
 
 ---
 label: 009_b
 attribute: 0x00000000
 ---
-...Okay then.
+...Vale, entonces.
 
 ---
 label: 018
 attribute: 0x01000000
 ---
-{{anim:Silent target="actor" targetSpec=""}}Like I said{{string:Dots}}{{delay40}}
-{{anim:Negative target="actor" targetSpec=""}}ya wouldn't know about it.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Anyway, there's a mineshaft down there where I've been runnin' a mining operation.
+{{anim:Silent target="actor" targetSpec=""}}Como dije{{string:Dots}}{{delay40}}
+{{anim:Negative target="actor" targetSpec=""}}no sabrías sobre eso.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}En cualquier caso, hay un pozo de mina ahí abajo donde he estado llevando una operación minera.
 
 ---
 label: 018_a
 attribute: 0x00000000
 ---
-Woah. Can I go in?
+Vaya. ¿Puedo entrar?
 
 ---
 label: 018_b
 attribute: 0x00000000
 ---
-Cool.
+Genial.
 
 ---
 label: 022
 attribute: 0x01000000
 ---
-{{anim:Hot target="actor" targetSpec=""}}{{string:Dots}}{{delay40}}Took ya long enough.{{pageBreak}}Anyway, there's a mineshaft down there in that {{color id="1"}}m{{delay40}}a{{delay40}}n{{delay40}}h{{delay40}}o{{delay40}}l{{delay40}}e{{delay40}}{{delay40}}{{color id="-1"}}{{delay40}}{{color id="1"}}{{delay40}} c{{delay40}}o{{delay40}}v{{delay40}}e{{delay40}}r{{delay40}}{{color id="-1"}}{{delay40}} where I'm runnin' a mining operation.
+{{anim:Hot target="actor" targetSpec=""}}{{string:Dots}}{{delay40}}Ya era hora.{{pageBreak}}
+En cualquier caso, hay un pozo de mina ahí abajo en esa {{color id="1"}}t{{delay40}}a{{delay40}}p{{delay40}}a{{delay40}} {{delay40}}d{{delay40}}e{{delay40}}{{delay40}}{{color id="-1"}}{{delay40}}{{color id="1"}}{{delay40}} a{{delay40}}l{{delay40}}c{{delay40}}a{{delay40}}n{{delay40}}t{{delay40}}a{{delay40}}r{{delay40}}i{{delay40}}l{{delay40}}l{{delay40}}a{{color id="-1"}}{{delay40}} donde estoy llevando una operación minera.
 
 ---
 label: 022_a
 attribute: 0x00000000
 ---
-{{anim:QuestionMark target="actor" targetSpec=""}}Woah. Can I go in?
+{{anim:QuestionMark target="actor" targetSpec=""}}Vaya. ¿Puedo entrar?
 
 ---
 label: 022_b
 attribute: 0x00000000
 ---
-That's cool!
+¡Eso es genial!
 
 ---
 label: 022_01
 attribute: 0x01000000
 ---
 {{anim:Serious target="actor" targetSpec=""}}{{size value="200"}}
-{{delay40}}{{delay40}}{{delay40}}{{delay40}}.{{delay40}}{{delay40}}.{{delay40}}{{delay40}}.{{delay40}}{{delay40}}{{delay40}}{{delay40}}{{pageBreak}}{{size value="100"}}I'm gonna take that as a yes.{{pageBreak}}Anyway, there's a mineshaft down there in that {{color id="1"}}m{{delay40}}a{{delay40}}n{{delay40}}h{{delay40}}o{{delay40}}l{{delay40}}e{{delay40}}{{delay40}}{{color id="-1"}}{{delay40}}{{color id="1"}}{{delay40}} c{{delay40}}o{{delay40}}v{{delay40}}e{{delay40}}r{{delay40}}{{color id="-1"}}{{delay40}} where I'm runnin' a mining operation.
+{{delay40}}{{delay40}}{{delay40}}{{delay40}}.{{delay40}}{{delay40}}.{{delay40}}{{delay40}}.{{delay40}}{{delay40}}{{delay40}}{{delay40}}{{pageBreak}}
+{{size value="100"}}Lo voy a tomar como un sí.{{pageBreak}}
+En cualquier caso, hay un pozo de mina ahí abajo en esa {{color id="1"}}t{{delay40}}a{{delay40}}p{{delay40}}a{{delay40}} {{delay40}}d{{delay40}}e{{delay40}}{{delay40}}{{color id="-1"}}{{delay40}}{{color id="1"}}{{delay40}} a{{delay40}}l{{delay40}}c{{delay40}}a{{delay40}}n{{delay40}}t{{delay40}}a{{delay40}}r{{delay40}}i{{delay40}}l{{delay40}}l{{delay40}}a{{color id="-1"}}{{delay40}} donde estoy llevando una operación minera.
 
 ---
 label: 022_01_a
 attribute: 0x00000000
 ---
-{{anim:QuestionMark target="actor" targetSpec=""}}...Can I go in?
+{{anim:QuestionMark target="actor" targetSpec=""}}...¿Puedo entrar?
 
 ---
 label: 022_01_b
 attribute: 0x00000000
 ---
-Cool!
+¡Genial!
 
 ---
 label: 019
 attribute: 0x02000000
 ---
-{{anim:ColdChill target="actor" targetSpec=""}}It's right there.
+{{anim:ColdChill target="actor" targetSpec=""}}Está justo ahí.
 
 ---
 label: 019_a
 attribute: 0x00000000
 ---
-{{anim:Oops target="actor" targetSpec=""}}Oh, my bad.
+{{anim:Oops target="actor" targetSpec=""}}Oh, culpa mía.
 
 ---
 label: 019_b
 attribute: 0x00000000
 ---
-{{anim:QuestionMark target="actor" targetSpec=""}}Where?
+{{anim:QuestionMark target="actor" targetSpec=""}}¿Dónde?
 
 ---
 label: 023
 attribute: 0x02000000
 ---
-{{anim:Silent target="actor" targetSpec=""}}C'mon. {{delay40}}Right next to us. In the grass. Ya see it there, {{delay8}}right?
+{{anim:Silent target="actor" targetSpec=""}}Vamos. {{delay40}}Justo al lado nuestro. En la hierba. La ves ahí, {{delay8}}¿verdad?
 
 ---
 label: 023_a
 attribute: 0x00000000
 ---
-{{anim:Oops target="actor" targetSpec=""}}Ah, of course!
+{{anim:Oops target="actor" targetSpec=""}}¡Ah, por supuesto!
 
 ---
 label: 023_b
 attribute: 0x00000000
 ---
-{{anim:Negative target="actor" targetSpec=""}}I don't...
+{{anim:Negative target="actor" targetSpec=""}}No la...
 
 ---
 label: 024
 attribute: 0x00000000
 ---
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}Okay.{{delay40}} Kid.{{delay40}} I need ya to work with me here.{{pageBreak}}{{anim:Serious target="actor" targetSpec=""}}Do ya even KNOW what a {{delay8}}{{color id="1"}}manhole {{anim:QuestionMark target="actor" targetSpec=""}}cover{{color id="-1"}}{{delay8}} is? {{delay40}}{{color id="4"}}{{size value="75"}}{{string:Dots}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Shouldn't be that hard.{{color id="-1"}}{{size value="100"}}{{pageBreak}}{{delay20}}{{anim:Nodding target="actor" targetSpec=""}}Lemme spell it out for ya,{{delay8}} before ya answer.{{10:4}}{{anim:Pardon target="actor" targetSpec=""}} Just so there's no misunderstanding.{{delay8}}{{pageBreak}}Two words: {{anim:Serious target="actor" targetSpec=""}}{{delay8}}
- {{color id="1"}}m{{delay40}}{{10:4}}-a{{delay40}}{{10:4}}-n{{delay40}}{{10:4}}-h{{delay40}}{{10:4}}-o{{delay40}}{{10:4}}-l{{delay40}}{{10:4}}-e{{delay40}}{{10:4}}{{delay40}}{{10:4}}{{color id="-1"}} SPACE{{10:4}}{{delay40}}
- {{color id="1"}}{{delay40}}{{10:4}}c{{delay40}}{{10:4}}-o{{delay40}}{{10:4}}-v{{delay40}}{{10:4}}-e{{delay40}}{{10:4}}-r{{delay40}}{{10:4}}{{10:4}}{{10:4}}{{color id="-1"}}{{delay8}}{{delay40}}{{10:4}}{{delay40}}{{10:4}}{{color id="-1"}}{{10:4}}{{10:4}}{{10:4}}.{{delay40}}{{10:4}}{{10:4}}{{10:4}}{{10:4}}{{10:4}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Vale.{{delay40}} Chaval.{{delay40}} Necesito que colabores conmigo aquí.{{pageBreak}}
+{{anim:Serious target="actor" targetSpec=""}}¿Sabes siquiera QUÉ es una {{delay8}}{{color id="1"}}tapa de {{anim:QuestionMark target="actor" targetSpec=""}}alcantarilla{{color id="-1"}}{{delay8}}? {{delay40}}{{color id="4"}}{{size value="75"}}{{string:Dots}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}No debería ser tan difícil.{{color id="-1"}}{{size value="100"}}{{pageBreak}}
+{{delay20}}{{anim:Nodding target="actor" targetSpec=""}}Déjame deletrearlo para ti,{{delay8}} antes de que respondas.{{10:4}}{{anim:Pardon target="actor" targetSpec=""}} Solo para que no haya malentendidos.{{delay8}}{{pageBreak}}
+Dos palabras: {{anim:Serious target="actor" targetSpec=""}}{{delay8}}
+ {{color id="1"}}t{{delay40}}{{10:4}}-a{{delay40}}{{10:4}}-p{{delay40}}{{10:4}}-a{{delay40}}{{10:4}} {{delay40}}{{10:4}}-d{{delay40}}{{10:4}}-e{{delay40}}{{10:4}}{{delay40}}{{10:4}}{{color id="-1"}} ESPACIO{{10:4}}{{delay40}}
+ {{color id="1"}}{{delay40}}{{10:4}}a{{delay40}}{{10:4}}-l{{delay40}}{{10:4}}-c{{delay40}}{{10:4}}-a{{delay40}}{{10:4}}-n{{delay40}}{{10:4}}-t{{delay40}}{{10:4}}-a{{delay40}}{{10:4}}-r{{delay40}}{{10:4}}-i{{delay40}}{{10:4}}-l{{delay40}}{{10:4}}-l{{delay40}}{{10:4}}-a{{delay40}}{{10:4}}{{10:4}}{{10:4}}{{color id="-1"}}{{delay8}}{{delay40}}{{10:4}}{{delay40}}{{10:4}}{{color id="-1"}}{{10:4}}{{10:4}}{{10:4}}.{{delay40}}{{10:4}}{{10:4}}{{10:4}}{{10:4}}{{10:4}}
 
 ---
 label: 031
 attribute: 0x02000000
 ---
-{{anim:Fuming target="actor" targetSpec=""}}{{size value="200"}}GAAAAAAAH!{{pageBreak}}I CAN'T TAKE IT!{{pageBreak}}"TAP TAP TAP!"{{pageBreak}}"TAP TAP TAP!"{{pageBreak}}"TAP!"{{pageBreak}}"TAP TAP!"{{pageBreak}}BRAIN{{delay8}}.{{delay8}}.{{delay8}}.HURTS!{{pageBreak}}{{anim:Fuming target="actor" targetSpec=""}}{{size value="100"}}What ya got against buttons?! Ya should stop mashin' 'em like that,{{delay8}} punk!{{pageBreak}}{{anim:Sighing target="actor" targetSpec=""}}{{delay40}}{{string:Dots}}{{delay40}}{{pageBreak}}{{string:Dots}}{{anim:SadSpiral target="actor" targetSpec=""}}Sorry kid. I didn't mean to call ya a punk.{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}My shrink says I should use words like "champ"{{delay40}} or "pal" {{delay20}} or "buddy" instead.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}If we're gonna work together, {{delay40}}I need ya not to get on my nerves.{{pageBreak}}{{anim:Hesitate target="actor" targetSpec=""}}Have we reached an {{delay20}}understanding about all this?
+{{anim:Fuming target="actor" targetSpec=""}}{{size value="200"}}¡GAAAAAAAH!{{pageBreak}}
+¡NO PUEDO SOPORTARLO!{{pageBreak}}
+"¡TAP TAP TAP!"{{pageBreak}}
+"¡TAP TAP TAP!"{{pageBreak}}
+"¡TAP!"{{pageBreak}}
+"¡TAP TAP!"{{pageBreak}}
+EL CEREBRO{{delay8}}.{{delay8}}.{{delay8}}.¡ME DUELE!{{pageBreak}}
+{{anim:Fuming target="actor" targetSpec=""}}{{size value="100"}}¡¿Qué tienes contra los botones?! ¡Deberías dejar de apretarlos así,{{delay8}} chaval!{{pageBreak}}
+{{anim:Sighing target="actor" targetSpec=""}}{{delay40}}{{string:Dots}}{{delay40}}{{pageBreak}}
+{{string:Dots}}{{anim:SadSpiral target="actor" targetSpec=""}}Perdón. No quería llamarte chaval.{{pageBreak}}
+{{anim:OhGeez target="actor" targetSpec=""}}Mi psicólogo dice que debería usar palabras como "campeón"{{delay40}} o "colega" {{delay20}} o "amigo" en su lugar.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Si vamos a trabajar juntos, {{delay40}}necesito que no me pongas de los nervios.{{pageBreak}}
+{{anim:Hesitate target="actor" targetSpec=""}}¿Hemos llegado a un {{delay20}}entendimiento sobre todo esto?
 
 ---
 label: 031_a
 attribute: 0x00000000
 ---
-{{anim:Shaking target="actor" targetSpec=""}}Yes.
+{{anim:Shaking target="actor" targetSpec=""}}Sí.
 
 ---
 label: 031_b
@@ -301,26 +340,28 @@ attribute: 0x00000000
 label: 010
 attribute: 0x00000000
 ---
-{{anim:Negative target="actor" targetSpec=""}}Not a chance. If ya tried, I'd 
-probably say something like:{{delay20}} {{10:12}}{{anim:Fuming target="actor" targetSpec=""}}{{10:10}}{{100:2}}　　  　{{size value="125"}}SCRAM!{{size value="75"}}{{20:1 arg="0x0A00500030003E004E003100"}}{{anim:Shocked target="player" targetSpec=""}}{{delay40}}{{delay40}}{{10:4}}{{delay20}}{{string:Dots}}{{anim:ColdChill target="actor" targetSpec=""}}or somethin'.{{15:100 arg="0x0200"}}{{size value="100"}}
+{{anim:Negative target="actor" targetSpec=""}}Ni hablar. Si lo intentases, probablemente diría algo como:{{delay20}} {{10:12}}{{anim:Fuming target="actor" targetSpec=""}}{{10:10}}{{100:2}}　　  　{{size value="125"}}¡LÁRGATE!{{size value="75"}}{{20:1 arg="0x0A00500030003E004E003100"}}{{anim:Shocked target="player" targetSpec=""}}{{delay40}}{{delay40}}{{10:4}}{{delay20}}{{string:Dots}}{{anim:ColdChill target="actor" targetSpec=""}}o algo así.{{15:100 arg="0x0200"}}{{size value="100"}}
 
 ---
 label: 011
 attribute: 0x04000000
 ---
-{{anim:OhGeez target="actor" targetSpec=""}}Yeah. But like I was sayin' WAY earlier, I've been workin' my MOLESKINS off diggin' down there.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Blah blah and so on and so forth, right?{{delay20}}{{anim:Sleepy target="actor" targetSpec=""}}{{delay40}}{{delay40}}{{pageBreak}}{{anim:Grin target="actor" targetSpec=""}}But here's the part I think you're gonna like:{{delay8}} there's fancy sorts'a {{color id="1"}}ores{{color id="-1"}} down there. {{pageBreak}}{{anim:Eh target="actor" targetSpec=""}}Now,{{delay8}} while I ain't able{{anim:Negative target="actor" targetSpec=""}} to let ya down there yourself{{string:Dots}}{{anim:Explain target="actor" targetSpec=""}}if you wanna buy some {{color id="1"}}ore{{color id="-1"}}, I'm out here to sell.
+{{anim:OhGeez target="actor" targetSpec=""}}Sí. Pero como decía MUCHO antes, he estado trabajando hasta la EXTENUACIÓN cavando ahí abajo.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Bla bla y así sucesivamente, ¿verdad?{{delay20}}{{anim:Sleepy target="actor" targetSpec=""}}{{delay40}}{{delay40}}{{pageBreak}}
+{{anim:Grin target="actor" targetSpec=""}}Pero aquí está la parte que creo que te va a gustar:{{delay8}} hay tipos elegantes de {{color id="1"}}minerales{{color id="-1"}} ahí abajo. {{pageBreak}}
+{{anim:Eh target="actor" targetSpec=""}}Ahora,{{delay8}} aunque no puedo{{anim:Negative target="actor" targetSpec=""}} dejarte bajar ahí tú mismo{{string:Dots}}{{anim:Explain target="actor" targetSpec=""}}si quieres comprar algunos {{color id="1"}}minerales{{color id="-1"}}, estoy aquí fuera para vender.
 
 ---
 label: 011_a
 attribute: 0x00000000
 ---
-Awesome!
+¡Genial!
 
 ---
 label: 011_b
 attribute: 0x00000000
 ---
-Neat!
+¡Qué bueno!
 
 ---
 label: 011_c
@@ -332,20 +373,21 @@ attribute: 0x00000000
 label: 014
 attribute: 0x04000000
 ---
-{{anim:Grin target="actor" targetSpec=""}}Right? Heh, I knew ya'd be interested.{{pageBreak}}{{anim:Aha target="actor" targetSpec=""}}Oh, one more thing 'fore I let ya off the hook!{{delay40}} This is important.{{delay40}}{{anim:QuestionMark target="actor" targetSpec=""}}
-Where ya from?
+{{anim:Grin target="actor" targetSpec=""}}¿Verdad? Je, sabía que estarías interesado.{{pageBreak}}
+{{anim:Aha target="actor" targetSpec=""}}¡Oh, una cosa más antes de dejarte ir!{{delay40}} Esto es importante.{{delay40}}{{anim:QuestionMark target="actor" targetSpec=""}}
+¿De dónde eres?
 
 ---
 label: 014_a
 attribute: 0x00000000
 ---
-{{anim:Explain target="actor" targetSpec=""}}I'm from {{color id="0"}}{{string:IslandName}}{{color id="-1"}}.
+{{anim:Explain target="actor" targetSpec=""}}Soy de {{color id="0"}}{{string:IslandName}}{{color id="-1"}}.
 
 ---
 label: 014_b
 attribute: 0x00000000
 ---
-{{anim:Negative target="actor" targetSpec=""}}Not telling!
+{{anim:Negative target="actor" targetSpec=""}}¡No te lo digo!
 
 ---
 label: 014_c
@@ -357,22 +399,23 @@ attribute: 0x00000000
 label: 017
 attribute: 0x04000000
 ---
-{{anim:WrySmile target="actor" targetSpec=""}}Heh, I knew ya'd be interested.{{delay40}}{{string:Dots}}{{anim:OhGeez target="actor" targetSpec=""}}
-ya look interested, anyway.{{pageBreak}}{{anim:Aha target="actor" targetSpec=""}}Oh, one more thing 'fore I let ya 
-off the hook!{{delay40}} This is important.
-{{delay40}}{{anim:QuestionMark target="actor" targetSpec=""}}Where ya from?
+{{anim:WrySmile target="actor" targetSpec=""}}Je, sabía que estarías interesado.{{delay40}}{{string:Dots}}{{anim:OhGeez target="actor" targetSpec=""}}
+pareces interesado, al menos.{{pageBreak}}
+{{anim:Aha target="actor" targetSpec=""}}¡Oh, una cosa más antes de dejarte 
+ir!{{delay40}} Esto es importante.
+{{delay40}}{{anim:QuestionMark target="actor" targetSpec=""}}¿De dónde eres?
 
 ---
 label: 017_a
 attribute: 0x00000000
 ---
-{{anim:Explain target="actor" targetSpec=""}}I'm from {{color id="0"}}{{string:IslandName}}{{color id="-1"}}.
+{{anim:Explain target="actor" targetSpec=""}}Soy de {{color id="0"}}{{string:IslandName}}{{color id="-1"}}.
 
 ---
 label: 017_b
 attribute: 0x00000000
 ---
-{{anim:Negative target="actor" targetSpec=""}}Not telling!
+{{anim:Negative target="actor" targetSpec=""}}¡No te lo digo!
 
 ---
 label: 017_c
@@ -384,47 +427,57 @@ attribute: 0x00000000
 label: 016
 attribute: 0x00000000
 ---
-Oh, {{color id="0"}}{{string:IslandName}}{{color id="-1"}}? Y'know, that's great.{{anim:Laughing target="actor" targetSpec=""}} Perfect, really! {{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Ya might know that I work for {{color id="1"}}Rescue Services {{color id="-1"}}over there.{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}No worries, though, {{delay8}}{{anim:Assent target="actor" targetSpec=""}}I'm still on-call if ya ever need help.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Since ya come from {{color id="0"}}{{string:IslandName}}{{color id="-1"}}, I'm assumin' ya know what {{color id="1"}}Nook Miles{{color id="-1"}} are already. {{pageBreak}}{{anim:Angry target="actor" targetSpec=""}}If ya want my {{color id="1"}}ores{{color id="-1"}}, it's gonna cost ya those {{color id="1"}}Miles{{color id="-1"}}.{{delay8}}{{10:4}}{{delay8}}{{anim:Pardon target="actor" targetSpec=""}}
-Capisce?
+Oh, ¿{{color id="0"}}{{string:IslandName}}{{color id="-1"}}? Sabes, eso es genial.{{anim:Laughing target="actor" targetSpec=""}} ¡Perfecto, realmente! {{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Puede que sepas que trabajo para los {{color id="1"}}Servicios de Rescate {{color id="-1"}}.{{pageBreak}}
+{{anim:Negative target="actor" targetSpec=""}}No te preocupes, {{delay8}}{{anim:Assent target="actor" targetSpec=""}}sigo estando disponible si alguna vez necesitas ayuda.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Ya que vienes de {{color id="0"}}{{string:IslandName}}{{color id="-1"}}, asumo que ya sabes lo que son las {{color id="1"}}Millas Nook{{color id="-1"}}. {{pageBreak}}
+{{anim:Angry target="actor" targetSpec=""}}Si quieres mis {{color id="1"}}minerales{{color id="-1"}}, te van a costar esas {{color id="1"}}Millas{{color id="-1"}}.{{delay8}}{{10:4}}{{delay8}}{{anim:Pardon target="actor" targetSpec=""}}
+¿Capisce?
 
 ---
 label: 020
 attribute: 0x00000000
 ---
-{{anim:OhGeez target="actor" targetSpec=""}}Alright, buster.
-{{delay8}}Keep your secrets.{{pageBreak}}Just know, {{delay20}}{{anim:Angry target="actor" targetSpec=""}}If ya want my {{color id="1"}}ores{{color id="-1"}}, it's gonna cost ya {{color id="1"}}Nook Miles{{color id="-1"}}.{{10:4}}{{anim:Pardon target="actor" targetSpec=""}} Hope they got those where ya come from.
+{{anim:OhGeez target="actor" targetSpec=""}}Muy bien, colega.
+{{delay8}}Guárdate tus secretos.{{pageBreak}}
+Solo ten en cuenta, {{delay20}}{{anim:Angry target="actor" targetSpec=""}}si quieres mis {{color id="1"}}minerales{{color id="-1"}}, te van a costar {{color id="1"}}Millas Nook{{color id="-1"}}.{{10:4}}{{anim:Pardon target="actor" targetSpec=""}} Espero que tengan esas de donde vienes.
 
 ---
 label: 025
 attribute: 0x00000000
 ---
-{{anim:Aha target="actor" targetSpec=""}}Oh, and I won't be here on the weekends.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Rescue call volume is way too high on weekends.{{delay40}}{{anim:Negative target="actor" targetSpec=""}} Couldn't tell ya why.{{pageBreak}}{{anim:ColdChill target="actor" targetSpec=""}}I guess that's about it,{{delay8}} though{{string:Dots}}{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}So{{delay8}} I'll stop runnin' my trap at'cha{{delay8}} 
-for now, {{delay8}}kid. {{10:4}}{{delay8}}{{anim:Greeting target="actor" targetSpec=""}}Come by sometime,{{delay8}} would'ja?
+{{anim:Aha target="actor" targetSpec=""}}Oh, y no estaré aquí los fines de semana.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}El volumen de llamadas de rescate es demasiado alto los fines de semana.{{delay40}}{{anim:Negative target="actor" targetSpec=""}} No sabría decirte por qué.{{pageBreak}}
+{{anim:ColdChill target="actor" targetSpec=""}}Supongo que eso es todo,{{delay8}} sin embargo{{string:Dots}}{{pageBreak}}
+{{anim:OhGeez target="actor" targetSpec=""}}Así que{{delay8}} dejaré de darte la tabarra{{delay8}} 
+por ahora, {{delay8}}chico. {{10:4}}{{delay8}}{{anim:Greeting target="actor" targetSpec=""}}Ven alguna vez,{{delay8}} ¿vale?
 
 ---
 label: 030
 attribute: 0x00000000
 ---
-But listen to me! Runnin' my trap like a fancy pirate or somethin'! {{delay40}}{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}And right after sayin' I "won't take a second" and all that. My bad.
+¡Pero escúchame! ¡Dando la tabarra como un pirata elegante o algo así! {{delay40}}{{pageBreak}}
+{{anim:Laughing target="actor" targetSpec=""}}Y justo después de decir que "no llevará ni un segundo" y todo eso. Culpa mía.
 
 ---
 label: 050
 attribute: 0x02000000
 ---
-{{anim:Shocked target="actor" targetSpec=""}}Back already?{{10:4}}{{delay8}}{{anim:Thinking target="actor" targetSpec=""}}
-{{size value="70"}}Didn't think I was THAT good at sales{{string:Dots}}{{pageBreak}}{{anim:IdeaBulb target="actor" targetSpec=""}}{{size value="100"}}Ah, but how can I help ya?
+{{anim:Shocked target="actor" targetSpec=""}}¿Ya de vuelta?{{10:4}}{{delay8}}{{anim:Thinking target="actor" targetSpec=""}}
+{{size value="70"}}No pensé que fuera TAN bueno vendiendo{{string:Dots}}{{pageBreak}}
+{{anim:IdeaBulb target="actor" targetSpec=""}}{{size value="100"}}Ah, ¿pero en qué puedo ayudarte?
 
 ---
 label: 050_a
 attribute: 0x00000000
 ---
-{{anim:Cheering target="actor" targetSpec=""}}I want some {{color id="1"}}ore{{color id="-1"}}!
+{{anim:Cheering target="actor" targetSpec=""}}¡Quiero algunos {{color id="1"}}minerales{{color id="-1"}}!
 
 ---
 label: 050_b
 attribute: 0x00000000
 ---
-{{anim:Negative target="actor" targetSpec=""}}I'm all good.
+{{anim:Negative target="actor" targetSpec=""}}Estoy bien.
 
 ---
 label: 051
@@ -436,369 +489,398 @@ attribute: 0x00000000
 label: 100
 attribute: 0x02000000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Hey, pal.{{10:4}}{{delay8}}{{anim:QuestionMark target="actor" targetSpec=""}} 
-Ya need something?
+{{anim:FaintSmile target="actor" targetSpec=""}}Hola, colega.{{10:4}}{{delay8}}{{anim:QuestionMark target="actor" targetSpec=""}} 
+¿Necesitas algo?
 
 ---
 label: 100_a
 attribute: 0x00000000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}Ore, please!
+{{anim:Nodding target="actor" targetSpec=""}}¡Minerales, por favor!
 
 ---
 label: 100_b
 attribute: 0x00000000
 ---
-{{anim:Negative target="actor" targetSpec=""}}I'm all good.
+{{anim:Negative target="actor" targetSpec=""}}Estoy bien.
 
 ---
 label: 101
 attribute: 0x02000000
 ---
-{{anim:Grin target="actor" targetSpec=""}}Back for more? Must be that ol' {{color id="3"}}Resetti{{color id="-1"}} charm.{{delay40}}{{anim:QuestionMark target="actor" targetSpec=""}} Whaddaya need?
+{{anim:Grin target="actor" targetSpec=""}}¿Vuelves por más? Debe ser ese viejo encanto de {{color id="3"}}Rese{{delay40}}t-e-a-do{{color id="-1"}}.{{delay40}}{{anim:QuestionMark target="actor" targetSpec=""}} ¿Qué necesitas?
 
 ---
 label: 101_a
 attribute: 0x00000000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}Ore, please!
+{{anim:Nodding target="actor" targetSpec=""}}¡Minerales, por favor!
 
 ---
 label: 101_b
 attribute: 0x00000000
 ---
-{{anim:Negative target="actor" targetSpec=""}}I'm all good.
+{{anim:Negative target="actor" targetSpec=""}}Estoy bien.
 
 ---
 label: 200
 attribute: 0x06000000
 ---
-{{anim:QuestionMark target="actor" targetSpec=""}}What kinda ore do ya want? 
+{{anim:QuestionMark target="actor" targetSpec=""}}¿Qué tipo de mineral quieres? 
 
 ---
 label: 200_a
 attribute: 0x00000000
 ---
-Gemstone!
+¡Gemas!
 
 ---
 label: 200_b
 attribute: 0x00000000
 ---
-Silver nuggets!
+¡Pepitas de plata!
 
 ---
 label: 200_c
 attribute: 0x00000000
 ---
-Gold nuggets!
+¡Pepitas de oro!
 
 ---
 label: 200_d
 attribute: 0x00000000
 ---
-Nevermind.
+Déjalo.
 
 ---
 label: 201
 attribute: 0x08000000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}Gotcha.{{delay20}} I've got {{color id="1"}}ruby{{color id="-1"}}, {{color id="1"}}sapphire{{color id="-1"}}, {{color id="1"}}emerald{{color id="-1"}}, and {{color id="1"}}amethyst{{color id="-1"}}. {{delay8}}
-Whaddaya want?
+{{anim:Nodding target="actor" targetSpec=""}}Entendido.{{delay20}} Tengo {{color id="1"}}rubí{{color id="-1"}}, {{color id="1"}}zafiro{{color id="-1"}}, {{color id="1"}}esmeralda{{color id="-1"}}, y {{color id="1"}}amatista{{color id="-1"}}. {{delay8}}
+¿Qué quieres?
 
 ---
 label: 201_a
 attribute: 0x00000000
 ---
-Ruby!
+¡Rubí!
 
 ---
 label: 201_b
 attribute: 0x00000000
 ---
-Sapphire!
+¡Zafiro!
 
 ---
 label: 201_c
 attribute: 0x00000000
 ---
-Emerald!
+¡Esmeralda!
 
 ---
 label: 201_d
 attribute: 0x00000000
 ---
-Amethyst!
+¡Amatista!
 
 ---
 label: 201_e
 attribute: 0x00000000
 ---
-Nevermind.
+Déjalo.
 
 ---
 label: 201_01
 attribute: 0x06000000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}Those'll run ya {{color id="1"}}{{90:4 arg="0x0000"}} miles{{color id="-1"}} each.{{anim:QuestionMark target="actor" targetSpec=""}} How many didja want?
+{{anim:Nodding target="actor" targetSpec=""}}Te costarán {{color id="1"}}{{90:4 arg="0x0000"}} millas{{color id="-1"}} cada una.{{anim:QuestionMark target="actor" targetSpec=""}} ¿Cuántas quieres?
 
 ---
 label: 201_01_a
 attribute: 0x00000000
 ---
-Just one!
+¡Solo una!
 
 ---
 label: 201_01_b
 attribute: 0x00000000
 ---
-Three, please!
+¡Tres, por favor!
 
 ---
 label: 201_01_c
 attribute: 0x00000000
 ---
-I want five!
+¡Quiero cinco!
 
 ---
 label: 201_01_d
 attribute: 0x00000000
 ---
-I'm good, actually.
+Ya no quiero ninguna.
 
 ---
 label: 202
 attribute: 0x00000000
 ---
-{{anim:BigSmile target="actor" targetSpec=""}}Sounds good to me!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} I'll hand ya that {{color id="1"}}silver nugget{{color id="-1"}} soon as you've sent me the miles.
+{{anim:BigSmile target="actor" targetSpec=""}}¡Me parece bien!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} Te daré esa {{color id="1"}}pepita de plata{{color id="-1"}} en cuanto me envíes las millas.
 
 ---
 label: 202_01
 attribute: 0x00000000
 ---
-{{anim:BigSmile target="actor" targetSpec=""}}Sounds good to me!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} I'll hand ya those {{color id="1"}}silver nuggets{{color id="-1"}} soon as you've sent me the miles for 'em.
+{{anim:BigSmile target="actor" targetSpec=""}}¡Me parece bien!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} Te daré esas {{color id="1"}}pepitas de plata{{color id="-1"}} en cuanto me envíes las millas por ellas.
 
 ---
 label: 203
 attribute: 0x00000000
 ---
-{{anim:BigSmile target="actor" targetSpec=""}}Sounds good to me!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} I'll hand ya that {{color id="1"}}gold nugget{{color id="-1"}} soon as you've sent me the miles.
+{{anim:BigSmile target="actor" targetSpec=""}}¡Me parece bien!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} Te daré esa {{color id="1"}}pepita de oro{{color id="-1"}} en cuanto me envíes las millas.
 
 ---
 label: 203_01
 attribute: 0x00000000
 ---
-{{anim:BigSmile target="actor" targetSpec=""}}Sounds good to me!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} I'll hand ya those {{color id="1"}}gold nuggets{{color id="-1"}} soon as you've sent me the miles for 'em.
+{{anim:BigSmile target="actor" targetSpec=""}}¡Me parece bien!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} Te daré esas {{color id="1"}}pepitas de oro{{color id="-1"}} en cuanto me envíes las millas por ellas.
 
 ---
 label: 204
 attribute: 0x00000000
 ---
-{{anim:BigSmile target="actor" targetSpec=""}}Sounds good to me!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} I'll hand ya that {{color id="1"}}ruby{{color id="-1"}} soon as you've sent me the miles.
+{{anim:BigSmile target="actor" targetSpec=""}}¡Me parece bien!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} Te daré ese {{color id="1"}}rubí{{color id="-1"}} en cuanto me envíes las millas.
 
 ---
 label: 204_01
 attribute: 0x00000000
 ---
-{{anim:BigSmile target="actor" targetSpec=""}}Sounds good to me!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} I'll hand ya those {{color id="1"}}rubies{{color id="-1"}} soon as you've sent the miles for 'em.
+{{anim:BigSmile target="actor" targetSpec=""}}¡Me parece bien!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} Te daré esos {{color id="1"}}rubíes{{color id="-1"}} en cuanto envíes las millas por ellos.
 
 ---
 label: 205
 attribute: 0x00000000
 ---
-{{anim:BigSmile target="actor" targetSpec=""}}Sounds good to me!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} I'll hand ya that {{color id="1"}}sapphire{{color id="-1"}} soon as you've sent me the miles.
+{{anim:BigSmile target="actor" targetSpec=""}}¡Me parece bien!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} Te daré ese {{color id="1"}}zafiro{{color id="-1"}} en cuanto me envíes las millas.
 
 ---
 label: 205_01
 attribute: 0x00000000
 ---
-{{anim:BigSmile target="actor" targetSpec=""}}Sounds good to me!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} I'll hand ya those {{color id="1"}}sapphires{{color id="-1"}} soon as you've sent the miles for 'em.
+{{anim:BigSmile target="actor" targetSpec=""}}¡Me parece bien!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} Te daré esos {{color id="1"}}zafiros{{color id="-1"}} en cuanto envíes las millas por ellos.
 
 ---
 label: 206
 attribute: 0x00000000
 ---
-{{anim:BigSmile target="actor" targetSpec=""}}Sounds good to me!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} I'll hand ya that {{color id="1"}}emerald{{color id="-1"}} soon as you've sent me the miles.
+{{anim:BigSmile target="actor" targetSpec=""}}¡Me parece bien!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} Te daré esa {{color id="1"}}esmeralda{{color id="-1"}} en cuanto me envíes las millas.
 
 ---
 label: 206_01
 attribute: 0x00000000
 ---
-{{anim:BigSmile target="actor" targetSpec=""}}Sounds good to me!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} I'll hand ya those {{color id="1"}}emeralds{{color id="-1"}} soon as you've sent the miles for 'em.
+{{anim:BigSmile target="actor" targetSpec=""}}¡Me parece bien!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} Te daré esas {{color id="1"}}esmeraldas{{color id="-1"}} en cuanto envíes las millas por ellas.
 
 ---
 label: 207
 attribute: 0x00000000
 ---
-{{anim:BigSmile target="actor" targetSpec=""}}Sounds good to me!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} I'll hand ya that {{color id="1"}}amethyst{{color id="-1"}} soon as you've sent me the miles.
+{{anim:BigSmile target="actor" targetSpec=""}}¡Me parece bien!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} Te daré esa {{color id="1"}}amatista{{color id="-1"}} en cuanto me envíes las millas.
 
 ---
 label: 207_01
 attribute: 0x00000000
 ---
-{{anim:BigSmile target="actor" targetSpec=""}}Sounds good to me!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} I'll hand ya those {{color id="1"}}amethysts{{color id="-1"}} soon as you've sent the miles for 'em.
+{{anim:BigSmile target="actor" targetSpec=""}}¡Me parece bien!{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} Te daré esas {{color id="1"}}amatistas{{color id="-1"}} en cuanto envíes las millas por ellas.
 
 ---
 label: 210
 attribute: 0x00000000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Seems like that did it!
-Here's that ore for ya.
+{{anim:FaintSmile target="actor" targetSpec=""}}Parece que con eso{{string:Dots}} ¡ya!
+Aquí tienes ese mineral.
 
 ---
 label: 300
 attribute: 0x00000000
 ---
-{{anim:ColdChill target="actor" targetSpec=""}}Well. Thanks for comin' by anyway.
+{{anim:ColdChill target="actor" targetSpec=""}}Bueno. Gracias por venir de todos modos.
 
 ---
 label: 300_01
 attribute: 0x00000000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}Well, thanks for purchasin' and all that!
+{{anim:Smiling target="actor" targetSpec=""}}Bueno, ¡gracias por la compra y todo eso!
 
 ---
 label: 300_02_00
 attribute: 0x00000000
 ---
-{{anim:Worried target="actor" targetSpec=""}}Oh,{{delay8}} just one more thing 'fore ya go.
+{{anim:Worried target="actor" targetSpec=""}}Ah,{{delay8}} solo una cosa más antes de que te vayas.
 
 ---
 label: 300_02_01
 attribute: 0x00000000
 ---
-{{anim:Worried target="actor" targetSpec=""}}Oh, hold on.{{delay20}}
-One last thing.
+{{anim:Worried target="actor" targetSpec=""}}Ah, espera.{{delay20}}
+Una última cosa.
 
 ---
 label: 300_02_02
 attribute: 0x00000000
 ---
-{{anim:Aha target="actor" targetSpec=""}}Hey,{{delay8}} hold it.
+{{anim:Aha target="actor" targetSpec=""}}Oye,{{delay8}} espera.
 
 ---
 label: 300_02_03
 attribute: 0x00000000
 ---
-{{anim:ShyBoy target="actor" targetSpec=""}}Oh,{{delay8}} yeah,{{delay8}} one last thing{{string:Dots}}
+{{anim:ShyBoy target="actor" targetSpec=""}}Ah,{{delay8}} sí,{{delay8}} una última cosa{{string:Dots}}
 
 ---
 label: 300_02_04
 attribute: 0x00000000
 ---
-{{anim:IdeaBulb target="actor" targetSpec=""}}Oh,{{delay8}} and before I forget{{string:Dots}}
+{{anim:IdeaBulb target="actor" targetSpec=""}}Ah,{{delay8}} y antes de que se me olvide{{string:Dots}}
 
 ---
 label: 301
 attribute: 0x00000000
 ---
-{{anim:Negative target="actor" targetSpec=""}}It ain't "bob wire."{{10:4}}{{delay8}}
-It's {{delay8}}{{anim:Nodding target="actor" targetSpec=""}}"barbed{{delay8}} wire."{{delay40}}{{pageBreak}}{{anim:Outraged target="actor" targetSpec=""}}It's got barbs. {{delay20}}
-{{anim:Outraged target="actor" targetSpec=""}}It ain't got bobs!{{delay40}}
-{{anim:Outraged target="actor" targetSpec=""}}NO{{anim:Eh target="player" targetSpec=""}} BOBS!
+{{anim:Negative target="actor" targetSpec=""}}No es "pos sí."{{10:4}}{{delay8}}
+Es {{delay8}}{{anim:Nodding target="actor" targetSpec=""}}"pues{{delay8}} sí."{{delay40}}{{pageBreak}}
+{{anim:Outraged target="actor" targetSpec=""}}Es una conjunción. {{delay20}}
+{{anim:Outraged target="actor" targetSpec=""}}¡No es "pos"!{{delay40}}
+{{anim:Outraged target="actor" targetSpec=""}}¡NADA{{anim:Eh target="player" targetSpec=""}} DE "POS"!
 
 ---
 label: 302
 attribute: 0x00000000
 ---
-{{anim:Negative target="actor" targetSpec=""}}Ya don't drink "expresso."{{delay20}} 
-It's {{delay8}}{{anim:Silent target="actor" targetSpec=""}}"espresso."{{delay40}}{{anim:Outraged target="actor" targetSpec=""}}
-"Expresso" ain't even a thing!{{pageBreak}}{{anim:AbsentMindedness target="actor" targetSpec=""}}{{size value="75"}}A cup o' joe on a trainride doesn't sound too bad, {{delay8}}though{{string:Dots}}{{color id="-1"}}{{pageBreak}}{{anim:Eh target="actor" targetSpec=""}}{{size value="100"}}Oh, that was all.{{delay8}}
-Ya can {{anim:Nodding target="actor" targetSpec=""}}go, now.
+{{anim:Negative target="actor" targetSpec=""}}No se dice "haiga."{{delay20}} 
+Es {{delay8}}{{anim:Silent target="actor" targetSpec=""}}"haya."{{delay40}}{{anim:Outraged target="actor" targetSpec=""}}
+¡"Haiga" ni siquiera existe!{{pageBreak}}
+{{anim:AbsentMindedness target="actor" targetSpec=""}}{{size value="75"}}Aunque me gustaría que hubiera más gente culta, {{delay8}}la verdad{{string:Dots}}{{color id="-1"}}{{pageBreak}}
+{{anim:Eh target="actor" targetSpec=""}}{{size value="100"}}Ah, eso era todo.{{delay8}}
+Ya puedes {{anim:Nodding target="actor" targetSpec=""}}irte.
 
 ---
 label: 303
 attribute: 0x00000000
 ---
-{{anim:Explain target="actor" targetSpec=""}}A really bad headache is called a "migraine," not a "mindgrain."{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}It's painful,{{delay8}} but it ain't some{{anim:Angry target="actor" targetSpec=""}} fancy health food for your noggin!{{pageBreak}}{{10:12}}{{anim:Fuming target="actor" targetSpec=""}}{{size value="150"}}BELIEVE ME;{{delay40}} I'D KNOW!{{size value="100"}}{{15:100 arg="0x0200"}}
+{{anim:Explain target="actor" targetSpec=""}}Un dolor de cabeza muy fuerte se llama "migraña," no "emigraña."{{pageBreak}}
+{{anim:Worried target="actor" targetSpec=""}}Duele mucho,{{delay8}} pero no es{{anim:Angry target="actor" targetSpec=""}} que tu cabeza se vaya a otro país!{{pageBreak}}
+{{10:12}}{{anim:Fuming target="actor" targetSpec=""}}{{size value="150"}}¡CRÉEME;{{delay40}} LO SÉ BIEN!{{size value="100"}}{{15:100 arg="0x0200"}}
 
 ---
 label: 304
 attribute: 0x00000000
 ---
-{{anim:Explain target="actor" targetSpec=""}}When ya don't care 'bout somethin', ya {{delay20}}"couldn't{{delay20}} care less." {{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}If ya {{delay20}}"could {{delay20}}care less," {{delay8}}that means ya still care.{{pageBreak}}{{anim:Silent target="actor" targetSpec=""}}It ain't that tough.{{delay8}} "Couldn't care" means ya don't care.{{pageBreak}}{{anim:Pardon target="actor" targetSpec=""}}Stop carin' 'bout stuff ya don't care 'bout!
+{{anim:Explain target="actor" targetSpec=""}}Cuando algo no importa, se dice {{delay20}}"me da {{delay20}}igual." {{pageBreak}}
+{{anim:OhGeez target="actor" targetSpec=""}}Si dices {{delay20}}"me da {{delay20}}lo mismo," {{delay8}}es correcto también.{{pageBreak}}
+{{anim:Silent target="actor" targetSpec=""}}No es tan difícil.{{delay8}} Pero no digas "me da igualmente."{{pageBreak}}
+{{anim:Pardon target="actor" targetSpec=""}}¡Habla bien o no hables!
 
 ---
 label: 305
 attribute: 0x00000000
 ---
-{{anim:Negative target="actor" targetSpec=""}}Ya don't get a {{delay8}}"new leash on life." 
-Ya get a "new lease."{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}A "new lease" means you're excited 'bout livin'.{{pageBreak}}{{anim:Pardon target="actor" targetSpec=""}}New leash?{{delay40}}{{anim:Laughing target="actor" targetSpec=""}}
-That means ya got a new pet
-{{delay8}}or somethin'!
+{{anim:Negative target="actor" targetSpec=""}}No es una {{delay8}}"nueva correa de vida." 
+Es una "nueva oportunidad."{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Una "nueva oportunidad" significa que tienes ganas de vivir.{{pageBreak}}
+{{anim:Pardon target="actor" targetSpec=""}}¿Nueva correa?{{delay40}}{{anim:Laughing target="actor" targetSpec=""}}
+¡Eso significa que tienes una nueva mascota
+{{delay8}}o algo así!
 
 ---
 label: 306
 attribute: 0x00000000
 ---
-{{anim:Serious target="actor" targetSpec=""}}They call it "cole" slaw,{{delay8}} not "cold" slaw.{{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}I don't really see the big deal,{{delay8}} but{{string:Dots}}{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}"Gee,{{delay8}} Ma,"{{delay8}} I says.
-{{delay40}}{{anim:Frantic target="actor" targetSpec=""}}"Give a mole a break! It ain't like I said HOT slaw."
+{{anim:Serious target="actor" targetSpec=""}}Se dice "ensalada de col",{{delay8}} no "ensalada de golf."{{pageBreak}}
+{{anim:ShyBoy target="actor" targetSpec=""}}No veo el problema realmente,{{delay8}} pero{{string:Dots}}{{pageBreak}}
+{{anim:OhGeez target="actor" targetSpec=""}}"Vaya,{{delay8}} mamá,"{{delay8}} digo yo.
+{{delay40}}{{anim:Frantic target="actor" targetSpec=""}}¡Dale un respiro a este topo! No es que haya dicho ensalada de CARBÓN."
 
 ---
 label: 307
 attribute: 0x00000000
 ---
-{{anim:QuestionMark target="actor" targetSpec=""}}Ya know how sometimes, ya get to a point in a conversation where the whole thing's a {{delay8}}"mute" point?{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}Well it ain't on mute!{{delay20}}
-The point's{{delay8}} "moot!"{{10:4}}{{anim:Outraged target="actor" targetSpec=""}}
-"MOOT!"{{pageBreak}}{{anim:Aha target="actor" targetSpec=""}}Like a cow!{{10:4}}{{delay8}}{{anim:Negative target="actor" targetSpec=""}} 
-Ya can't mute a cow.
+{{anim:QuestionMark target="actor" targetSpec=""}}¿Sabes cuando llegas a un punto en una conversación donde todo es un punto {{delay8}}"mudo"?{{pageBreak}}
+{{anim:Worried target="actor" targetSpec=""}}¡Pues no está mudo!{{delay20}}
+¡El punto es{{delay8}} "muto"!{{10:4}}{{anim:Outraged target="actor" targetSpec=""}}
+¡"MUTO"!{{pageBreak}}
+{{anim:Aha target="actor" targetSpec=""}}¡Como cuando algo cambia!{{10:4}}{{delay8}}{{anim:Negative target="actor" targetSpec=""}} 
+No puedes silenciar un cambio.
 
 ---
 label: 308
 attribute: 0x00000000
 ---
-{{anim:QuestionMark target="actor" targetSpec=""}}Ya know when ya say somethin' happened 'cause some other thing caused it?{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Like "I chalked up his resettin' ways to not knowin' the rules"
-{{string:Dots}}Ya ever hear that one before?{{pageBreak}}{{anim:Sighing target="actor" targetSpec=""}}{{color id="4"}}{{size value="75"}}Prolly not,{{delay8}} these days{{string:Dots}}{{size value="100"}}{{15:100 arg="0x0200"}}{{color id="-1"}}
+{{anim:QuestionMark target="actor" targetSpec=""}}¿Sabes cuando dices que algo pasó porque otra cosa lo causó?{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Como "Achaqué sus manías a que no conocía las reglas"
+{{string:Dots}}¿Has oído esa expresión?{{pageBreak}}
+{{anim:Sighing target="actor" targetSpec=""}}{{color id="4"}}{{size value="75"}}Seguramente no,{{delay8}} hoy en día{{string:Dots}}{{size value="100"}}{{15:100 arg="0x0200"}}{{color id="-1"}}
 
 ---
 label: 308_01
 attribute: 0x00000000
 ---
-{{anim:OhGeez target="actor" targetSpec=""}}Well, notice how I said{{delay8}} "chalked up,"{{delay8}} not {{delay8}}"chucked up."{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}That's 'cause I ain't throwin' nothin'.{{10:4}}{{delay8}}
-"Chuck"{{delay8}} means "throw."{{pageBreak}}{{anim:Angry target="actor" targetSpec=""}}Don't throw things.{{delay20}} Ya could put an eye out.{{delay20}} {{anim:Negative target="actor" targetSpec=""}}It's all fun and games until a mole loses an eye.
+{{anim:OhGeez target="actor" targetSpec=""}}Bueno, fíjate que dije{{delay8}} "achaqué,"{{delay8}} no {{delay8}}"atacé."{{pageBreak}}
+{{anim:Worried target="actor" targetSpec=""}}Eso es porque no estoy atacando a nadie.{{10:4}}{{delay8}}
+"Atacar"{{delay8}} significa "agredir."{{pageBreak}}
+{{anim:Angry target="actor" targetSpec=""}}No ataques a la gente.{{delay20}} Podrías hacer daño.{{delay20}} {{anim:Negative target="actor" targetSpec=""}}Todo es diversión hasta que alguien sale lastimado.
 
 ---
 label: 309
 attribute: 0x00000000
 ---
-{{anim:Negative target="actor" targetSpec=""}}It ain't {{delay8}}"more better,"{{delay8}}
-it's just {{delay8}}"better."{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}And if ya need something better than "better"{{delay40}} {{anim:Pardon target="actor" targetSpec=""}}try "best!"
+{{anim:Negative target="actor" targetSpec=""}}No es {{delay8}}"más mejor,"{{delay8}}
+es solo {{delay8}}"mejor."{{pageBreak}}
+{{anim:OhGeez target="actor" targetSpec=""}}Y si necesitas algo mejor que "mejor"{{delay40}} {{anim:Pardon target="actor" targetSpec=""}}¡prueba con "óptimo"!
 
 ---
 label: 310
 attribute: 0x00000000
 ---
-{{anim:QuestionMark target="actor" targetSpec=""}}Ya ever heard someone say something was "irregardless" of something else?{{pageBreak}}{{anim:Fuming target="actor" targetSpec=""}}WELL I HAVE.{{10:4}}{{delay8}}
-And it's just plain wrong!{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}"Irregardless" ain't even a word!{{delay20}}{{anim:Explain target="actor" targetSpec=""}} If somethin' ain't relevant to somethin' else, it's just plain "regardless."
+{{anim:QuestionMark target="actor" targetSpec=""}}¿Has oído a alguien decir que algo era "indiferentemente" de otra cosa?{{pageBreak}}
+{{anim:Fuming target="actor" targetSpec=""}}¡PUES YO SÍ!{{10:4}}{{delay8}}
+¡Y está mal dicho!{{pageBreak}}
+{{anim:Negative target="actor" targetSpec=""}}¡Se dice "independientemente"!{{delay20}}{{anim:Explain target="actor" targetSpec=""}} Si algo no depende de otra cosa, es "independiente."
 
 ---
 label: 311
 attribute: 0x00000000
 ---
-{{anim:QuestionMark target="actor" targetSpec=""}}Y'know "chai tea?"{{10:4}}
-{{anim:Negative target="actor" targetSpec=""}}{{string:Dots}}It doesn't exist.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}"Chai" MEANS "tea." {{delay20}}
-So sayin' "chai tea" doesn't make any sense!{{pageBreak}}{{anim:Pardon target="actor" targetSpec=""}}
-{{10:12}}{{anim:Fuming target="actor" targetSpec=""}}{{size value="160"}}"TEA TEA" AIN'T A THING!{{size value="100"}}{{15:100 arg="0x0200"}}
+{{anim:QuestionMark target="actor" targetSpec=""}}¿Conoces el "té chai"?{{10:4}}
+{{anim:Negative target="actor" targetSpec=""}}{{string:Dots}}No tiene sentido.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}"Chai" SIGNIFICA "té." {{delay20}}
+¡Así que decir "té chai" no tiene ningún sentido!{{pageBreak}}
+{{anim:Pardon target="actor" targetSpec=""}}
+{{10:12}}{{anim:Fuming target="actor" targetSpec=""}}{{size value="160"}}¡"TÉ TÉ" NO EXISTE!{{size value="100"}}{{15:100 arg="0x0200"}}
 
 ---
 label: 312
 attribute: 0x00000000
 ---
-{{anim:Silent target="actor" targetSpec=""}}Brush your teeth.
+{{anim:Silent target="actor" targetSpec=""}}Lávate los dientes.
 
 ---
 label: 312_01
 attribute: 0x00000000
 ---
-{{anim:Eh target="actor" targetSpec=""}}Oh, I ain't callin' ya stinky{{delay40}}
-{{color id="4"}}{{size value="75"}}{{anim:Worried target="actor" targetSpec=""}}This mole nose sure is sensitive,{{delay8}} though{{string:Dots}}{{color id="-1"}}{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}{{size value="100"}}Brushin's just a good habit to have. {{delay20}}{{anim:Serious target="actor" targetSpec=""}}Ya want your teeth to rot out? {{delay20}}{{anim:Pardon target="actor" targetSpec=""}}HUH?{{pageBreak}}Didn't think so.
-{{anim:Nodding target="actor" targetSpec=""}}So,{{delay8}} be sure to brush 'em real good before ya nod off, OK?{{pageBreak}}{{string:Dots}}{{anim:Sleepy target="actor" targetSpec=""}}S'pose I'll let ya go for now, though.
+{{anim:Eh target="actor" targetSpec=""}}Ah, no te estoy diciendo que huelas mal{{delay40}}
+{{color id="4"}}{{size value="75"}}{{anim:Worried target="actor" targetSpec=""}}Esta nariz de topo es muy sensible,{{delay8}} la verdad{{string:Dots}}{{color id="-1"}}{{pageBreak}}
+{{anim:OhGeez target="actor" targetSpec=""}}{{size value="100"}}Lavarse los dientes es un buen hábito. {{delay20}}{{anim:Serious target="actor" targetSpec=""}}¿Quieres que se te pudran los dientes? {{delay20}}{{anim:Pardon target="actor" targetSpec=""}}¿EH?{{pageBreak}}
+Eso pensé.
+{{anim:Nodding target="actor" targetSpec=""}}Así que,{{delay8}} asegúrate de lavártelos bien antes de dormir, ¿vale?{{pageBreak}}
+{{string:Dots}}{{anim:Sleepy target="actor" targetSpec=""}}Supongo que te dejaré ir por ahora.
 
 ---
 label: 313
 attribute: 0x00000000
 ---
-{{anim:QuestionMark target="actor" targetSpec=""}}Ya know how someone says a story really made 'em emotional?{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}That makes it a {{delay8}}"touching"{{delay8}} story, {{anim:Negative target="actor" targetSpec=""}}not a {{delay8}}"touchy" {{delay8}}story.{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}"Touchy" means it's a sensitive topic.{{delay8}} "Touching" means it{{anim:Smiling target="actor" targetSpec=""}} warms hearts.{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}{{string:Dots}}And mushy-gushy stuff like that.
+{{anim:QuestionMark target="actor" targetSpec=""}}¿Sabes cuando alguien dice que una historia realmente le emocionó?{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Eso la convierte en una historia {{delay8}}"emotiva,"{{delay8}} {{anim:Negative target="actor" targetSpec=""}}no en una historia {{delay8}}"delicada."{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}"Delicada" significa que es un tema sensible.{{delay8}} "Emotiva" significa que{{anim:Smiling target="actor" targetSpec=""}} llega al corazón.{{pageBreak}}
+{{anim:OhGeez target="actor" targetSpec=""}}{{string:Dots}}Y cosas sensibleras por el estilo.
 
 ---
 label: 314
@@ -810,191 +892,221 @@ attribute: 0x00000000
 label: 315
 attribute: 0x00000000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}When ya write, "whether or not," make sure that's the "W{{delay8}}-H{{delay8}}-E," kind not the "W{{delay8}}-E{{delay8}}-A" kinda weather.{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}When ya write "whether or not" wrong, {{delay8}}you're askin' if there's gonna be weather today!{{pageBreak}}{{anim:Pardon target="actor" targetSpec=""}}HELLO,{{delay20}} there's weather {{delay8}}EVERY{{delay8}} day!{{pageBreak}}{{anim:Sighing target="actor" targetSpec=""}}It's hard to explain out loud.{{delay8}}{{10:4}}{{delay8}}{{anim:Thinking target="actor" targetSpec=""}}{{delay40}}{{color id="4"}}{{size value="75"}}{{color id="4"}}
-If only ya could just READ what I'm sayin' instead{{string:Dots}}{{color id="-1"}}
+{{anim:Nodding target="actor" targetSpec=""}}Cuando escribas "si acaso," asegúrate de que es "si" con "S-I", no "sí" con acento.{{pageBreak}}
+{{anim:OhGeez target="actor" targetSpec=""}}Cuando escribes "si acaso" mal, {{delay8}}¡estás afirmando en lugar de plantear una condición!{{pageBreak}}
+{{anim:Pardon target="actor" targetSpec=""}}¡OYE,{{delay20}} "si" es condicional {{delay8}}y "sí" es{{delay8}} afirmativo!{{pageBreak}}
+{{anim:Sighing target="actor" targetSpec=""}}Es difícil de explicar en voz alta.{{delay8}}{{10:4}}{{delay8}}{{anim:Thinking target="actor" targetSpec=""}}{{delay40}}{{color id="4"}}{{size value="75"}}{{color id="4"}}
+Ojalá pudieras leer lo que estoy diciendo{{string:Dots}}{{color id="-1"}}
 
 ---
 label: 316
 attribute: 0x00000000
 ---
-{{anim:Explain target="actor" targetSpec=""}}Every now and then,{{delay8}} go to bed early!{{pageBreak}}{{anim:Angry target="actor" targetSpec=""}}Stayin' up late all the time is for chumps!
+{{anim:Explain target="actor" targetSpec=""}}¡De vez en cuando, acuéstate temprano!{{pageBreak}}
+{{anim:Angry target="actor" targetSpec=""}}¡Quedarse despierto hasta tarde siempre es de tontos!
 
 ---
 label: 317
 attribute: 0x00000000
 ---
-{{anim:QuestionMark target="actor" targetSpec=""}}Before tuckin' into bed tonight?{{delay40}}
-{{anim:Shocked target="actor" targetSpec=""}}Scrub behind those ears!{{delay40}}{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}Ya don't want potatoes growin' back there, do ya?{{delay40}}
-{{anim:Pardon target="actor" targetSpec=""}}Didn't think so!
+{{anim:QuestionMark target="actor" targetSpec=""}}¿Antes de meterte en la cama esta noche?{{delay40}}
+{{anim:Shocked target="actor" targetSpec=""}}¡Lávate bien detrás de las orejas!{{delay40}}{{pageBreak}}
+{{anim:Worried target="actor" targetSpec=""}}No querrás que te crezcan patatas ahí detrás, ¿verdad?{{delay40}}
+{{anim:Pardon target="actor" targetSpec=""}}¡Eso pensé!
 
 ---
 label: 318
 attribute: 0x00000000
 ---
-{{anim:Angry target="actor" targetSpec=""}}Wash your hands after you go to the bathroom!{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}No one likes a stinky,{{delay8}} sticky,{{delay8}}{{anim:Outraged target="actor" targetSpec=""}} PUNK!{{pageBreak}}{{anim:Hot target="actor" targetSpec=""}}{{color id="4"}}{{size value="75"}}But I'm not talkin' about you, or nothin'{{string:Dots}}{{pageBreak}}{{anim:Silent target="actor" targetSpec=""}}At least I{{delay8}} HOPE I'm not!{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}Ya'd be surprised at the number of folks who don't wash their grabbers on the regular.{{pageBreak}}{{anim:Aha target="actor" targetSpec=""}}Careful whose hands ya shake!{{delay20}}{{anim:Worried target="actor" targetSpec=""}}And, {{delay8}}keep your hands outta your mouth!
+{{anim:Angry target="actor" targetSpec=""}}¡Lávate las manos después de ir al baño!{{pageBreak}}
+{{anim:Negative target="actor" targetSpec=""}}¡A nadie le gusta alguien apestoso,{{delay8}} pegajoso,{{delay8}}{{anim:Outraged target="actor" targetSpec=""}} COCHINO!{{pageBreak}}
+{{anim:Hot target="actor" targetSpec=""}}{{color id="4"}}{{size value="75"}}Pero no hablo de ti, ni nada{{string:Dots}}{{pageBreak}}
+{{anim:Silent target="actor" targetSpec=""}}¡Al menos{{delay8}} ESO ESPERO!{{pageBreak}}
+{{anim:WrySmile target="actor" targetSpec=""}}Te sorprendería la cantidad de gente que no se lava las manos regularmente.{{pageBreak}}
+{{anim:Aha target="actor" targetSpec=""}}¡Ten cuidado con quién das la mano!{{delay20}}{{anim:Worried target="actor" targetSpec=""}}Y, {{delay8}}¡mantén las manos fuera de tu boca!
 
 ---
 label: 319
 attribute: 0x00000000
 ---
-{{anim:Serious target="actor" targetSpec=""}}Chew your food!{{delay40}}
-And stop talking with your mouth full!{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Nobody wants ta see all that in your mouth when they're tryin' to {{anim:Negative target="actor" targetSpec=""}}eat with ya!{{anim:EmotEnd_0 target="actor" targetSpec=""}}{{pageBreak}}If ya asked me, {{delay8}}{{anim:Hesitate target="actor" targetSpec=""}}{{delay20}}"Mr. {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Resetti{{color id="-1"}},{{delay20}} Sir, {{delay8}}Good Sir, how can I {{anim:Pardon target="actor" targetSpec=""}}LOSE FRIENDS AS FAST AS POSSIBLE?!"{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}{{string:Dots}}I might tell ya, "Chew with your mouth open! And make sure to smack your lips real loud!"{{pageBreak}}{{anim:Outraged target="actor" targetSpec=""}}Oh, lip smackin' is a whole 'nother ordeal{{string:Dots}}{{delay40}}{{anim:Sighing target="actor" targetSpec=""}}but,{{delay8}} I shouldn't run my trap too long,{{delay8}} huh?
+{{anim:Serious target="actor" targetSpec=""}}¡Mastica la comida!{{delay40}}
+¡Y deja de hablar con la boca llena!{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}¡Nadie quiere ver todo eso en tu boca cuando están tratando de {{anim:Negative target="actor" targetSpec=""}}comer contigo!{{anim:EmotEnd_0 target="actor" targetSpec=""}}{{pageBreak}}
+Si me preguntaras, {{delay8}}{{anim:Hesitate target="actor" targetSpec=""}}{{delay20}}"Sr. {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Rese T{{color id="-1"}},{{delay20}} Señor, {{delay8}}Buen Señor, ¿cómo puedo {{anim:Pardon target="actor" targetSpec=""}}PERDER AMIGOS LO MÁS RÁPIDO POSIBLE?!"{{pageBreak}}
+{{anim:Worried target="actor" targetSpec=""}}{{string:Dots}}Te diría, "¡Mastica con la boca abierta! ¡Y asegúrate de chasquear los labios bien fuerte!"{{pageBreak}}
+{{anim:Outraged target="actor" targetSpec=""}}Ah, el chasqueo de labios es otro asunto terrible{{string:Dots}}{{delay40}}{{anim:Sighing target="actor" targetSpec=""}}pero,{{delay8}} no debería hablar tanto,{{delay8}} ¿eh?
 
 ---
 label: 320
 attribute: 0x06000000
 ---
-{{anim:QuestionMark target="actor" targetSpec=""}}Ya got anything in the laundry right now?
+{{anim:QuestionMark target="actor" targetSpec=""}}¿Tienes algo en la lavandería ahora mismo?
 
 ---
 label: 320_a
 attribute: 0x00000000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}Yeah, in the washer.
+{{anim:Nodding target="actor" targetSpec=""}}Sí, en la lavadora.
 
 
 ---
 label: 320_b
 attribute: 0x00000000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}Yeah, in the dryer.
+{{anim:Nodding target="actor" targetSpec=""}}Sí, en la secadora.
 
 ---
 label: 320_c
 attribute: 0x00000000
 ---
-{{anim:Frantic target="actor" targetSpec=""}}I was just about to!
+{{anim:Frantic target="actor" targetSpec=""}}¡Estaba a punto de hacerlo!
 
 ---
 label: 320_01
 attribute: 0x00000000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}Good on ya.{{delay8}} Just don't forget to finish what'cha started,{{delay8}} ya hear me?{{pageBreak}}{{anim:ColdChill target="actor" targetSpec=""}}Ya gotta get 'em out to dry fast, unless ya wanna be wearin' moldy wrinkles all week!{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}Lemme tell ya,{{delay40}}{{anim:Outraged target="actor" targetSpec=""}} I do NOT wanna have to walk around in clothes that smell like old dish towels!{{pageBreak}}{{anim:Angry target="actor" targetSpec=""}}And neither should you! 
-{{delay40}}{{anim:Pardon target="actor" targetSpec=""}}That clear?{{delay8}} Crystal?{{delay40}}{{anim:Worried target="actor" targetSpec=""}}
-Good.
+{{anim:Nodding target="actor" targetSpec=""}}Bien hecho.{{delay8}} Solo no te olvides de terminar lo que empezaste,{{delay8}} ¿me oyes?{{pageBreak}}
+{{anim:ColdChill target="actor" targetSpec=""}}¡Tienes que sacarla a secar rápido, a menos que quieras andar con arrugas mohosas toda la semana!{{pageBreak}}
+{{anim:Negative target="actor" targetSpec=""}}Te digo,{{delay40}}{{anim:Outraged target="actor" targetSpec=""}} ¡NO quiero tener que andar con ropa que huele a trapos viejos!{{pageBreak}}
+{{anim:Angry target="actor" targetSpec=""}}¡Y tú tampoco deberías! 
+{{delay40}}{{anim:Pardon target="actor" targetSpec=""}}¿Está claro?{{delay8}} ¿Cristalino?{{delay40}}{{anim:Worried target="actor" targetSpec=""}}
+Bien.
 
 ---
 label: 320_02
 attribute: 0x00000000
 ---
-{{anim:OhGeez target="actor" targetSpec=""}}I'm assumin' ya washed 'em first then, huh?{{10:4}}{{delay8}} At{{anim:EmotEnd_0 target="actor" targetSpec=""}} least I hope ya did.
-{{delay40}}{{pageBreak}}{{anim:Serious target="actor" targetSpec=""}}Listen, this ain't an accusation or nothin'; {{delay20}}if it were I'd let'cha know real brazen-like.{{pageBreak}}Just{{string:Dots}} don't forget the washin' part of washin' your clothes{{string:Dots}}{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}Otherwise, ya might start to get a little smelly{{string:Dots}}
-{{anim:Pardon target="actor" targetSpec=""}}Trust me, I know smelly!{{anim:ColdChill target="actor" targetSpec=""}}We all clear?{{delay8}} Crystal?{{delay40}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}
-Good.
+{{anim:OhGeez target="actor" targetSpec=""}}Asumo que las lavaste primero entonces, ¿eh?{{10:4}}{{delay8}} Al{{anim:EmotEnd_0 target="actor" targetSpec=""}} menos espero que lo hayas hecho.
+{{delay40}}{{pageBreak}}
+{{anim:Serious target="actor" targetSpec=""}}Oye, esto no es una acusación ni nada; {{delay20}}si lo fuera te lo haría saber bien descaradamente.{{pageBreak}}
+Solo{{string:Dots}} no te olvides de la parte del lavado cuando laves tu ropa{{string:Dots}}{{pageBreak}}
+{{anim:Worried target="actor" targetSpec=""}}Si no, podrías empezar a oler un poco mal{{string:Dots}}
+{{anim:Pardon target="actor" targetSpec=""}}¡Créeme, conozco los malos olores!{{anim:ColdChill target="actor" targetSpec=""}}¿Estamos claros?{{delay8}} ¿Cristalino?{{delay40}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}
+Bien.
 
 ---
 label: 320_03
 attribute: 0x00000000
 ---
-{{anim:OhGeez target="actor" targetSpec=""}}Sure.{{delay40}} Y'know, I ain't your parent or nothin'. Ya ain't gotta lie to me like that.{{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}That bein' said{{string:Dots}}{{delay20}}ya gotta take care of that sometime tonight, {{anim:QuestionMark target="actor" targetSpec=""}}{{delay8}}okay?{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}I ain't a mean mole, {{delay8}}really,{{delay8}}{{anim:Negative target="actor" targetSpec=""}} I'm not. {{delay20}}Ask anybody.{{pageBreak}}{{anim:EmotEnd_24 target="actor" targetSpec=""}}It's just, {{delay8}}if ya got time to dilly-dally here,{{delay8}}{{anim:Sighing target="actor" targetSpec=""}} the least ya could do is have some laundry in, {{delay8}}too.{{anim:Nodding target="actor" targetSpec=""}}Ya gotta take care of yourself!{{pageBreak}}{{anim:QuestionMark target="actor" targetSpec=""}}We clear?{{delay8}}
-{{anim:Smiling target="actor" targetSpec=""}}Good!
+{{anim:OhGeez target="actor" targetSpec=""}}Claro.{{delay40}} Sabes, no soy tu padre ni nada. No tienes que mentirme así.{{pageBreak}}
+{{anim:ShyBoy target="actor" targetSpec=""}}Dicho esto{{string:Dots}}{{delay20}}tienes que encargarte de eso esta noche, {{anim:QuestionMark target="actor" targetSpec=""}}{{delay8}}¿vale?{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}No soy un topo malo, {{delay8}}en serio,{{delay8}}{{anim:Negative target="actor" targetSpec=""}} no lo soy. {{delay20}}Pregúntale a cualquiera.{{pageBreak}}
+{{anim:EmotEnd_24 target="actor" targetSpec=""}}Es solo que, {{delay8}}si tienes tiempo para perder el tiempo aquí,{{delay8}}{{anim:Sighing target="actor" targetSpec=""}} lo mínimo que podrías hacer es tener algo en la lavandería, {{delay8}}también.{{anim:Nodding target="actor" targetSpec=""}}¡Tienes que cuidarte!{{pageBreak}}
+{{anim:QuestionMark target="actor" targetSpec=""}}¿Estamos claros?{{delay8}}
+{{anim:Smiling target="actor" targetSpec=""}}¡Bien!
 
 ---
 label: 320_d
 attribute: 0x00000000
 ---
-{{anim:Negative target="actor" targetSpec=""}}Not right now...
+{{anim:Negative target="actor" targetSpec=""}}Ahora mismo no...
 
 ---
 label: 320_04
 attribute: 0x00000000
 ---
-{{anim:ShyBoy target="actor" targetSpec=""}}If you've been waiting on it, ya gotta take care of it sometime tonight, {{anim:QuestionMark target="actor" targetSpec=""}}{{delay8}}okay?{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}I ain't a mean mole, {{delay8}}really,{{delay8}}{{anim:Negative target="actor" targetSpec=""}} I'm not. {{delay20}}Ask anybody.{{pageBreak}}{{anim:EmotEnd_24 target="actor" targetSpec=""}}It's just, {{delay8}}if ya got time to dilly-dally here,{{delay8}}{{anim:Sighing target="actor" targetSpec=""}} the least ya could do is have some laundry in, {{delay8}}too.{{anim:Nodding target="actor" targetSpec=""}}Ya gotta take care of yourself!{{pageBreak}}{{anim:QuestionMark target="actor" targetSpec=""}}We clear?{{delay8}}{{anim:Smiling target="actor" targetSpec=""}}Good!
+{{anim:ShyBoy target="actor" targetSpec=""}}Si has estado esperando, tienes que encargarte de eso esta noche, {{anim:QuestionMark target="actor" targetSpec=""}}{{delay8}}¿vale?{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}No soy un topo malo, {{delay8}}en serio,{{delay8}}{{anim:Negative target="actor" targetSpec=""}} no lo soy. {{delay20}}Pregúntale a cualquiera.{{pageBreak}}
+{{anim:EmotEnd_24 target="actor" targetSpec=""}}Es solo que, {{delay8}}si tienes tiempo para perder el tiempo aquí,{{delay8}}{{anim:Sighing target="actor" targetSpec=""}} lo mínimo que podrías hacer es tener algo en la lavandería, {{delay8}}también.{{anim:Nodding target="actor" targetSpec=""}}¡Tienes que cuidarte!{{pageBreak}}
+{{anim:QuestionMark target="actor" targetSpec=""}}¿Estamos claros?{{delay8}}{{anim:Smiling target="actor" targetSpec=""}}¡Bien!
 
 ---
 label: 321
 attribute: 0x06000000
 ---
-{{anim:Oops target="actor" targetSpec=""}}{{delay40}}{{string:Dots}}I forgot.{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}Well,{{delay8}} if ya come back tomorrow,{{delay8}} maybe I'll remember then.{{delay40}}{{anim:Explain target="actor" targetSpec=""}}It was real important, {{delay8}}promise. 
+{{anim:Oops target="actor" targetSpec=""}}{{delay40}}{{string:Dots}}Se me olvidó.{{pageBreak}}
+{{anim:OhGeez target="actor" targetSpec=""}}Bueno,{{delay8}} si vuelves mañana,{{delay8}} tal vez lo recuerde entonces.{{delay40}}{{anim:Explain target="actor" targetSpec=""}}Era realmente importante, {{delay8}}te lo prometo. 
 
 ---
 label: 340
 attribute: 0x00000000
 ---
-{{anim:QuestionMark target="actor" targetSpec=""}}Got that?{{10:4}}{{delay8}}
-{{string:Dots}}{{anim:EmotEnd_1 target="actor" targetSpec=""}}Good.
+{{anim:QuestionMark target="actor" targetSpec=""}}¿Entendido?{{10:4}}{{delay8}}
+{{string:Dots}}{{anim:EmotEnd_1 target="actor" targetSpec=""}}Bien.
 
 ---
 label: 341
 attribute: 0x00000000
 ---
-{{anim:Pardon target="actor" targetSpec=""}}Don't'cha forget it!
+{{anim:Pardon target="actor" targetSpec=""}}¡No se te olvide!
 
 ---
 label: 342
 attribute: 0x00000000
 ---
-{{anim:Hot target="actor" targetSpec=""}}{{string:Dots}}Keep{{delay8}} that{{delay40}} in mind.
+{{anim:Hot target="actor" targetSpec=""}}{{string:Dots}}Ten{{delay8}} eso{{delay40}} en mente.
 
 ---
 label: 343
 attribute: 0x00000000
 ---
-{{anim:OhGeez target="actor" targetSpec=""}}That's all there is to it.{{delay20}}
+{{anim:OhGeez target="actor" targetSpec=""}}Eso es todo.{{delay20}}
 
 ---
 label: 344
 attribute: 0x00000000
 ---
-{{anim:QuestionMark target="actor" targetSpec=""}}We clear?{{delay8}}{{anim:Smiling target="actor" targetSpec=""}}Good!
+{{anim:QuestionMark target="actor" targetSpec=""}}¿Estamos claros?{{delay8}}{{anim:Smiling target="actor" targetSpec=""}}¡Bien!
 
 ---
 label: 345
 attribute: 0x00000000
 ---
-{{anim:WrySmile target="actor" targetSpec=""}}Hopefully that'll stick in that
-big ol' head o' yours.
+{{anim:WrySmile target="actor" targetSpec=""}}Esperemos que eso se quede en esa gran cabezota tuya.
 
 ---
 label: 346
 attribute: 0x00000000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}That's my tip o' the day.{{pageBreak}}{{anim:Pardon target="actor" targetSpec=""}}Whaddya want?{{delay8}}
-I'm a cultured mole.
+{{anim:Nodding target="actor" targetSpec=""}}Ese es mi consejo del día.{{pageBreak}}
+{{anim:Pardon target="actor" targetSpec=""}}¿Qué quieres?{{delay8}}
+Soy un topo culto.
 
 ---
 label: 350
 attribute: 0x00000000
 ---
-{{anim:Pardon target="actor" targetSpec=""}}Got that?{{10:4}}{{delay8}}
-Now{{string:Dots}}
+{{anim:Pardon target="actor" targetSpec=""}}¿Entendido?{{10:4}}{{delay8}}
+Ahora{{string:Dots}}
 
 ---
 label: 351
 attribute: 0x00000000
 ---
-{{10:12}}{{anim:Angry target="actor" targetSpec=""}}{{10:10}}{{100:2}}　　  　{{size value="200"}}SCRAM!{{size value="100"}}{{15:100 arg="0x0200"}}
+{{10:12}}{{anim:Angry target="actor" targetSpec=""}}{{10:10}}{{100:2}} {{size value="200"}}¡LÁRGATE!{{size value="100"}}{{15:100 arg="0x0200"}}
 
 ---
 label: 352
 attribute: 0x00000000
 ---
-{{anim:Sighing target="actor" targetSpec=""}}{{color id="4"}}{{size value="75"}}{{delay20}}{{delay20}}Doesn't really have the same ring it used to{{string:Dots}}{{delay20}}{{color id="-1"}}
+{{anim:Sighing target="actor" targetSpec=""}}{{color id="4"}}{{size value="75"}}{{delay20}}{{delay20}}Ya no suena igual que antes{{string:Dots}}{{delay20}}{{color id="-1"}}
 
 ---
 label: 400
 attribute: 0x00000000
 ---
-{{anim:OhGeez target="actor" targetSpec=""}}Well.{{delay40}}
-Thanks for comin' by anyway. Hope to see ya.
+{{anim:OhGeez target="actor" targetSpec=""}}Bueno.{{delay40}}
+Gracias por venir de todos modos. Espero verte.
 
 ---
 label: 401
 attribute: 0x00000000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}Thanks for the purchase.{{delay8}}
-See ya'round.
+{{anim:Smiling target="actor" targetSpec=""}}Gracias por la compra.{{delay8}}
+Nos vemos.
 
 ---
 label: 600
 attribute: 0x06000000
 ---
-{{anim:Silent target="actor" targetSpec=""}}Hold it, champ!{{delay8}}{{anim:Sighing target="actor" targetSpec=""}}{{delay20}}
-You're gonna need some space in your pockets.{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}Let me know when ya do, THEN we can talk about ore.
+{{anim:Silent target="actor" targetSpec=""}}¡Espera!{{delay8}}{{anim:Sighing target="actor" targetSpec=""}}{{delay20}}
+Vas a necesitar algo de espacio en tus bolsillos.{{pageBreak}}
+{{anim:OhGeez target="actor" targetSpec=""}}Avísame cuando lo tengas, ENTONCES podremos hablar de minerales.
 
 ---
 label: 601
 attribute: 0x00000000
 ---
-{{anim:ColdChill target="actor" targetSpec=""}}Y'ain't got enough miles.{{10:4}}{{anim:OhGeez target="actor" targetSpec=""}}
-Try comin' back when ya do.
+{{anim:ColdChill target="actor" targetSpec=""}}No tienes suficientes millas.{{10:4}}{{anim:OhGeez target="actor" targetSpec=""}}
+Vuelve cuando las tengas.
+{{anim:Angry target="actor" targetSpec=""}}Será posible...
