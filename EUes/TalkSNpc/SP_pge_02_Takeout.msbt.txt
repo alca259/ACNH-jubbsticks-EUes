@@ -244,532 +244,494 @@ label: 101
 attribute: 0x98090000
 ---
 {{anim:Thinking target="actor" targetSpec=""}}De los tipos melódicos, el  
-{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}xilofóide{{color id="-1"}} es sin duda uno de los más percusivos.{{pageBreak}}  
+{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}xilofoide{{color id="-1"}} es sin duda uno de los más percusivos.{{pageBreak}}  
 {{anim:Nodding target="actor" targetSpec=""}}Emite su maravilloso sonido  
 {{anim:Worried target="actor" targetSpec=""}}al golpear rápidamente su propio costado{{string:Dots}}{{pageBreak}}  
-{{anim:FaintSmile target="actor" targetSpec=""}}Por suerte,{{delay8}} los giroides parecen no sentir dolor, {{delay8}}y el exterior del {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}xilofóide{{color id="-1"}} es especialmente resistente.
+{{anim:FaintSmile target="actor" targetSpec=""}}Por suerte,{{delay8}} los giroides parecen no sentir dolor, {{delay8}}y el exterior del {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}xilofoide{{color id="-1"}} es especialmente resistente.
 
 ---
 label: 102
 attribute: 0x2A020000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}The {{color id="1"}}babbloid{{color id="-1"}} loves to take 
-center stage.{{pageBreak}}
-{{anim:HappyFlower target="actor" targetSpec=""}}It is an eloquent performer, {{delay8}}expressing itself through its every motion.{{pageBreak}}
-{{anim:ShyBoy target="actor" targetSpec=""}}Because of this,{{delay8}} some might label it as somewhat of a{{delay20}} "prima donna."{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}But{{delay20}} what are the performing arts for{{string:Dots}}{{anim:QuestionMark target="actor" targetSpec=""}}if not performances?{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}Cu{{string:Dots}}{{10:4}}I find myself impressed by
-the {{color id="1"}}babbloid{{color id="-1"}}'s {{anim:Nodding target="actor" targetSpec=""}}passion.
+{{anim:Nodding target="actor" targetSpec=""}}Al {{color id="1"}}dulzoide{{color id="-1"}} le encanta estar en el centro del escenario.{{pageBreak}}
+{{anim:HappyFlower target="actor" targetSpec=""}}Es un intérprete elocuente, {{delay8}}se expresa con cada uno de sus movimientos.{{pageBreak}}
+{{anim:ShyBoy target="actor" targetSpec=""}}Por eso,{{delay8}} algunos podrían considerarlo una especie de{{delay20}} "diva".{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Pero{{delay20}} ¿para qué están las artes escénicas{{string:Dots}}{{anim:QuestionMark target="actor" targetSpec=""}}si no es para lucirse?{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Cu{{string:Dots}}{{10:4}}Me impresiona la {{color id="1"}}pasión{{color id="-1"}} del {{color id="1"}}dulzoide{{color id="-1"}}.{{anim:Nodding target="actor" targetSpec=""}}
 
 ---
 label: 103
 attribute: 0x2A020000
 ---
-{{anim:AbsentMindedness target="actor" targetSpec=""}}Cu{{string:Dots}}when I first encountered an {{color id="1"}}arfoid{{color id="-1"}}{{string:Dots}}{{pageBreak}}
-{{anim:TakenAback target="actor" targetSpec=""}}It startled me{{delay8}} with its strange noise.{{10:4}}{{delay8}}{{anim:Thinking target="actor" targetSpec=""}} And what's stranger is its dog-like appearance.{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}Cu{{string:Dots}}{{anim:Negative target="actor" targetSpec=""}}of course, dogs don't really make these noises.{{delay20}} They use their words,{{delay20}}{{anim:Negative target="actor" targetSpec=""}} like anyone else would.{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}While they're a bit{{delay8}}{{anim:ShyBoy target="actor" targetSpec=""}} strange, 
-I still find {{color id="1"}}arfoids{{color id="-1"}} and their little noises endearing.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}I'll have to give this one a listen later.
+{{anim:AbsentMindedness target="actor" targetSpec=""}}Cu{{string:Dots}}la primera vez que me topé con un {{color id="1"}}ladroide{{color id="-1"}}{{string:Dots}}{{pageBreak}}
+{{anim:TakenAback target="actor" targetSpec=""}}Me sobresaltó{{delay8}} con su extraño ruido.{{10:4}}{{delay8}}{{anim:Thinking target="actor" targetSpec=""}} Lo más raro es que tiene aspecto perruno.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Cu{{string:Dots}}{{anim:Negative target="actor" targetSpec=""}}claro que los perros no hacen estos ruidos.{{delay20}} Ellos usan sus palabras,{{delay20}}{{anim:Negative target="actor" targetSpec=""}} como haría cualquiera.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Aunque son un poco{{delay8}}{{anim:ShyBoy target="actor" targetSpec=""}} raros, aun así me parecen entrañables los {{color id="1"}}ladroides{{color id="-1"}} y sus pequeños ruidos.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Tendré que escuchar a este más tarde.
 
 ---
 label: 104
 attribute: 0x6E020000
 ---
 {{anim:FaintSmile target="actor" targetSpec=""}}Cu{{string:Dots}}{{delay40}}
-{{anim:Nodding target="actor" targetSpec=""}}The {{color id="1"}}whistloid{{color id="-1"}} makes a great leader.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}It has a high register {{delay20}}
-and crystal-clear phonation.{{pageBreak}}
-{{anim:ShyBoy target="actor" targetSpec=""}}Which is to say{{string:Dots}}{{delay20}}
-{{anim:FaintSmile target="actor" targetSpec=""}}It carries a melody exceptionally well.{{pageBreak}}
-{{anim:Smiling target="actor" targetSpec=""}}As soothing as it is to admire, {{delay8}}
-it is also{{anim:Nodding target="actor" targetSpec=""}} quite fragile.{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}Rest assured{{string:Dots}}{{delay8}}
-I will take good {{anim:Smiling target="actor" targetSpec=""}}care of it.
+{{anim:Nodding target="actor" targetSpec=""}}El {{color id="1"}}silboide{{color id="-1"}} es un gran líder.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Tiene un registro agudo {{delay20}} y una fonación cristalina.{{pageBreak}}
+{{anim:ShyBoy target="actor" targetSpec=""}}Es decir{{string:Dots}}{{delay20}}
+{{anim:FaintSmile target="actor" targetSpec=""}}Entona la melodía de forma excepcional.{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}Tan reconfortante como admirable, {{delay8}} también es{{anim:Nodding target="actor" targetSpec=""}} bastante frágil.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}No te preocupes{{string:Dots}}{{delay8}} lo cuidaré {{anim:Smiling target="actor" targetSpec=""}}muy bien.
 
 ---
 label: 105
 attribute: 0xAA020000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}The {{color id="1"}}bwongoid{{color id="-1"}}'s {{delay8}}pitter-patter resembles that of bongo drums. {{pageBreak}}While this sound is cute,{{delay8}} it means the {{color id="1"}}bwongoid{{color id="-1"}} {{anim:Worried target="actor" targetSpec=""}}often isn't as desirable as other percussive gyroids{{string:Dots}}{{pageBreak}}
-{{anim:Silent target="actor" targetSpec=""}}Cu{{string:Dots}}many believe that gyroids are simply not predictable enough for a precise sound like that to {{delay20}}"fit in."{{pageBreak}}
-{{anim:Serious target="actor" targetSpec=""}}I{{delay8}} beg to differ.{{delay20}} The {{color id="1"}}bwongoid{{color id="-1"}} is a beautiful agent of chaos with its random thrums.{{pageBreak}}
-{{anim:Smiling target="actor" targetSpec=""}}And I have solace{{delay8}} knowing that its decorative pattern often earns it a spot on shelves anyway.
+{{anim:Nodding target="actor" targetSpec=""}}El {{color id="1"}}puntoide{{color id="-1"}} tiene un {{delay8}}repique similar al de unos bongós.{{pageBreak}}
+Aunque este sonido es adorable,{{delay8}} significa que el {{color id="1"}}puntoide{{color id="-1"}} {{anim:Worried target="actor" targetSpec=""}}a menudo no se considera tan deseable como otros giroides de percusión{{string:Dots}}{{pageBreak}}
+{{anim:Silent target="actor" targetSpec=""}}Cu{{string:Dots}}muchos creen que los giroides simplemente no son lo bastante predecibles para que un sonido así {{delay20}}"encaje".{{pageBreak}}
+{{anim:Serious target="actor" targetSpec=""}}Yo{{delay8}} no estoy de acuerdo.{{delay20}} El {{color id="1"}}puntoide{{color id="-1"}} es un bello agente del caos con sus golpecitos aleatorios.{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}Y me reconforta{{delay8}} saber que su diseño decorativo suele asegurarle un sitio en la estantería.
 
 ---
 label: 106
 attribute: 0xAA020000
 ---
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}Despite the {{color id="1"}}twangoid{{color id="-1"}}'s spooky looks, {{delay8}}it is one of the most special gyroids.{{pageBreak}}
-{{anim:QuestionMark target="actor" targetSpec=""}}"Why?" {{delay8}}you may ask?{{10:4}}{{delay8}}{{anim:Nodding target="actor" targetSpec=""}} Well, {{delay8}}it is 
-the only gyroid with the ability{{delay8}} 
-to play chords.{{pageBreak}}
-{{anim:HappyFlower target="actor" targetSpec=""}}{{color id="1"}}Twangoids{{color id="-1"}} tend to generate some of the most unique elements while performing because of this trait.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}While other gyroids have to play singular notes in sequence,{{delay8}} these special strummers harmonize.{{pageBreak}}
-{{anim:Smiling target="actor" targetSpec=""}}Say what you will about 
-the {{color id="1"}}twangoid{{color id="-1"}},{{delay20}} it is anything but 
-one-note.
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}A pesar del aspecto siniestro del {{color id="1"}}rasgueoide{{color id="-1"}}, {{delay8}}es uno de los giroides más especiales.{{pageBreak}}
+{{anim:QuestionMark target="actor" targetSpec=""}}"¿Por qué?" {{delay8}}puede que te preguntes.{{10:4}}{{delay8}}
+{{anim:Nodding target="actor" targetSpec=""}} Pues bien, {{delay8}}es el único giroide con la habilidad{{delay8}} de tocar acordes.{{pageBreak}}
+{{anim:HappyFlower target="actor" targetSpec=""}}Los {{color id="1"}}rasgueoides{{color id="-1"}} suelen generar algunos de los elementos más singulares al actuar gracias a esta cualidad.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Mientras que otros giroides tienen que tocar notas individuales en secuencia,{{delay8}} estos rasgueadores especiales armonizan.{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}Digan lo que digan del {{color id="1"}}rasgueoide{{color id="-1"}},{{delay20}} no tiene nada de monó-tono.
 
 ---
 label: 107
 attribute: 0xAA020000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Cu{{string:Dots}}{{delay20}}have you noticed{{anim:QuestionMark target="actor" targetSpec=""}} that the {{color id="1"}}laseroid{{color id="-1"}}{{delay20}} is always in motion?{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}While almost every gyroid is animated,{{delay8}} the {{color id="1"}}laseroid{{color id="-1"}} has a unique understanding of movement.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}It moves by springing itself at specific angles, each bounce taking on a slightly different tilt.{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}You see{{string:Dots}}the {{color id="1"}}laseroid{{color id="-1"}} is impressionable,{{delay20}} and seems{{delay8}} easily fascinated {{delay8}}by its surroundings.{{pageBreak}}
-{{anim:AbsentMindedness target="actor" targetSpec=""}}It longs to view the world at every angle; {{delay40}}to understand, {{delay20}}{{anim:Nodding target="actor" targetSpec=""}}to savor its environment,{{delay8}} at all axes.{{pageBreak}}
-{{anim:FaintSmile target="actor" targetSpec=""}}Cu{{string:Dots}}perhaps the melodies it creates {{delay20}}are but a harmonic product {{delay20}}of its {{anim:Hello target="actor" targetSpec=""}}appreciation.
+{{anim:Thinking target="actor" targetSpec=""}}Cu{{string:Dots}}{{delay20}}¿has notado{{anim:QuestionMark target="actor" targetSpec=""}} que el {{color id="1"}}hablaseroide{{color id="-1"}}{{delay20}} está siempre en movimiento?{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Aunque casi todos los giroides están animados,{{delay8}} el {{color id="1"}}hablaseroide{{color id="-1"}} tiene una comprensión única del movimiento.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Se desplaza impulsándose en ángulos concretos, cada rebote con una inclinación ligeramente distinta.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Verás{{string:Dots}}el {{color id="1"}}hablaseroide{{color id="-1"}} es impresionable,{{delay20}} y parece{{delay8}} fascinarse con facilidad {{delay8}}por lo que lo rodea.{{pageBreak}}
+{{anim:AbsentMindedness target="actor" targetSpec=""}}Anhela observar el mundo desde todos los ángulos; {{delay40}}comprenderlo, {{delay20}}{{anim:Nodding target="actor" targetSpec=""}}saborear su entorno,{{delay8}} desde cada eje.{{pageBreak}}
+{{anim:FaintSmile target="actor" targetSpec=""}}Cu{{string:Dots}}quizá las melodías que crea {{delay20}}no sean más que un producto armónico {{delay20}}de su {{anim:Hello target="actor" targetSpec=""}}aprecio.
 
 ---
 label: 108
 attribute: 0xAA020000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Of all the gyroids,{{delay8}} the {{color id="1"}}squeakoid{{color id="-1"}} is one of the most {{anim:Love target="actor" targetSpec=""}}beloved among collectors.{{pageBreak}}Cu{{string:Dots}}{{10:4}}{{delay8}}
-{{anim:Nodding target="actor" targetSpec=""}}It's easy to see why.{{pageBreak}}
-{{anim:Smiling target="actor" targetSpec=""}}It has a vicacious personality,{{delay8}} and seems to playfully mimic different expressions as it moves.{{pageBreak}}
-{{anim:ShyBoy target="actor" targetSpec=""}}Popularity can be overwhelming, 
-{{delay8}}yet the {{anim:SmugFace target="actor" targetSpec=""}}brave {{color id="1"}}squeakoid{{color id="-1"}} relishes in
-all of the attention.{{pageBreak}}
-{{anim:BigSmile target="actor" targetSpec=""}}With that kind of attitude{{string:Dots}}{{delay20}}
-it's no wonder that the {{color id="1"}}squeakoid{{color id="-1"}} has captured the {{anim:FaintSmile target="actor" targetSpec=""}}hearts of so many.
+{{anim:FaintSmile target="actor" targetSpec=""}}De todos los giroides,{{delay8}} el {{color id="1"}}estrujónido{{color id="-1"}} es uno de los {{anim:Love target="actor" targetSpec=""}}más queridos por los coleccionistas.{{pageBreak}}Cu{{string:Dots}}{{10:4}}{{delay8}}
+{{anim:Nodding target="actor" targetSpec=""}}Es fácil ver por qué.{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}Tiene una personalidad vivaz,{{delay8}} y parece imitar expresiones con gracia mientras se mueve.{{pageBreak}}
+{{anim:ShyBoy target="actor" targetSpec=""}}La popularidad puede ser abrumadora, {{delay8}}pero el {{anim:SmugFace target="actor" targetSpec=""}}valiente {{color id="1"}}estrujónido{{color id="-1"}} disfruta de toda la atención.{{pageBreak}}
+{{anim:BigSmile target="actor" targetSpec=""}}Con esa actitud{{string:Dots}}{{delay20}} no es de extrañar que el {{color id="1"}}estrujónido{{color id="-1"}} haya conquistado el {{anim:FaintSmile target="actor" targetSpec=""}}corazón de tantos.
 
 ---
 label: 109
 attribute: 0xAA020000
 ---
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}If you had assumed the {{color id="1"}}tockoid{{color id="-1"}} 
-was a product of fine woodworking, {{delay8}}{{anim:Negative target="actor" targetSpec=""}}
-you wouldn't be the first.{{pageBreak}}
-{{anim:Worried target="actor" targetSpec=""}}I've heard they sometimes end up in antique stores,{{delay20}} only to startle customers {{anim:Eh target="actor" targetSpec=""}}when they move.{{pageBreak}}
-{{anim:Negative target="actor" targetSpec=""}}But the {{color id="1"}}tockoid{{color id="-1"}} is no threat.{{10:4}}{{delay8}}
-{{anim:Smiling target="actor" targetSpec=""}}Cu{{string:Dots}}{{delay20}}it's only curious about its surroundings.{{pageBreak}}
-{{anim:WrySmile target="actor" targetSpec=""}}It even seems somewhat bored of trees and forests.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}I will make sure it remains well-tended to here.
-
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Si asumiste que el {{color id="1"}}varítono{{color id="-1"}} era producto de una fina carpintería, {{delay8}}{{anim:Negative target="actor" targetSpec=""}} no serías el primero.{{pageBreak}}
+{{anim:Worried target="actor" targetSpec=""}}He oído que a veces acaban en tiendas de antigüedades,{{delay20}} solo para asustar a los clientes {{anim:Eh target="actor" targetSpec=""}}cuando se mueven.{{pageBreak}}
+{{anim:Negative target="actor" targetSpec=""}}Pero el {{color id="1"}}varítono{{color id="-1"}} no es una amenaza.{{10:4}}{{delay8}}
+{{anim:Smiling target="actor" targetSpec=""}}Cu{{string:Dots}}{{delay20}}solo siente curiosidad por su entorno.{{pageBreak}}
+{{anim:WrySmile target="actor" targetSpec=""}}Incluso parece algo aburrido de los árboles y los bosques.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Me aseguraré de que esté bien atendido aquí.
 
 ---
 label: 110
 attribute: 0xAA020000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}Cu{{string:Dots}}{{delay20}} the {{anim:Explain target="actor" targetSpec=""}}{{color id="1"}}ringoid{{color id="-1"}} is one of the lightest gyroids.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}You may have noticed this while observing its{{anim:Smiling target="actor" targetSpec=""}} tranquil movement.{{pageBreak}}A number of gyroids move by snapping into position,{{delay8}} {{anim:Negative target="actor" targetSpec=""}}but the {{color id="1"}}ringoid{{color id="-1"}} is in no rush.{{anim:Smiling target="actor" targetSpec=""}}{{pageBreak}}
-{{anim:AbsentMindedness target="actor" targetSpec=""}}{{delay8}}It sways{{delay8}} and drifts{{delay20}} in constant motion, {{delay8}}as if floating in the breeze.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}And despite being such a free spirit{{string:Dots}}{{delay20}}{{anim:Smiling target="actor" targetSpec=""}}it always roams {{anim:Nodding target="actor" targetSpec=""}}{{delay8}}into the right note {{delay8}}at the right time.{{delay20}}{{anim:Smiling target="actor" targetSpec=""}}
+{{anim:Smiling target="actor" targetSpec=""}}Cu{{string:Dots}}{{delay20}} el {{anim:Explain target="actor" targetSpec=""}}{{color id="1"}}monotoide{{color id="-1"}} es uno de los giroides más ligeros.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Quizá lo hayas notado al observar su{{anim:Smiling target="actor" targetSpec=""}} movimiento tranquilo.{{pageBreak}}
+Muchos giroides se mueven encajándose en una posición,{{delay8}} {{anim:Negative target="actor" targetSpec=""}}pero el {{color id="1"}}monotoide{{color id="-1"}} no tiene ninguna prisa.{{anim:Smiling target="actor" targetSpec=""}}{{pageBreak}}
+{{anim:AbsentMindedness target="actor" targetSpec=""}}{{delay8}}Se balancea{{delay8}} y se desliza{{delay20}} en movimiento constante, {{delay8}}como flotando en la brisa.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Y a pesar de ser tan libre{{string:Dots}}{{delay20}}{{anim:Smiling target="actor" targetSpec=""}}siempre se desplaza {{anim:Nodding target="actor" targetSpec=""}}{{delay8}}hacia la nota justa {{delay8}}en el momento preciso.{{delay20}}
+{{anim:Smiling target="actor" targetSpec=""}}
 
 ---
 label: 111
 attribute: 0xAA020000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}Cu{{string:Dots}}I've come to admire the work ethic of the {{color id="1"}}oinkoid{{color id="-1"}}.{{pageBreak}}In terms of pure accomplishment,
-{{delay8}}{{anim:Negative target="actor" targetSpec=""}}it isn't the hastiest.{{pageBreak}}But{{delay8}} it more than makes {{anim:FaintSmile target="actor" targetSpec=""}}up for this in its consistency and demeanor.{{pageBreak}}It has an easygoing {{delay20}}and playful
-presence,{{anim:Nodding target="actor" targetSpec=""}}{{delay8}} creating a mellow atmosphere around it.{{pageBreak}}
-{{anim:Smiling target="actor" targetSpec=""}}The humble {{color id="1"}}oinkoid{{color id="-1"}} remains 
-amiable,{{delay8}} {{anim:Negative target="actor" targetSpec=""}}without sacrificing its value in performance.{{pageBreak}}
-{{anim:Hesitate target="actor" targetSpec=""}}Personally{{string:Dots}}that's a balance I would love to someday achieve.
-
+{{anim:Smiling target="actor" targetSpec=""}}Cu{{string:Dots}}He llegado a admirar la ética de trabajo del {{color id="1"}}oinkoide{{color id="-1"}}.{{pageBreak}}
+En términos de logros concretos, {{delay8}}{{anim:Negative target="actor" targetSpec=""}}no es precisamente el más apresurado.{{pageBreak}}
+Pero{{delay8}} compensa esto con creces {{anim:FaintSmile target="actor" targetSpec=""}}gracias a su constancia y actitud.{{pageBreak}}
+Tiene una presencia relajada {{delay20}}y juguetona,{{anim:Nodding target="actor" targetSpec=""}}{{delay8}} que genera un ambiente apacible a su alrededor.{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}El humilde {{color id="1"}}oinkoide{{color id="-1"}} sigue siendo afable, {{delay8}}
+{{anim:Negative target="actor" targetSpec=""}}sin renunciar a su valía como intérprete.{{pageBreak}}
+{{anim:Hesitate target="actor" targetSpec=""}}Personalmente{{string:Dots}}ese equilibrio es algo que me encantaría alcanzar algún día.
 
 ---
 label: 112
 attribute: 0xAA020000
 ---
-{{anim:IdeaBulb target="actor" targetSpec=""}}You may be surprised to learn that the {{color id="1"}}tremoloid{{color id="-1"}}{{string:Dots}}{{delay20}}{{anim:Eh target="actor" targetSpec=""}}is completely silent.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Indeed{{string:Dots}}
-Cu{{string:Dots}}{{anim:Negative target="actor" targetSpec=""}}{{delay8}}this gyroid creates no sounds
-of its own.{{pageBreak}}
-{{anim:FaintSmile target="actor" targetSpec=""}}Instead,{{delay8}} the {{color id="1"}}tremoloid{{color id="-1"}} is {{delay8}}very keen 
-to the noises in its environment.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}Through a series of fluid motions,{{delay8}} 
-it weaves each vibration that passes through it into entirely new sounds.{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}Some discredit the {{color id="1"}}tremoloid{{color id="-1"}}
-on the basis of "unoriginality."{{pageBreak}}
-{{anim:QuestionMark target="actor" targetSpec=""}}But what is creativity without inspiration?
+{{anim:IdeaBulb target="actor" targetSpec=""}}Puede que te sorprenda saber que el {{color id="1"}}sinusoide{{color id="-1"}}{{string:Dots}}{{delay20}}{{anim:Eh target="actor" targetSpec=""}}es completamente silencioso.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}En efecto{{string:Dots}} Cu{{string:Dots}}{{anim:Negative target="actor" targetSpec=""}}{{delay8}}este giroide no genera sonidos propios.{{pageBreak}}
+{{anim:FaintSmile target="actor" targetSpec=""}}En su lugar,{{delay8}} el {{color id="1"}}sinusoide{{color id="-1"}} es {{delay8}}muy sensible a los ruidos de su entorno.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Mediante una serie de movimientos fluidos,{{delay8}} entrelaza cada vibración que lo atraviesa en sonidos completamente nuevos.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Algunos desacreditan al {{color id="1"}}sinusoide{{color id="-1"}} por considerarlo "poco original".{{pageBreak}}
+{{anim:QuestionMark target="actor" targetSpec=""}}Pero ¿qué es la creatividad sin inspiración?
 
 ---
 label: 113
 attribute: 0xAA020000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Cu{{string:Dots}}{{delay8}}the {{color id="1"}}bubbloid{{color id="-1"}}'s bubbly {{delay8}}
-bubble-blowing bloops {{delay8}}are iconic and inspiring{{string:Dots}}{{anim:Worried target="actor" targetSpec=""}}yet I am jealous.{{pageBreak}}
-{{delay8}}{{anim:AbsentMindedness target="actor" targetSpec=""}}The thought{{delay8}} of bubble-blowing reminds me of firework festivals when I was but a small squab.{{pageBreak}}
-{{anim:Worried target="actor" targetSpec=""}}But of course, {{delay8}}with a beak,{{delay8}} 
-bubble-blowing has never been my strong suit.{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}And even when I managed to blow a bubble, {{delay8}}{{anim:Sighing target="actor" targetSpec=""}}I'd just pop it on accident{{delay8}} soon after.{{pageBreak}}
-{{anim:ShyBoy target="actor" targetSpec=""}}So{{delay8}} I'm somewhat jealous of the {{color id="1"}}bubbloid{{color id="-1"}}'s ability,{{delay8}} in that sense.{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}It eventually pops each of its bubbles, {{delay8}}too,{{delay8}} though,{{delay8}} so{{string:Dots}}{{anim:Smiling target="actor" targetSpec=""}}{{delay20}} 
-perhaps I am not alone.
+{{anim:FaintSmile target="actor" targetSpec=""}}Cu{{string:Dots}}{{delay8}}los {{color id="1"}}mirlitoide{{color id="-1"}} y sus burbujeantes {{delay8}} "pops" soplando burbujas {{delay8}}son icónicos e inspiradores{{string:Dots}}{{anim:Worried target="actor" targetSpec=""}}aunque siento envidia.{{pageBreak}}
+{{delay8}}{{anim:AbsentMindedness target="actor" targetSpec=""}}La idea{{delay8}} de soplar burbujas me recuerda a los festivales de fuegos artificiales cuando era solo un polluelo.{{pageBreak}}
+{{anim:Worried target="actor" targetSpec=""}}Pero claro, {{delay8}}con pico,{{delay8}} nunca se me ha dado bien lo de soplar burbujas.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Y aunque alguna vez lograba hacer una, {{delay8}}{{anim:Sighing target="actor" targetSpec=""}}acababa explotándola sin querer{{delay8}} justo después.{{pageBreak}}
+{{anim:ShyBoy target="actor" targetSpec=""}}Así que{{delay8}} tengo algo de envidia de la habilidad del {{color id="1"}}mirlitoide{{color id="-1"}},{{delay8}} en ese sentido.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Al final, él también revienta cada burbuja, {{delay8}}claro,{{delay8}} aunque{{delay8}} así que{{string:Dots}}
+{{anim:Smiling target="actor" targetSpec=""}}{{delay20}} quizá no estoy solo.
 
 ---
 label: 114
 attribute: 0xAA020000
 ---
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}There is a simple {{delay20}}yet{{anim:Nodding target="actor" targetSpec=""}} elegant{{delay20}}
-beauty{{delay8}} to the {{color id="1"}}petaloid{{color id="-1"}}.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}It's favored among admirers for 
-its melodic tones {{delay8}}and delightful colors.{{pageBreak}}
-{{anim:IdeaBulb target="actor" targetSpec=""}}Cu!{{10:4}}{{delay8}}{{anim:QuestionMark target="actor" targetSpec=""}}
-Have you ever tried {{delay20}}customizing {{delay8}}
-your gyroids?{{pageBreak}}
-{{anim:Smiling target="actor" targetSpec=""}}You may be surprised by the varied and vivid hues they may don. {{pageBreak}}
-{{anim:Love target="actor" targetSpec=""}}And this {{color id="1"}}petaloid{{color id="-1"}} here{{string:Dots}}{{delay20}}
-has a striking array of its own.
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Hay una belleza sencilla {{delay20}}aunque{{anim:Nodding target="actor" targetSpec=""}} elegante{{delay20}} en el {{color id="1"}}clavicoina{{color id="-1"}}.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Es muy apreciado por sus tonos melódicos {{delay8}}y sus colores encantadores.{{pageBreak}}
+{{anim:IdeaBulb target="actor" targetSpec=""}}¡Cu!{{10:4}}{{delay8}}{{anim:QuestionMark target="actor" targetSpec=""}} ¿Has probado alguna vez a {{delay20}}personalizar {{delay8}}tus giroides?{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}Puede que te sorprendan los vivos y variados tonos que pueden lucir.{{pageBreak}}
+{{anim:Love target="actor" targetSpec=""}}Y este {{color id="1"}}clavicoina{{color id="-1"}} aquí{{string:Dots}}{{delay20}} presume de una gama deslumbrante.
 
 ---
 label: 115
 attribute: 0xAA020000
 ---
-{{anim:Love target="actor" targetSpec=""}}Cu{{string:Dots}}{{delay40}}the reliable {{color id="1"}}aluminoid{{color id="-1"}} is always an excellent addition to any{{anim:Nodding target="actor" targetSpec=""}} gyroid performance.{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}It is steady {{delay8}}{{anim:Silent target="actor" targetSpec=""}}but punctual, {{delay8}}providing structure while still standing out by itself.{{pageBreak}}
-{{anim:Thinking target="actor" targetSpec=""}}To maintain this balance, it must demonstrate clockwork efficacy.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}As a result, the {{color id="1"}}aluminoid{{color id="-1"}} is one of the more lively gyroids.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Just holding it here{{string:Dots}}{{delay20}}I can almost feel it {{delay8}}pulse in my hands, {{delay8}}
-like a heartbeat.{{pageBreak}}
-{{string:Dots}}It must be ready to go.
-
+{{anim:Love target="actor" targetSpec=""}}¡Cu!{{string:Dots}}{{delay40}} El confiable {{color id="1"}}aluminoide{{color id="-1"}} siempre es un excelente añadido a cualquier{{anim:Nodding target="actor" targetSpec=""}} actuación giroide.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Es constante {{delay8}}{{anim:Silent target="actor" targetSpec=""}}pero puntual, {{delay8}}aportando estructura sin dejar de destacar por sí solo.{{pageBreak}}
+{{anim:Thinking target="actor" targetSpec=""}}Para mantener ese equilibrio, debe demostrar eficacia de relojería.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Por ello, el {{color id="1"}}aluminoide{{color id="-1"}} es uno de los giroide más animados.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Solo con tenerlo entre las manos{{string:Dots}}{{delay20}} casi puedo sentir su pulso, {{delay8}}como un latido.{{pageBreak}}
+{{string:Dots}}Está listo para actuar.
 
 ---
 label: 116
 attribute: 0xAA020000
 ---
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}The {{color id="1"}}wallopoid{{color id="-1"}} {{delay20}}is one of the easiest gyroids to spot in a crowd.{{pageBreak}}
-{{anim:WrySmile target="actor" targetSpec=""}}This is due to its{{string:Dots}}spirited performance.{{10:4}}{{delay8}}{{anim:Eh target="actor" targetSpec=""}}{{delay8}} Which, {{delay8}}visually, {{delay8}}is passionate and kinetic.{{pageBreak}}
-{{anim:ShyBoy target="actor" targetSpec=""}}However,{{delay8}} if you try to listen for the {{color id="1"}}wallopoid{{color id="-1"}}, you may struggle to hear its sonic contribution.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Indeed{{string:Dots}}this gyroid's fiery energy seems to juxtapose its{{delay8}} understated{{delay8}} musical output.{{pageBreak}}
-{{anim:Negative target="actor" targetSpec=""}}But the {{color id="1"}}wallopoid{{color id="-1"}} isn't more bark than bite. {{delay20}}It is simply keen {{delay8}}to melodic balance.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}In other words,{{delay8}} it's more than capable of stealing the show, {{delay8}}but decidedly plays a supporting role. {{pageBreak}}
-{{anim:FaintSmile target="actor" targetSpec=""}}Ultimately, the {{color id="1"}}wallopoid{{color id="-1"}}'s subtle additions add up{{string:Dots}}even if the fruits of its labor often go unnoticed.
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}El {{color id="1"}}acolchoida{{color id="-1"}} {{delay20}}es uno de los giroide más fáciles de reconocer entre la multitud.{{pageBreak}}
+{{anim:WrySmile target="actor" targetSpec=""}}Esto se debe a su{{string:Dots}}actuación llena de energía.{{10:4}}{{delay8}}{{anim:Eh target="actor" targetSpec=""}}{{delay8}} Que, {{delay8}}visualmente, {{delay8}}es apasionada y vibrante.{{pageBreak}}
+{{anim:ShyBoy target="actor" targetSpec=""}}Sin embargo,{{delay8}} si intentas escuchar al {{color id="1"}}acolchoida{{color id="-1"}}, puede que te cueste percibir su aporte sonoro.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}De hecho{{string:Dots}}su fogosa energía parece contraponerse a su {{delay8}}discreta{{delay8}} expresión musical.{{pageBreak}}
+{{anim:Negative target="actor" targetSpec=""}}Pero el {{color id="1"}}acolchoida{{color id="-1"}} no es solo ruido. {{delay20}}Simplemente prefiere {{delay8}}el equilibrio melódico.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}En otras palabras,{{delay8}} es capaz de robarse el espectáculo, {{delay8}}pero elige ocupar un rol secundario.{{pageBreak}}
+{{anim:FaintSmile target="actor" targetSpec=""}}Al final, los aportes sutiles del {{color id="1"}}acolchoida{{color id="-1"}} suman{{string:Dots}}aunque los frutos de su labor pasen desapercibidos.
 
 ---
 label: 117
 attribute: 0xAA020000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}On first impression,{{delay8}} the {{color id="1"}}drummoid{{color id="-1"}} might look relatively simple.{{pageBreak}}
-{{anim:Negative target="actor" targetSpec=""}}Cu{{string:Dots}}each part of this gyroid is distinct and multifaceted.{{pageBreak}}
-{{anim:Love target="actor" targetSpec=""}}Observing its versatility in movement alone is enchanting.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}This mobility further allows the {{color id="1"}}drummoid{{color id="-1"}} to produce a vast array of different sounds.{{pageBreak}}
-{{anim:ShyBoy target="actor" targetSpec=""}}In this way{{string:Dots}}it's somewhat of a 
-one-gyroid band.{{pageBreak}}
-{{string:Dots}}I suppose {{delay8}}it isn't always so bad to do things alone like that.
+{{anim:Nodding target="actor" targetSpec=""}}A primera vista,{{delay8}} el {{color id="1"}}platoide{{color id="-1"}} puede parecer bastante sencillo.{{pageBreak}}
+{{anim:Negative target="actor" targetSpec=""}}¡Cu!{{string:Dots}} cada parte de este giroide es única y multifacética.{{pageBreak}}
+{{anim:Love target="actor" targetSpec=""}}Observar su versatilidad de movimientos ya es encantador de por sí.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Esta movilidad le permite al {{color id="1"}}platoide{{color id="-1"}} generar una inmensa variedad de sonidos distintos.{{pageBreak}}
+{{anim:ShyBoy target="actor" targetSpec=""}}De algún modo{{string:Dots}}es como una banda de un solo giroide.{{pageBreak}}
+{{string:Dots}}Supongo que {{delay8}}no siempre está tan mal hacer las cosas en solitario.
 
 ---
 label: 118
 attribute: 0x00000000
 ---
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}While the {{color id="1"}}dootoid{{color id="-1"}} might {{delay8}}look {{delay8}}holistic,{{delay8}} there is much more going on than meets the eye.{{pageBreak}}
-{{anim:Shocked target="actor" targetSpec=""}}This gyroid is actually composed of many different elements,{{delay8}} seemingly stitched together.{{delay8}}{{pageBreak}}
-{{anim:FaintSmile target="actor" targetSpec=""}}These knobs, {{delay8}}bells,{{delay8}} and whistles allow it to produce a variety of peculiar noises.{{pageBreak}}
-{{delay8}}{{anim:Thinking target="actor" targetSpec=""}}Instead of growing slow and steadily,{{delay8}} like most gyroids, {{delay8}}the{{anim:SmugFace target="actor" targetSpec=""}} {{color id="1"}}dootoid{{color id="-1"}} embraces the unstable.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}It takes in an array of different minerals, {{delay8}}shaping itself with the vast world around it.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Cu{{string:Dots}}we could stand to learn from the {{color id="1"}}dootoid{{color id="-1"}}.{{10:4}}{{delay8}} Don't be afraid to step outside of your comfort zone.
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Aunque el {{color id="1"}}bipoide{{color id="-1"}} pueda parecer {{delay8}}holístico a simple vista,{{delay8}} hay mucho más en él de lo que aparenta.{{pageBreak}}
+{{anim:Shocked target="actor" targetSpec=""}}Este giroide en realidad está compuesto por muchos elementos distintos,{{delay8}} aparentemente ensamblados al azar.{{delay8}}{{pageBreak}}
+{{anim:FaintSmile target="actor" targetSpec=""}}Estos botones, {{delay8}}campanillas{{delay8}} y artilugios le permiten emitir una variedad de sonidos peculiares.{{pageBreak}}
+{{delay8}}{{anim:Thinking target="actor" targetSpec=""}}En lugar de crecer de forma lenta y constante,{{delay8}} como la mayoría, {{delay8}}el{{anim:SmugFace target="actor" targetSpec=""}} {{color id="1"}}bipoide{{color id="-1"}} abraza la inestabilidad.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Absorbe una gama de minerales diferentes, {{delay8}}adaptándose a la inmensidad del mundo que lo rodea.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}¡Cu!{{string:Dots}}Podríamos aprender algo del {{color id="1"}}bipoide{{color id="-1"}}.{{10:4}}{{delay8}} Atrévete a salir de tu zona de confort.
 
 ---
 label: 119
 attribute: 0xAA020000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Despite the rigid appearance, {{delay8}}the {{color id="1"}}whirroid{{color id="-1"}} is quite the contortionist.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}It is capable of bending and twisting itself in precise rhythms.{{pageBreak}}It{{string:Dots}}{{delay20}}{{anim:WrySmile target="actor" targetSpec=""}}isn't as grizzly as it sounds.{{10:4}}{{delay8}}{{anim:Negative target="actor" targetSpec=""}}
-The {{color id="1"}}whirroid{{color id="-1"}} has a {{delay8}}gentle {{delay8}}nature. {{pageBreak}}
-{{anim:Smiling target="actor" targetSpec=""}}Its combination of fluid movement{{delay20}} and clockwork timing{{delay20}} is {{delay20}}hypnotic
-to observe.{{pageBreak}}
-{{anim:AbsentMindedness target="actor" targetSpec=""}}Cu{{string:Dots}}{{delay20}}
-I'm mesmerized by the thought alone{{string:Dots}}{{delay20}}
+{{anim:FaintSmile target="actor" targetSpec=""}}A pesar de su apariencia rígida, {{delay8}}el {{color id="1"}}zumbínida{{color id="-1"}} es todo un contorsionista.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Es capaz de doblarse y retorcerse siguiendo ritmos precisos.{{pageBreak}}
+{{string:Dots}}Y{{delay20}}{{anim:WrySmile target="actor" targetSpec=""}}no es tan aterrador como suena.{{10:4}}{{delay8}}
+{{anim:Negative target="actor" targetSpec=""}}El {{color id="1"}}zumbínida{{color id="-1"}} tiene una naturaleza {{delay8}}amable {{delay8}}y serena.{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}Su mezcla de movimientos fluidos{{delay20}} y precisión mecánica{{delay20}} resulta {{delay20}}hipnótica al observar.{{pageBreak}}
+{{anim:AbsentMindedness target="actor" targetSpec=""}}¡Cu!{{string:Dots}}{{delay20}} La sola idea me deja fascinado{{string:Dots}}{{delay20}}
 
 ---
 label: 120
 attribute: 0xAA020000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}The {{color id="1"}}thwopoid{{color id="-1"}} is notable for its exaggerated features.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Interestingly, {{delay8}}it seems to resemble the beached remains of a strange deep-sea fish.{{pageBreak}}
-{{anim:WrySmile target="actor" targetSpec=""}}Luckily,{{delay8}} its similarities end there.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}One distinct attribute of the {{color id="1"}}thwopoid{{color id="-1"}} is the soft, {{delay8}}stretchy material it is composed of.{{pageBreak}}
-{{anim:ShyBoy target="actor" targetSpec=""}}As odd as it feels to the touch,{{delay8}} this stretchiness is crucial to produce the gyroid's signature{{delay8}} "thwop."{{pageBreak}}
-{{anim:Silent target="actor" targetSpec=""}}Cu{{string:Dots}}when it comes to performance,{{delay8}} one thing is sure: The {{color id="1"}}thwopoid{{color id="-1"}}{{string:Dots}}{{delay20}}{{anim:Grin target="actor" targetSpec=""}}is no fish out of water.
+{{anim:Smiling target="actor" targetSpec=""}}El {{color id="1"}}flopoide{{color id="-1"}} destaca por sus rasgos exagerados.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Curiosamente, {{delay8}}parece recordar a los restos varados de un extraño pez abisal.{{pageBreak}}
+{{anim:WrySmile target="actor" targetSpec=""}}Por suerte,{{delay8}} ahí terminan las similitudes.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Una característica única del {{color id="1"}}flopoide{{color id="-1"}} es el material suave {{delay8}}y elástico del que está hecho.{{pageBreak}}
+{{anim:ShyBoy target="actor" targetSpec=""}}Aunque su tacto sea peculiar,{{delay8}} esa elasticidad es clave para crear su característico{{delay8}} "flop."{{pageBreak}}
+{{anim:Silent target="actor" targetSpec=""}}¡Cu!{{string:Dots}} En lo que respecta a sus actuaciones,{{delay8}} hay algo seguro:
+El {{color id="1"}}flopoide{{color id="-1"}}{{string:Dots}}{{delay20}}{{anim:Grin target="actor" targetSpec=""}}no es ningún pez fuera del agua.
 
 ---
 label: 121
 attribute: 0xAA020000
 ---
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}I hope you have had the pleasure of seeing a {{color id="1"}}rumbloid{{color id="-1"}} perform.{{pageBreak}}
-{{anim:Love target="actor" targetSpec=""}}It has a wonderful timbre{{delay8}} that is both sonorous {{delay8}}and melodic.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}Because of these attributes,{{delay8}} the {{color id="1"}}rumbloid{{color id="-1"}} plays well under any conditions. {{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}It's capable of grounding a performance {{delay20}}and adding depth to compositions.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}I find that the {{color id="1"}}rumbloid{{color id="-1"}} is at its strongest as a team player.
-
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Espero que hayas tenido el placer de ver actuar a una {{color id="1"}}tetracordia{{color id="-1"}}.{{pageBreak}}
+{{anim:Love target="actor" targetSpec=""}}Tiene un timbre maravilloso{{delay8}} que resulta tanto sonoro {{delay8}}como melódico.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Gracias a estas cualidades,{{delay8}} la {{color id="1"}}tetracordia{{color id="-1"}} suena bien en cualquier circunstancia.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Es capaz de dar estabilidad a una actuación {{delay20}}y aportar profundidad a las composiciones.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Descubro que la {{color id="1"}}tetracordia{{color id="-1"}} brilla especialmente cuando actúa en conjunto.
 
 ---
 label: 122
 attribute: 0x00000000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Cu{{string:Dots}}the {{color id="1"}}bendoid{{color id="-1"}} seems ironic {{delay8}}
-at first.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}While it resembles a castle turret,{{delay8}} 
-it appears to lack the solidity of such a structure.{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}It stands tall, but it remains flexible—{{delay20}}fluid and relaxed.{{pageBreak}}
-{{anim:Shocked target="actor" targetSpec=""}}Yet the {{color id="1"}}bendoid{{color id="-1"}} is incredibly strong at its core.{{pageBreak}}
-{{anim:Thinking target="actor" targetSpec=""}}Maybe it's an example for us to follow{{string:Dots}}{{pageBreak}}
-{{delay20}}{{anim:Negative target="actor" targetSpec=""}}{{pageBreak}}Strength doesn't {{delay8}}entail {{delay8}}rigidity.
-
+{{anim:Thinking target="actor" targetSpec=""}}¡Cu!{{string:Dots}} El {{color id="1"}}arcoviol{{color id="-1"}} parece irónico {{delay8}}al principio.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Aunque recuerda a una torre de castillo,{{delay8}} parece carecer de la solidez de tal estructura.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Se erige alto, pero sigue siendo flexible-{{delay20}}fluido y relajado.{{pageBreak}}
+{{anim:Shocked target="actor" targetSpec=""}}Sin embargo, el {{color id="1"}}arcoviol{{color id="-1"}} es increíblemente fuerte en su núcleo.{{pageBreak}}
+{{anim:Thinking target="actor" targetSpec=""}}Quizás sea un ejemplo que deberíamos seguir{{string:Dots}}{{pageBreak}}
+{{delay20}}{{anim:Negative target="actor" targetSpec=""}}{{pageBreak}}
+La fuerza no siempre {{delay8}}implica {{delay8}}rigidez.
 
 ---
 label: 123
 attribute: 0xAA020000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}Every gyroid is unique, and the {{color id="1"}}boomoid{{color id="-1"}} is no exception.{{pageBreak}}
-{{anim:Love target="actor" targetSpec=""}}It is adorned with an intricate display of beautiful markings.{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}From an initial glance, {{delay8}}these patterns may appear standard for every {{color id="1"}}boomoid{{color id="-1"}}.{{pageBreak}}
-{{anim:Thinking target="actor" targetSpec=""}}But, if you look {{delay8}}very,{{delay8}} very closely{{string:Dots}}you will find{{delay8}}{{anim:Eh target="actor" targetSpec=""}} subtle intricacies{{delay8}} unique to each one.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}I have yet to see two {{color id="1"}}boomoids{{color id="-1"}} that look exactly alike.
-
+{{anim:Nodding target="actor" targetSpec=""}}Cada giroide es único, y el {{color id="1"}}bomboina{{color id="-1"}} no es la excepción.{{pageBreak}}
+{{anim:Love target="actor" targetSpec=""}}Está decorado con un intrincado despliegue de bellos grabados.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}A simple vista, {{delay8}}estos patrones pueden parecer iguales en cada {{color id="1"}}bomboina{{color id="-1"}}.{{pageBreak}}
+{{anim:Thinking target="actor" targetSpec=""}}Pero si miras {{delay8}}muy,{{delay8}} muy de cerca{{string:Dots}}descubrirás{{delay8}}{{anim:Eh target="actor" targetSpec=""}} delicados matices{{delay8}} que hacen único a cada uno.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Aún no he visto dos {{color id="1"}}bomboinas{{color id="-1"}} que sean exactamente iguales.
 
 ---
 label: 124
 attribute: 0xAA020000
 ---
-{{anim:Explain target="actor" targetSpec=""}}The {{color id="1"}}bloopoid{{color id="-1"}} is closely related to the {{color id="1"}}bubbloid{{color id="-1"}}.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Instead of creating sounds by way of bubble formation, {{delay8}}it forms them silently before popping them. {{pageBreak}}
-{{anim:WrySmile target="actor" targetSpec=""}}I can only imagine this process is incredibly delicate. {{pageBreak}}
-{{anim:AbsentMindedness target="actor" targetSpec=""}}Cu{{string:Dots}}perhaps{{delay8}} it spins each bubble {{delay8}}like a bolt of cloth,{{delay8}} or engineers each with precise measurement.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Cu{{string:Dots}}{{delay20}}I suppose meticulous work is often the most worthwhile.
+{{anim:Explain target="actor" targetSpec=""}}El {{color id="1"}}hidroide{{color id="-1"}} está estrechamente relacionado con el {{color id="1"}}mirlitoide{{color id="-1"}}.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}En lugar de crear sonidos a través de la formación de burbujas, {{delay8}}las forma en silencio antes de hacerlas estallar.{{pageBreak}}
+{{anim:WrySmile target="actor" targetSpec=""}}Imagino que este proceso debe ser increíblemente delicado.{{pageBreak}}
+{{anim:AbsentMindedness target="actor" targetSpec=""}}¡Cu!{{string:Dots}}Quizás{{delay8}} hila cada burbuja como si fuese un rollo de tela,{{delay8}} o las fabrica con medidas precisas.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}¡Cu!{{string:Dots}}{{delay20}} Supongo que el trabajo meticuloso suele ser el más valioso.
 
 ---
 label: 125
 attribute: 0xAA020000
 ---
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}This gyroid sports an extraterrestrial look,{{delay8}} and has a wacky song and dance to boot.{{pageBreak}}
-{{anim:Smiling target="actor" targetSpec=""}}It sounds a little strange,{{delay8}} but it seems to have fun anyway, {{delay8}}{{anim:Laughing target="actor" targetSpec=""}}wiggling its arms around hilariously.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Despite its strange sound, {{delay8}}the {{color id="1"}}sproingoid{{color id="-1"}} is still well-loved for its playful spirit.
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Este giroide tiene un aspecto extraterrestre,{{delay8}} y además se marca bailes y canciones la mar de extravagantes.{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}Suena un poco extraño,{{delay8}} pero parece disfrutarlo igual, {{delay8}}{{anim:Laughing target="actor" targetSpec=""}}agitando los brazos con mucha gracia.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}A pesar de su sonido peculiar, {{delay8}}el {{color id="1"}}muelloide{{color id="-1"}} es muy querido por su espíritu juguetón.
 
 ---
 label: 126
 attribute: 0xAA020000
 ---
-{{anim:Sighing target="actor" targetSpec=""}}Cu{{string:Dots}}I have pitied {{color id="1"}}crumploids{{color id="-1"}}
-in the past.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}To produce their signature {{delay8}}"crunch,"{{delay8}} the lids of {{color id="1"}}crumploids{{color id="-1"}} compress their thin exteriors with astounding force.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Rest assured, though: {{delay20}}
-{{color id="1"}}crumploids{{color id="-1"}} are {{delay8}}"pre-crumpled"{{delay20}} when they initially grow.{{pageBreak}}
-{{anim:Smiling target="actor" targetSpec=""}}For a {{color id="1"}}crumploid{{color id="-1"}},{{delay8}} wrinkles are as natural{{delay8}} {{anim:Nodding target="actor" targetSpec=""}}as my feathers are to me.{{pageBreak}}Cu{{string:Dots}}all that to say:{{delay20}} {{anim:Negative target="actor" targetSpec=""}}don't judge a gyroid by its looks.{{10:4}}{{delay8}}{{anim:Eh target="actor" targetSpec=""}}{{delay20}}
-Or anyone,{{delay8}} for that matter!
+{{anim:Sighing target="actor" targetSpec=""}}¡Cu!{{string:Dots}} He sentido lástima por los {{color id="1"}}arrugandia{{color id="-1"}} en el pasado.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Para producir su característico {{delay8}}"crunch",{{delay8}} las tapas de los {{color id="1"}}arrugandia{{color id="-1"}} comprimen sus finos exteriores con una fuerza asombrosa.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Pero que no cunda el pánico: {{delay20}}los {{color id="1"}}arrugandia{{color id="-1"}} vienen {{delay8}}"pre-arrugados"{{delay20}} desde que empiezan a crecer.{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}Para un {{color id="1"}}arrugandia{{color id="-1"}},{{delay8}} las arrugas son tan naturales{{delay8}} {{anim:Nodding target="actor" targetSpec=""}}como mis plumas para mí.{{pageBreak}}
+¡Cu!{{string:Dots}} En resumen:{{delay20}} {{anim:Negative target="actor" targetSpec=""}}no juzgues a un giroide por su apariencia.{{10:4}}{{delay8}}{{anim:Eh target="actor" targetSpec=""}}{{delay20}}
+Ni a nadie, ya que estamos.
 
 ---
 label: 127
 attribute: 0xAA020000
 ---
-{{anim:WrySmile target="actor" targetSpec=""}}{{color id="1"}}Clatteroids{{color id="-1"}} are notoriously confusing to novice collectors,{{delay8}} because they often appear to be broken.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}In reality, the {{color id="1"}}clatteroid{{color id="-1"}}'s flexible,{{delay20}} thin core allows it to jolt without toppling,{{delay8}} even though it appears to.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}You can imagine it like a strong {{delay20}}noodle{{string:Dots}}{{delay40}}{{anim:WrySmile target="actor" targetSpec=""}}of sorts.{{pageBreak}}
-{{anim:Hello target="actor" targetSpec=""}}Isn't that fascinating?
+{{anim:WrySmile target="actor" targetSpec=""}}Los {{color id="1"}}castañoide{{color id="-1"}} suelen desconcertar a los coleccionistas novatos,{{delay8}} ya que a menudo parecen estar rotos.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}En realidad, el {{color id="1"}}castañoide{{color id="-1"}} tiene un núcleo delgado y flexible,{{delay20}} que le permite sacudirse sin caerse,{{delay8}} aunque parezca que va a hacerlo.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Puedes imaginarlo como una especie de {{delay20}}fideo resistente{{string:Dots}}{{delay40}}{{anim:WrySmile target="actor" targetSpec=""}}más o menos.{{pageBreak}}
+{{anim:Hello target="actor" targetSpec=""}}¿No te parece fascinante?
 
 ---
 label: 128
 attribute: 0x58080000
 ---
-{{anim:Aha target="actor" targetSpec=""}}It's one of my {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}brewstoids{{color id="-1"}}!
-
+{{anim:Aha target="actor" targetSpec=""}}¡Es uno de mis {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}figaroides{{color id="-1"}}!
 
 ---
 label: 128_1
 attribute: 0xCE080000
 ---
-{{anim:Worried target="actor" targetSpec=""}}Listen{{string:Dots}}I appreciate the gift, but this {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}brewstoid{{color id="-1"}} was meant for you.{{pageBreak}}
-{{anim:Smiling target="actor" targetSpec=""}}Cu{{string:Dots}}it is at least nice to see it again{{string:Dots}}{{pageBreak}}I suppose I can still tell you about it,{{anim:Apologize target="actor" targetSpec=""}} but you'll have to keep it.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}I've made quite a few of these {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}brewstoids{{color id="-1"}}, but this is one of only a few that was grown.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}You see, older gyroid types weren't grown like these new kinds you've been bringing me.{{pageBreak}}
-{{anim:ShyBoy target="actor" targetSpec=""}}In the past, my {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}brewstoids{{color id="-1"}} were merely gyroids I decorated and trained to play new sounds.{{pageBreak}}
-{{anim:Negative target="actor" targetSpec=""}}Unlike those, I grew this {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}brewstoid{{color id="-1"}}  from a modified {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}gyroid fragment{{color id="-1"}} with {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Blathers{{color id="-1"}}' help.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}For that reason, I consider these fragment-grown types of {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}brewstoids{{color id="-1"}}{{delay40}} "GMO's."{{pageBreak}}
-{{14:40 arg="0x250000CD43006F006F000E006E000000000020004900200063006F0069006E006500640020007400"}}Cu{{string:Dots}}I coined that acronym myself{{anim:BigSmile target="actor" targetSpec=""}}
-It stands for{{delay8}} "Gyrating Modified Object."
+{{anim:Worried target="actor" targetSpec=""}}Escucha{{string:Dots}}agradezco el regalo, pero este {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}figaroide{{color id="-1"}} era para ti.{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}¡Cu!{{string:Dots}}al menos es bonito volver a verlo{{string:Dots}}{{pageBreak}}Supongo que aún puedo contarte algo sobre él,{{anim:Apologize target="actor" targetSpec=""}} pero tendrás que quedártelo.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}He hecho bastantes de estos {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}figaroides{{color id="-1"}}, pero este es uno de los pocos que ha sido cultivado.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Verás, los tipos antiguos de giroide no se cultivaban como los nuevos que me has traído.{{pageBreak}}
+{{anim:ShyBoy target="actor" targetSpec=""}}Antes, mis {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}figaroides{{color id="-1"}} eran simplemente giroide que decoraba y entrenaba para tocar nuevos sonidos.{{pageBreak}}
+{{anim:Negative target="actor" targetSpec=""}}A diferencia de aquellos, este {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}figaroide{{color id="-1"}} lo cultivé a partir de un {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}fragmento de giroide{{color id="-1"}} modificado con la ayuda de {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Sócrates{{color id="-1"}}.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Por eso considero que estos {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}figaroides{{color id="-1"}} nacidos de fragmentos son {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}"OGM"{{color id="-1"}}.{{delay40}}{{pageBreak}}
+{{14:40 arg="0x250000CD43006F006F000E006E000000000020004900200063006F0069006E006500640020007400"}}¡Cu!{{string:Dots}}Ese acrónimo lo inventé yo mismo{{anim:BigSmile target="actor" targetSpec=""}}
+Significa{{delay8}} “Objeto Giratorio Modificado”.
 
 ---
 label: 128_2
 attribute: 0xFE090000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Anyhowplease take this back. {{anim:Nodding target="actor" targetSpec=""}}It's all yours,{{delay8}} {{string:PlayerName}}.
+{{anim:FaintSmile target="actor" targetSpec=""}}En fin, llévatelo contigo. {{anim:Nodding target="actor" targetSpec=""}}Es todo tuyo,{{delay8}} {{string:PlayerName}}.
 
 ---
 label: 128_3
 attribute: 0x780A0000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Feel free to bring me another one today, {{delay20}}if you'd like.
+{{anim:FaintSmile target="actor" targetSpec=""}}Siéntete libre de traerme otro hoy, {{delay20}}si así lo deseas.
 
 ---
 label: 128_4
 attribute: 0x00000000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Anyhow{{string:Dots}}please take this back{{string:Dots}}{{delay40}}{{anim:Grin target="actor" targetSpec=""}}
-for now, Cu.
+{{anim:FaintSmile target="actor" targetSpec=""}}En fin{{string:Dots}} llévate esto de nuevo{{string:Dots}}{{delay40}}{{anim:Grin target="actor" targetSpec=""}} por ahora, Cu.
 
 ---
 label: 129
 attribute: 0xAA020000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}The {{color id="1"}}scatteroid{{color id="-1"}} sure seems to know how to enjoy island life.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}With grassy getup and a funky shake, {{color id="1"}}scatteroids{{color id="-1"}} are pretty little dancers with a partying spirit.{{pageBreak}}
-{{anim:WrySmile target="actor" targetSpec=""}}It almost seems like their sounds are just an accidental result of dancing on-beat.{{pageBreak}}
-{{anim:QuestionMark target="actor" targetSpec=""}}But who can blame them?{{pageBreak}}
-{{anim:Thinking target="actor" targetSpec=""}}Cu{{string:Dots}}{{delay8}}maybe the {{color id="1"}}scatteroids{{color id="-1"}} aren't all dancing too much{{string:Dots}}{{delay20}}{{anim:Grin target="actor" targetSpec=""}} the rest of us just aren't dancing enough.
+{{anim:Smiling target="actor" targetSpec=""}}El {{color id="1"}}agitoide{{color id="-1"}} sí que sabe cómo disfrutar de la vida isleña.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Con su atuendo vegetal y ese meneíto funky, los {{color id="1"}}agitoides{{color id="-1"}} son bailarines preciosos con alma fiestera.{{pageBreak}}
+{{anim:WrySmile target="actor" targetSpec=""}}Casi parece que sus sonidos son el resultado accidental de moverse al ritmo.{{pageBreak}}
+{{anim:QuestionMark target="actor" targetSpec=""}}¿Pero quién podría reprochárselo?{{pageBreak}}
+{{anim:Thinking target="actor" targetSpec=""}}¡Cu!{{string:Dots}}{{delay8}}Tal vez los {{color id="1"}}agitoides{{color id="-1"}} no estén bailando demasiado{{string:Dots}}{{delay20}}{{anim:Grin target="actor" targetSpec=""}} sino que el resto no estamos bailando lo suficiente.
 
 ---
 label: 130
 attribute: 0xAA020000
 ---
-{{anim:WrySmile target="actor" targetSpec=""}}On first encounter, the {{color id="1"}}spikenoid{{color id="-1"}} may come across as somewhat {{delay20}}imposing.{{pageBreak}}
-{{anim:ShyBoy target="actor" targetSpec=""}}Considering the namesake bristles that cover it,{{delay20}}{{anim:Negative target="actor" targetSpec=""}} caution is not unwarranted.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}Each spike has a small hole at the end that the {{color id="1"}}spikenoid{{color id="-1"}} pushes air through.{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}This creates an abrasive sound,{{anim:IdeaBulb target="actor" targetSpec=""}} similar to a kazoo. {{pageBreak}}
-{{anim:FaintSmile target="actor" targetSpec=""}}It may relieve you to know{{string:Dots}}
-these spines are completely soft to the touch.{{pageBreak}}But{{string:Dots}}I understand if you still wish to handle these gyroids with care.
-
+{{anim:WrySmile target="actor" targetSpec=""}}Al encontrarse con el {{color id="1"}}pinchoide{{color id="-1"}}, puede parecer {{delay20}}algo intimidante.{{pageBreak}}
+{{anim:ShyBoy target="actor" targetSpec=""}}Teniendo en cuenta las púas que le dan nombre,{{delay20}}{{anim:Negative target="actor" targetSpec=""}} no está de más ser cauteloso.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Cada espina tiene un pequeño orificio en su extremo por el que el {{color id="1"}}pinchoide{{color id="-1"}} expulsa aire.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Esto genera un sonido áspero,{{anim:IdeaBulb target="actor" targetSpec=""}} parecido al de un kazoo.{{pageBreak}}
+{{anim:FaintSmile target="actor" targetSpec=""}}Te tranquilizará saber{{string:Dots}} que esas púas son completamente suaves al tacto.{{pageBreak}}
+Pero{{string:Dots}}entiendo si prefieres manejar a estos giroide con cierto cuidado.
 
 ---
 label: 131
 attribute: 0xAA020000
 ---
-{{anim:ShyBoy target="actor" targetSpec=""}}You might have noticed that the {{color id="1"}}squeezoid{{color id="-1"}} is embedded with{{delay8}}
-web-like markings.{{pageBreak}}
-{{anim:Worried target="actor" targetSpec=""}}This gives it the appearance of being damaged,{{delay8}} or even shattered.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Luckily{{string:Dots}}{{delay20}}this gyroid is actually in{{anim:Smiling target="actor" targetSpec=""}} perfect condition:{{delay20}} prized {{color id="1"}}squeezoids{{color id="-1"}} are covered with these marks.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}The {{color id="1"}}squeezoid{{color id="-1"}} is pliable,{{delay8}} loving nothing more than to twist and{{string:Dots}}{{delay8}}{{anim:ShyBoy target="actor" targetSpec=""}}well, {{delay20}}{{size value="60"}}{{delay8}}squeeze{{delay40}}{{size value="100"}} into all sorts of shapes.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}These lines that adorn it are less like scars,{{delay8}} and more like calluses.{{pageBreak}}Essentially{{string:Dots}}there's no {{anim:Smiling target="actor" targetSpec=""}}need to worry about this {{color id="1"}}squeezoid{{color id="-1"}}'s markings.
+{{anim:ShyBoy target="actor" targetSpec=""}}Puede que hayas notado que el {{color id="1"}}gomicoida{{color id="-1"}} tiene marcas similares a telarañas.{{delay8}}{{pageBreak}}
+{{anim:Worried target="actor" targetSpec=""}}Esto le da la apariencia de estar dañado,{{delay8}} o incluso agrietado.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Por suerte{{string:Dots}}{{delay20}}este giroide está en{{anim:Smiling target="actor" targetSpec=""}} perfecto estado:{{delay20}} los {{color id="1"}}gomicoidas{{color id="-1"}} más valorados están cubiertos de estas marcas.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}El {{color id="1"}}gomicoida{{color id="-1"}} es muy flexible,{{delay8}} y no hay nada que disfrute más que retorcerse y{{string:Dots}}{{delay8}}{{anim:ShyBoy target="actor" targetSpec=""}}bueno, {{delay20}}{{size value="60"}}{{delay8}}apretujarse{{delay40}}{{size value="100"}} en todo tipo de formas.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Estas líneas que lo adornan se parecen más a callos que a cicatrices.{{delay8}}{{pageBreak}}
+En resumen{{string:Dots}}no hay {{anim:Smiling target="actor" targetSpec=""}}nada de qué preocuparse por las marcas del {{color id="1"}}gomicoida{{color id="-1"}}.
 
 ---
 label: 132
 attribute: 0xAA020000
 ---
-{{color id="1"}}{{anim:Nodding target="actor" targetSpec=""}}Flutteroids{{color id="-1"}} are often considered the {{color id="1"}}squeakoids{{color id="-1"}} of percussion.{{pageBreak}}
-{{anim:Thinking target="actor" targetSpec=""}}Perhaps it isn't a coincidence that the two of them are often considered to be among the cutest types.{{pageBreak}}
-{{anim:ShyBoy target="actor" targetSpec=""}}I myself {{delay20}}am subscribed to the theory that {{color id="1"}}flutteroids{{color id="-1"}} are a close relative of {{color id="1"}}squeakoids{{color id="-1"}}.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}It's been speculated that a small mutation makes some {{color id="1"}}squeakoid{{color id="-1"}} fragments develop into {{color id="1"}}flutteroids{{color id="-1"}}.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Cu{{string:Dots}}sometimes the smallest changes{{delay20}} have the most influence.
+{{color id="1"}}{{anim:Nodding target="actor" targetSpec=""}}Los {{color id="1"}}aletensoides{{color id="-1"}} suelen considerarse como los {{color id="1"}}estrujónidos{{color id="-1"}} del mundo de la percusión.{{pageBreak}}
+{{anim:Thinking target="actor" targetSpec=""}}Quizás no sea coincidencia que ambos se consideren entre los giroide más adorables.{{pageBreak}}
+{{anim:ShyBoy target="actor" targetSpec=""}}Yo mismo {{delay20}}me inclino por la teoría de que los {{color id="1"}}aletensoide{{color id="-1"}} son parientes cercanos de los {{color id="1"}}estrujónidos{{color id="-1"}}.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Se especula que una pequeña mutación hace que algunos fragmentos de {{color id="1"}}estrujónido{{color id="-1"}} evolucionen en {{color id="1"}}aletensoide{{color id="-1"}}.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}¡Cu!{{string:Dots}} A veces los cambios más diminutos{{delay20}} tienen la mayor influencia.
 
 ---
 label: 133
 attribute: 0xAA020000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}The {{color id="1"}}boioingoid{{color id="-1"}} has a false "face" structure protruding from its front.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}In reality, this face composes the musical toolkit with which this gyroid makes its song.{{pageBreak}}Cu{{string:Dots}}could we learn from{{anim:QuestionMark target="actor" targetSpec=""}} the {{color id="1"}}boioingoid{{color id="-1"}}?{{10:4}}{{delay8}}{{anim:Thinking target="actor" targetSpec=""}} Perhaps disguise can be an adequate means to an end.
+{{anim:Nodding target="actor" targetSpec=""}}El {{color id="1"}}vibroide{{color id="-1"}} tiene una falsa estructura de "rostro" que sobresale en su parte frontal.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}En realidad, ese rostro es el conjunto de herramientas musicales con las que este giroide compone su canción.{{pageBreak}}
+¡Cu!{{string:Dots}}¿podríamos aprender algo del {{color id="1"}}vibroide{{color id="-1"}}?{{10:4}}{{delay8}}
+{{anim:Thinking target="actor" targetSpec=""}} Quizás el disfraz sea una forma válida de alcanzar un objetivo.
 
 ---
 label: 134
 attribute: 0xAA020000
 ---
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}When I first came across the {{color id="1"}}stelloid{{color id="-1"}}{{string:Dots}}I was taken aback by its many{{delay20}}{{anim:ShyBoy target="actor" targetSpec=""}} oddities.{{delay20}}{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}It produces a peculiar sound, 
-{{delay8}}one that warps {{delay20}}and echoes around the room.{{pageBreak}}
-{{anim:WrySmile target="actor" targetSpec=""}}It even achieves this through its own unusual way of movement.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}If you observe it in motion,{{delay8}} you can see this correlation for yourself.{{pageBreak}}
-{{anim:Smiling target="actor" targetSpec=""}}Cu{{string:Dots}}they say that you never know what you might see when you meet a new gyroid.{{pageBreak}}
-{{anim:Thinking target="actor" targetSpec=""}}Even so{{string:Dots}}something about the {{color id="1"}}stelloid{{color id="-1"}} still feels{{string:Dots}}{{delay20}}otherworldly{{delay20}}
-to me{{string:Dots}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}La primera vez que me encontré con el {{color id="1"}}reverberoide{{color id="-1"}}{{string:Dots}}me dejó descolocado por sus muchas{{delay20}}{{anim:ShyBoy target="actor" targetSpec=""}} rarezas.{{delay20}}{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Emite un sonido peculiar, {{delay8}}que se distorsiona {{delay20}}y resuena por toda la sala.{{pageBreak}}
+{{anim:WrySmile target="actor" targetSpec=""}}Y lo hace a través de una forma de moverse realmente inusual.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Si lo observas en movimiento,{{delay8}} verás por ti mismo esta correlación.{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}¡Cu!{{string:Dots}}Dicen que nunca sabes qué te espera cuando conoces a un giroide nuevo.{{pageBreak}}
+{{anim:Thinking target="actor" targetSpec=""}}Aun así{{string:Dots}}hay algo en el {{color id="1"}}reverberoide{{color id="-1"}} que sigue pareciéndome {{string:Dots}}{{delay20}}de otro mundo.{{delay20}}
 
 ---
 label: 135
 attribute: 0xAA020000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}{{color id="1"}}Jingloids{{color id="-1"}} are some of the most fashionable gyroids.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}Sparkly adornments cover both their base and head.{{pageBreak}}
-{{anim:Negative target="actor" targetSpec=""}}But the {{color id="1"}}jingloid{{color id="-1"}}'s sparkle isn't just for show.{{pageBreak}}
-{{anim:HappyFlower target="actor" targetSpec=""}}These little pieces create the 
-iconic{{delay8}} "jingle" that these gyroids are named for.{{pageBreak}}
-{{anim:Smiling target="actor" targetSpec=""}}Why choose between fashion and practicality?{{delay40}} The {{color id="1"}}jingloid{{color id="-1"}} gets the best of both worlds.
+{{anim:Nodding target="actor" targetSpec=""}}Los {{color id="1"}}cascabela{{color id="-1"}} están entre los giroide más elegantes y estilosos.{{pageBreak}}
+{{anim:Explain target="actor" targetSpec=""}}Brillantes adornos cubren tanto su base como su cabeza.{{pageBreak}}
+{{anim:Negative target="actor" targetSpec=""}}Pero el brillo del {{color id="1"}}cascabela{{color id="-1"}} no es solo apariencia.{{pageBreak}}
+{{anim:HappyFlower target="actor" targetSpec=""}}Estas pequeñas piezas generan el característico{{delay8}} "tintineo" que le da nombre a estos giroide.{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}¿Por qué elegir entre moda y funcionalidad?{{delay40}} El {{color id="1"}}cascabela{{color id="-1"}} lo tiene todo.
 
 ---
 label: 136
 attribute: 0xAA020000
 ---
-{{anim:Explain target="actor" targetSpec=""}}The {{color id="1"}}rattloid{{color id="-1"}} produces its sound 
-by manipulating the environment 
-around it.{{pageBreak}}
-{{anim:Thinking target="actor" targetSpec=""}}If you look closely,{{delay8}} you might be able to see a small object clattering within it.{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}Some speculation exists on how {{color id="1"}}rattloids{{color id="-1"}} obtain their instruments.{{pageBreak}}
-{{anim:AbsentMindedness target="actor" targetSpec=""}}Perhaps it's similar to an oyster and its pearl{{string:Dots}}{{delay20}}refining surrounding irritants{{delay20}} into a treat for the senses.{{pageBreak}}Cu{{string:Dots}}{{anim:Silent target="actor" targetSpec=""}}just one thing is for certain.{{pageBreak}}The {{color id="1"}}rattloid{{color id="-1"}}{{string:Dots}}{{delay20}}{{anim:Negative target="actor" targetSpec=""}}would make a{{delay8}} poor {{delay20}}piggy bank.
+{{anim:Explain target="actor" targetSpec=""}}El {{color id="1"}}cacharroide{{color id="-1"}} genera su sonido manipulando el entorno que lo rodea.{{pageBreak}}
+{{anim:Thinking target="actor" targetSpec=""}}Si observas con atención,{{delay8}} quizá puedas ver un pequeño objeto golpeando en su interior.{{pageBreak}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Se especula mucho sobre cómo los {{color id="1"}}cacharroide{{color id="-1"}} consiguen sus instrumentos.{{pageBreak}}
+{{anim:AbsentMindedness target="actor" targetSpec=""}}Tal vez sea como una ostra y su perla{{string:Dots}}{{delay20}}refinando irritantes del entorno{{delay20}} en un regalo para los sentidos.{{pageBreak}}
+¡Cu!{{string:Dots}}{{anim:Silent target="actor" targetSpec=""}}solo hay algo que podemos afirmar con certeza.{{pageBreak}}
+El {{color id="1"}}cacharroide{{color id="-1"}}{{string:Dots}}{{delay20}}{{anim:Negative target="actor" targetSpec=""}}no serviría como una{{delay8}} buena {{delay20}}alcancía.
 
 ---
 label: 098
 attribute: 0x0E030000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}Plant it in the ground. Give it some
-water and some time.{{delay20}} It will grow up
-strong the next day{{string:Dots}}{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Gyroids take root fast{{delay20}} when you
-return them to the ground.
+{{anim:Nodding target="actor" targetSpec=""}}Plántalo en la tierra. Dale algo de agua y algo de tiempo.{{delay20}} Crecerá fuerte al día siguiente{{string:Dots}}{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Los giroides echan raíces rápido{{delay20}} cuando los devuelves al suelo.
 
 ---
 label: 029
 attribute: 0x50030000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}It's a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}silver nugget{{color id="-1"}}.
+{{anim:Smiling target="actor" targetSpec=""}}Es una {{wordInfo gender="0" indefArticle="1" defArticle="3"}}{{color id="1"}}pepita de plata{{color id="-1"}}.
 
 ---
 label: 028
 attribute: 0x7E030000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Cu{{string:Dots}}let's see{{string:Dots}}
+{{anim:Thinking target="actor" targetSpec=""}}Cu{{string:Dots}} vamos a ver{{string:Dots}}
 
 ---
 label: 029_1
 attribute: 0xFE030000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}It's a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}ruby{{color id="-1"}},
+{{anim:Smiling target="actor" targetSpec=""}}Es un {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}rubí{{color id="-1"}},
 
 ---
 label: 029_2
 attribute: 0x7C040000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}It's a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sapphire{{color id="-1"}}.
+{{anim:Smiling target="actor" targetSpec=""}}Es un {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}zafiro{{color id="-1"}}.
 
 ---
 label: 029_3
 attribute: 0xC4040000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}It's an {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}emerald{{color id="-1"}},
+{{anim:Smiling target="actor" targetSpec=""}}Es una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}esmeralda{{color id="-1"}},
 
 ---
 label: 029_4
 attribute: 0xFA040000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}It's an {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}amethyst{{color id="-1"}},
+{{anim:Smiling target="actor" targetSpec=""}}Es una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}amatista{{color id="-1"}},
 
 ---
 label: 031_1
 attribute: 0x00000000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}I have good news for you.{{delay20}} {{anim:Explain target="actor" targetSpec=""}}One of my regulars, {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Don{{color id="-1"}}, told me he recently got back into {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}digging underground{{color id="-1"}}.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Well, {{delay8}}he had several {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}gemstones and rare ores{{color id="-1"}}, and I allowed him to purchase his coffee with them.
+{{anim:FaintSmile target="actor" targetSpec=""}}Tengo buenas noticias para ti.{{delay20}}
+{{anim:Explain target="actor" targetSpec=""}}Uno de mis clientes habituales, {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Rese T{{color id="-1"}}, me contó que últimamente ha vuelto a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}excavar bajo tierra{{color id="-1"}}.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Bueno, {{delay8}}tenía varias {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}gemas y minerales raros{{color id="-1"}}, y le permití pagar su café con ellos.
 
 ---
 label: 031_2
 attribute: 0x00000000
 ---
-I've been meaning to tell you{{string:Dots}}
+He querido decirte esto desde hace tiempo{{string:Dots}}
 
 ---
 label: 031_3
 attribute: 0x00000000
 ---
-{{anim:ShyBoy target="actor" targetSpec=""}}Cu{{string:Dots}}regardless{{string:Dots}}{{pageBreak}}
-{{anim:FaintSmile target="actor" targetSpec=""}}Last time you gave me a gyroid, {{anim:Worried target="actor" targetSpec=""}}I had nothing, save for a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}takeout coffee{{color id="-1"}}, to give you in return. {{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}I hope that these {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}rare stones{{color id="-1"}} I mentioned will incentivize you to continue bringing me gyroids.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}I'll let you know if arrangements change, but I think we can count on {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Don{{color id="-1"}} to continue supplying them.
+{{anim:ShyBoy target="actor" targetSpec=""}}¡Cu!{{string:Dots}}sea como sea{{string:Dots}}{{pageBreak}}
+{{anim:FaintSmile target="actor" targetSpec=""}}La última vez que me diste un giroide, {{anim:Worried target="actor" targetSpec=""}}no tenía nada, salvo un {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}café para llevar{{color id="-1"}}, para darte a cambio.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Espero que estas {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}piedras raras{{color id="-1"}} que mencioné, te animen a seguir trayéndome giroides.{{pageBreak}}
+{{anim:Nodding target="actor" targetSpec=""}}Te avisaré si cambia algo, pero creo que podemos contar con {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Rese T{{color id="-1"}} para seguir suministrándolas.
 
 ---
 label: 031_4
 attribute: 0xDA050000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}So{{string:Dots}}here's the first of them for you
+{{anim:FaintSmile target="actor" targetSpec=""}}Entonces{{string:Dots}}aquí está el primero para tí
 
 ---
 label: 031_5
 attribute: 0x2A060000
 ---
-{{string:Dots}}Please, don't let this be the last time I give you one. And{{string:Dots}}thank you for your kindness.
+{{string:Dots}}Por favor, que este no sea el último que te doy. Y{{string:Dots}}gracias por tu amabilidad.
 
 ---
 label: 041
 attribute: 0xCC060000
 ---
-{{anim:Worried target="actor" targetSpec=""}}{{string:Dots}}You deserve something special, but{{string:Dots}}I'm {{anim:Sighing target="actor" targetSpec=""}}afraid I have nothing much to give you.
+{{anim:Worried target="actor" targetSpec=""}}{{string:Dots}}Mereces algo especial, pero{{string:Dots}}me temo que no tengo mucho para darte.{{anim:Sighing target="actor" targetSpec=""}}
 
 ---
 label: 200
@@ -793,280 +755,279 @@ attribute: 0x60070000
 label: 203
 attribute: 0x8A070000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}It certainly has a nice, wintry sound, befitting of this beautiful season.
+{{anim:Smiling target="actor" targetSpec=""}}Tiene sin duda un sonido invernal encantador, apropiado para esta hermosa estación.
 
 ---
 label: 203_1
 attribute: 0xE4070000
 ---
-{{anim:AbsentMindedness target="actor" targetSpec=""}}It reminds me of wintertime, too. How lovely.
+{{anim:AbsentMindedness target="actor" targetSpec=""}}También me recuerda al invierno. Qué bonito.
 
 ---
 label: 203_2
 attribute: 0x02080000
 ---
-{{anim:Love target="actor" targetSpec=""}}On a special day like todaysuch a wintry gyroid is certainly felicitous {{anim:Nodding target="actor" targetSpec=""}}It makes for a great present, too.{{pageBreak}}
-{{anim:FaintSmile target="actor" targetSpec=""}}Cu{{anim:HappyFlower target="actor" targetSpec=""}}thank you, {{delay8}}{{string:PlayerName}}.
+{{anim:Love target="actor" targetSpec=""}}En un día especial como hoy, un giroide tan invernal es sin duda afortunado. {{anim:Nodding target="actor" targetSpec=""}}Además, es un regalo fantástico.{{pageBreak}}
+{{anim:FaintSmile target="actor" targetSpec=""}}Cu{{anim:HappyFlower target="actor" targetSpec=""}}gracias, {{delay8}}{{string:PlayerName}}.
 
 ---
 label: 203_3
 attribute: 0x22080000
 ---
-{{anim:HappyDance target="actor" targetSpec=""}}Cuthis gyroid's wintry temperament makes me so excited me for Toy Day tomorrow.
+{{anim:HappyDance target="actor" targetSpec=""}}Cu, El temperamento invernal de este giroide me tiene emocionado por el Día del Juguete mañana.
 
 ---
 label: 035_1
 attribute: 0x440A0000
 ---
-{{string:Dots}}{{anim:IdeaBulb target="actor" targetSpec=""}}Let me make you a coffee, on the house.
+{{string:Dots}}{{anim:IdeaBulb target="actor" targetSpec=""}}Déjame prepararte un café, por cuenta de la casa.
 
 ---
 label: 035_2
 attribute: 0x780A0000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}{{string:PlayerName}}{{string:Dots}}{{pageBreak}}This {{color id="1"}}{{125:0 arg="0x0000"}}{{color id="-1"}} has absorbed my attention for the day{{string:Dots}}but if you'll bring more gyroids another day{{string:Dots}}{{pageBreak}}I'll do my best to have a better {{color id="1"}}reward{{color id="-1"}} ready for you next time.{{pageBreak}}Cu{{string:Dots}}
-so please{{delay20}} bring more sometime.{{delay40}}
-Thanks again.
+{{anim:FaintSmile target="actor" targetSpec=""}}{{string:PlayerName}}{{string:Dots}}{{pageBreak}}Este {{color id="1"}}{{125:0 arg="0x0000"}}{{color id="-1"}} ha captado toda mi atención hoy{{string:Dots}}pero si me traes más giroides otro día{{string:Dots}}{{pageBreak}}haré lo posible por tener una mejor {{color id="1"}}recompensa{{color id="-1"}} preparada para ti la próxima vez.{{pageBreak}}Cu{{string:Dots}}
+así que por favor{{delay20}} tráeme más en algún momento.{{delay40}}
+Gracias nuevamente.
 
 ---
 label: 203_8
 attribute: 0xAA0A0000
 ---
-{{anim:Silent target="actor" targetSpec=""}}Please don't forget to bring me a Toy Day gift.{{pageBreak}}Idon't {{anim:Nodding target="actor" targetSpec=""}}really like wrapping paper, though, so there's no need to bother with it.
-
+{{anim:Silent target="actor" targetSpec=""}}Por favor, no olvides traerme un regalo del Día del Juguete.{{pageBreak}}No {{anim:Nodding target="actor" targetSpec=""}}me gusta mucho el papel de regalo, así que no hace falta molestarse con eso.
 
 ---
 label: 203_9
 attribute: 0xD40A0000
 ---
-{{anim:ShyBoy target="actor" targetSpec=""}}Speaking of which
+{{anim:ShyBoy target="actor" targetSpec=""}}Hablando de eso…
 
 ---
 label: 203_4
 attribute: 0xEE0A0000
 ---
-{{anim:Shocked target="actor" targetSpec=""}}And Toy Day is in less than a week!
+{{anim:Shocked target="actor" targetSpec=""}}¡Y el Día del Juguete es en menos de una semana!
 
 ---
 label: 203_5
 attribute: 0xD40B0000
 ---
-{{anim:Shocked target="actor" targetSpec=""}}And Toy Day's just a week away!
+{{anim:Shocked target="actor" targetSpec=""}}¡Y el Día del Juguete está a solo una semana!
 
 ---
 label: 203_6
 attribute: 0x1A0C0000
 ---
-{{anim:Sighing target="actor" targetSpec=""}}Cu and that wonderful winter spirit makes me miss Toy Day already
+{{anim:Sighing target="actor" targetSpec=""}}Cu, ese maravilloso espíritu invernal me hace extrañar el Día del Juguete ya...
 
 ---
 label: 203_7
 attribute: 0x300C0000
 ---
-{{anim:Shocked target="actor" targetSpec=""}}And Toy Day's coming up this month too!
+{{anim:Shocked target="actor" targetSpec=""}}¡Y también llega este mes el Día del Juguete!
 
 ---
 label: 203_0
 attribute: 0xE40C0000
 ---
-{{anim:ShyBoy target="actor" targetSpec=""}}I know I've already reminded you, but
+{{anim:ShyBoy target="actor" targetSpec=""}}Sé que ya te lo he recordado, pero...
 
 ---
 label: 204
 attribute: 0xAE0D0000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hold onI think you deserve something extra today.
+{{anim:Thinking target="actor" targetSpec=""}}Espera, creo que hoy mereces algo extra.
 
 ---
 label: 205
 attribute: 0xF40D0000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}It's another {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}precious stone{{color id="-1"}} I saved just for you.{{pageBreak}}
-{{anim:Smiling target="actor" targetSpec=""}}Cu{{anim:BigSmile target="actor" targetSpec=""}}happy Toy Day, {{delay8}}{{string:PlayerName}}.
+{{anim:Nodding target="actor" targetSpec=""}}Es otra {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}piedra preciosa{{color id="-1"}} que guardé solo para ti.{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}Cu{{anim:BigSmile target="actor" targetSpec=""}}¡feliz Día del Juguete, {{delay8}}{{string:PlayerName}}!
 
 ---
 label: 2505_0
 attribute: 0x320E0000
 ---
-{{anim:ShyBoy target="actor" targetSpec=""}}I probably shouldn't give you this, but {{anim:Nodding target="actor" targetSpec=""}}I think you deserve a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}gold nugget{{color id="-1"}} in return.
-
+{{anim:ShyBoy target="actor" targetSpec=""}}Probablemente no debería darte esto, pero {{anim:Nodding target="actor" targetSpec=""}}creo que mereces una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}pepita de oro{{color id="-1"}} a cambio.
 
 ---
 label: 2505
 attribute: 0xEE0F0000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Please take this{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}gold nugget{{color id="-1"}} in return.
+{{anim:FaintSmile target="actor" targetSpec=""}}Por favor, acepta esta {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}pepita de oro{{color id="-1"}} como agradecimiento.
 
 ---
 label: 2506
 attribute: 0x46100000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Today I have a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}silver nugget{{color id="-1"}} for you. Here.
+{{anim:FaintSmile target="actor" targetSpec=""}}Hoy tengo una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}pepita de plata{{color id="-1"}} para ti. Toma.
 
 ---
 label: 2506_0
 attribute: 0x46100000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}I think{{delay20}} a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}silver nugget{{color id="-1"}} will be an {{anim:Nodding target="actor" targetSpec=""}}appopriate gift in return.
+{{anim:FaintSmile target="actor" targetSpec=""}}Creo que{{delay20}} una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}pepita de plata{{color id="-1"}} será un {{anim:Nodding target="actor" targetSpec=""}}regalo apropiado en respuesta.
 
 ---
 label: 2506_01
 attribute: 0x46100000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}CuHere's a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}silver nugget{{color id="-1"}}{{delay20}} as a thank-you.
+{{anim:Nodding target="actor" targetSpec=""}}Cu, toma esta {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}pepita de plata{{color id="-1"}}{{delay20}} como muestra de agradecimiento.
 
 ---
 label: 2507
 attribute: 0x9C100000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Today I have a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}ruby{{color id="-1"}} for you. Here.
+{{anim:FaintSmile target="actor" targetSpec=""}}Hoy tengo un {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}rubí{{color id="-1"}} para ti. Toma.
 
 ---
 label: 2507_0
 attribute: 0x9C100000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}Please take this {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}ruby{{color id="-1"}} as thanks.
+{{anim:Nodding target="actor" targetSpec=""}}Por favor, acepta este {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}rubí{{color id="-1"}} como agradecimiento.
 
 ---
 label: 2507_01
 attribute: 0x9C100000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}As a thank-you, here's a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}ruby{{color id="-1"}}. {{delay20}}
-I hope you like it.
+{{anim:FaintSmile target="actor" targetSpec=""}}Como muestra de gratitud, aquí tienes un {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}rubí{{color id="-1"}}. {{delay20}}
+Espero que te guste.
 
 ---
 label: 2507_02
 attribute: 0x9C100000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Please take this {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}ruby{{color id="-1"}} in return.
+{{anim:FaintSmile target="actor" targetSpec=""}}Por favor, acepta este {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}rubí{{color id="-1"}} en señal de agradecimiento.
 
 ---
 label: 2507_03
 attribute: 0x9C100000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}I have a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}ruby{{color id="-1"}} for you today.{{delay20}}{{pageBreak}}
-{{anim:FaintSmile target="actor" targetSpec=""}}Cuapparently they're said {{delay8}}to contain the essence{{delay8}} of fire{{string:Dots}}{{delay20}}{{pageBreak}}
-{{string:Dots}}{{delay20}}{{anim:Negative target="actor" targetSpec=""}}But they feel cold to me.
+{{anim:FaintSmile target="actor" targetSpec=""}}Hoy tengo un {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}rubí{{color id="-1"}} para ti.{{delay20}}{{pageBreak}}
+{{anim:FaintSmile target="actor" targetSpec=""}}Cu, dicen que contienen la esencia{{delay8}} del fuego{{string:Dots}}{{delay20}}{{pageBreak}}
+{{string:Dots}}{{delay20}}{{anim:Negative target="actor" targetSpec=""}}Pero a mí me parecen fríos.
 
 ---
 label: 2508
 attribute: 0x00000000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Today I have a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sapphire{{color id="-1"}} for you. Here.
+{{anim:FaintSmile target="actor" targetSpec=""}}Hoy tengo un {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}zafiro{{color id="-1"}} para ti. Aquí tienes.
 
 ---
 label: 2508_0
 attribute: 0x00000000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Please take this{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sapphire{{color id="-1"}} as thanks. {{delay8}}I hope you can make good use of it.
+{{anim:FaintSmile target="actor" targetSpec=""}}Por favor, acepta este {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}zafiro{{color id="-1"}} como agradecimiento. {{delay8}}Espero que puedas darle buen uso.
 
 ---
 label: 2508_01
 attribute: 0x00000000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Please accept this {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sapphire{{color id="-1"}} as a thank-you for the gyroid you brought me.
+{{anim:FaintSmile target="actor" targetSpec=""}}Por favor, acepta este {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}zafiro{{color id="-1"}} como agradecimiento por el giroide que me trajiste.
 
 ---
 label: 2508_02
 attribute: 0x00000000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}I hope you'll enjoy a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sapphire{{color id="-1"}} in return.
+{{anim:FaintSmile target="actor" targetSpec=""}}Espero que disfrutes este {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}zafiro{{color id="-1"}} como recompensa.
 
 ---
 label: 2508_03
 attribute: 0x00000000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Here's a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sapphire{{color id="-1"}} for your efforts.
+{{anim:FaintSmile target="actor" targetSpec=""}}Aquí tienes un {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}zafiro{{color id="-1"}} por tus esfuerzos.
 
 ---
 label: 2509
 attribute: 0x5C120000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Today I have an {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}emerald{{color id="-1"}} for you. Here.
+{{anim:FaintSmile target="actor" targetSpec=""}}Hoy tengo una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}esmeralda{{color id="-1"}} para ti. Aquí tienes.
 
 ---
 label: 2509_0
 attribute: 0x5C120000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}An {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}emerald{{color id="-1"}} should suffice as thanks{{string:Dots}}for your trouble.
+{{anim:FaintSmile target="actor" targetSpec=""}}Una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}esmeralda{{color id="-1"}} debería bastar como agradecimiento{{string:Dots}}por tus molestias.
 
 ---
 label: 2509_01
 attribute: 0x5C120000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}As a thank-you, here's an {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}emerald{{color id="-1"}}{{delay20}}.{{pageBreak}}
-{{anim:Smiling target="actor" targetSpec=""}}Cu{{string:Dots}}{{delay20}}its green hue is so pleasing{{string:Dots}}
+{{anim:FaintSmile target="actor" targetSpec=""}}Como muestra de gratitud, aquí tienes una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}esmeralda{{color id="-1"}}{{delay20}}.{{pageBreak}}
+{{anim:Smiling target="actor" targetSpec=""}}Cu{{string:Dots}}{{delay20}}su tono verde es tan agradable{{string:Dots}}
 
 ---
 label: 2509_02
 attribute: 0x5C120000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Please take this {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}emerald{{color id="-1"}}.{{pageBreak}}
-{{string:Dots}}{{anim:FaintSmile target="actor" targetSpec=""}}I appreciate you{{string:Dots}}
+{{anim:FaintSmile target="actor" targetSpec=""}}Por favor, acepta esta {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}esmeralda{{color id="-1"}}.{{pageBreak}}
+{{string:Dots}}{{anim:FaintSmile target="actor" targetSpec=""}}Te lo agradezco{{string:Dots}}
 
 ---
 label: 2509_03
 attribute: 0x5C120000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}I hope you'll put this {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}emerald{{color id="-1"}} to good use, somehow.
+{{anim:FaintSmile target="actor" targetSpec=""}}Espero que encuentres una buena forma de usar esta {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}esmeralda{{color id="-1"}}.
 
 ---
 label: 2510
 attribute: 0xA0120000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Today I have an {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}amethyst{{color id="-1"}} for you. Here.
+{{anim:FaintSmile target="actor" targetSpec=""}}Hoy tengo una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}amatista{{color id="-1"}} para ti. Aquí tienes.
 
 ---
 label: 2510_0
 attribute: 0xA0120000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Please take this {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}amethyst{{color id="-1"}} in return.
+{{anim:FaintSmile target="actor" targetSpec=""}}Por favor, acepta esta {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}amatista{{color id="-1"}} como recompensa.
 
 ---
 label: 2510_01
 attribute: 0xA0120000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}An {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}amethyst{{color id="-1"}} should do as thanks, {{delay8}}for now{{string:Dots}}
+{{anim:FaintSmile target="actor" targetSpec=""}}Una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}amatista{{color id="-1"}} debería bastar como agradecimiento, {{delay8}}por ahora{{string:Dots}}
 
 ---
 label: 2510_02
 attribute: 0xA0120000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Please take this {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}amethyst{{color id="-1"}} {{delay20}}as my way of saying thanks.
+{{anim:FaintSmile target="actor" targetSpec=""}}Por favor, acepta esta {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}amatista{{color id="-1"}} {{delay20}}como muestra de gratitud.
 
 ---
 label: 2510_03
 attribute: 0xA0120000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Cu{{string:Dots}}{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}amethysts{{color id="-1"}} have such beautiful {{delay8}}lustre to them{{string:Dots}}{{pageBreak}}Please accept this one as a thank-you.
+{{anim:FaintSmile target="actor" targetSpec=""}}Cu{{string:Dots}}Las {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}amatistas{{color id="-1"}} tienen un {{delay8}}brillo tan hermoso{{string:Dots}}{{pageBreak}}
+Por favor, acepta esta como agradecimiento.
 
 ---
 label: 2505_02
 attribute: 0x34130000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}Please take this{{anim:Nodding target="actor" targetSpec=""}} a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}gold nugget{{color id="-1"}}.{{pageBreak}}
-{{string:Dots}}I hope you don't{{anim:Serious target="actor" targetSpec=""}} just sell these.
+{{anim:Smiling target="actor" targetSpec=""}}Por favor, acepta esto{{anim:Nodding target="actor" targetSpec=""}} una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}pepita de oro{{color id="-1"}}.{{pageBreak}}
+{{string:Dots}}Espero que no{{anim:Serious target="actor" targetSpec=""}} solo las vendas.
 
 ---
 label: 2505_03
 attribute: 0x82130000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Here's a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}gold nugget{{color id="-1"}} as a thank-you. {{anim:Nodding target="actor" targetSpec=""}}Try making something with it.
+{{anim:FaintSmile target="actor" targetSpec=""}}Aquí tienes una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}pepita de oro{{color id="-1"}} como agradecimiento. {{anim:Nodding target="actor" targetSpec=""}}Intenta crear algo con ella.
 
 ---
 label: 2506_03
 attribute: 0xD2130000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Please accept this {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}silver nugget{{color id="-1"}} as my way of saying thanks.
+{{anim:FaintSmile target="actor" targetSpec=""}}Por favor, acepta esta {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}pepita de plata{{color id="-1"}} como muestra de gratitud.
 
 ---
 label: 2506_02
 attribute: 0xFC150000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}I have a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}silver nugget{{color id="-1"}} for you,{{delay8}} as thanks.
+{{anim:FaintSmile target="actor" targetSpec=""}}Tengo una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}pepita de plata{{color id="-1"}} para ti,{{delay8}} como agradecimiento.
 
 ---
 label: 3000
 attribute: 0xFC150000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}{{string:Dots}}See you later.
+{{anim:FaintSmile target="actor" targetSpec=""}}{{string:Dots}}Nos vemos luego.
