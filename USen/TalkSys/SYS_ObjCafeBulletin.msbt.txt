@@ -1,0 +1,735 @@
+﻿%%%
+bigEndian: false
+version: 3
+encoding: utf-16
+hasNLI1: false
+hasLBL1: true
+labelGroups: 61
+hasATR1: true
+hasATO1: false
+hasTSY1: false
+hasTXTW: false
+%%%
+
+---
+label: 000
+attribute: 0x020018
+---
+There's a post titled 
+"Looking for Gyroids."{{pageBreak}}{{string:Dots}}It looks like {{color id="3"}}Brewster{{color id="-1"}} posted it.
+Should I read it?
+
+---
+label: 000_a
+attribute: 0x000000
+---
+Let's see...
+
+---
+label: 000_b
+attribute: 0x000000
+---
+Maybe later.
+
+---
+label: 100
+attribute: 0x020018
+---
+"Looking for Gyroids"
+{{pageBreak}}{{string:Dots}}Looks like the post is the same as it was last time I checked. {{delay20}}
+Should I re-read it?
+
+---
+label: 100_a
+attribute: 0x000000
+---
+Let's review.
+
+---
+label: 100_b
+attribute: 0x000000
+---
+I'm okay.
+
+---
+label: 200
+attribute: 0x020018
+---
+"Looking for Gyroids"
+{{pageBreak}}It seems like {{color id="3"}}Brewster{{color id="0"}} crossed the gyroid I gave him yesterday off of the post!{{pageBreak}}{{color id="-1"}}Should I check the remaining list?
+
+---
+label: 200_a
+attribute: 0x000000
+---
+Let's see...
+
+---
+label: 200_b
+attribute: 0x000000
+---
+Another time.
+
+---
+label: 300
+attribute: 0x020018
+---
+"Looking for Gyroids"
+{{pageBreak}}It seems like {{color id="3"}}Brewster{{color id="0"}} crossed the gyroids I've given him recently off of the post!{{pageBreak}}{{color id="-1"}}
+Should I check the remaining list?
+
+---
+label: 300_a
+attribute: 0x000000
+---
+Let's see...
+
+---
+label: 300_b
+attribute: 0x000000
+---
+Not right now.
+
+---
+label: 400
+attribute: 0x000018
+---
+{{color id="4"}}I am currently looking to acquire
+{{color id="1"}}{{90:1 arg="0x0000"}} {{color id="4"}}more {{grammaticalNumber arg="[0,0]" zero="types of gyroids" one="gyroid type" multiple="types of gyroids"}}.{{pageBreak}}{{grammaticalNumber arg="[0,0]" zero="The list is as follows:" one="Specifically, I'm looking for the..." multiple="The list is as follows:"}}
+------------------
+
+---
+label: 500
+attribute: 0x000018
+---
+{{color id="4"}}If you happen to find {{grammaticalNumber arg="[0,0]" zero="any of these" one="it" multiple="any of these"}}, please bring {{grammaticalNumber arg="[0,0]" zero="them" one="it" multiple="them"}} to me at the counter.{{pageBreak}}— {{color id="3"}}Brewster
+
+---
+label: 001
+attribute: 0x02001A
+---
+{{color id="1"}}Xylophoid
+
+---
+label: 001_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 001_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 002
+attribute: 0x02001A
+---
+{{color id="1"}}Babbloid
+
+---
+label: 002_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 002_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 003
+attribute: 0x02001A
+---
+{{color id="1"}}Arfoid
+
+---
+label: 003_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 003_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 004
+attribute: 0x02001A
+---
+{{color id="1"}}Whistloid
+
+---
+label: 004_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 004_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 005
+attribute: 0x02001A
+---
+{{color id="1"}}Bwongoid
+
+---
+label: 005_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 005_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 006
+attribute: 0x02001A
+---
+{{color id="1"}}Twangoid
+
+---
+label: 006_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 006_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 007
+attribute: 0x02001A
+---
+{{color id="1"}}Laseroid
+
+---
+label: 007_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 007_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 008
+attribute: 0x02001A
+---
+{{color id="1"}}Squeakoid
+
+---
+label: 008_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 008_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 009
+attribute: 0x02001A
+---
+{{color id="1"}}Tockoid
+
+---
+label: 009_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 009_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 010
+attribute: 0x02001A
+---
+{{color id="1"}}Ringoid
+
+---
+label: 010_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 010_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 011
+attribute: 0x02001A
+---
+{{color id="1"}}Oinkoid
+
+---
+label: 011_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 011_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 012
+attribute: 0x02001A
+---
+{{color id="1"}}Tremoloid
+
+---
+label: 012_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 012_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 013
+attribute: 0x02001A
+---
+{{color id="1"}}Bubbloid
+
+---
+label: 013_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 013_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 014
+attribute: 0x02001A
+---
+{{color id="1"}}Petaloid
+
+---
+label: 014_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 014_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 015
+attribute: 0x02001A
+---
+{{color id="1"}}Aluminoid
+
+---
+label: 015_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 015_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 016
+attribute: 0x02001A
+---
+{{color id="1"}}Wallopoid
+
+---
+label: 016_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 016_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 017
+attribute: 0x02001A
+---
+{{color id="1"}}Drummoid
+
+---
+label: 017_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 017_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 018
+attribute: 0x02001A
+---
+{{color id="1"}}Dootoid
+
+---
+label: 018_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 018_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 019
+attribute: 0x02001A
+---
+{{color id="1"}}Whirroid
+
+---
+label: 019_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 019_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 020
+attribute: 0x02001A
+---
+{{color id="1"}}Thwopoid
+
+---
+label: 020_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 020_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 021
+attribute: 0x02001A
+---
+{{color id="1"}}Rumbloid
+
+---
+label: 021_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 021_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 022
+attribute: 0x02001A
+---
+{{color id="1"}}Bendoid
+
+---
+label: 022_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 022_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 023
+attribute: 0x02001A
+---
+{{color id="1"}}Boomoid
+
+---
+label: 023_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 023_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 024
+attribute: 0x02001A
+---
+{{color id="1"}}Bloopoid
+
+---
+label: 024_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 024_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 025
+attribute: 0x02001A
+---
+{{color id="1"}}Sproingoid
+
+---
+label: 025_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 025_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 026
+attribute: 0x02001A
+---
+{{color id="1"}}Crumploid
+
+---
+label: 026_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 026_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 027
+attribute: 0x02001A
+---
+{{color id="1"}}Clatteroid
+
+---
+label: 027_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 027_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 029
+attribute: 0x02001A
+---
+{{color id="1"}}Scatteroid
+
+---
+label: 029_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 029_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 030
+attribute: 0x02001A
+---
+{{color id="1"}}Spikenoid
+
+---
+label: 030_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 030_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 031
+attribute: 0x02001A
+---
+{{color id="1"}}Squeezoid
+
+---
+label: 031_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 031_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 032
+attribute: 0x02001A
+---
+{{color id="1"}}Flutteroid
+
+---
+label: 032_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 032_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 033
+attribute: 0x02001A
+---
+{{color id="1"}}Boioingoid
+
+---
+label: 033_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 033_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 034
+attribute: 0x02001A
+---
+{{color id="1"}}Stelloid
+
+---
+label: 034_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 034_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 035
+attribute: 0x02001A
+---
+{{color id="1"}}Jingloid
+
+---
+label: 035_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 035_b
+attribute: 0x000000
+---
+Stop reading.
+
+---
+label: 036
+attribute: 0x02001A
+---
+{{color id="1"}}Rattloid
+
+---
+label: 036_a
+attribute: 0x000000
+---
+Continue reading.
+
+---
+label: 036_b
+attribute: 0x000000
+---
+Stop reading.

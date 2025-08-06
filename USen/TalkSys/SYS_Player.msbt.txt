@@ -1,7 +1,180 @@
 
 ---
+label: 290_04
+attribute: 0x000018
+---
+Aww...{{delay40}} 
+My {{color id="1"}}{{125:0 arg="0x0000"}}{{color id="-1"}} broke...
+
+---
+label: 290_05
+attribute: 0x000018
+---
+Phooey!{{delay40}} 
+There goes my {{color id="1"}}{{125:0 arg="0x0000"}}{{color id="-1"}} ...
+
+---
+label: 300
+attribute: 0x000018
+---
+{{anim:Thinking target="actor" targetSpec=""}}Hold on... {{delay20}}
+This fish isn't in my critterpedia app...
+
+---
+label: 301
+attribute: 0x000018
+---
+{{anim:IdeaBulb target="actor" targetSpec=""}}I made a new discovery!
+
+---
+label: 302
+attribute: 0x000018
+---
+{{anim:Thinking target="actor" targetSpec=""}}Hold on... {{delay20}}
+This bug isn't in my critterpedia app...
+
+---
+label: 303
+attribute: 0x000018
+---
+{{anim:Thinking target="actor" targetSpec=""}}Hold on... {{delay20}}
+This sea creature isn't in my critterpedia app...
+
+---
+label: 507_0_0
+attribute: 0x000018
+---
+{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}}I like the look of my {{delay8}}{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}flimsy fishing rods{{color id="-1"}}, but I wish they lasted longer!
+
+---
+label: 507_0_1
+attribute: 0x000018
+---
+{{anim:IdeaBulb target="actor" targetSpec=""}}EUREKA!! I just thought of a recipe for a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy fishing rod{{color id="-1"}}!
+
+---
+label: 507_1_0
+attribute: 0x000018
+---
+{{anim:Thinking target="actor" targetSpec=""}}{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Flimsy nets{{color id="-1"}} sure are rustic and cute, but they always break on me!
+
+---
+label: 507_1_1
+attribute: 0x000018
+---
+{{anim:IdeaBulb target="actor" targetSpec=""}}Of course! I should craft a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy net{{color id="-1"}} instead!
+
+---
+label: 507_2_0
+attribute: 0x000018
+---
+{{anim:Thinking target="actor" targetSpec=""}}I wish my {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}flimsy shovels{{color id="-1"}} weren't so{{string:Dots}}{{delay20}}flimsy{{string:Dots}}
+
+---
+label: 507_2_1
+attribute: 0x000018
+---
+{{anim:IdeaBulb target="actor" targetSpec=""}}I know! I'll try crafting a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy shovel{{color id="-1"}}!
+
+---
+label: 507_3_0
+attribute: 0x000018
+---
+{{anim:Thinking target="actor" targetSpec=""}}I wish I could have the natural aesthetic of {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}flimsy watering cans{{color id="-1"}} without them breaking{{string:Dots}}
+
+---
+label: 507_3_1
+attribute: 0x000018
+---
+{{anim:IdeaBulb target="actor" targetSpec=""}}That's it! I bet a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy watering can {{color id="-1"}}would do the trick!
+
+---
+label: 507_4_0
+attribute: 0x000018
+---
+{{anim:Thinking target="actor" targetSpec=""}}My {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}flimsy axes{{color id="-1"}} break WAY too often!
+
+---
+label: 507_4_1
+attribute: 0x000018
+---
+{{anim:IdeaBulb target="actor" targetSpec=""}}OH! Maybe I could craft a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy axe{{color id="-1"}} that'll last longer and look the same!
+
+---
+label: 529
+attribute: 0xABAB54
+---
+{{anim:IdeaBulb target="actor" targetSpec=""}}That's it!{{delay20}} I{{string:Dots}}I just came up with a 
+{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy axe{{color id="32"}}recipe￿!
+
+---
+label: 530
+attribute: 0x585432
+---
+{{anim:Thinking target="actor" targetSpec=""}}{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}flimsy axes{{color id="104"}}ave a nice aesthetic￿, but I wish they didn't break SO often {{string:Dots}}
+
+---
+label: 527
+attribute: 0xAACB00
+---
+{{anim:IdeaBulb target="actor" targetSpec=""}} {{string:Dots}}EUREKA!{{delay8}} I just thought of a recipe for a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy fishing rod{{color id="-1"}}!
+
+---
+label: 528
+attribute: 0x000000
+---
+{{anim:Thinking target="actor" targetSpec=""}}I like the look of my {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}flimsy fishing rods{{color id="-1"}}, but they always break on me!
+
+---
+label: 532
+attribute: 0x000000
+---
+{{anim:Thinking target="actor" targetSpec=""}} My {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}flimsy nets{{color id="97"}}re so cute￿! 
+It's a shame they're always so,
+uh {{string:Dots}}{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}flimsy{{color id="110" otherArg="0x000000000A000A000000"}}
+
+---
+label: 531
+attribute: 0x000000
+---
+{{anim:IdeaBulb target="actor" targetSpec=""}}Oh, I know!{{delay20}}I should try crafting a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy net{{color id="-1"}}!
+
+---
+label: 534
+attribute: 0x7D0100
+---
+{{anim:Thinking target="actor" targetSpec=""}}The rustic appearance of {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}flimsy shovels{{color id="-1"}} appeals to me, but crafting them
+over and over is a pain!
+
+
+---
+label: 533
+attribute: 0x00F805
+---
+{{anim:IdeaBulb target="actor" targetSpec=""}} {{string:Dots}}Of course!{{delay8}} I should start making {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy shovels{{color id="32"}}￿instead!
+
+---
+label: 536
+attribute: 0x000098
+---
+{{anim:Thinking target="actor" targetSpec=""}}The natural appearance of my {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}flimsy watering cans{{color id="-1"}} certainly shows off my green thumb, but I wish they could water more flowers at once{{string:Dots}}
+
+
+---
+label: 535
+attribute: 0x060000
+---
+{{anim:IdeaBulb target="actor" targetSpec=""}} {{string:Dots}}I've got it!{{delay8}} I bet a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy watering can{{color id="32"}}could do the trick￿!
+
+---
 label: 962
 attribute: 0x000018
 ---
 I learned a {{color id="1"}}special technique{{color id="-1"}}!{{delay frames="30"}}
 Now I can craft a whole lot of fish bait,{{delay8}} all at once!
+
+---
+label: 1506
+attribute: 0xAA0600
+---
+{{color id="3"}}Phineas {{color id="-1"}}is a genius!{{delay20}} I've just learned some {{color id="1"}}special balloon{{color id="-1"}} recipes!
