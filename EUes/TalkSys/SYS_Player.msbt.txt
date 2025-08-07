@@ -105,13 +105,13 @@ label: 529
 attribute: 0xABAB54
 ---
 {{anim:IdeaBulb target="actor" targetSpec=""}}¡Eso es!{{delay20}} Yo{{string:Dots}}¡Se me acaba de ocurrir una 
-{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}receta de hacha resistente{{color id="32"}}￿!
+{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}receta de hacha resistente{{color id="32"}}!
 
 ---
 label: 530
 attribute: 0x585432
 ---
-{{anim:Thinking target="actor" targetSpec=""}}{{color id="1"}}{{wordInfo gender="0" indefArticle="2" defArticle="3"}}Hachas endebles{{color id="104"}}tienen una estética bonita￿, pero ojalá no se rompieran TAN a menudo {{string:Dots}}
+{{anim:Thinking target="actor" targetSpec=""}}{{color id="1"}}{{wordInfo gender="0" indefArticle="2" defArticle="3"}}Hachas endebles{{color id="104"}}tienen una estética bonita, pero ojalá no se rompieran TAN a menudo {{string:Dots}}
 
 ---
 label: 527
@@ -129,7 +129,7 @@ attribute: 0x000000
 label: 532
 attribute: 0x000000
 ---
-{{anim:Thinking target="actor" targetSpec=""}} ¡{{color id="1"}}{{wordInfo gender="0" indefArticle="2" defArticle="3"}}Cazamariposas endebles{{color id="97"}} son tan bonitas￿! 
+{{anim:Thinking target="actor" targetSpec=""}} ¡{{color id="1"}}{{wordInfo gender="0" indefArticle="2" defArticle="3"}}Cazamariposas endebles{{color id="97"}} son tan bonitas! 
 Es una pena que siempre sean tan,
 eh {{string:Dots}}{{color id="1"}}{{wordInfo gender="0" indefArticle="0" defArticle="0"}}endebles{{color id="110" otherArg="0x000000000A000A000000"}}
 
@@ -151,7 +151,7 @@ una y otra vez es una molestia!
 label: 533
 attribute: 0x00F805
 ---
-{{anim:IdeaBulb target="actor" targetSpec=""}} {{string:Dots}}¡Por supuesto!{{delay8}} ¡Debería empezar a hacer {{color id="1"}}{{wordInfo gender="0" indefArticle="2" defArticle="3"}}palas resistentes{{color id="32"}}￿en su lugar!
+{{anim:IdeaBulb target="actor" targetSpec=""}} {{string:Dots}}¡Por supuesto!{{delay8}} ¡Debería empezar a hacer {{color id="1"}}{{wordInfo gender="0" indefArticle="2" defArticle="3"}}palas resistentes{{color id="32"}} en su lugar!
 
 ---
 label: 536
@@ -164,7 +164,7 @@ attribute: 0x000098
 label: 535
 attribute: 0x060000
 ---
-{{anim:IdeaBulb target="actor" targetSpec=""}} {{string:Dots}}¡Ya lo tengo!{{delay8}} ¡Apuesto a que {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}regadera resistente{{color id="32"}} podría hacer el truco￿!
+{{anim:IdeaBulb target="actor" targetSpec=""}} {{string:Dots}}¡Ya lo tengo!{{delay8}} ¡Apuesto a que {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}regadera resistente{{color id="32"}} podría hacer el apaño!
 
 ---
 label: 962
