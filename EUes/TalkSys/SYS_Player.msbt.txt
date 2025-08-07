@@ -44,127 +44,125 @@ Esta criatura marina no está en mi aplicación de criaturas...
 label: 507_0_0
 attribute: 0x000018
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}}Me gusta el aspecto de {{delay8}}{{color id="1"}}{{wordInfo gender="0" indefArticle="2" defArticle="3"}}cañas de pescar endebles{{color id="-1"}}, ¡pero me gustaría que duraran más!
+{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}} Me gusta el aspecto de una {{delay8}}{{color id="1"}}caña de pescar endeble{{color id="-1"}}{{string:Dots}}
+{{pageBreak}}¡Pero me gustaría que durase más!
 
 ---
 label: 507_0_1
 attribute: 0x000018
 ---
-{{anim:IdeaBulb target="actor" targetSpec=""}}¡¡EUREKA!! ¡Se me acaba de ocurrir una receta para {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}caña de pescar resistente{{color id="-1"}}!
+{{anim:IdeaBulb target="actor" targetSpec=""}}¡¡EUREKA!! ¡Se me acaba de ocurrir una receta para una {{color id="1"}}caña de pescar resistente{{color id="-1"}}!
 
 ---
 label: 507_1_0
 attribute: 0x000018
 ---
-{{anim:Thinking target="actor" targetSpec=""}}{{color id="1"}}{{wordInfo gender="0" indefArticle="2" defArticle="3"}}Cazamariposas endebles{{color id="-1"}} seguro que son rústicas y bonitas, ¡pero siempre se me rompen!
+{{anim:Thinking target="actor" targetSpec=""}}El {{color id="1"}}cazamariposas endeble{{color id="-1"}} es rústico y bonito{{string:Dots}}
+{{pageBreak}}¡Pero siempre se me rompen!
 
 ---
 label: 507_1_1
 attribute: 0x000018
 ---
-{{anim:IdeaBulb target="actor" targetSpec=""}}¡Por supuesto! ¡Debería fabricar {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}cazamariposas resistente{{color id="-1"}} en su lugar!
+{{anim:IdeaBulb target="actor" targetSpec=""}}¡Pues claro! ¡Debería fabricar un {{color id="1"}}cazamariposas resistente{{color id="-1"}} en su lugar!
 
 ---
 label: 507_2_0
 attribute: 0x000018
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Ojalá {{color id="1"}}{{wordInfo gender="0" indefArticle="2" defArticle="3"}}palas endebles{{color id="-1"}} no fueran tan{{string:Dots}}{{delay20}}endebles{{string:Dots}}
+{{anim:Thinking target="actor" targetSpec=""}}Ojalá que la {{color id="1"}}pala endeble{{color id="-1"}} no fuese tan{{string:Dots}}{{delay20}} de juguete{{string:Dots}}
 
 ---
 label: 507_2_1
 attribute: 0x000018
 ---
-{{anim:IdeaBulb target="actor" targetSpec=""}}¡Ya sé! ¡Intentaré fabricar {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}pala resistente{{color id="-1"}}!
+{{anim:IdeaBulb target="actor" targetSpec=""}}¡Ya sé! ¡Intentaré fabricar una {{color id="1"}}pala resistente{{color id="-1"}}!
 
 ---
 label: 507_3_0
 attribute: 0x000018
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Ojalá pudiera tener la estética natural de {{color id="1"}}{{wordInfo gender="0" indefArticle="2" defArticle="3"}}regaderas endebles{{color id="-1"}} sin que se rompan{{string:Dots}}
+{{anim:Thinking target="actor" targetSpec=""}}Ojalá pudiera tener la estética natural de una {{color id="1"}}regadera endeble{{color id="-1"}} sin que se rompa{{string:Dots}}
 
 ---
 label: 507_3_1
 attribute: 0x000018
 ---
-{{anim:IdeaBulb target="actor" targetSpec=""}}¡Eso es! ¡Apuesto a que {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}regadera resistente {{color id="-1"}}haría el truco!
+{{anim:IdeaBulb target="actor" targetSpec=""}}¡Eso es! ¡Apuesto a que una {{color id="1"}}regadera resistente{{color id="-1"}} haría el apaño!
 
 ---
 label: 507_4_0
 attribute: 0x000018
 ---
-{{anim:Thinking target="actor" targetSpec=""}}¡{{color id="1"}}{{wordInfo gender="0" indefArticle="2" defArticle="3"}}Hachas endebles{{color id="-1"}} se rompen DEMASIADO a menudo!
+{{anim:Thinking target="actor" targetSpec=""}}Las {{color id="1"}}hachas endebles{{color id="-1"}} se rompen DEMASIADO a menudo{{string:Dots}}
 
 ---
 label: 507_4_1
 attribute: 0x000018
 ---
-{{anim:IdeaBulb target="actor" targetSpec=""}}¡OH! ¡Quizás podría fabricar {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}hacha resistente{{color id="-1"}} que dure más y se vea igual!
+{{anim:IdeaBulb target="actor" targetSpec=""}}¡Leñe! ¡Quizás podría fabricar un {{color id="1"}}hacha resistente{{color id="-1"}} con un poco de SuperGlue!
 
 ---
 label: 529
 attribute: 0xABAB54
 ---
-{{anim:IdeaBulb target="actor" targetSpec=""}}¡Eso es!{{delay20}} Yo{{string:Dots}}¡Se me acaba de ocurrir una 
-{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}receta de hacha resistente{{color id="32"}}!
+{{anim:IdeaBulb target="actor" targetSpec=""}}¡Eso es!{{delay20}} Yo{{string:Dots}}¡Se me acaba de ocurrir una {{color id="1"}}receta para un hacha resistente{{color id="32"}}!
 
 ---
 label: 530
 attribute: 0x585432
 ---
-{{anim:Thinking target="actor" targetSpec=""}}{{color id="1"}}{{wordInfo gender="0" indefArticle="2" defArticle="3"}}Hachas endebles{{color id="104"}}tienen una estética bonita, pero ojalá no se rompieran TAN a menudo {{string:Dots}}
+{{anim:Thinking target="actor" targetSpec=""}}Las {{color id="1"}}hachas endebles{{color id="-1"}} se rompen DEMASIADO a menudo{{string:Dots}}
 
 ---
 label: 527
 attribute: 0xAACB00
 ---
-{{anim:IdeaBulb target="actor" targetSpec=""}} {{string:Dots}}¡EUREKA!{{delay8}} ¡Se me acaba de ocurrir una receta para {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}caña de pescar resistente{{color id="-1"}}!
+{{anim:IdeaBulb target="actor" targetSpec=""}}¡¡EUREKA!! ¡Se me acaba de ocurrir una receta para una {{color id="1"}}caña de pescar resistente{{color id="-1"}}!
 
 ---
 label: 528
 attribute: 0x000000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Me gusta el aspecto de {{color id="1"}}{{wordInfo gender="0" indefArticle="2" defArticle="3"}}cañas de pescar endebles{{color id="-1"}}, ¡pero siempre se me rompen!
+{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}} Me gusta el aspecto de una {{delay8}}{{color id="1"}}caña de pescar endeble{{color id="-1"}}{{string:Dots}}
+{{pageBreak}}¡Pero me gustaría que durase más!
 
 ---
 label: 532
 attribute: 0x000000
 ---
-{{anim:Thinking target="actor" targetSpec=""}} ¡{{color id="1"}}{{wordInfo gender="0" indefArticle="2" defArticle="3"}}Cazamariposas endebles{{color id="97"}} son tan bonitas! 
-Es una pena que siempre sean tan,
-eh {{string:Dots}}{{color id="1"}}{{wordInfo gender="0" indefArticle="0" defArticle="0"}}endebles{{color id="110" otherArg="0x000000000A000A000000"}}
+{{anim:Thinking target="actor" targetSpec=""}}El {{color id="1"}}cazamariposas endeble{{color id="-1"}} es rústico y bonito{{string:Dots}}
+{{pageBreak}}¡Pero siempre se me rompen!
 
 ---
 label: 531
 attribute: 0x000000
 ---
-{{anim:IdeaBulb target="actor" targetSpec=""}}¡Oh, ya sé!{{delay20}}¡Debería intentar fabricar {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}cazamariposas resistente{{color id="-1"}}!
+{{anim:IdeaBulb target="actor" targetSpec=""}}¡Pues claro! ¡Debería fabricar un {{color id="1"}}cazamariposas resistente{{color id="-1"}} en su lugar!
 
 ---
 label: 534
 attribute: 0x7D0100
 ---
-{{anim:Thinking target="actor" targetSpec=""}}La apariencia rústica de {{color id="1"}}{{wordInfo gender="0" indefArticle="2" defArticle="3"}}palas endebles{{color id="-1"}} me atrae, ¡pero fabricarlas
-una y otra vez es una molestia!
-
+{{anim:Thinking target="actor" targetSpec=""}}Ojalá que la {{color id="1"}}pala endeble{{color id="-1"}} no fuese tan{{string:Dots}}{{delay20}} de juguete{{string:Dots}}
 
 ---
 label: 533
 attribute: 0x00F805
 ---
-{{anim:IdeaBulb target="actor" targetSpec=""}} {{string:Dots}}¡Por supuesto!{{delay8}} ¡Debería empezar a hacer {{color id="1"}}{{wordInfo gender="0" indefArticle="2" defArticle="3"}}palas resistentes{{color id="32"}} en su lugar!
+{{anim:IdeaBulb target="actor" targetSpec=""}}¡Ya sé! ¡Intentaré fabricar una {{color id="1"}}pala resistente{{color id="-1"}}!
 
 ---
 label: 536
 attribute: 0x000098
 ---
-{{anim:Thinking target="actor" targetSpec=""}}La apariencia natural de {{color id="1"}}{{wordInfo gender="0" indefArticle="2" defArticle="3"}}regaderas endebles{{color id="-1"}} ciertamente muestra mi mano para la jardinería, pero ojalá pudieran regar más flores a la vez{{string:Dots}}
-
+{{anim:Thinking target="actor" targetSpec=""}}Ojalá pudiera tener la estética natural de una {{color id="1"}}regadera endeble{{color id="-1"}} sin que se rompa{{string:Dots}}
 
 ---
 label: 535
 attribute: 0x060000
 ---
-{{anim:IdeaBulb target="actor" targetSpec=""}} {{string:Dots}}¡Ya lo tengo!{{delay8}} ¡Apuesto a que {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}regadera resistente{{color id="32"}} podría hacer el apaño!
+{{anim:IdeaBulb target="actor" targetSpec=""}}¡Eso es! ¡Apuesto a que una {{color id="1"}}regadera resistente{{color id="-1"}} haría el apaño!
 
 ---
 label: 962

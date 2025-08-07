@@ -3,15 +3,18 @@
 label: 312
 attribute: 0x00000000
 ---
-{{anim:Hello target="actor" targetSpec=""}}¡Holaaa, {{delay40}}{{string:PlayerName}}!{{pageBreak}}
-{{anim:Hesitate target="actor" targetSpec=""}}Tengo algo {{delay40}}{{anim:Worried target="actor" targetSpec=""}}no tan alegre{{delay8}} que contarte,{{delay20}} pero{{string:Dots}}{{delay20}}{{anim:Serious target="actor" targetSpec=""}} por favor no te disgustes, ¿vale?{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}He notado que{{delay8}} aquí en {{string:IslandName}}, {{delay40}}los {{color id="1"}}bambúes{{color id="-1"}}{{anim:Negative target="actor" targetSpec=""}} no están creciendo muy bien.{{pageBreak}}
-{{anim:ShyBoy target="actor" targetSpec=""}}Se hacen altos y bonitos {{delay40}},{{anim:SadSpiral target="actor" targetSpec=""}}{{delay8}} pero solo brota un único retoño.{{pageBreak}}
-{{anim:Thinking target="actor" targetSpec=""}}Normalmente,{{delay8}} los bambúes producen muchos brotes con el tiempo.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Si has intentado cultivar{{delay20}} varios {{color id="1"}}brotes de bambú{{color id="-1"}},{{delay20}} quizá ya te hayas dado cuenta.{{pageBreak}}Dicho eso,{{delay40}}{{anim:SmugFace target="actor" targetSpec=""}} ¡estoy ofreciendo un nuevo servicio de cultivo de bambú!{{pageBreak}}
-{{anim:HappyFlower target="actor" targetSpec=""}}Por solo {{color id="1"}}3.000 bayas{{color id="-1"}}, puedo cultivar cualquier {{color id="1"}}bambú joven{{color id="-1"}} para ti,{{delay40}}{{anim:BigSmile target="actor" targetSpec=""}} ¡y sacar montones de {{color id="1"}}brotes de bambú{{color id="-1"}}!{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}Claro que{{delay8}} el proceso {{delay20}}llevará algo de tiempo,{{anim:Nodding target="actor" targetSpec=""}} así que te enviaré los brotes {{delay20}}por correo cuando estén felices {{delay20}}{{anim:FaintSmile target="actor" targetSpec=""}}y listos.{{pageBreak}}
-{{anim:Greeting target="actor" targetSpec=""}}¡Espero que utilices mi nuevo servicio algún día!
+{{anim:Hello target="actor" targetSpec=""}}¡Holaaa, {{delay40}}{{string:PlayerName}}!
+{{pageBreak}}{{anim:Hesitate target="actor" targetSpec=""}}Tengo algo {{delay40}}{{anim:Worried target="actor" targetSpec=""}}no tan alegre{{delay8}} que contarte,{{delay20}} pero{{string:Dots}}{{delay20}}{{anim:Serious target="actor" targetSpec=""}} por favor no te disgustes, ¿vale?
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}He notado que{{delay8}} aquí en {{string:IslandName}}, {{delay40}}los {{color id="1"}}bambúes{{color id="-1"}}{{anim:Negative target="actor" targetSpec=""}} no están creciendo muy bien.
+{{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}Se hacen altos y bonitos {{delay40}},{{anim:SadSpiral target="actor" targetSpec=""}}{{delay8}} pero solo brota un único retoño.
+{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}Normalmente,{{delay8}} los bambúes producen muchos brotes con el tiempo.
+{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Si has intentado cultivar{{delay20}} varios {{color id="1"}}brotes de bambú{{color id="-1"}},{{delay20}} quizá ya te hayas dado cuenta.
+{{pageBreak}}Dicho eso,{{delay40}}{{anim:SmugFace target="actor" targetSpec=""}} ¡estoy ofreciendo un nuevo servicio de cultivo de bambú!
+{{pageBreak}}{{anim:HappyFlower target="actor" targetSpec=""}}Por solo {{color id="1"}}3.000 bayas{{color id="-1"}}, puedo cultivar cualquier {{color id="1"}}bambú joven{{color id="-1"}} para ti{{string:Dots}}
+{{pageBreak}}{{anim:BigSmile target="actor" targetSpec=""}}¡Y sacar montones de {{color id="1"}}brotes de bambú{{color id="-1"}}!
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Claro que{{delay8}} el proceso {{delay20}}llevará algo de tiempo,{{anim:Nodding target="actor" targetSpec=""}} así que{{string:Dots}}
+{{pageBreak}}Te enviaré los brotes {{delay20}}por correo cuando estén felices {{delay20}}{{anim:FaintSmile target="actor" targetSpec=""}}y listos.
+{{pageBreak}}{{anim:Greeting target="actor" targetSpec=""}}¡Espero que utilices mi nuevo servicio algún día!
 
 ---
 label: 313

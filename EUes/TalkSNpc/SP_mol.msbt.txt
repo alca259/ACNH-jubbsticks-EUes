@@ -66,26 +66,25 @@ label: 013
 attribute: 0x00000000
 ---
 A ver{{string:Dots}}{{delay8}}Eh{{string:Dots}}{{delay40}}{{anim:IdeaBulb target="actor" targetSpec=""}}Ah,{{delay8}} claro.{{10:4}}{{delay8}}
-{{anim:FaintSmile target="actor" targetSpec=""}} Debería presentarme como es debido {{delay8}}y tal. {{delay8}}Me llamo {{anim:Serious target="actor" targetSpec=""}}{{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Rese T{{color id="-1"}}.{{pageBreak}}
-La mayoría de la gente me llama {{delay8}}Don{{delay8}} {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Rese T{{color id="-1"}},{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} porque soy un miembro respetado de la comunidad y tal.{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}¡Espero trabajar contigo!{{pageBreak}}
-{{anim:Worried target="actor" targetSpec=""}}Ejem,{{delay20}} bueno,{{delay8}}{{delay8}}he estado trabajando hasta la {{anim:Pardon target="actor" targetSpec=""}}EXTENUACIÓN aquí abajo, cavando desde las entrañas de esta isla.
+{{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}Debería presentarme como es debido {{delay8}}y tal. {{delay8}}Me llamo {{anim:Serious target="actor" targetSpec=""}}{{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Rese T{{color id="-1"}}.
+{{pageBreak}}La mayoría de la gente me llama {{delay8}}Don{{delay8}} {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Rese T{{color id="-1"}},{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} porque soy un miembro respetado de la comunidad y tal.
+{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}¡Espero trabajar contigo!
+{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}Ejem,{{delay20}} bueno,{{delay8}}{{delay8}}he estado trabajando hasta la {{anim:Pardon target="actor" targetSpec=""}}EXTENUACIÓN aquí abajo, cavando desde las entrañas de esta isla.
 
 ---
 label: 012
 attribute: 0x00000000
 ---
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}¡Ya hemos llegado!{{pageBreak}}
-{{anim:Silent target="actor" targetSpec=""}}Disculpas por la intrusión de ahí atrás.{{10:4}}{{delay8}}{{anim:EmotEnd_0 target="actor" targetSpec=""}} No he trabajado en ventas desde{{anim:OhGeez target="actor" targetSpec=""}}{{string:Dots}}nunca. Solo estoy un poco oxidado.{{pageBreak}}
-{{anim:Thinking target="actor" targetSpec=""}}A ver{{string:Dots}}{{delay8}}Eh{{string:Dots}}{{delay40}}{{anim:IdeaBulb target="actor" targetSpec=""}}Ah,{{delay8}} claro.{{10:4}}{{delay8}}
-{{anim:FaintSmile target="actor" targetSpec=""}} Debería presentarme como es debido {{delay8}}y tal. {{delay8}}Me llamo {{anim:Serious target="actor" targetSpec=""}}{{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Rese T{{color id="-1"}}.{{pageBreak}}
-La mayoría de la gente me llama {{delay8}}Don{{delay8}} {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Rese T{{color id="-1"}},{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} porque soy un miembro respetado de la comunidad y tal.{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}¡Espero trabajar contigo!{{pageBreak}}
-{{anim:Worried target="actor" targetSpec=""}}Ejem,{{delay20}} bueno,{{delay8}} esta isla{{string:Dots}} 
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}{{color id="1"}}C{{delay8}}a{{delay8}}y{{delay8}}o{{delay8}} {{delay8}}F{{delay8}}a{{delay8}}{{delay8}}u{{delay8}}n{{delay8}}o{{color id="-1"}},{{delay20}} debería decir{{string:Dots}}{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}{{string:Dots}}Así es como él la llama.{{delay20}}
-Con "él," me refiero a {{color id="3"}}Fauno{{color id="-1"}}, por supuesto.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}El caso es que, {{delay8}}¡he estado trabajando hasta la {{anim:Pardon target="actor" targetSpec=""}}EXTENUACIÓN aquí abajo, cavando desde las entrañas de esta isla!
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}¡Ya hemos llegado!
+{{pageBreak}}{{anim:Silent target="actor" targetSpec=""}}Disculpa por la intrusión de ahí atrás.{{10:4}}{{delay8}}
+{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}} No he trabajado en ventas desde{{anim:OhGeez target="actor" targetSpec=""}}{{string:Dots}}nunca. Solo estoy un poco oxidado.
+{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}A ver{{string:Dots}}{{delay8}}Eh{{string:Dots}}{{delay40}}{{anim:IdeaBulb target="actor" targetSpec=""}}Ah,{{delay8}} claro.{{10:4}}{{delay8}}
+{{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}Debería presentarme como es debido {{delay8}}y tal. {{delay8}}Me llamo {{anim:Serious target="actor" targetSpec=""}}{{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Rese T{{color id="-1"}}.
+{{pageBreak}}La mayoría de la gente me llama {{delay8}}Don{{delay8}} {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Rese T{{color id="-1"}},{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} porque soy un miembro respetado de la comunidad y tal.
+{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}¡Espero trabajar contigo!
+{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}Ejem,{{delay20}} bueno,{{delay8}} esta isla{{string:Dots}} {{anim:EmotEnd_0 target="actor" targetSpec=""}}{{color id="1"}}C{{delay8}}a{{delay8}}y{{delay8}}o{{delay8}} {{delay8}}F{{delay8}}a{{delay8}}{{delay8}}u{{delay8}}n{{delay8}}o{{color id="-1"}},{{delay20}} debería decir{{string:Dots}}
+{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}{{string:Dots}}Así es como él la llama.{{delay20}} Con "él," me refiero a {{color id="3"}}Fauno{{color id="-1"}}, por supuesto.
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}El caso es que, {{delay8}}¡he estado trabajando hasta la {{anim:Pardon target="actor" targetSpec=""}}EXTENUACIÓN aquí abajo, cavando desde las entrañas de esta isla!
 
 ---
 label: 002
@@ -128,32 +127,36 @@ attribute: 0x00000000
 label: 005
 attribute: 0x00000000
 ---
-{{anim:EmotEnd target="player" targetSpec=""}}{{string:Dots}}{{anim:OhGeez target="actor" targetSpec=""}}Perdón.{{delay40}} A eso se le llama una pregunta {{delay20}}"retórica",{{delay20}} no una{{anim:Pardon target="actor" targetSpec=""}}{{delay20}} pregunta de "quédate-ahí-y-babea-mientras-me-miras." {{pageBreak}}
-{{anim:OhGeez target="actor" targetSpec=""}}Oh, solo bromeaba,{{delay8}} por supuesto.{{delay8}}{{anim:Blushing target="actor" targetSpec=""}} Es la costumbre.{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}Mi trabajo básicamente era enfadarme con la gente durante unos 17 años,{{delay8}} así que{{string:Dots}}{{anim:ShyBoy target="actor" targetSpec=""}}aún se me escapa de vez en cuando{{string:Dots}}
+{{anim:EmotEnd target="player" targetSpec=""}}{{string:Dots}}{{anim:OhGeez target="actor" targetSpec=""}}Perdón.{{delay40}} A eso se le llama una pregunta {{delay20}}"retórica"{{string:Dots}}
+{{pageBreak}}{{delay20}}No era una{{anim:Pardon target="actor" targetSpec=""}}{{delay20}} pregunta de "quédate-ahí-y-babea-mientras-me-miras."
+{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}Oh, solo bromeaba,{{delay8}} por supuesto.{{delay8}}{{anim:Blushing target="actor" targetSpec=""}} Es la costumbre.
+{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Mi trabajo básicamente era enfadarme con la gente durante unos 17 años,{{delay8}} así que{{string:Dots}}
+{{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}Aún se me escapa de vez en cuando{{string:Dots}}
 
 ---
 label: 006
 attribute: 0x00000000
 ---
-{{anim:EmotEnd target="player" targetSpec=""}}{{anim:Worried target="actor" targetSpec=""}}Oh{{string:Dots}}{{delay40}} Perdón, dijiste {{delay40}}{{anim:Negative target="actor" targetSpec=""}}"No, gracias,"{{delay40}} así, ¿verdad?{{pageBreak}}
-{{anim:WrySmile target="actor" targetSpec=""}}Disculpa mis gritos, es solo la costumbre{{anim:EmotEnd_0 target="actor" targetSpec=""}}.{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}Mi trabajo básicamente era enfadarme con la gente durante unos 17 años,{{delay8}} así que{{string:Dots}}{{anim:ShyBoy target="actor" targetSpec=""}}aún se me escapa de vez en cuando{{string:Dots}}
+{{anim:EmotEnd target="player" targetSpec=""}}{{anim:Worried target="actor" targetSpec=""}}Oh{{string:Dots}}{{delay40}} Perdón, dijiste {{delay40}}{{anim:Negative target="actor" targetSpec=""}}"No, gracias,"{{delay40}} así, ¿verdad?
+{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}Disculpa mis gritos, es la costumbre{{anim:EmotEnd_0 target="actor" targetSpec=""}}.
+{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Mi trabajo básicamente era enfadarme con la gente durante unos 17 años,{{delay8}} así que{{string:Dots}}
+{{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}Aún se me escapa de vez en cuando{{string:Dots}}
 
 ---
 label: 007
 attribute: 0x00000000
 ---
-{{anim:Silent target="actor" targetSpec=""}}Supongo que debería ir al grano,{{delay8}} ¿verdad? {{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}Cuando dije que tenía "¡NADA!" que mostrar por mi trabajo, realmente quería decir "nada de valor para MÍ."
+{{anim:Silent target="actor" targetSpec=""}}Supongo que debería ir al grano,{{delay8}} ¿verdad?
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Cuando dije que tenía "¡NADA!" que mostrar por mi trabajo{{string:Dots}}
+{{pageBreak}}Realmente quería decir "nada de valor para MÍ."
 
 ---
 label: 008
 attribute: 0x04000000
 ---
-¿Ves esa{{delay8}} {{20:1 arg="0x0A004E0031003E004E003300"}}{{color id="1"}}tapa de alcantarilla{{color id="-1"}}{{delay8}}{{anim:QuestionMark target="actor" targetSpec=""}} en el suelo? ¿Parece un poco como un{{color id="1"}} centro de vigilancia de reinicio{{color id="-1"}}?{{pageBreak}}
-{{size value="75"}}{{string:Dots}}
-{{anim:Worried target="actor" targetSpec=""}}{{20:1 arg="0x0A004E0031003E0050003000"}}No es que sepas lo que ESO significa{{string:Dots}}{{color id="-1"}}
+¿Ves esa{{delay8}} {{20:1 arg="0x0A004E0031003E004E003300"}}{{color id="1"}}tapa de alcantarilla{{color id="-1"}}{{delay8}}{{anim:QuestionMark target="actor" targetSpec=""}} en el suelo?
+{{pageBreak}}¿Parece un poco como un{{color id="1"}} centro de vigilancia de reinicio{{color id="-1"}}?
+{{pageBreak}}{{size value="75"}}{{string:Dots}}{{anim:Worried target="actor" targetSpec=""}}{{20:1 arg="0x0A004E0031003E0050003000"}}No es que sepas lo que ESO significa{{string:Dots}}{{color id="-1"}}
 
 ---
 label: 008_a
@@ -340,16 +343,18 @@ attribute: 0x00000000
 label: 010
 attribute: 0x00000000
 ---
-{{anim:Negative target="actor" targetSpec=""}}Ni hablar. Si lo intentases, probablemente diría algo como:{{delay20}} {{10:12}}{{anim:Fuming target="actor" targetSpec=""}}{{10:10}}{{100:2}}　　  　{{size value="125"}}¡LÁRGATE!{{size value="75"}}{{20:1 arg="0x0A00500030003E004E003100"}}{{anim:Shocked target="player" targetSpec=""}}{{delay40}}{{delay40}}{{10:4}}{{delay20}}{{string:Dots}}{{anim:ColdChill target="actor" targetSpec=""}}o algo así.{{15:100 arg="0x0200"}}{{size value="100"}}
+{{anim:Negative target="actor" targetSpec=""}}Ni hablar. Si lo intentases, probablemente diría algo como:{{delay20}}
+{{pageBreak}}{{10:12}}{{anim:Fuming target="actor" targetSpec=""}}{{10:10}}{{100:2}}{{size value="125"}}¡LÁRGATE!{{size value="75"}}{{20:1 arg="0x0A00500030003E004E003100"}}{{anim:Shocked target="player" targetSpec=""}}{{delay40}}{{delay40}}{{10:4}}{{delay20}}{{string:Dots}}{{anim:ColdChill target="actor" targetSpec=""}}o algo así.{{15:100 arg="0x0200"}}{{size value="100"}}
 
 ---
 label: 011
 attribute: 0x04000000
 ---
-{{anim:OhGeez target="actor" targetSpec=""}}Sí. Pero como decía MUCHO antes, he estado trabajando hasta la EXTENUACIÓN cavando ahí abajo.{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}Bla bla y así sucesivamente, ¿verdad?{{delay20}}{{anim:Sleepy target="actor" targetSpec=""}}{{delay40}}{{delay40}}{{pageBreak}}
-{{anim:Grin target="actor" targetSpec=""}}Pero aquí está la parte que creo que te va a gustar:{{delay8}} hay tipos elegantes de {{color id="1"}}minerales{{color id="-1"}} ahí abajo. {{pageBreak}}
-{{anim:Eh target="actor" targetSpec=""}}Ahora,{{delay8}} aunque no puedo{{anim:Negative target="actor" targetSpec=""}} dejarte bajar ahí tú mismo{{string:Dots}}{{anim:Explain target="actor" targetSpec=""}}si quieres comprar algunos {{color id="1"}}minerales{{color id="-1"}}, estoy aquí fuera para vender.
+{{anim:OhGeez target="actor" targetSpec=""}}Sí. Pero como decía MUCHO antes, he estado trabajando hasta la EXTENUACIÓN cavando ahí abajo.
+{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Bla bla y así sucesivamente, ¿verdad?{{delay20}}{{anim:Sleepy target="actor" targetSpec=""}}{{delay40}}{{delay40}}
+{{pageBreak}}{{anim:Grin target="actor" targetSpec=""}}Pero aquí está la parte que creo que te va a gustar:{{delay8}} hay tipos elegantes de {{color id="1"}}minerales{{color id="-1"}} ahí abajo.
+{{pageBreak}}{{anim:Eh target="actor" targetSpec=""}}Ahora,{{delay8}} aunque no puedo{{anim:Negative target="actor" targetSpec=""}} dejarte bajar ahí tú mismo{{string:Dots}}
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Si quieres comprar algunos {{color id="1"}}minerales{{color id="-1"}}, estoy aquí fuera para vender.
 
 ---
 label: 011_a
