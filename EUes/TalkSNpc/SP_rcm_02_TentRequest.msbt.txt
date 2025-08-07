@@ -9,9 +9,8 @@ attribute: 0x00000000
 label: 059_01
 attribute: 0x00000000
 ---
-{{anim:Shocked target="actor" targetSpec=""}}¡Oh!{{delay8}} Parece que tienes los bolsillos llenos.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Haz algo de espacio y te daré {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}kit de construcción para la tienda{{color id="-1"}}, así podrás encontrar
-{{anim:Smiling target="actor" targetSpec=""}}un buen lugar para colocarla.
+{{anim:Shocked target="actor" targetSpec=""}}¡Oh!{{delay8}} Parece que tienes los bolsillos llenos.
+{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Haz algo de espacio y te daré {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}kit de construcción para la tienda{{color id="-1"}}, así podrás encontrar {{anim:Smiling target="actor" targetSpec=""}}un buen lugar para colocarla.
 
 
 ---
@@ -24,8 +23,6 @@ attribute: 0x00000000
 label: 060
 attribute: 0x00000000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Un momento{{string:Dots}}{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}Quería darte algunas {{color id="1"}}recompensas{{color id="-1"}} como agradecimiento por tu ayuda,{{delay8}} pero no tienes
-{{anim:Oops target="actor" targetSpec=""}} suficiente espacio en los bolsillos.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Si haces hueco para {{color id="1"}}algunas cositas más{{color id="-1"}}, estaré listo para 
-{{anim:Smiling target="actor" targetSpec=""}}aceptar tu donación de materiales.
+{{anim:Thinking target="actor" targetSpec=""}}Un momento{{string:Dots}}
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Quería darte algunas {{color id="1"}}recompensas{{color id="-1"}} como agradecimiento por tu ayuda,{{delay8}} pero no tienes {{anim:Oops target="actor" targetSpec=""}} suficiente espacio en los bolsillos.
+{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Si haces hueco para {{color id="1"}}algunas cositas más{{color id="-1"}}, estaré listo para {{anim:Smiling target="actor" targetSpec=""}}aceptar tu donación de materiales.

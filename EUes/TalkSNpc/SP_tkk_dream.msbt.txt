@@ -3,37 +3,28 @@
 label: 300
 attribute: 0x00000015
 ---
-Ey, {{delay40}}{{snpcAnim:TkkNodding target="actor" targetSpec=""}}gatito elegante.{{delay40}}  
-Cuánto tiempo sin vernos{{string:Dots}}{{pageBreak}}
-{{snpcAnim:TkkNodding target="actor" targetSpec=""}}Sabes{{string:Dots}}a veces viene bien compartir foco con un viejo amigo.{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}Saber que todavía{{delay8}} sigue en pie.  
-{{delay40}}Ver cómo ambos han crecido.{{pageBreak}}
-Y hablando de eso{{string:Dots}}{{pageBreak}}
-Tengo que {{snpcAnim:TkkNodding target="actor" targetSpec=""}}reconocer lo que has hecho con el sitio. {{uppercaseNextWord}}{{string:IslandName}},  
-Quiero decir, le diste un brillo total.{{pageBreak}}
-Así que{{delay40}} solo quería decir, {{snpcAnim:TkkEh target="actor" targetSpec=""}}gracias {{delay20}}por volver aunque sea un ratito,{{delay20}}  
-{{snpcAnim:TkkQuestionMark target="actor" targetSpec=""}}¿me entiendes?{{pageBreak}}
-{{snpcAnim:TkkNodding target="actor" targetSpec=""}}Tienes justo la energía que una isla como esta necesita.{{pageBreak}}
-{{string:Dots}}{{delay8}}No lo olvides.  
-Y que siga el ritmo, colega.{{string:Dots}}{{delay frames="40"}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}{{10:7 arg="0xB4000000"}}
+Ey, {{delay40}}{{snpcAnim:TkkNodding target="actor" targetSpec=""}}gatito elegante.{{delay40}} Cuánto tiempo sin vernos{{string:Dots}}
+{{pageBreak}}{{snpcAnim:TkkNodding target="actor" targetSpec=""}}Sabes{{string:Dots}}a veces viene bien compartir foco con un viejo amigo.
+{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Saber que todavía{{delay8}} sigue en pie. {{delay40}}Ver cómo ambos han crecido.
+{{pageBreak}}Y hablando de eso{{string:Dots}}
+{{pageBreak}}Tengo que {{snpcAnim:TkkNodding target="actor" targetSpec=""}}reconocer lo que has hecho con el sitio. {{uppercaseNextWord}}{{string:IslandName}}, quiero decir, le diste un brillo total.
+{{pageBreak}}Así que{{delay40}} solo quería decir, {{snpcAnim:TkkEh target="actor" targetSpec=""}}gracias {{delay20}}por volver aunque sea un ratito,{{delay20}} {{snpcAnim:TkkQuestionMark target="actor" targetSpec=""}}¿me entiendes?
+{{pageBreak}}{{snpcAnim:TkkNodding target="actor" targetSpec=""}}Tienes justo la energía que una isla como esta necesita. {{string:Dots}}{{delay8}}No lo olvides.
+{{pageBreak}}Y que siga el ritmo, colega.{{string:Dots}}{{delay frames="40"}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}{{10:7 arg="0xB4000000"}}
 
 ---
 label: 333
 attribute: 0x00000015
 ---
-{{string:Dots}}Oh,{{delay40}}{{snpcAnim:TkkNodding target="actor" targetSpec=""}} hay una cosa más{{string:Dots}}{{pageBreak}}
-Se suponía que debía darte las gracias{{delay8}} por otra cosa también{{snpcAnim:TkkEh target="actor" targetSpec=""}}.{{pageBreak}}
-El buen {{color id="3"}}jubbsticks{{color id="-1"}}{{snpcAnim:TkkNodding target="actor" targetSpec=""}}{{string:Dots}}{{delay40}} quería 
-que supieras que le mola el contenido{{string:Dots}}{{delay8}}o algo así.{{pageBreak}}
-Y si te mola la vibra y quieres apoyar el mod,{{delay8}} {{snpcAnim:TkkQuestionMark target="actor" targetSpec=""}}tiene una "{{color id="1"}}página de ko-fi{{color id="-1"}}."{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}No estoy muy seguro de qué significa todo eso.{{delay8}} {{snpcAnim:TkkQuestionMark target="actor" targetSpec=""}}¿Igual solo estaba pidiendo un café?{{pageBreak}}
-{{string:Dots}}{{delay40}}Pero qué voy a saber yo{{delay40}}{{10:4}}{{delay8}}
-{{color id="4"}}{{size value="50"}}Solo soy un producto de tu imaginación{{string:Dots}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}{{pageBreak}}
-{{color id="-1"}}{{size value="100"}}{{string:Dots}}Bueno,{{delay8}}{{snpcAnim:TkkNodding target="actor" targetSpec=""}} sal ahí fuera y carpe ese diem,{{delay8}} colega.{{pageBreak}}
-También{{string:Dots}} quería que le dieras un aplauso silencioso{{delay8}} a quienes tradujeron esto para ti, 
-porque sin ellos, seguiría hablando solo en otro idioma{{string:Dots}} o algo así.
-Ve con calma,{{snpcAnim:TkkQuestionMark target="actor" targetSpec=""}} ¿vale? {{delay40}}
-Diviértete {{snpcAnim:TkkNodding target="actor" targetSpec=""}}{{delay20}}y no le des demasiadas vueltas.{{delay40}}
-No hay prisa.{{pageBreak}}
+{{string:Dots}}Oh,{{delay40}}{{snpcAnim:TkkNodding target="actor" targetSpec=""}} hay una cosa más{{string:Dots}}
+{{pageBreak}}Se suponía que debía darte las gracias{{delay8}} por otra cosa también{{snpcAnim:TkkEh target="actor" targetSpec=""}}.
+{{pageBreak}}El buen {{color id="3"}}jubbsticks{{color id="-1"}}{{snpcAnim:TkkNodding target="actor" targetSpec=""}}{{string:Dots}}{{delay40}} quería que supieras que le mola el contenido{{string:Dots}}{{delay8}} o algo así.
+{{pageBreak}}Y si te mola la vibra y quieres apoyar el mod,{{delay8}} {{snpcAnim:TkkQuestionMark target="actor" targetSpec=""}}tiene una "{{color id="1"}}página de ko-fi{{color id="-1"}}."
+{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}No estoy muy seguro de qué significa todo eso.{{delay8}} {{snpcAnim:TkkQuestionMark target="actor" targetSpec=""}}¿Igual solo estaba pidiendo un café?
+{{pageBreak}}{{string:Dots}}{{delay40}}Pero qué voy a saber yo{{delay40}}{{10:4}}{{delay8}} {{color id="4"}}{{size value="50"}}Solo soy un producto de tu imaginación{{string:Dots}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}
+{{pageBreak}}{{color id="-1"}}{{size value="100"}}{{string:Dots}}Bueno,{{delay8}}{{snpcAnim:TkkNodding target="actor" targetSpec=""}} sal ahí fuera y carpe ese diem,{{delay8}} colega.
+{{pageBreak}}También{{string:Dots}} quería que le dieras un aplauso silencioso{{delay8}} a quienes tradujeron esto para ti, porque sin ellos, seguiría hablando solo en otro idioma{{string:Dots}} o algo así.
+{{pageBreak}}Ve con calma,{{snpcAnim:TkkQuestionMark target="actor" targetSpec=""}} ¿vale? {{delay40}}Diviértete {{snpcAnim:TkkNodding target="actor" targetSpec=""}}{{delay20}}y no le des demasiadas vueltas.{{delay40}}
+{{pageBreak}}No hay prisa.{{delay20}}
 Nos vemos luego.{{delay20}}
 Aún queda mucho por venir {{snpcAnim:TkkNodding target="actor" targetSpec=""}}{{delay8}}desde donde yo salí{{string:Dots}}{{delay frames="40"}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}{{10:7 arg="0xB4000000"}}

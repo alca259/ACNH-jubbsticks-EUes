@@ -3,9 +3,9 @@
 label: 709
 attribute: 0x00000000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}¡Espero que estés aprovechando al máximo tu tiempo en la isla!{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}Solo recuerda que, {{delay20}}si te esfuerzas demasiado, acabarás agotado.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Así que, por favor, tomate un descanso de vez en cuando.{{delay20}}
+{{anim:Smiling target="actor" targetSpec=""}}¡Espero que estés aprovechando al máximo tu tiempo en la isla!
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Solo recuerda que, {{delay20}}si te esfuerzas demasiado, acabarás agotado.
+{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Así que, por favor, tomate un descanso de vez en cuando.{{delay20}}
 {{anim:Greeting target="actor" targetSpec=""}}¡Es importante dosificar tu energía!
 
 ---
@@ -38,16 +38,15 @@ label: 990
 attribute: 0x00000000
 ---
 {{anim:Shocked target="actor" targetSpec=""}}¡Ohh!{{10:4}}
-{{anim:Oops target="actor" targetSpec=""}}¡Casi se me olvida!{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}Hace poco encontré un lote con cinco recetas festivas únicas.{{pageBreak}}
-{{anim:Thinking target="actor" targetSpec=""}}Nunca había visto nada igual, {{delay8}}¡y son súper {{anim:BigSmile target="actor" targetSpec=""}}monas!{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Un momentito{{string:Dots}}
+{{anim:Oops target="actor" targetSpec=""}}¡Casi se me olvida!
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Hace poco encontré un lote con cinco recetas festivas únicas.
+{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}Nunca había visto nada igual, {{delay8}}¡y son súper {{anim:BigSmile target="actor" targetSpec=""}}monas!
+{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Un momentito{{string:Dots}}
 
 ---
 label: 991
 attribute: 0x00000000
 ---
-{{anim:HappyFlower target="actor" targetSpec=""}}Como detalle especial por hoy,{{delay8}} acabo de enviar a todos los usuarios de la app {{color id="1"}}Recetas DIY{{color id="-1"}} este {{delay8}}conjunto especial de recetas
-{{anim:Smiling target="actor" targetSpec=""}}.{{pageBreak}}
-{{anim:HappyDance target="actor" targetSpec=""}}¡Felices fiestas a todos!{{delay20}}
+{{anim:HappyFlower target="actor" targetSpec=""}}Como detalle especial por hoy,{{delay8}} acabo de enviar a todos los usuarios de la app {{color id="1"}}Recetas DIY{{color id="-1"}} este {{delay8}}conjunto especial de recetas{{anim:Smiling target="actor" targetSpec=""}}.
+{{pageBreak}}{{anim:HappyDance target="actor" targetSpec=""}}¡Felices fiestas a todos!{{delay20}}
 ¡Eso es todo por ahora!

@@ -9,6 +9,6 @@ attribute: 0xABABABAB
 label: 2506_1
 attribute: 0xABABABAB
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}¿Te gustaría una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}pepita de plata{{color id="-1"}} {{anim:QuestionMark target="actor" targetSpec=""}}hoy?{{pageBreak}}
-{{anim:ShyBoy target="actor" targetSpec=""}}Espero que sí{{string:Dots}} es el único {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}mineral{{color id="-1"}} que tengo ahora mismo.{{pageBreak}}
-{{anim:Negative target="actor" targetSpec=""}}Pero no te preocupes, ya encontraré más.
+{{anim:FaintSmile target="actor" targetSpec=""}}¿Te gustaría una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}pepita de plata{{color id="-1"}} {{anim:QuestionMark target="actor" targetSpec=""}}hoy?
+{{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}Espero que sí{{string:Dots}} es el único {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}mineral{{color id="-1"}} que tengo ahora mismo.
+{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}Pero no te preocupes, ya encontraré más.

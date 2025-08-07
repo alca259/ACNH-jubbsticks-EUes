@@ -3,9 +3,8 @@
 label: 4004
 attribute: 0x00000000
 ---
-Este es un libro digital repleto de {{color id="1"}}recetas de bebidas elegantes{{color id="-1"}}!{{100:4}} {{delay8}}{{size value="75"}}...¡recetas!{{size value="100"}}{{15:100 arg="0x0400"}}{{pageBreak}}
-Y se llama{{string:Dots}}
-{{125:0 arg="0x0000"}}!
+Este es un libro digital repleto de {{color id="1"}}recetas de bebidas elegantes{{color id="-1"}}!{{100:4}} {{delay8}}{{size value="75"}}...¡recetas!{{size value="100"}}{{15:100 arg="0x0400"}}
+{{pageBreak}}Y se llama{{string:Dots}} {{125:0 arg="0x0000"}}!
 
 ---
 label: 4005

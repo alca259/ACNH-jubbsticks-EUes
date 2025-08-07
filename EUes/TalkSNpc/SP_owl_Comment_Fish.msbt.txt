@@ -3,12 +3,8 @@
 label: Fish_01010
 attribute: 0x00000000
 ---
-{{anim:Explain target="actor" targetSpec=""}}Aunque los {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}barbos{{color id="-1"}} 
-comparten muchas características con las {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}carpas{{color id="-1"}},{{anim:OhGeez target="actor" targetSpec=""}} a mi parecer, son un poco menos emocionantes.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Por ejemplo, ambos tienen bigotes.{{10:4}}Sin embargo,{{delay8}} los 
-{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}del barbo{{color id="-1"}} son apenas un poco más cortos{{string:Dots}}
-{{delay8}}{{anim:ShyBoy target="actor" targetSpec=""}}sin intención del juego de palabras.{{pageBreak}}
-{{anim:Negative target="actor" targetSpec=""}}De hecho, llamar "pelos" a estos bigotes sería incorrecto.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}En realidad, estos bigotes son barbillas, órganos sensoriales gustativos que utilizan tanto los 
-{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}barbos{{color id="-1"}} como las {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}carpas{{color id="-1"}}.{{pageBreak}}
-{{anim:Shaking target="actor" targetSpec=""}}{{string:Dots}}¿Te imaginas tener tantas lenguas saliéndote de la cara{{string:Dots}}?
+{{anim:Explain target="actor" targetSpec=""}}Aunque los {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}barbos{{color id="-1"}} comparten muchas características con las {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}carpas{{color id="-1"}},{{anim:OhGeez target="actor" targetSpec=""}} a mi parecer, son un poco menos emocionantes.
+{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Por ejemplo, ambos tienen bigotes.{{10:4}}Sin embargo,{{delay8}} los {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}del barbo{{color id="-1"}} son apenas un poco más cortos{{string:Dots}} {{delay8}}{{anim:ShyBoy target="actor" targetSpec=""}}sin intención del juego de palabras.
+{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}De hecho, llamar "pelos" a estos bigotes sería incorrecto.
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}En realidad, estos bigotes son barbillas, órganos sensoriales gustativos que utilizan tanto los {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}barbos{{color id="-1"}} como las {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}carpas{{color id="-1"}}.
+{{pageBreak}}{{anim:Shaking target="actor" targetSpec=""}}{{string:Dots}}¿Te imaginas tener tantas lenguas saliéndote de la cara{{string:Dots}}?

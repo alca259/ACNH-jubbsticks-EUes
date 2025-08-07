@@ -16,95 +16,82 @@ label: 100_03
 attribute: 0x54585432
 ---
 {{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark!{{delay40}}{{10:4}}{{delay8}} 
-{{anim:Blushing target="actor" targetSpec=""}}He hablado mucho, 
-{{delay8}}¿verdad?{{delay8}}{{pageBreak}}
-{{anim:Smiling target="actor" targetSpec=""}}Me pondré con ello y te enviaré 
-esas recetas de {{color id="1"}}globo dorado{{color id="-1"}}.
+{{anim:Blushing target="actor" targetSpec=""}}He hablado mucho, {{delay8}}¿verdad?{{delay8}}
+{{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}Me pondré con ello y te enviaré esas recetas de {{color id="1"}}globo dorado{{color id="-1"}}.
 
 ---
 label: 101
 attribute: 0x54585432
 ---
-{{anim:BigSmile target="actor" targetSpec=""}}¡Eso debería bastar! 
-Haz buen uso de ellas, pequeño.{{10:4}}{{delay8}} 
+{{anim:BigSmile target="actor" targetSpec=""}}¡Eso debería bastar! Haz buen uso de ellas, pequeño.{{10:4}}{{delay8}} 
 {{anim:Hello target="actor" targetSpec=""}}Nos vemos por ahí.
 
 ---
 label: 101_01
 attribute: 0x54585432
 ---
-{{anim:BigSmile target="actor" targetSpec=""}}¡Eso debería bastar!{{pageBreak}}
-{{anim:Eh target="actor" targetSpec=""}}Oh,{{delay8}} una cosa más.{{delay20}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}Necesitarás varios{{delay8}}
-{{color id="1"}}globos blancos{{color id="-1"}} para crearlas.{{pageBreak}}
-{{anim:WrySmile target="actor" targetSpec=""}}{{string:Dots}}Supongo que es una buena razón 
-para seguir recolectando más globos, {{delay8}}¿no?{{pageBreak}}
-{{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark!{{delay40}} 
+{{anim:BigSmile target="actor" targetSpec=""}}¡Eso debería bastar!
+{{pageBreak}}{{anim:Eh target="actor" targetSpec=""}}Oh,{{delay8}} una cosa más.{{delay20}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Necesitarás varios{{delay8}} {{color id="1"}}globos blancos{{color id="-1"}} para crearlas.
+{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}{{string:Dots}}Supongo que es una buena razón para seguir recolectando más globos, {{delay8}}¿no?
+{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark!{{delay40}} 
 Nos vemos, pequeño.
 
 ---
 label: 101_02
 attribute: 0x54585432
 ---
-{{anim:BigSmile target="actor" targetSpec=""}}¡Eso debería bastar!{{pageBreak}}
-{{anim:Eh target="actor" targetSpec=""}}Oh, una cosa más.{{delay20}}
-Necesitarás varios{{color id="1"}}{{delay8}}
-globos de colores{{color id="-1"}} para crearlas.{{pageBreak}}
-{{anim:Hesitate target="actor" targetSpec=""}}{{string:Dots}}{{delay40}}Quizás sea mi manera de 
-animarte a que sigas viniendo.{{pageBreak}}
-{{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark!{{delay40}}
-En serio,{{anim:HappyFlower target="actor" targetSpec=""}} muchísimas gracias por venir 
-a visitarme.{{pageBreak}}
+{{anim:BigSmile target="actor" targetSpec=""}}¡Eso debería bastar!
+{{pageBreak}}{{anim:Eh target="actor" targetSpec=""}}Oh, una cosa más.{{delay20}} Necesitarás varios {{color id="1"}}{{delay8}}globos de colores{{color id="-1"}} para crearlas.
+{{pageBreak}}{{anim:Hesitate target="actor" targetSpec=""}}{{string:Dots}}{{delay40}}Quizás sea mi manera de animarte a que sigas viniendo.
+{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark!{{delay40}}
+En serio,{{anim:HappyFlower target="actor" targetSpec=""}} muchísimas gracias por venir a visitarme.{{pageBreak}}
 {{anim:Smiling target="actor" targetSpec=""}}{{delay20}}Nos vemos.
 
 ---
 label: 101_03
 attribute: 0x54585432
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Eso debería bastar.{{pageBreak}}
-{{anim:Eh target="actor" targetSpec=""}}Oh, una cosa más.{{delay20}}
-Necesitarás varios {{delay8}}
-{{color id="1"}}globos negros{{color id="-1"}} para crearlas.{{pageBreak}}
-{{anim:Grin target="actor" targetSpec=""}}Supongo{{string:Dots}} que ya sabes 
-cómo va esto a estas alturas.{{pageBreak}}
-{{anim:Laughing target="actor" targetSpec=""}}¡Y probablemente ya tengas todos los globos que necesitas, {{delay8}}también!{{pageBreak}}
-{{anim:HappyDance target="actor" targetSpec=""}}De nuevo, gracias por venir tan a menudo, pequeño.{{pageBreak}}
-{{anim:FaintSmile target="actor" targetSpec=""}}Espero que sigas viniendo{{delay20}} de vez en cuando,{{delay8}} aunque ya seas bastante {{delay20}}rico en globos en este punto.{{anim:Laughing target="actor" targetSpec=""}}{{pageBreak}}
-Bueno,{{delay20}} hasta luego,{{delay8}} pequeño.{{delay40}}{{anim:Greeting target="actor" targetSpec=""}}{{10:4}}{{delay8}}{{anim:Greeting target="player" targetSpec=""}}{{delay20}}{{anim:Smiling target="actor" targetSpec=""}}{{delay40}}
+{{anim:FaintSmile target="actor" targetSpec=""}}Eso debería bastar.
+{{pageBreak}}{{anim:Eh target="actor" targetSpec=""}}Oh, una cosa más.{{delay20}}
+Necesitarás varios {{delay8}} {{color id="1"}}globos negros{{color id="-1"}} para crearlas.
+{{pageBreak}}{{anim:Grin target="actor" targetSpec=""}}Supongo{{string:Dots}} que ya sabes cómo va esto a estas alturas.
+{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}¡Y probablemente ya tengas todos los globos que necesitas, {{delay8}}también!
+{{pageBreak}}{{anim:HappyDance target="actor" targetSpec=""}}De nuevo, gracias por venir tan a menudo, pequeño.
+{{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}Espero que sigas viniendo{{delay20}} de vez en cuando,{{delay8}} aunque ya seas bastante {{delay20}}rico en globos en este punto.{{anim:Laughing target="actor" targetSpec=""}}
+{{pageBreak}}Bueno,{{delay20}} hasta luego,{{delay8}} pequeño.{{delay40}}{{anim:Greeting target="actor" targetSpec=""}}{{10:4}}{{delay8}}{{anim:Greeting target="player" targetSpec=""}}{{delay20}}{{anim:Smiling target="actor" targetSpec=""}}{{delay40}}
 
 ---
 label: 203
 attribute: 0x00000000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}} {{pageBreak}}
-{{anim:Shocked target="actor" targetSpec=""}}¡Oh, vaya!{{delay frames="40"}} Parece que{{anim:HappyFlower target="actor" targetSpec=""}} has recolectado muchísimos trozos de madera!{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Debes hacer buen uso de todos esos recursos.{{pageBreak}}
-{{anim:Thinking target="actor" targetSpec=""}}¿Cuál sería una buena recompensa para un pequeño como tú? Supongo que tu isla está bien arbolada{{string:Dots}}{{pageBreak}}
-{{anim:IdeaBulb target="actor" targetSpec=""}}¡Ah! ¡Seguro que un {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}arbusto silvestre{{color id="-1"}}
-quedaría genial donde vives!{{pageBreak}}
-{{anim:BigSmile target="actor" targetSpec=""}}Aquí tienes la receta. ¡Enhorabuena!
+{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}}
+{{pageBreak}}{{anim:Shocked target="actor" targetSpec=""}}¡Oh, vaya!{{delay frames="40"}} Parece que{{anim:HappyFlower target="actor" targetSpec=""}} has recolectado muchísimos trozos de madera!
+{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Debes hacer buen uso de todos esos recursos.
+{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}¿Cuál sería una buena recompensa para un pequeño como tú? Supongo que tu isla está bien arbolada{{string:Dots}}
+{{pageBreak}}{{anim:IdeaBulb target="actor" targetSpec=""}}¡Ah! ¡Seguro que un {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}arbusto silvestre{{color id="-1"}} quedaría genial donde vives!
+{{pageBreak}}{{anim:BigSmile target="actor" targetSpec=""}}Aquí tienes la receta. ¡Enhorabuena!
 
 ---
 label: 204
 attribute: 0x00000000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}} {{pageBreak}}
-{{anim:Shocked target="actor" targetSpec=""}}¡Oh, vaya!{{delay frames="40"}} Parece que{{anim:HappyFlower target="actor" targetSpec=""}} estás cortando muchísima madera de los árboles!{{pageBreak}}
-{{anim:Eh target="actor" targetSpec=""}}¡Probablemente tienes muchos recursos sobrantes de tanto cortar!{{pageBreak}}
-{{anim:IdeaBulb target="actor" targetSpec=""}}¡Ah! ¡Seguro que una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}fuente silvestre{{color id="-1"}} te ayudaría a aprovecharlos!{{pageBreak}}
-{{anim:BigSmile target="actor" targetSpec=""}}Aquí tienes la receta. ¡Enhorabuena!
+{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}}
+{{pageBreak}}{{anim:Shocked target="actor" targetSpec=""}}¡Oh, vaya!{{delay frames="40"}} Parece que{{anim:HappyFlower target="actor" targetSpec=""}} estás cortando muchísima madera de los árboles!
+{{pageBreak}}{{anim:Eh target="actor" targetSpec=""}}¡Probablemente tienes muchos recursos sobrantes de tanto cortar!
+{{pageBreak}}{{anim:IdeaBulb target="actor" targetSpec=""}}¡Ah! ¡Seguro que una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}fuente silvestre{{color id="-1"}} te ayudaría a aprovecharlos!
+{{pageBreak}}{{anim:BigSmile target="actor" targetSpec=""}}Aquí tienes la receta. ¡Enhorabuena!
 
 ---
 label: 205
 attribute: 0x00000000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}} {{pageBreak}}
-{{anim:Shocked target="actor" targetSpec=""}}¡Oh, vaya!{{delay frames="40"}}{{anim:HappyFlower target="actor" targetSpec=""}} ¡Has recolectado más madera de la que he visto jamás!{{pageBreak}}
-{{anim:WrySmile target="actor" targetSpec=""}}¿Qué haces siquiera 
-con todos esos recursos?{{pageBreak}}
-{{anim:IdeaBulb target="actor" targetSpec=""}}¡Ah!{{delay40}} ¡Quizás te gustaría {{anim:Nodding target="actor" targetSpec=""}}construir un {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}arco silvestre{{color id="-1"}} con ellos!{{10:4}}
-{{anim:Thinking target="actor" targetSpec=""}}{{size value="75"}}{{color id="4"}}Es una receta bastante cara{{string:Dots}}{{size value="100"}}{{color id="-1"}}{{pageBreak}}
-{{anim:BigSmile target="actor" targetSpec=""}}Bueno, aquí tienes la receta. ¡Enhorabuena!
+{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}}
+{{pageBreak}}{{anim:Shocked target="actor" targetSpec=""}}¡Oh, vaya!{{delay frames="40"}}{{anim:HappyFlower target="actor" targetSpec=""}} ¡Has recolectado más madera de la que he visto jamás!
+{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}¿Qué haces siquiera con todos esos recursos?
+{{pageBreak}}{{anim:IdeaBulb target="actor" targetSpec=""}}¡Ah!{{delay40}} ¡Quizás te gustaría {{anim:Nodding target="actor" targetSpec=""}}construir un {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}arco silvestre{{color id="-1"}} con ellos!{{10:4}}
+{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}{{size value="75"}}{{color id="4"}}Es una receta bastante cara{{string:Dots}}{{size value="100"}}{{color id="-1"}}
+{{pageBreak}}{{anim:BigSmile target="actor" targetSpec=""}}Bueno, aquí tienes la receta. ¡Enhorabuena!
 
 ---
 label: 210
@@ -187,9 +174,8 @@ label: 213
 attribute: 0x04000000
 ---
 {{anim:Nodding target="actor" targetSpec=""}}Hola, {{delay8}}pequeño.
-{{anim:AbsentMindedness target="actor" targetSpec=""}}¿No es hermosa la tarde?{{pageBreak}}
-{{anim:IdeaBulb target="actor" targetSpec=""}}Ah, {{delay8}}¡tengo un globo con 
-tu nombre!
+{{anim:AbsentMindedness target="actor" targetSpec=""}}¿No es hermosa la tarde?
+{{pageBreak}}{{anim:IdeaBulb target="actor" targetSpec=""}}Ah, {{delay8}}¡tengo un globo con tu nombre!
 {{anim:QuestionMark target="actor" targetSpec=""}}¿Qué me dices?
 
 ---
@@ -214,12 +200,10 @@ attribute: 0x00000000
 label: 214
 attribute: 0x04000000
 ---
-{{anim:Greeting target="actor" targetSpec=""}}¡Hola!{{pageBreak}}
-{{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark!{{delay40}}
-Vaya,{{delay8}} a pesar de la hora,{{delay8}}
-¡sigues con tanta energía!{{pageBreak}}
-{{anim:Eh target="actor" targetSpec=""}}Oh,{{delay8}} ¿qué puedo hacer 
-por ti, pequeño?
+{{anim:Greeting target="actor" targetSpec=""}}¡Hola!
+{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark!{{delay40}}
+Vaya,{{delay8}} a pesar de la hora,{{delay8}} ¡sigues con tanta energía!
+{{pageBreak}}{{anim:Eh target="actor" targetSpec=""}}Oh,{{delay8}} ¿qué puedo hacer por ti, pequeño?
 
 ---
 label: 214_a
@@ -243,9 +227,9 @@ attribute: 0x00000000
 label: 215
 attribute: 0x00000000
 ---
-{{anim:Greeting target="actor" targetSpec=""}}¡Hola, pequeño!{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}¡Mi puesto de globos está cerrado por ahora, lo siento!{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Espero que vengas en otro momento.
+{{anim:Greeting target="actor" targetSpec=""}}¡Hola, pequeño!
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}¡Mi puesto de globos está cerrado por ahora, lo siento!
+{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Espero que vengas en otro momento.
 
 ---
 label: 216
@@ -276,56 +260,55 @@ Estoy bien.
 label: 301
 attribute: 0x00000000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}} {{pageBreak}}
-{{anim:Shocked target="actor" targetSpec=""}}¡Oh, vaya!{{delay frames="40"}} Aquí dice{{anim:HappyFlower target="actor" targetSpec=""}} que has construido un muñeco de nieve perfecto!{{pageBreak}}
-{{anim:QuestionMark target="actor" targetSpec=""}}¿Sabías que a los muñecos de nieve
- les encantan las luces bonitas?{{pageBreak}}
-{{anim:Aha target="actor" targetSpec=""}}¡Es verdad!{{10:4}}{{delay40}}
- {{anim:Nodding target="actor" targetSpec=""}}Por eso creo que podrías usar esta receta de {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}mini árbol iluminado{{color id="-1"}}! {{delay20}}{{pageBreak}}
-{{anim:Smiling target="actor" targetSpec=""}}¡Buen trabajo, pequeño!
- ¡Te lo has ganado!{{anim:Greeting target="actor" targetSpec=""}}
+{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}}
+{{pageBreak}}{{anim:Shocked target="actor" targetSpec=""}}¡Oh, vaya!{{delay frames="40"}} Aquí dice{{anim:HappyFlower target="actor" targetSpec=""}} que has construido un muñeco de nieve perfecto!
+{{pageBreak}}{{anim:QuestionMark target="actor" targetSpec=""}}¿Sabías que a los muñecos de nieve les encantan las luces bonitas?
+{{pageBreak}}{{anim:Shocked target="actor" targetSpec=""}}Ni que hubieras hablado con Elsa de Rivendel para hacerlo{{string:Dots}}
+{{pageBreak}}{{anim:Aha target="actor" targetSpec=""}}¡Es verdad!{{10:4}}{{delay40}}
+{{anim:Nodding target="actor" targetSpec=""}}Por eso creo que podrías usar esta receta de un {{color id="1"}}mini árbol iluminado{{color id="-1"}}! {{delay20}}
+{{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}¡Buen trabajo, pequeño!
+¡Te lo has ganado!{{anim:Greeting target="actor" targetSpec=""}}
 
 ---
 label: 302
 attribute: 0x00000000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}} {{pageBreak}}
-{{anim:Shocked target="actor" targetSpec=""}}¡Oh, vaya!{{delay frames="40"}}{{anim:HappyFlower target="actor" targetSpec=""}} 
-¡Has construido bastantes muñecos de nieve!{{pageBreak}}
-{{anim:QuestionMark target="actor" targetSpec=""}}¿Llegaste a hacer ese {{delay8}}
-{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}mini árbol iluminado{{color id="-1"}} cuya receta te di?{{pageBreak}}
-{{anim:Smiling target="actor" targetSpec=""}}¡Creo que esta receta de {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}corazón iluminado{{color id="-1"}} quedaría muy bien junto a él!{{pageBreak}}
-{{delay20}}{{anim:Smiling target="actor" targetSpec=""}}¡Disfrútalo, pequeño!
+{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}}
+{{pageBreak}}{{anim:Shocked target="actor" targetSpec=""}}¡Oh, vaya!{{delay frames="40"}}{{anim:HappyFlower target="actor" targetSpec=""}}
+¡Has construido bastantes muñecos de nieve!
+{{pageBreak}}{{anim:QuestionMark target="actor" targetSpec=""}}¿Llegaste a hacer ese {{delay8}}{{color id="1"}}mini árbol iluminado{{color id="-1"}} cuya receta te di?
+{{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}¡Creo que esta receta de un {{color id="1"}}corazón iluminado{{color id="-1"}} quedaría muy bien junto a él!
+{{pageBreak}}{{delay20}}{{anim:Smiling target="actor" targetSpec=""}}¡Disfrútalo, pequeño!
 ¡Te lo has ganado!{{anim:Greeting target="actor" targetSpec=""}}
 
 ---
 label: 303
 attribute: 0x00000000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}} {{pageBreak}}
-{{anim:Shocked target="actor" targetSpec=""}}¡Oh, vaya!{{delay frames="40"}}{{anim:Nodding target="actor" targetSpec=""}} ¡Te estás volviendo bastante hábil construyendo muñecos de nieve!{{pageBreak}}
-{{anim:HappyFlower target="actor" targetSpec=""}}Por eso, ¡creo que te mereces esta receta de {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}arco iluminado{{color id="-1"}}! {{delay20}}{{anim:Greeting target="actor" targetSpec=""}}¡Enhorabuena!
+{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}}
+{{pageBreak}}{{anim:Shocked target="actor" targetSpec=""}}¡Oh, vaya!{{delay frames="40"}}{{anim:Nodding target="actor" targetSpec=""}} ¡Te estás volviendo bastante hábil construyendo muñecos de nieve!
+{{pageBreak}}{{anim:HappyFlower target="actor" targetSpec=""}}Por eso, ¡creo que te mereces esta receta de un {{color id="1"}}arco iluminado{{color id="-1"}}!{{delay20}}
+{{anim:Greeting target="actor" targetSpec=""}}¡Enhorabuena!
 
 ---
 label: 304
 attribute: 0x00000000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}} {{pageBreak}}
-{{anim:Shocked target="actor" targetSpec=""}}¡Oh, vaya!{{delay frames="40"}} Aquí dice que has construido muñecos de nieve perfectos durante todo un mes!{{pageBreak}}
-{{anim:HappyFlower target="actor" targetSpec=""}}¡Es como un pueblo entero de muñecos de nieve!{{pageBreak}}
-{{anim:IdeaBulb target="actor" targetSpec=""}}¡Oh, tengo la receta perfecta para un pueblo de muñecos de nieve! ¡Una receta de {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}reloj iluminado{{color id="-1"}}! {{delay20}}{{pageBreak}}
-{{anim:Greeting target="actor" targetSpec=""}}¡Espero que te guste!
+{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}}
+{{pageBreak}}{{anim:Shocked target="actor" targetSpec=""}}¡Oh, vaya!{{delay frames="40"}} Aquí dice que has construido muñecos de nieve perfectos durante todo un mes!
+{{pageBreak}}{{anim:HappyFlower target="actor" targetSpec=""}}¡Es como un pueblo entero de muñecos de nieve!
+{{pageBreak}}{{anim:IdeaBulb target="actor" targetSpec=""}}¡Oh, tengo la receta perfecta para un pueblo de muñecos de nieve! ¡Una receta de un {{color id="1"}}reloj iluminado{{color id="-1"}}! {{delay20}}
+{{pageBreak}}{{anim:Greeting target="actor" targetSpec=""}}¡Espero que te guste!
 
 ---
 label: 305
 attribute: 0x00000000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}} {{pageBreak}}
-{{anim:Shocked target="actor" targetSpec=""}}¡Excelente trabajo, {{delay8}}{{string:PlayerName}}!{{14:0 arg="0x00000E00"}}{{anim:Laughing target="actor" targetSpec=""}} ¡Arrrk ark ark!{{delay frames="40"}} ¡Has construido un ejército de muñecos de nieve perfectos!{{pageBreak}}
-{{anim:Grin target="actor" targetSpec=""}}{{pageBreak}}
-{{anim:FaintSmile target="actor" targetSpec=""}}Creo que eso merece un premio especial, {{anim:QuestionMark target="actor" targetSpec=""}}¿no te parece?{{pageBreak}}
-{{anim:BigSmile target="actor" targetSpec=""}}Tengo una receta muy especial de {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}iceberg{{color id="-1"}} que solo un pequeño como tú podría crear.{{pageBreak}}
-{{anim:Greeting target="actor" targetSpec=""}}¡Enhorabuena!
+{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}}
+{{pageBreak}}{{anim:Shocked target="actor" targetSpec=""}}¡Excelente trabajo, {{delay8}}{{string:PlayerName}}!{{14:0 arg="0x00000E00"}}{{anim:Laughing target="actor" targetSpec=""}} ¡Arrrk ark ark!{{delay frames="40"}} ¡Has construido un ejército de muñecos de nieve perfectos!
+{{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}Creo que eso merece un premio especial, {{anim:QuestionMark target="actor" targetSpec=""}}¿no te parece?
+{{pageBreak}}{{anim:BigSmile target="actor" targetSpec=""}}Tengo una receta muy especial de {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}iceberg{{color id="-1"}} que solo un pequeño como tú podría crear.
+{{pageBreak}}{{anim:Greeting target="actor" targetSpec=""}}¡Enhorabuena!
 
 ---
 label: 2100
@@ -356,23 +339,23 @@ attribute: 0x00000000
 label: 2105
 attribute: 0x00000000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}¿Oh, yo?{{pageBreak}}
-{{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark!{{delay frames="40"}} Bueno, soy {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Elio{{color id="-1"}}, ¡el hombre de las{{anim:FaintSmile target="actor" targetSpec=""}} insignias! {{pageBreak}}
-{{anim:FaintSmile target="actor" targetSpec=""}}Al menos{{string:Dots}}{{anim:Worried target="actor" targetSpec=""}} solía serlo.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}Verás, mi afición era dar insignias a todos los buenos pequeños, como tú.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Pero, estos nuevos {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Objetivos de Millas Nook{{color id="-1"}} han arrasado en el mundo, y, bueno{{string:Dots}}{{pageBreak}}
-{{anim:Sighing target="actor" targetSpec=""}}Parece que he vuelto a los globos.{{pageBreak}}
-{{anim:Thinking target="actor" targetSpec=""}}Pero{{string:Dots}}{{delay frames="40"}} ¡aún quiero animar a los pequeños{{anim:Assent target="actor" targetSpec=""}} como tú a salir ahí fuera y probar cosas nuevas!{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Aunque ya no sea el hombre de las insignias, aún{{anim:Explain target="actor" targetSpec=""}} te daré {{color id="1"}} recompensas especiales {{color id="-1"}} si eres muy bueno.{{pageBreak}}
-{{anim:HappyFlower target="actor" targetSpec=""}}¡Solo ven en algún momento, y asegúrate de enseñarme todos los {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Sellos de Millas Nook{{color id="-1"}} que has conseguido!{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Estaré aquí {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}todos los miércoles y sábados{{color id="-1"}}.{{delay frames="40"}} Nos{{anim:Greeting target="actor" targetSpec=""}} vemos, pequeño.
+{{anim:Smiling target="actor" targetSpec=""}}¿Quien, yo?
+{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark!{{delay frames="40"}} Bueno, soy {{color id="3"}}Elio{{color id="-1"}}, ¡el hombre de las{{anim:FaintSmile target="actor" targetSpec=""}} insignias!
+{{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}Al menos{{string:Dots}}{{anim:Worried target="actor" targetSpec=""}} solía serlo.
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Verás, mi afición era dar insignias a todos los buenos pequeños, como tú.
+{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Pero, estos nuevos {{color id="1"}}Objetivos de Millas Nook{{color id="-1"}} han arrasado en el mundo, y, bueno{{string:Dots}}
+{{pageBreak}}{{anim:Sighing target="actor" targetSpec=""}}Parece que he vuelto a los globos.
+{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}Pero{{string:Dots}}{{delay frames="40"}} ¡aún quiero animar a los pequeños{{anim:Assent target="actor" targetSpec=""}} como tú a salir ahí fuera y probar cosas nuevas!
+{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Aunque ya no sea el hombre de las insignias, aún{{anim:Explain target="actor" targetSpec=""}} te daré {{color id="1"}} recompensas especiales {{color id="-1"}} si eres muy bueno.
+{{pageBreak}}{{anim:HappyFlower target="actor" targetSpec=""}}¡Solo ven en algún momento, y asegúrate de enseñarme todos los {{color id="1"}}Sellos de Millas Nook{{color id="-1"}} que has conseguido!
+{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Estaré aquí {{color id="1"}}todos los miércoles y sábados{{color id="-1"}}.{{delay frames="40"}} Nos{{anim:Greeting target="actor" targetSpec=""}} vemos, pequeño.
 
 ---
 label: 2106
 attribute: 0x00000000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}Claro,{{delay frames="40"}} ¡un globo{{anim:FaintSmile target="actor" targetSpec=""}} en camino!{{pageBreak}}
-{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}}
+{{anim:Nodding target="actor" targetSpec=""}}Claro,{{delay frames="40"}} ¡un globo{{anim:FaintSmile target="actor" targetSpec=""}} en camino!
+{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}}
 ¿Cuál será bueno para hoy?
 
 ---
@@ -431,10 +414,9 @@ attribute: 0x00000000
 label: 2115
 attribute: 0x00000000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}Espero que lo disfrutes.{{delay frames="40"}} Solo asegúrate de mantener el equilibrio con él{{string:Dots}} {{pageBreak}}
-{{anim:ShyBoy target="actor" targetSpec=""}}He visto algunas caídas bastante feas 
-en mis días{{string:Dots}} {{pageBreak}}
-{{anim:Smiling target="actor" targetSpec=""}}Oh, no quiero asustarte.{{anim:Laughing target="actor" targetSpec=""}}
+{{anim:Smiling target="actor" targetSpec=""}}Espero que lo disfrutes.{{delay frames="40"}} Solo asegúrate de mantener el equilibrio con él{{string:Dots}}
+{{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}He visto algunas caídas bastante feas en mis días{{string:Dots}}
+{{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}Oh, no quiero asustarte.{{anim:Laughing target="actor" targetSpec=""}}
 ¡Arrrk ark ark!{{delay frames="40"}} ¡Solo ten{{anim:Greeting target="actor" targetSpec=""}} cuidado!
 
 ---
@@ -448,37 +430,31 @@ attribute: 0x00000000
 label: 2123
 attribute: 0x00000000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}} {{pageBreak}}
-{{anim:Worried target="actor" targetSpec=""}}Lo siento, no parece que hayas hecho nada nuevo{{anim:Negative target="actor" targetSpec=""}} recientemente.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}Por el lado bueno, ¡eso significa que aún tienes más cosas que hacer! ¡Más que esperar!{{pageBreak}}
-{{anim:Cheering target="actor" targetSpec=""}}¡Ve a por ello, pequeño!{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Confío en ti.
+{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}}
+{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}Lo siento, no parece que hayas hecho nada nuevo{{anim:Negative target="actor" targetSpec=""}} recientemente.
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Pero mira el lado bueno, ¡eso significa que aún tienes más cosas que hacer!
+{{pageBreak}}{{anim:Cheering target="actor" targetSpec=""}}¡Ve a por ello, pequeño!
+{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Confío en ti.
 
 ---
 label: 2124
 attribute: 0x2A150000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}} {{pageBreak}}
-{{anim:Shocked target="actor" targetSpec=""}}¡Oh, vaya!{{delay frames="40"}} Parece que{{anim:HappyFlower target="actor" targetSpec=""}} tu criaturologo tiene todo tipo 
-de peces divertidos!{{pageBreak}}
-{{anim:Smiling target="actor" targetSpec=""}}Sabes, tengo una {{color id="1"}}recompensa especial{{color id="-1"}} 
-para pequeños como tú que
-saben mucho sobre peces.{{pageBreak}}
-{{anim:BigSmile target="actor" targetSpec=""}}¡Aquí tienes!{{delay frames="40"}}
-¡Es una receta DIY especial{{anim:Nodding target="actor" targetSpec=""}} para 
-una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}caña de plata{{color id="-1"}}! ¡Disfrútala!
+{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}}
+{{pageBreak}}{{anim:Shocked target="actor" targetSpec=""}}¡Oh, vaya!{{delay frames="40"}} Parece que{{anim:HappyFlower target="actor" targetSpec=""}} tu capturapedia tiene todo tipo de peces divertidos!
+{{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}Sabes, tengo una {{color id="1"}}recompensa especial{{color id="-1"}} para pequeños como tú que saben mucho sobre peces.
+{{pageBreak}}{{anim:BigSmile target="actor" targetSpec=""}}¡Aquí tienes!{{delay frames="40"}}
+¡Es una receta especial{{anim:Nodding target="actor" targetSpec=""}} para una {{color id="1"}}caña de plata{{color id="-1"}}! ¡Disfrútala!
 
 ---
 label: 2125
 attribute: 0x2A150000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}} {{pageBreak}}
-{{anim:Shocked target="actor" targetSpec=""}}¡Oh, vaya!{{delay frames="40"}} Parece que{{anim:HappyFlower target="actor" targetSpec=""}} has añadido una letanía completa de montones de pequeños insectos a tu criaturologo!{{pageBreak}}
-{{anim:HappyDance target="actor" targetSpec=""}}Tengo una {{color id="1"}}recompensa especial{{color id="-1"}} para
-pequeños como tú,{{delay8}} que sabéis
-{{anim:Nodding target="actor" targetSpec=""}}algo sobre bichos.{{pageBreak}}
+{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}}
+{{pageBreak}}{{anim:Shocked target="actor" targetSpec=""}}¡Oh, vaya!{{delay frames="40"}} Parece que{{anim:HappyFlower target="actor" targetSpec=""}} has añadido una letanía completa de montones de pequeños insectos a tu capturapedia!
+{{pageBreak}}{{anim:HappyDance target="actor" targetSpec=""}}Tengo una {{color id="1"}}recompensa especial{{color id="-1"}} para pequeños como tú,{{delay8}} que sabéis {{anim:Nodding target="actor" targetSpec=""}}algo sobre bichos.{{pageBreak}}
 {{anim:Greeting target="actor" targetSpec=""}}Así que, ¡aquí tienes!{{delay frames="40"}}{{10:4}}{{delay8}}
-{{anim:BigSmile target="actor" targetSpec=""}}Es una receta DIY{{delay20}} para una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}red de plata{{color id="-1"}}.
+{{anim:BigSmile target="actor" targetSpec=""}}Es una receta especial{{delay20}} para una {{color id="1"}}red de plata{{color id="-1"}}.
 
 ---
 label: 2125_1

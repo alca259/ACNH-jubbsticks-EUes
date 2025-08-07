@@ -33,23 +33,23 @@ attribute: 0x00000000
 label: 2105
 attribute: 0x00000000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}¿Oh, yo?{{pageBreak}}
-{{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark!{{delay frames="40"}} Pues soy {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Elio{{color id="-1"}}, ¡el {{anim:FaintSmile target="actor" targetSpec=""}}hombre de las medallas!{{pageBreak}}
-{{anim:FaintSmile target="actor" targetSpec=""}}O al menos{{string:Dots}}{{anim:Worried target="actor" targetSpec=""}} lo era antes.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}Verás, mi afición era entregar medallas a todos los chicos y chicas buenos como tú.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Pero estas nuevas {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}metas de millas Nook{{color id="-1"}} lo han cambiado todo y, bueno{{string:Dots}}{{pageBreak}}
-{{anim:Sighing target="actor" targetSpec=""}}Parece que me toca volver a los globos.{{pageBreak}}
-{{anim:Thinking target="actor" targetSpec=""}}Pero{{string:Dots}}{{delay frames="40"}} sigo queriendo animaros{{anim:Assent target="actor" targetSpec=""}} a salir ahí fuera y probar cosas nuevas{{string:Dots}}{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Aunque ya no sea el hombre de las medallas, {{anim:Explain target="actor" targetSpec=""}}todavía te daré recompensas especiales si te portas fenomenal{{string:Dots}}{{pageBreak}}
-{{anim:HappyFlower target="actor" targetSpec=""}}¡Pásate cuando quieras y enséñame todos los {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sellos de millas Nook{{color id="-1"}} que hayas conseguido!{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Estaré por aquí {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}todos los miércoles y sábados{{color id="-1"}}.{{delay frames="40"}} Así que...{{anim:Greeting target="actor" targetSpec=""}} ¡nos vemos, chaval!
+{{anim:Smiling target="actor" targetSpec=""}}¿Oh, yo?
+{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark!{{delay frames="40"}} Pues soy {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Elio{{color id="-1"}}, ¡el {{anim:FaintSmile target="actor" targetSpec=""}}hombre de las medallas!
+{{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}O al menos{{string:Dots}}{{anim:Worried target="actor" targetSpec=""}} lo era antes.
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Verás, mi afición era entregar medallas a todos los chicos y chicas buenos como tú.
+{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Pero estas nuevas {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}metas de millas Nook{{color id="-1"}} lo han cambiado todo y, bueno{{string:Dots}}
+{{pageBreak}}{{anim:Sighing target="actor" targetSpec=""}}Parece que me toca volver a los globos.
+{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}Pero{{string:Dots}}{{delay frames="40"}} sigo queriendo animaros{{anim:Assent target="actor" targetSpec=""}} a salir ahí fuera y probar cosas nuevas{{string:Dots}}
+{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Aunque ya no sea el hombre de las medallas, {{anim:Explain target="actor" targetSpec=""}}todavía te daré recompensas especiales si te portas fenomenal{{string:Dots}}
+{{pageBreak}}{{anim:HappyFlower target="actor" targetSpec=""}}¡Pásate cuando quieras y enséñame todos los {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sellos de millas Nook{{color id="-1"}} que hayas conseguido!
+{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Estaré por aquí {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}todos los miércoles y sábados{{color id="-1"}}.{{delay frames="40"}} Así que...{{anim:Greeting target="actor" targetSpec=""}} ¡nos vemos, chaval!
 
 ---
 label: 2106
 attribute: 0x53010000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}Claro,{{delay frames="40"}} un globo{{anim:FaintSmile target="actor" targetSpec=""}} listo para salir{{string:Dots}} {{pageBreak}}
-{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}} ¿cuál estaría bien para hoy{{string:Dots}}?
+{{anim:Nodding target="actor" targetSpec=""}}Claro,{{delay frames="40"}} un globo{{anim:FaintSmile target="actor" targetSpec=""}} listo para salir{{string:Dots}}
+{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}} ¿cuál estaría bien para hoy{{string:Dots}}?
 
 ---
 label: 2107
@@ -103,9 +103,9 @@ attribute: 0x38100000
 label: 2115
 attribute: 0x34120000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}Espero que lo disfrutes.{{delay frames="40"}} Solo procura mantener el equilibrio con él{{string:Dots}} {{pageBreak}}
-{{anim:ShyBoy target="actor" targetSpec=""}}He visto unas cuantas caídas bastante malas en mi época{{string:Dots}} {{pageBreak}}
-{{anim:Smiling target="actor" targetSpec=""}}Bueno, no quiero asustarte.{{anim:Laughing target="actor" targetSpec=""}} ¡Arrrk ark ark!{{delay frames="40"}} Solo{{anim:Greeting target="actor" targetSpec=""}} ten cuidado.
+{{anim:Smiling target="actor" targetSpec=""}}Espero que lo disfrutes.{{delay frames="40"}} Solo procura mantener el equilibrio con él{{string:Dots}}
+{{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}He visto unas cuantas caídas bastante malas en mi época{{string:Dots}}
+{{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}Bueno, no quiero asustarte.{{anim:Laughing target="actor" targetSpec=""}} ¡Arrrk ark ark!{{delay frames="40"}} Solo{{anim:Greeting target="actor" targetSpec=""}} ten cuidado.
 
 ---
 label: 2112_a
@@ -147,11 +147,11 @@ attribute: 0xDA130000
 label: 2123
 attribute: 0xFC130000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}} {{pageBreak}}
-{{anim:Worried target="actor" targetSpec=""}}Lo siento, parece que no has hecho nada nuevo{{anim:Negative target="actor" targetSpec=""}} últimamente.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}¡Bueno, míralo por el lado bueno! Aún queda mucho por hacer... ¡y muchas cosas que esperar con ganas!{{pageBreak}}
-{{anim:Cheering target="actor" targetSpec=""}}¡A por todas, chaval!{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Creo en ti.
+{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}}
+{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}Lo siento, parece que no has hecho nada nuevo{{anim:Negative target="actor" targetSpec=""}} últimamente.
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}¡Bueno, míralo por el lado bueno! Aún queda mucho por hacer... ¡y muchas cosas que esperar con ganas!
+{{pageBreak}}{{anim:Cheering target="actor" targetSpec=""}}¡A por todas, chaval!
+{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Creo en ti.
 
 ---
 label: 2103_a
@@ -175,76 +175,76 @@ attribute: 0xEE140000
 label: 2124
 attribute: 0x08150000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}} {{pageBreak}}
-{{anim:Shocked target="actor" targetSpec=""}}¡Ostras!{{delay frames="40"}} Parece que{{anim:HappyFlower target="actor" targetSpec=""}} tu enciclopedia está llena de peces divertidísimos.{{pageBreak}}
-{{anim:Smiling target="actor" targetSpec=""}}¿Sabes? Tengo una{{anim:Nodding target="actor" targetSpec=""}} recompensa especial para chavales como tú que saben mucho de peces.{{pageBreak}}
-{{anim:BigSmile target="actor" targetSpec=""}}Aquí tienes.{{delay frames="40"}} Es una receta de bricolaje muy especial{{anim:Nodding target="actor" targetSpec=""}} para una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}caña de pescar plateada{{color id="-1"}}. Sé que le sacarás buen provecho.
+{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}}
+{{pageBreak}}{{anim:Shocked target="actor" targetSpec=""}}¡Ostras!{{delay frames="40"}} Parece que{{anim:HappyFlower target="actor" targetSpec=""}} tu enciclopedia está llena de peces divertidísimos.
+{{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}¿Sabes? Tengo una{{anim:Nodding target="actor" targetSpec=""}} recompensa especial para chavales como tú que saben mucho de peces.
+{{pageBreak}}{{anim:BigSmile target="actor" targetSpec=""}}Aquí tienes.{{delay frames="40"}} Es una receta de bricolaje muy especial{{anim:Nodding target="actor" targetSpec=""}} para una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}caña de pescar plateada{{color id="-1"}}. Sé que le sacarás buen provecho.
 
 ---
 label: 2125
 attribute: 0x2A150000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}} {{pageBreak}}
-{{anim:Shocked target="actor" targetSpec=""}}¡Ostras!{{delay frames="40"}} Parece que{{anim:HappyFlower target="actor" targetSpec=""}} tu enciclopedia está llena de insectos divertidísimos.{{pageBreak}}
-{{anim:Smiling target="actor" targetSpec=""}}¿Sabes? Tengo una{{anim:Nodding target="actor" targetSpec=""}} recompensa especial para chavales como tú que saben mucho de insectos.{{pageBreak}}
-{{anim:BigSmile target="actor" targetSpec=""}}Aquí tienes.{{delay frames="40"}} Es una receta de bricolaje muy especial{{anim:Nodding target="actor" targetSpec=""}} para una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}red plateada{{color id="-1"}}. Sé que le sacarás buen provecho.
+{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}}
+{{pageBreak}}{{anim:Shocked target="actor" targetSpec=""}}¡Ostras!{{delay frames="40"}} Parece que{{anim:HappyFlower target="actor" targetSpec=""}} tu enciclopedia está llena de insectos divertidísimos.
+{{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}¿Sabes? Tengo una{{anim:Nodding target="actor" targetSpec=""}} recompensa especial para chavales como tú que saben mucho de insectos.
+{{pageBreak}}{{anim:BigSmile target="actor" targetSpec=""}}Aquí tienes.{{delay frames="40"}} Es una receta de bricolaje muy especial{{anim:Nodding target="actor" targetSpec=""}} para una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}red plateada{{color id="-1"}}. Sé que le sacarás buen provecho.
 
 ---
 label: 2117
 attribute: 0x6A150000
 ---
-{{anim:Shocked target="actor" targetSpec=""}}¡Oh no! Me temo que {{anim:Frantic target="actor" targetSpec=""}}no he preparado ningún globo para darte hoy{{string:Dots}} {{pageBreak}}
-{{anim:IdeaBulb target="actor" targetSpec=""}}¡Ah, ya sé! Iba a guardarlo para una ocasión más especial, pero tengo algunas {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}recetas de globos especiales{{color id="-1"}} para ti.{{pageBreak}}
-{{anim:SmugFace target="actor" targetSpec=""}}Se me ocurrieron después de comprar una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}gema{{color id="-1"}} a un vendedor que conocí por aquí hace poco.{{pageBreak}}
-{{anim:Thinking target="actor" targetSpec=""}}¿Cómo se llamaba{{string:Dots}}? ¿Remy? ¿Rese T? {{string:Dots}}¿Risotto?{{pageBreak}}
-{{anim:Oops target="actor" targetSpec=""}}Bueno, parece que se me ha olvidado.{{anim:Explain target="actor" targetSpec=""}} En fin, estaba buscando un buen sitio por la zona para vender sus cosas.{{pageBreak}}
-{{anim:OhGeez target="actor" targetSpec=""}}Probablemente no lo vuelva a ver;{{anim:Negative target="actor" targetSpec=""}} creo que dijo que solo piensa estar por aquí los {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}viernes{{color id="-1"}}.{{pageBreak}}
-{{anim:Oops target="actor" targetSpec=""}}¡Avísame si lo ves! Así puedo crear más {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}recetas de globos especiales{{color id="-1"}} basadas en esas {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}gemas{{color id="-1"}}.
+{{anim:Shocked target="actor" targetSpec=""}}¡Oh no! Me temo que {{anim:Frantic target="actor" targetSpec=""}}no he preparado ningún globo para darte hoy{{string:Dots}}
+{{pageBreak}}{{anim:IdeaBulb target="actor" targetSpec=""}}¡Ah, ya sé! Iba a guardarlo para una ocasión más especial, pero tengo algunas {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}recetas de globos especiales{{color id="-1"}} para ti.
+{{pageBreak}}{{anim:SmugFace target="actor" targetSpec=""}}Se me ocurrieron después de comprar una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}gema{{color id="-1"}} a un vendedor que conocí por aquí hace poco.
+{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}¿Cómo se llamaba{{string:Dots}}? ¿Remy? ¿Rese T? {{string:Dots}}¿Risotto?
+{{pageBreak}}{{anim:Oops target="actor" targetSpec=""}}Bueno, parece que se me ha olvidado.{{anim:Explain target="actor" targetSpec=""}} En fin, estaba buscando un buen sitio por la zona para vender sus cosas.
+{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}Probablemente no lo vuelva a ver;{{anim:Negative target="actor" targetSpec=""}} creo que dijo que solo piensa estar por aquí los {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}viernes{{color id="-1"}}.
+{{pageBreak}}{{anim:Oops target="actor" targetSpec=""}}¡Avísame si lo ves! Así puedo crear más {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}recetas de globos especiales{{color id="-1"}} basadas en esas {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}gemas{{color id="-1"}}.
 
 ---
 label: 2118
 attribute: 0xA6150000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}Por ahora te enviaré recetas para cada tipo de {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo amatista{{color id="-1"}}.{{pageBreak}}
-{{anim:Negative target="actor" targetSpec=""}}Necesitarás {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globos color índigo{{color id="-1"}} para crearlos. Estoy bastante seguro de que ya te he dado alguno de esos antes.{{pageBreak}}
-{{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark!{{delay frames="40"}} Para un chaval tan listo como tú, esto será pan comido.
+{{anim:Nodding target="actor" targetSpec=""}}Por ahora te enviaré recetas para cada tipo de {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo amatista{{color id="-1"}}.
+{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}Necesitarás {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globos color índigo{{color id="-1"}} para crearlos. Estoy bastante seguro de que ya te he dado alguno de esos antes.
+{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark!{{delay frames="40"}} Para un chaval tan listo como tú, esto será pan comido.
 
 ---
 label: 2119
 attribute: 0xF2160000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}Por ahora te enviaré recetas para cada tipo de {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo rubí{{color id="-1"}}.{{pageBreak}}
-{{anim:Negative target="actor" targetSpec=""}}Necesitarás {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globos color rosa{{color id="-1"}} para crearlos. Estoy bastante seguro de que ya te he dado alguno de esos antes.{{pageBreak}}
-{{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark!{{delay frames="40"}} Para un chaval tan listo como tú, esto será pan comido.
+{{anim:Nodding target="actor" targetSpec=""}}Por ahora te enviaré recetas para cada tipo de {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo rubí{{color id="-1"}}.
+{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}Necesitarás {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globos color rosa{{color id="-1"}} para crearlos. Estoy bastante seguro de que ya te he dado alguno de esos antes.
+{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark!{{delay frames="40"}} Para un chaval tan listo como tú, esto será pan comido.
 
 ---
 label: 2120
 attribute: 0x0C170000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}Por ahora te enviaré recetas para cada tipo de {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo zafiro{{color id="-1"}}.{{pageBreak}}
-{{anim:Negative target="actor" targetSpec=""}}Necesitarás {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globos color celeste{{color id="-1"}} para crearlos. Estoy bastante seguro de que ya te he dado alguno de esos antes.{{pageBreak}}
-{{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark!{{delay frames="40"}} Para un chaval tan listo como tú, esto será pan comido.
+{{anim:Nodding target="actor" targetSpec=""}}Por ahora te enviaré recetas para cada tipo de {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo zafiro{{color id="-1"}}.
+{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}Necesitarás {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globos color celeste{{color id="-1"}} para crearlos. Estoy bastante seguro de que ya te he dado alguno de esos antes.
+{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark!{{delay frames="40"}} Para un chaval tan listo como tú, esto será pan comido.
 
 ---
 label: 2121
 attribute: 0x2E170000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}Por ahora te enviaré recetas para cada tipo de {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo esmeralda{{color id="-1"}}.{{pageBreak}}
-{{anim:Negative target="actor" targetSpec=""}}Necesitarás {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globos color verde{{color id="-1"}} para crearlos. Estoy bastante seguro de que ya te he dado alguno de esos antes.{{pageBreak}}
-{{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark!{{delay frames="40"}} Para un chaval tan listo como tú, esto será pan comido.
+{{anim:Nodding target="actor" targetSpec=""}}Por ahora te enviaré recetas para cada tipo de {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globo esmeralda{{color id="-1"}}.
+{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}Necesitarás {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}globos color verde{{color id="-1"}} para crearlos. Estoy bastante seguro de que ya te he dado alguno de esos antes.
+{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark!{{delay frames="40"}} Para un chaval tan listo como tú, esto será pan comido.
 
 ---
 label: 2126
 attribute: 0x5E170000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}} {{pageBreak}}
-{{anim:Shocked target="actor" targetSpec=""}}¡Oh, vaya!{{delay frames="40"}} Parece que{{anim:HappyFlower target="actor" targetSpec=""}} eres todo un tirador de primera con los globos regalo.{{pageBreak}}
-{{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark!{{delay frames="40"}} Yo diría que eso merece un premio especial, ¿no te parece?{{pageBreak}}
-{{anim:Thinking target="actor" targetSpec=""}}Veamos qué tengo por aquí{{string:Dots}}{{delay frames="40"}} {{anim:BigSmile target="actor" targetSpec=""}}¡Ah! Por supuesto. Aquí tienes una receta de bricolaje muy especial{{anim:Nodding target="actor" targetSpec=""}} para un chaval único: la receta del {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}tirachinas plateado{{color id="-1"}}.
+{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}}
+{{pageBreak}}{{anim:Shocked target="actor" targetSpec=""}}¡Oh, vaya!{{delay frames="40"}} Parece que{{anim:HappyFlower target="actor" targetSpec=""}} eres todo un tirador de primera con los globos regalo.
+{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark!{{delay frames="40"}} Yo diría que eso merece un premio especial, ¿no te parece?
+{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}Veamos qué tengo por aquí{{string:Dots}}{{delay frames="40"}} {{anim:BigSmile target="actor" targetSpec=""}}¡Ah! Por supuesto. Aquí tienes una receta de bricolaje muy especial{{anim:Nodding target="actor" targetSpec=""}} para un chaval único: la receta del {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}tirachinas plateado{{color id="-1"}}.
 
 ---
 label: 2127
 attribute: 0xAA180000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}} {{pageBreak}}
-{{anim:Shocked target="actor" targetSpec=""}}¡Buen trabajo, {{delay8}}{{string:PlayerName}}!{{14:0 arg="0x00000E00"}}
+{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}}
+{{pageBreak}}{{anim:Shocked target="actor" targetSpec=""}}¡Buen trabajo, {{delay8}}{{string:PlayerName}}!{{14:0 arg="0x00000E00"}}

@@ -137,8 +137,8 @@ attribute: 0x00000000
 label: 316_01
 attribute: 0x00000000
 ---
-{{anim:Oops target="actor" targetSpec=""}}Ah,{{delay8}} ¿cambiaste de opinión?{{pageBreak}}
-{{anim:Smiling target="actor" targetSpec=""}}No pasa nada,{{delay8}} estaré aquí todo el día por si decides {{anim:Nodding target="actor" targetSpec=""}}volver a cambiarla.
+{{anim:Oops target="actor" targetSpec=""}}Ah,{{delay8}} ¿cambiaste de opinión?
+{{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}No pasa nada,{{delay8}} estaré aquí todo el día por si decides {{anim:Nodding target="actor" targetSpec=""}}volver a cambiarla.
 
 ---
 label: 317
@@ -150,16 +150,16 @@ attribute: 0x00000000
 label: 318
 attribute: 0x00000000
 ---
-{{anim:Eh target="actor" targetSpec=""}}Oh, {{delay20}}no puedo cultivar brotes de manera efectiva{{anim:Negative target="actor" targetSpec=""}} a partir de un {{color id="1"}}brote de bambú{{color id="-1"}}.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}Si tienes algún {{color id="1"}}bambú{{color id="-1"}} que haya crecido un poquito, {{delay20}}{{anim:Nodding target="actor" targetSpec=""}}probablemente ese funcionaría mucho mejor.{{pageBreak}}
-{{anim:Laughing target="actor" targetSpec=""}}¡Pero no traigas un bambú adulto!{{delay8}} {{10:4}}{{delay8}}{{anim:Negative target="actor" targetSpec=""}} Sería demasiado grande para que me lo lleve{{string:Dots}}
+{{anim:Eh target="actor" targetSpec=""}}Oh, {{delay20}}no puedo cultivar brotes de manera efectiva{{anim:Negative target="actor" targetSpec=""}} a partir de un {{color id="1"}}brote de bambú{{color id="-1"}}.
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Si tienes algún {{color id="1"}}bambú{{color id="-1"}} que haya crecido un poquito, {{delay20}}{{anim:Nodding target="actor" targetSpec=""}}probablemente ese funcionaría mucho mejor.
+{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}¡Pero no traigas un bambú adulto!{{delay8}} {{10:4}}{{delay8}}{{anim:Negative target="actor" targetSpec=""}} Sería demasiado grande para que me lo lleve{{string:Dots}}
 
 ---
 label: 319
 attribute: 0x00000000
 ---
-{{anim:Eh target="actor" targetSpec=""}}Oh, {{delay20}}no puedo cultivar brotes de manera efectiva{{anim:Negative target="actor" targetSpec=""}} si se trata de un árbol completamente desarrollado.{{anim:Explain target="actor" targetSpec=""}}Si tienes algún {{color id="1"}}bambú{{color id="-1"}} que haya crecido solo un poquito, {{delay20}}{{anim:Nodding target="actor" targetSpec=""}}probablemente funcionaría mucho mejor.{{pageBreak}}
-{{anim:Laughing target="actor" targetSpec=""}}¡Pero no traigas uno de vivero!{{delay8}} {{10:4}}{{delay8}}{{anim:Worried target="actor" targetSpec=""}}No aguantaría lo suficiente como para que me lo lleve{{string:Dots}}
+{{anim:Eh target="actor" targetSpec=""}}Oh, {{delay20}}no puedo cultivar brotes de manera efectiva{{anim:Negative target="actor" targetSpec=""}} si se trata de un árbol completamente desarrollado.{{anim:Explain target="actor" targetSpec=""}}Si tienes algún {{color id="1"}}bambú{{color id="-1"}} que haya crecido solo un poquito, {{delay20}}{{anim:Nodding target="actor" targetSpec=""}}probablemente funcionaría mucho mejor.
+{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}¡Pero no traigas uno de vivero!{{delay8}} {{10:4}}{{delay8}}{{anim:Worried target="actor" targetSpec=""}}No aguantaría lo suficiente como para que me lo lleve{{string:Dots}}
 
 ---
 label: 320
@@ -191,12 +191,12 @@ attribute: 0x00000000
 label: 322
 attribute: 0x00000000
 ---
-Aiss,{{delay8}}{{anim:BigSmile target="actor" targetSpec=""}} ¡gracias!{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}Intentaré tener algunos {{color id="1"}}brotes de bambú{{color id="-1"}} listos para ti pronto,{{delay8}} {{anim:Hesitate target="actor" targetSpec=""}}pero ten en cuenta que puede tardar más de un día.
+Aiss,{{delay8}}{{anim:BigSmile target="actor" targetSpec=""}} ¡gracias!
+{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Intentaré tener algunos {{color id="1"}}brotes de bambú{{color id="-1"}} listos para ti pronto,{{delay8}} {{anim:Hesitate target="actor" targetSpec=""}}pero ten en cuenta que puede tardar más de un día.
 
 ---
 label: 323
 attribute: 0x00000000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}{{uppercaseNextWord}}{{string:PlayerName}}, creo que ya me diste bambú para cultivar hoy.{{pageBreak}}
-{{anim:Blushing target="actor" targetSpec=""}}Agradezco tu confianza,{{delay8}} pero por favor dame tiempo para concentrarme en este encargo primero.
+{{anim:Thinking target="actor" targetSpec=""}}{{uppercaseNextWord}}{{string:PlayerName}}, creo que ya me diste bambú para cultivar hoy.
+{{pageBreak}}{{anim:Blushing target="actor" targetSpec=""}}Agradezco tu confianza,{{delay8}} pero por favor dame tiempo para concentrarme en este encargo primero.

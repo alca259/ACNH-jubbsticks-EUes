@@ -18,8 +18,8 @@ label: 133
 attribute: 0x00000000
 ---
 {{anim:Surprised target="actor" targetSpec=""}}¡WOOOW! {{delay40}}¡Qué suerte la tuya!{{10:4}}{{delay8}}{{anim:Clapping target="actor" targetSpec=""}} 
-¡Has sacado el {{color id="1"}}ticket plateado{{color id="-1"}} de la suerte!{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}El premio de este es algo muy especial:{{delay40}} una receta para una {{anim:Smiling target="actor" targetSpec=""}}{{color id="1"}}hacha plateada{{color id="-1"}}! 
+¡Has sacado el {{color id="1"}}ticket plateado{{color id="-1"}} de la suerte!
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}El premio de este es algo muy especial:{{delay40}} una receta para una {{anim:Smiling target="actor" targetSpec=""}}{{color id="1"}}hacha plateada{{color id="-1"}}! 
 Aquí tienes,{{delay8}} chaval!
 
 ---
@@ -85,16 +85,16 @@ label: 145
 attribute: 0xBA020000
 ---
 {{anim:Thinking target="actor" targetSpec=""}}Espera{{string:Dots}}¿no crecen {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}manzanas{{color id="-1"}}{{delay20}}
-{{anim:QuestionMark target="actor" targetSpec=""}}por todas partes en {{10:13}}{{color id="1"}}{{uppercaseNextWord}}{{string:OtherIslandName}}{{color id="15"}}{{color id="-1"}}?{{pageBreak}}
-{{anim:WrySmile target="actor" targetSpec=""}}Vaya, un objeto de la suerte un tanto desafortunado el de hoy{{string:Dots}}
+{{anim:QuestionMark target="actor" targetSpec=""}}por todas partes en {{10:13}}{{color id="1"}}{{uppercaseNextWord}}{{string:OtherIslandName}}{{color id="15"}}{{color id="-1"}}?
+{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}Vaya, un objeto de la suerte un tanto desafortunado el de hoy{{string:Dots}}
 
 ---
 label: 148
 attribute: 0xDE020000
 ---
 {{anim:Thinking target="actor" targetSpec=""}}Espera{{string:Dots}}¿no crecen {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}melocotones{{color id="-1"}}{{delay20}}
-{{anim:QuestionMark target="actor" targetSpec=""}}por todas partes en {{10:13}}{{color id="1"}}{{uppercaseNextWord}}{{string:OtherIslandName}}{{color id="15"}}{{color id="-1"}}?{{pageBreak}}
-{{anim:WrySmile target="actor" targetSpec=""}}Vaya, un objeto de la suerte un tanto desafortunado el de hoy{{string:Dots}}
+{{anim:QuestionMark target="actor" targetSpec=""}}por todas partes en {{10:13}}{{color id="1"}}{{uppercaseNextWord}}{{string:OtherIslandName}}{{color id="15"}}{{color id="-1"}}?
+{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}Vaya, un objeto de la suerte un tanto desafortunado el de hoy{{string:Dots}}
 
 ---
 label: 150
@@ -108,42 +108,42 @@ label: 146
 attribute: 0xAE030000
 ---
 {{anim:Thinking target="actor" targetSpec=""}}Espera{{string:Dots}}¿no crecen {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}naranjas{{color id="-1"}}{{delay20}}
-{{anim:QuestionMark target="actor" targetSpec=""}}por todas partes en {{10:13}}{{color id="1"}}{{uppercaseNextWord}}{{string:OtherIslandName}}{{color id="15"}}{{color id="-1"}}?{{pageBreak}}
-{{anim:WrySmile target="actor" targetSpec=""}}Vaya, un objeto de la suerte un tanto desafortunado el de hoy{{string:Dots}}
+{{anim:QuestionMark target="actor" targetSpec=""}}por todas partes en {{10:13}}{{color id="1"}}{{uppercaseNextWord}}{{string:OtherIslandName}}{{color id="15"}}{{color id="-1"}}?
+{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}Vaya, un objeto de la suerte un tanto desafortunado el de hoy{{string:Dots}}
 
 ---
 label: 147
 attribute: 0xD2030000
 ---
 {{anim:Thinking target="actor" targetSpec=""}}Espera{{string:Dots}}¿no crecen {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}peras{{color id="-1"}}{{delay20}}
-{{anim:QuestionMark target="actor" targetSpec=""}}por todas partes en {{10:13}}{{color id="1"}}{{uppercaseNextWord}}{{string:OtherIslandName}}{{color id="15"}}{{color id="-1"}}?{{pageBreak}}
-{{anim:WrySmile target="actor" targetSpec=""}}Vaya, un objeto de la suerte un tanto desafortunado el de hoy{{string:Dots}}
+{{anim:QuestionMark target="actor" targetSpec=""}}por todas partes en {{10:13}}{{color id="1"}}{{uppercaseNextWord}}{{string:OtherIslandName}}{{color id="15"}}{{color id="-1"}}?
+{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}Vaya, un objeto de la suerte un tanto desafortunado el de hoy{{string:Dots}}
 
 ---
 label: 149
 attribute: 0xD0040000
 ---
 {{anim:Thinking target="actor" targetSpec=""}}Espera{{string:Dots}}¿no crecen {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}cerezas{{color id="-1"}}{{delay20}}
-{{anim:QuestionMark target="actor" targetSpec=""}}por todas partes en {{10:13}}{{color id="1"}}{{uppercaseNextWord}}{{string:OtherIslandName}}{{color id="15"}}{{color id="-1"}}?{{pageBreak}}
-{{anim:WrySmile target="actor" targetSpec=""}}Vaya, un objeto de la suerte un tanto desafortunado el de hoy{{string:Dots}}
+{{anim:QuestionMark target="actor" targetSpec=""}}por todas partes en {{10:13}}{{color id="1"}}{{uppercaseNextWord}}{{string:OtherIslandName}}{{color id="15"}}{{color id="-1"}}?
+{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}Vaya, un objeto de la suerte un tanto desafortunado el de hoy{{string:Dots}}
 
 ---
 label: 160
 attribute: 0xD0040000
 ---
-{{anim:Eh target="actor" targetSpec=""}}Oh,{{delay20}} ¡parece que has encontrado tu {{anim:Smiling target="actor" targetSpec=""}}boleto de la suerte del día,{{delay8}} colega!{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Sigue jugando para obtener las golosinas y baratijas de siempre,{{delay8}} pero tendrás que esperar hasta mañana para conseguir otro boleto de la suerte.
+{{anim:Eh target="actor" targetSpec=""}}Oh,{{delay20}} ¡parece que has encontrado tu {{anim:Smiling target="actor" targetSpec=""}}boleto de la suerte del día,{{delay8}} colega!
+{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Sigue jugando para obtener las golosinas y baratijas de siempre,{{delay8}} pero tendrás que esperar hasta mañana para conseguir otro boleto de la suerte.
 
 ---
 label: 161
 attribute: 0x00000000
 ---
-{{anim:TakenAback target="actor" targetSpec=""}}¡No puede ser!{{pageBreak}}
+{{anim:TakenAback target="actor" targetSpec=""}}¡No puede ser!
 {{anim:Laughing target="actor" targetSpec=""}}¡Hoy estás SUPER afortunado,{{delay8}} colega!{{delay8}}{{delay8}}{{delay8}}{{delay8}}{{delay8}}{{10:4}}{{delay8}}
-{{anim:Clapping target="actor" targetSpec=""}}¡Has sacado el boleto arcoíris!{{delay8}}{{pageBreak}}
-{{anim:Clapping target="actor" targetSpec=""}}Tu premio es un lote especial de recetas para un {{color id="1"}}hacha de gema{{color id="-1"}}!{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}¡Te permitirán recolorear esa {{color id="1"}}hacha plateada{{color id="-1"}} que ganaste hace tiempo!{{delay20}} ¡Qué suerte!{{pageBreak}}
-{{anim:FaintSmile target="actor" targetSpec=""}}Te envío el lote de recetas ahora.
+{{anim:Clapping target="actor" targetSpec=""}}¡Has sacado el boleto arcoíris!{{delay8}}
+{{pageBreak}}{{anim:Clapping target="actor" targetSpec=""}}Tu premio es un lote especial de recetas para un {{color id="1"}}hacha de gema{{color id="-1"}}!
+{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}¡Te permitirán recolorear esa {{color id="1"}}hacha plateada{{color id="-1"}} que ganaste hace tiempo!{{delay20}} ¡Qué suerte!
+{{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}Te envío el lote de recetas ahora.
 
 ---
 label: 162

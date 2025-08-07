@@ -120,8 +120,8 @@ attribute: 0x00000000
 label: 004
 attribute: 0x00000000
 ---
-{{anim:EmotEnd target="player" targetSpec=""}}{{string:Dots}}{{anim:Hot target="actor" targetSpec=""}}Perdón. Es la costumbre.{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}Mi trabajo básicamente era enfadarme con la gente durante unos 17 años,{{delay8}} así que{{string:Dots}}{{anim:ShyBoy target="actor" targetSpec=""}}aún se me escapa de vez en cuando{{string:Dots}}
+{{anim:EmotEnd target="player" targetSpec=""}}{{string:Dots}}{{anim:Hot target="actor" targetSpec=""}}Perdón. Es la costumbre.
+{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Mi trabajo básicamente era enfadarme con la gente durante unos 17 años,{{delay8}} así que{{string:Dots}}{{anim:ShyBoy target="actor" targetSpec=""}}aún se me escapa de vez en cuando{{string:Dots}}
 
 ---
 label: 005

@@ -89,15 +89,15 @@ Cancelar
 label: 023
 attribute: 0x000021
 ---
-No puedes recibir tus artículos solicitados 
-porque tu saldo de millas es insuficiente.{{pageBreak}}Inténtalo de nuevo más tarde.
+No puedes recibir tus artículos solicitados porque tu saldo de millas es insuficiente.
+{{pageBreak}}Inténtalo de nuevo más tarde.
 
 ---
 label: 024_01
 attribute: 0x000021
 ---
-No puedes recibir tus artículos solicitados 
-porque tus bolsillos están llenos.{{pageBreak}}Organiza tus bolsillos y prueba de nuevo.
+No puedes recibir tus artículos solicitados porque tus bolsillos están llenos.
+{{pageBreak}}Organiza tus bolsillos y prueba de nuevo.
 
 ---
 label: 025_01

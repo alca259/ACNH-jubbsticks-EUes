@@ -4,7 +4,8 @@ label: 000
 attribute: 0x020018
 ---
 Hay una publicación titulada 
-"Busco giroide".{{pageBreak}}{{string:Dots}}Parece que {{color id="3"}}Fígaro{{color id="-1"}} la publicó.
+"Busco giroide".
+{{pageBreak}}{{string:Dots}}Parece que {{color id="3"}}Fígaro{{color id="-1"}} la publicó.
 ¿Debería leerla?
 
 ---
@@ -44,7 +45,8 @@ label: 200
 attribute: 0x020018
 ---
 "Busco giroide"
-{{pageBreak}}¡Parece que {{color id="3"}}Fígaro{{color id="0"}} tachó el giroide que le di ayer de la publicación!{{pageBreak}}{{color id="-1"}}¿Debería comprobar la lista restante?
+{{pageBreak}}¡Parece que {{color id="3"}}Fígaro{{color id="0"}} tachó el giroide que le di ayer de la publicación!
+{{pageBreak}}{{color id="-1"}}¿Debería comprobar la lista restante?
 
 ---
 label: 200_a
@@ -63,7 +65,8 @@ label: 300
 attribute: 0x020018
 ---
 "Busco giroide"
-{{pageBreak}}¡Parece que {{color id="3"}}Fígaro{{color id="0"}} tachó los giroide que le he dado recientemente de la publicación!{{pageBreak}}{{color id="-1"}}
+{{pageBreak}}¡Parece que {{color id="3"}}Fígaro{{color id="0"}} tachó los giroide que le he dado recientemente de la publicación!
+{{pageBreak}}{{color id="-1"}}
 ¿Debería comprobar la lista restante?
 
 ---
@@ -82,15 +85,16 @@ Ahora no.
 label: 400
 attribute: 0x000018
 ---
-{{color id="4"}}Actualmente busco adquirir
-{{color id="1"}}{{90:1 arg="0x0000"}} {{color id="4"}}{{grammaticalNumber arg="[0,0]" zero="tipos de giroide más" one="tipo de giroide más" multiple="tipos de giroide más"}}.{{pageBreak}}{{grammaticalNumber arg="[0,0]" zero="La lista es la siguiente:" one="Específicamente, busco..." multiple="La lista es la siguiente:"}}
+{{color id="4"}}Actualmente busco adquirir {{color id="1"}}{{90:1 arg="0x0000"}} {{color id="4"}}{{grammaticalNumber arg="[0,0]" zero="tipos de giroide más" one="tipo de giroide más" multiple="tipos de giroide más"}}.
+{{pageBreak}}{{grammaticalNumber arg="[0,0]" zero="La lista es la siguiente:" one="Específicamente, busco..." multiple="La lista es la siguiente:"}}
 ------------------
 
 ---
 label: 500
 attribute: 0x000018
 ---
-{{color id="4"}}Si encuentras {{grammaticalNumber arg="[0,0]" zero="alguno de estos" one="este" multiple="alguno de estos"}}, por favor {{grammaticalNumber arg="[0,0]" zero="tráemelos" one="tráemelo" multiple="tráemelos"}} al mostrador.{{pageBreak}}— {{color id="3"}}Fígaro
+{{color id="4"}}Si encuentras {{grammaticalNumber arg="[0,0]" zero="alguno de estos" one="este" multiple="alguno de estos"}}, por favor {{grammaticalNumber arg="[0,0]" zero="tráemelos" one="tráemelo" multiple="tráemelos"}} al mostrador.
+{{pageBreak}}— {{color id="3"}}Fígaro
 
 ---
 label: 001
