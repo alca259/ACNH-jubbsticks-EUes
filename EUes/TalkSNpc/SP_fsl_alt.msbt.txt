@@ -3,8 +3,8 @@
 label: 701
 attribute: 0x00000000
 ---
-{{20:1 arg="0x0A00500030003E004E003100"}}{{anim:Greeting target="actor" targetSpec=""}}¡Eh, {{string:PlayerName}}!{{delay8}} ¿Cómo has estado?{{delay20}}{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Tengo a alguien a quien me gustaría presentarte.
+{{20:1 arg="0x0A00500030003E004E003100"}}{{anim:Greeting target="actor" targetSpec=""}}¡Eh, {{string:PlayerName}}!{{delay8}} ¿Cómo has estado?{{delay20}}
+{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Tengo a alguien a quien me gustaría presentarte.
 
 ---
 label: 702
@@ -16,14 +16,14 @@ attribute: 0x00000000
 label: 702_2
 attribute: 0x00000000
 ---
-{{20:1 arg="0x1600500030003E004E0030002C004E0031003E004E003000"}}{{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark!{{20:1 arg="0x0A004E0030003E0050003000"}}{{delay frames="40"}} ¡Vaya, hola,{{delay20}}{{anim:Greeting target="actor" targetSpec=""}} pequeño!{{pageBreak}}
-Soy {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Elio{{color id="-1"}},{{delay8}} ¡el hombre de las{{anim:FaintSmile target="actor" targetSpec=""}} insignias! {{pageBreak}}
-{{anim:FaintSmile target="actor" targetSpec=""}}Al menos{{string:Dots}}{{anim:Worried target="actor" targetSpec=""}} solía serlo.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}Verás, antes mi afición era repartir insignias a todos los buenos pequeños, como tú.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Pero, esos nuevos {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}objetivos de Millas Nook{{color id="-1"}} han arrasado en el mundo, y, bueno{{string:Dots}}{{pageBreak}}
-{{anim:Sighing target="actor" targetSpec=""}}Parece que he vuelto a los globos.{{pageBreak}}
-{{anim:Thinking target="actor" targetSpec=""}}Pero{{string:Dots}}{{delay frames="40"}} ¡todavía quiero animar a pequeños como vosotros{{anim:Assent target="actor" targetSpec=""}} a salir ahí fuera y probar cosas nuevas!{{pageBreak}}
-{{anim:FaintSmile target="actor" targetSpec=""}}Aunque ya no sea el hombre de las insignias, {{anim:Explain target="actor" targetSpec=""}}todavía os daré {{color id="1"}}recompensas especiales {{color id="-1"}}{{delay20}}si sois realmente buenos.
+{{20:1 arg="0x1600500030003E004E0030002C004E0031003E004E003000"}}{{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark!{{20:1 arg="0x0A004E0030003E0050003000"}}{{delay frames="40"}} ¡Vaya, hola,{{delay20}}{{anim:Greeting target="actor" targetSpec=""}} pequeño!
+{{pageBreak}}Soy {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Elio{{color id="-1"}},{{delay8}} ¡el hombre de las{{anim:FaintSmile target="actor" targetSpec=""}} insignias! 
+{{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}Al menos{{string:Dots}}{{anim:Worried target="actor" targetSpec=""}} solía serlo.
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Verás, antes mi afición era repartir insignias a todos los buenos pequeños, como tú.
+{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Pero, esos nuevos {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}objetivos de Millas Nook{{color id="-1"}} han arrasado en el mundo, y, bueno{{string:Dots}}
+{{pageBreak}}{{anim:Sighing target="actor" targetSpec=""}}Parece que he vuelto a los globos.
+{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}Pero{{string:Dots}}{{delay frames="40"}} ¡todavía quiero animar a pequeños como vosotros{{anim:Assent target="actor" targetSpec=""}} a salir ahí fuera y probar cosas nuevas!
+{{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}Aunque ya no sea el hombre de las insignias, {{anim:Explain target="actor" targetSpec=""}}todavía os daré {{color id="1"}}recompensas especiales {{color id="-1"}}{{delay20}}si sois realmente buenos.
 
 ---
 label: 703
@@ -72,23 +72,23 @@ attribute: 0x00000000
 label: 706_2
 attribute: 0x00000000
 ---
-{{20:1 arg="0x1600500030003E004E0030002C004E0031003E004E003000"}}¡Fue un placer conocerte, {{delay8}}pequeño!{{pageBreak}}
-No olvides pasarte alguna vez,{{delay8}} ¡y asegúrate de enseñarme todos los {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sellos de Millas Nook{{color id="-1"}} que ganes!
+{{20:1 arg="0x1600500030003E004E0030002C004E0031003E004E003000"}}¡Fue un placer conocerte, {{delay8}}pequeño!
+{{pageBreak}}No olvides pasarte alguna vez,{{delay8}} ¡y asegúrate de enseñarme todos los {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sellos de Millas Nook{{color id="-1"}} que ganes!
 
 ---
 label: 706_3
 attribute: 0x00000000
 ---
-{{20:1 arg="0x1600500030003E004E0030002C004E0031003E004E003000"}}{{anim:ShyBoy target="actor" targetSpec=""}}Oh, y{{string:Dots}} normalmente no estaré aquí los {{color id="1"}}{{110:18}}s{{color id="-1"}}{{anim:Negative target="actor" targetSpec=""}}{{delay20}} como hoy.{{pageBreak}}
-¡Hoy vine para montar mi carrito de globos!{{delay40}}{{anim:Explain target="actor" targetSpec=""}} A partir de hoy, solo estaré aquí {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}todos los miércoles y sábados{{color id="-1"}}. {{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}¡Hay muchos otros lugares donde pequeños como {{anim:SmugFace target="actor" targetSpec=""}}tú necesitan desesperadamente globos!{{delay40}}{{pageBreak}}
-{{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark!{{10:4}}
+{{20:1 arg="0x1600500030003E004E0030002C004E0031003E004E003000"}}{{anim:ShyBoy target="actor" targetSpec=""}}Oh, y{{string:Dots}} normalmente no estaré aquí los {{color id="1"}}{{110:18}}s{{color id="-1"}}{{anim:Negative target="actor" targetSpec=""}}{{delay20}} como hoy.
+{{pageBreak}}¡Hoy vine para montar mi carrito de globos!{{delay40}}{{anim:Explain target="actor" targetSpec=""}} A partir de hoy, solo estaré aquí {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}todos los miércoles y sábados{{color id="-1"}}. 
+{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}¡Hay muchos otros lugares donde pequeños como {{anim:SmugFace target="actor" targetSpec=""}}tú necesitan desesperadamente globos!{{delay40}}
+{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark!{{10:4}}
 ¡Nos vemos!{{anim:Hello target="actor" targetSpec=""}}{{delay40}}
 
 ---
 label: 706_4
 attribute: 0x00000000
 ---
-{{20:1 arg="0x1600500030003E004E0031002C004E0030003E004E003100"}}{{anim:ShyBoy target="actor" targetSpec=""}}Solo estaré aquí {{color id="1"}}todos los miércoles y sábados{{color id="-1"}}. {{pageBreak}}
-¡Hay muchos otros lugares donde pequeños como tú necesitan globos!{{delay40}}{{pageBreak}}
-{{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark! ¡Nos vemos!{{anim:Hello target="actor" targetSpec=""}}{{delay40}}
+{{20:1 arg="0x1600500030003E004E0031002C004E0030003E004E003100"}}{{anim:ShyBoy target="actor" targetSpec=""}}Solo estaré aquí {{color id="1"}}todos los miércoles y sábados{{color id="-1"}}. 
+{{pageBreak}}¡Hay muchos otros lugares donde pequeños como tú necesitan globos!{{delay40}}
+{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}¡Arrrk ark ark! ¡Nos vemos!{{anim:Hello target="actor" targetSpec=""}}{{delay40}}

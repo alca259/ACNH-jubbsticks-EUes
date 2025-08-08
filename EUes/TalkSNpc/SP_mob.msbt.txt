@@ -3,22 +3,22 @@
 label: 001
 attribute: 0x02000000
 ---
-{{anim:Eh target="actor" targetSpec=""}}¿Eh? No creo que nos conozcamos.{{pageBreak}}
-{{anim:Greeting target="actor" targetSpec=""}}Bueno, encantado de conocerte y todo eso.{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} Probablemente conoces a {{color id="3"}}Rese T{{color id="-1"}};{{delay20}} 
+{{anim:Eh target="actor" targetSpec=""}}¿Eh? No creo que nos conozcamos.
+{{pageBreak}}{{anim:Greeting target="actor" targetSpec=""}}Bueno, encantado de conocerte y todo eso.{{delay20}}{{anim:Nodding target="actor" targetSpec=""}} Probablemente conoces a {{color id="3"}}Rese T{{color id="-1"}};{{delay20}} 
 Soy su hermano mayor.{{delay8}}
-Me llamo {{color id="3"}}Don{{color id="-1"}}.{{pageBreak}}
-{{anim:Serious target="actor" targetSpec=""}}Oye, {{delay8}}de entrada,{{delay8}}{{anim:ShyBoy target="actor" targetSpec=""}} sé que mi hermano pequeño puede ser un verdadero incordio.{{pageBreak}}
-{{anim:Negative target="actor" targetSpec=""}}Y no es precisamente un conversador refinado,{{delay8}} tampoco,{{delay8}} así que puede SONAR malhumorado aunque en realidad no lo sea.{{pageBreak}}
-{{anim:Apologize target="actor" targetSpec=""}}Gracias por aguantarlo.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}Hoy,{{delay8}} {{color id="3"}}Sonny{{color id="-1"}}, {{delay8}}está en casa descansando. {{delay20}}El chaval tiene la tensión alta{{string:Dots}}{{pageBreak}}
-{{anim:Sighing target="actor" targetSpec=""}}Ha estado trabajando en mejorar, pero supongo que se habrá alterado mucho{{anim:Worried target="actor" targetSpec=""}} esta vez{{string:Dots}}{{pageBreak}}
-{{anim:ColdChill target="actor" targetSpec=""}}Así que{{delay20}} sí,{{delay8}} estoy eh,{{delay8}} sustituyéndolo.{{pageBreak}}
-{{anim:FaintSmile target="actor" targetSpec=""}}Por sacar un poco de tiempo para charlar conmigo,{{anim:Nodding target="actor" targetSpec=""}} te lo agradezco.{{pageBreak}}
-{{anim:WrySmile target="actor" targetSpec=""}}Oh, pero tengo un pequeño problema con el que podrías ayudarme{{string:Dots}}{{pageBreak}}
-{{anim:BrokenHeart target="actor" targetSpec=""}}Tuve que saltarme mi {{color id="1"}}descanso del café{{color id="-1"}} habitual para venir hoy{{string:Dots}}{{pageBreak}}
-{{anim:SadSpiral target="actor" targetSpec=""}}Así que, {{delay8}}tengo un dolor de cabeza de órdago.{{10:4}}{{delay20}}{{anim:Worried target="actor" targetSpec=""}} Me está matando literalmente.{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}Y si he de ser sincero,{{delay8}} también me está costando {{delay20}}{{anim:Sleepy target="actor" targetSpec=""}}mantenerme despierto.{{10:4}}{{size value="70"}} Esas campanitas de viento son tan relajantes{{string:Dots}}{{pageBreak}}
-{{anim:Hesitate target="actor" targetSpec=""}}Si no te importara traerme un {{color id="1"}}café para llevar{{color id="-1"}}{{string:Dots}}te daré una {{color id="1"}}gema gratis{{color id="-1"}} a cambio.
+Me llamo {{color id="3"}}Don Reset{{color id="-1"}}.
+{{pageBreak}}{{anim:Serious target="actor" targetSpec=""}}Oye, {{delay8}}de entrada,{{delay8}}{{anim:ShyBoy target="actor" targetSpec=""}} sé que mi hermano pequeño puede ser un verdadero incordio.
+{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}Y no es precisamente un conversador refinado,{{delay8}} tampoco,{{delay8}} así que puede SONAR enfadado, aunque en realidad no lo sea.
+{{pageBreak}}{{anim:Apologize target="actor" targetSpec=""}}Gracias por aguantarlo.
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Hoy,{{delay8}} {{color id="3"}}Resetti{{color id="-1"}}, {{delay8}}está en casa descansando. {{delay20}}El chaval tiene la tensión alta{{string:Dots}}
+{{pageBreak}}{{anim:Sighing target="actor" targetSpec=""}}Ha estado trabajando en mejorar, pero supongo que se habrá alterado mucho{{anim:Worried target="actor" targetSpec=""}} esta vez{{string:Dots}}
+{{pageBreak}}{{anim:ColdChill target="actor" targetSpec=""}}Así que{{delay20}} sí,{{delay8}} estoy eh,{{delay8}} sustituyéndolo.
+{{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}Por sacar un poco de tiempo para charlar conmigo,{{anim:Nodding target="actor" targetSpec=""}} te lo agradezco.
+{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}Oh, pero tengo un pequeño problema con el que tal vez podrías ayudarme{{string:Dots}}
+{{pageBreak}}{{anim:BrokenHeart target="actor" targetSpec=""}}Tuve que saltarme mi {{color id="1"}}descanso del café{{color id="-1"}} habitual para venir hoy aquí{{string:Dots}}
+{{pageBreak}}{{anim:SadSpiral target="actor" targetSpec=""}}Así que, {{delay8}}tengo un dolor de cabeza de mayor que los préstamos de {{color id="1"}}Tom Nook{{color id="-1"}}.{{10:4}}{{delay20}}{{anim:Worried target="actor" targetSpec=""}} Me está matando literalmente.
+{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Y si he de ser sincero,{{delay8}} también me está costando {{delay20}}{{anim:Sleepy target="actor" targetSpec=""}}mantenerme despierto.{{10:4}}{{size value="70"}} Esas campanitas de viento son tan relajantes{{string:Dots}}
+{{pageBreak}}{{anim:Hesitate target="actor" targetSpec=""}}Si no te importara traerme un {{color id="1"}}café para llevar{{color id="-1"}}{{string:Dots}}te daré una {{color id="1"}}gema gratis{{color id="-1"}} a cambio.
 
 ---
 label: 001_a
@@ -37,13 +37,13 @@ label: 001_01
 attribute: 0x02000000
 ---
 {{anim:Greeting target="actor" targetSpec=""}}¡Oh, hola!{{delay40}}
-{{anim:Silent target="actor" targetSpec=""}}{{string:Dots}}¿Crees que podrías traerme un {{color id="1"}}café para llevar{{color id="-1"}} ahora?
+{{anim:Silent target="actor" targetSpec=""}}{{string:Dots}}¿Crees que podrías traerme lo más rápido que puedas, un {{color id="1"}}café para llevar{{color id="-1"}}?
 
 ---
 label: 001_01_a
 attribute: 0x00000000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}Oh, claro.
+{{anim:Nodding target="actor" targetSpec=""}}Volando voy.
 
 ---
 label: 001_01_b
@@ -55,9 +55,10 @@ attribute: 0x00000000
 label: 002
 attribute: 0x04000000
 ---
-{{anim:Greeting target="actor" targetSpec=""}}Hola, me alegra verte, {{delay8}}colega.{{pageBreak}}
-{{anim:Worried target="actor" targetSpec=""}}{{color id="3"}}Rese T{{color id="-1"}} está fuera otra vez{{string:Dots}}{{anim:BrokenHeart target="actor" targetSpec=""}}y tuve que saltarme mi {{color id="1"}}descanso del café{{color id="-1"}} habitual para venir hoy{{string:Dots}}{{pageBreak}}
-{{anim:Sleepy target="actor" targetSpec=""}}Si no te importara traerme un {{color id="1"}}café para llevar{{color id="-1"}}{{string:Dots}}bueno,{{delay8}} te daré una {{color id="1"}}gema gratis{{color id="-1"}} a cambio.
+{{anim:Greeting target="actor" targetSpec=""}}Hola, me alegra verte, {{delay8}}colega.
+{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}{{color id="3"}}Resetti{{color id="-1"}} está fuera otra vez{{string:Dots}}{{anim:BrokenHeart target="actor" targetSpec=""}}y he tenido que saltarme mi {{color id="1"}}descanso del café{{color id="-1"}} habitual para venir hoy{{string:Dots}}
+{{pageBreak}}{{anim:Sleepy target="actor" targetSpec=""}}Si no te importa traerme un {{color id="1"}}café para llevar{{color id="-1"}}{{string:Dots}}bueno,{{delay8}} te daré una {{color id="1"}}gema gratis{{color id="-1"}} a cambio.
+Que no se diga que las buenas acciones no son agradecidas.
 
 ---
 label: 002_a
@@ -82,7 +83,7 @@ label: 012
 attribute: 0x00000000
 ---
 {{anim:Sighing target="actor" targetSpec=""}}Eres mi salvación, chaval.{{10:4}}{{anim:Nodding target="actor" targetSpec=""}}
-Estaré esperando aquí, {{delay8}}solo{{anim:Frantic target="actor" targetSpec=""}} trae ese{{color id="1"}} café{{color id="-1"}} en cuanto puedas!
+Estaré esperando aquí, {{delay8}}solo{{anim:Frantic target="actor" targetSpec=""}} ¡trae ese {{color id="1"}}café{{color id="-1"}} en cuanto puedas!
 
 ---
 label: 013
@@ -96,8 +97,8 @@ label: 014
 attribute: 0x02000000
 ---
 {{anim:SadSpiral target="actor" targetSpec=""}}Oh, está bien{{delay8}}.{{delay8}}.{{delay8}}.{{10:4}}{{anim:Sighing target="actor" targetSpec=""}}
-Tendré que buscar a alguien más que me ayude.{{pageBreak}}
-{{anim:ShyBoy target="actor" targetSpec=""}}¿Necesitas comprar algo, por cierto?
+Tendré que buscar a alguien más que me ayude.
+{{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}¿Necesitas comprar algo, por cierto?
 
 ---
 label: 014_a
@@ -160,7 +161,7 @@ label: 051
 attribute: 0x00000000
 ---
 {{anim:SadSpiral target="actor" targetSpec=""}}Oh, está bien. Lo entiendo.{{10:4}}{{delay8}}
-Solo trae ese {{color id="1"}}café{{color id="-1"}} cuando puedas{{string:Dots}}
+Sólo traeme un {{color id="1"}}café{{color id="-1"}} cuando puedas{{string:Dots}}
 
 ---
 label: 051_01
@@ -186,8 +187,8 @@ attribute: 0x00000000
 label: 054
 attribute: 0x00000000
 ---
-{{anim:HappyDance target="actor" targetSpec=""}}¡Realmente me has salvado el día! {{delay20}}Gracias.{{pageBreak}}
-Me lo guardaré{{delay8}} por ahora,{{delay8}} para poder darte esa {{color id="1"}}gema{{color id="-1"}} que te prometí.
+{{anim:HappyDance target="actor" targetSpec=""}}¡Realmente me has salvado el día! {{delay20}}Gracias.
+{{pageBreak}}Me lo guardaré{{delay8}} por ahora,{{delay8}} para poder darte esa {{color id="1"}}gema{{color id="-1"}} que te prometí.
 
 ---
 label: 055
@@ -231,7 +232,7 @@ label: 057
 attribute: 0x02000000
 ---
 {{anim:HappyFlower target="actor" targetSpec=""}}¡Gracias de nuevo por el {{color id="1"}}café{{color id="-1"}}!{{10:4}}{{delay8}}
-{{anim:Eh target="actor" targetSpec=""}}Oh, ¿querías hacer una compra?
+{{anim:Eh target="actor" targetSpec=""}}Oh, ¿quieres comprar algo?
 
 ---
 label: 057_a
@@ -337,6 +338,7 @@ label: 201
 attribute: 0x08000000
 ---
 {{anim:Nodding target="actor" targetSpec=""}}Tenemos {{color id="1"}}rubíes{{color id="-1"}}, {{color id="1"}}zafiros{{color id="-1"}}, {{color id="1"}}esmeraldas{{color id="-1"}}, y {{color id="1"}}amatistas{{color id="-1"}}.
+{{size value="75"}}Los diamantes se los llevó {{color id="1"}}Tom Nook{{color id="-1"}}{{string:Dots}}{{size value="100"}}
 
 ---
 label: 201_a
@@ -373,6 +375,7 @@ label: 201_00
 attribute: 0x08000000
 ---
 {{anim:Hot target="actor" targetSpec=""}}Tenemos {{color id="1"}}rubíes{{color id="-1"}}{{string:Dots}}{{color id="1"}}zafiros{{color id="-1"}}{{string:Dots}}{{color id="1"}}esmeraldas{{color id="-1"}}, y {{color id="1"}}{{delay40}}{{string:Dots}}las moradas{{color id="-1"}}. {{delay40}}{{size value="75"}}{{color id="4"}}Uuuuff{{string:Dots}}
+{{size value="50"}}Los diamantes se los llevó {{color id="1"}}Tom Nook{{color id="-1"}}{{string:Dots}}{{size value="100"}}
 
 ---
 label: 201_00_a
@@ -541,7 +544,7 @@ label: 210
 attribute: 0x00000000
 ---
 {{anim:FaintSmile target="actor" targetSpec=""}}¡Ahí vamos!{{delay8}}
-¡Supongo que esto ya es tuyo!
+¡Espera¡ Esto es tuyo.
 
 ---
 label: 210_01
@@ -560,8 +563,8 @@ attribute: 0x00000000
 label: 302
 attribute: 0x00000000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}Bueno, {{delay8}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}gracias por venir.{{pageBreak}}
-{{anim:Silent target="actor" targetSpec=""}}{{string:Dots}}No te olvides del café.
+{{anim:Nodding target="actor" targetSpec=""}}Bueno, {{delay8}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}gracias por venir.
+{{pageBreak}}{{anim:Silent target="actor" targetSpec=""}}{{string:Dots}}No te olvides del café.
 
 ---
 label: 401
@@ -575,7 +578,7 @@ label: 402
 attribute: 0x00000000
 ---
 {{anim:Smiling target="actor" targetSpec=""}}Gracias por comprar{{string:Dots}}y todo eso{{delay40}}
-{{size value="75"}}{{color id="4"}}{{anim:SadSpiral target="actor" targetSpec=""}}Owwwww{{string:Dots}}
+{{size value="75"}}{{color id="4"}}{{anim:SadSpiral target="actor" targetSpec=""}}UwU{{string:Dots}}
 
 ---
 label: 601
@@ -589,4 +592,4 @@ label: 602
 attribute: 0x00000000
 ---
 {{anim:Eh target="actor" targetSpec=""}}No tienes suficientes m{{delay8}}illas.{{10:4}}{{delay8}}{{anim:Sighing target="actor" targetSpec=""}}
-Intenta volver{{delay8}} cuando las tengas.{{pageBreak}}
+Intenta volver{{delay8}} cuando las tengas.

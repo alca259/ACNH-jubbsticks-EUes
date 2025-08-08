@@ -786,15 +786,18 @@ attribute: 0x440A0000
 label: 035_2
 attribute: 0x780A0000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}{{string:PlayerName}}{{string:Dots}}{{pageBreak}}Este {{color id="1"}}{{125:0 arg="0x0000"}}{{color id="-1"}} ha captado toda mi atención hoy{{string:Dots}}pero si me traes más giroides otro día{{string:Dots}}{{pageBreak}}haré lo posible por tener una mejor {{color id="1"}}recompensa{{color id="-1"}} preparada para ti la próxima vez.{{pageBreak}}Cu{{string:Dots}}
-así que por favor{{delay20}} tráeme más en algún momento.{{delay40}}
+{{anim:FaintSmile target="actor" targetSpec=""}}{{string:PlayerName}}{{string:Dots}}
+{{pageBreak}}Este {{color id="1"}}{{125:0 arg="0x0000"}}{{color id="-1"}} ha captado toda mi atención hoy{{string:Dots}}pero si me traes más giroides otro día{{string:Dots}}
+{{pageBreak}}haré lo posible por tener una mejor {{color id="1"}}recompensa{{color id="-1"}} preparada para ti la próxima vez.
+{{pageBreak}}Cu{{string:Dots}} así que por favor{{delay20}} tráeme más en algún momento.{{delay40}}
 Gracias nuevamente.
 
 ---
 label: 203_8
 attribute: 0xAA0A0000
 ---
-{{anim:Silent target="actor" targetSpec=""}}Por favor, no olvides traerme un regalo del Día del Juguete.{{pageBreak}}No {{anim:Nodding target="actor" targetSpec=""}}me gusta mucho el papel de regalo, así que no hace falta molestarse con eso.
+{{anim:Silent target="actor" targetSpec=""}}Por favor, no olvides traerme un regalo del Día del Juguete.
+{{pageBreak}}No {{anim:Nodding target="actor" targetSpec=""}}me gusta mucho el papel de regalo, así que no hace falta molestarse con eso.
 
 ---
 label: 203_9

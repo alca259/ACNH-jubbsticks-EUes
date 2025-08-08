@@ -207,8 +207,8 @@ label: 018
 attribute: 0x01000000
 ---
 {{anim:Silent target="actor" targetSpec=""}}Como dije{{string:Dots}}{{delay40}}
-{{anim:Negative target="actor" targetSpec=""}}no sabrías sobre eso.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}En cualquier caso, hay un pozo de mina ahí abajo donde he estado llevando una operación minera.
+{{anim:Negative target="actor" targetSpec=""}}no sabrías sobre eso.
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}En cualquier caso, hay un pozo de mina ahí abajo donde he estado llevando una operación minera.
 
 ---
 label: 018_a
@@ -226,8 +226,8 @@ Genial.
 label: 022
 attribute: 0x01000000
 ---
-{{anim:Hot target="actor" targetSpec=""}}{{string:Dots}}{{delay40}}Ya era hora.{{pageBreak}}
-En cualquier caso, hay un pozo de mina ahí abajo en esa {{color id="1"}}t{{delay40}}a{{delay40}}p{{delay40}}a{{delay40}} {{delay40}}d{{delay40}}e{{delay40}}{{delay40}}{{color id="-1"}}{{delay40}}{{color id="1"}}{{delay40}} a{{delay40}}l{{delay40}}c{{delay40}}a{{delay40}}n{{delay40}}t{{delay40}}a{{delay40}}r{{delay40}}i{{delay40}}l{{delay40}}l{{delay40}}a{{color id="-1"}}{{delay40}} donde estoy llevando una operación minera.
+{{anim:Hot target="actor" targetSpec=""}}{{string:Dots}}{{delay40}}Ya era hora.
+{{pageBreak}}En cualquier caso, hay un pozo de mina ahí abajo en esa {{color id="1"}}t{{delay40}}a{{delay40}}p{{delay40}}a{{delay40}} {{delay40}}d{{delay40}}e{{delay40}}{{delay40}}{{color id="-1"}}{{delay40}}{{color id="1"}}{{delay40}} a{{delay40}}l{{delay40}}c{{delay40}}a{{delay40}}n{{delay40}}t{{delay40}}a{{delay40}}r{{delay40}}i{{delay40}}l{{delay40}}l{{delay40}}a{{color id="-1"}}{{delay40}} donde estoy llevando una operación minera.
 
 ---
 label: 022_a
@@ -245,10 +245,9 @@ attribute: 0x00000000
 label: 022_01
 attribute: 0x01000000
 ---
-{{anim:Serious target="actor" targetSpec=""}}{{size value="200"}}
-{{delay40}}{{delay40}}{{delay40}}{{delay40}}.{{delay40}}{{delay40}}.{{delay40}}{{delay40}}.{{delay40}}{{delay40}}{{delay40}}{{delay40}}{{pageBreak}}
-{{size value="100"}}Lo voy a tomar como un sí.{{pageBreak}}
-En cualquier caso, hay un pozo de mina ahí abajo en esa {{color id="1"}}t{{delay40}}a{{delay40}}p{{delay40}}a{{delay40}} {{delay40}}d{{delay40}}e{{delay40}}{{delay40}}{{color id="-1"}}{{delay40}}{{color id="1"}}{{delay40}} a{{delay40}}l{{delay40}}c{{delay40}}a{{delay40}}n{{delay40}}t{{delay40}}a{{delay40}}r{{delay40}}i{{delay40}}l{{delay40}}l{{delay40}}a{{color id="-1"}}{{delay40}} donde estoy llevando una operación minera.
+{{anim:Serious target="actor" targetSpec=""}}{{size value="200"}}{{delay40}}{{delay40}}{{delay40}}{{delay40}}.{{delay40}}{{delay40}}.{{delay40}}{{delay40}}.{{delay40}}{{delay40}}{{delay40}}{{delay40}}
+{{pageBreak}}{{size value="100"}}Lo voy a tomar como un sí.
+{{pageBreak}}En cualquier caso, hay un pozo de mina ahí abajo en esa {{color id="1"}}t{{delay40}}a{{delay40}}p{{delay40}}a{{delay40}} {{delay40}}d{{delay40}}e{{delay40}}{{delay40}}{{color id="-1"}}{{delay40}}{{color id="1"}}{{delay40}} a{{delay40}}l{{delay40}}c{{delay40}}a{{delay40}}n{{delay40}}t{{delay40}}a{{delay40}}r{{delay40}}i{{delay40}}l{{delay40}}l{{delay40}}a{{color id="-1"}}{{delay40}} donde estoy llevando una operación minera.
 
 ---
 label: 022_01_a
@@ -302,10 +301,10 @@ attribute: 0x00000000
 label: 024
 attribute: 0x00000000
 ---
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}Vale.{{delay40}} Chaval.{{delay40}} Necesito que colabores conmigo aquí.{{pageBreak}}
-{{anim:Serious target="actor" targetSpec=""}}¿Sabes siquiera QUÉ es una {{delay8}}{{color id="1"}}tapa de {{anim:QuestionMark target="actor" targetSpec=""}}alcantarilla{{color id="-1"}}{{delay8}}? {{delay40}}{{color id="4"}}{{size value="75"}}{{string:Dots}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}No debería ser tan difícil.{{color id="-1"}}{{size value="100"}}{{pageBreak}}
-{{delay20}}{{anim:Nodding target="actor" targetSpec=""}}Déjame deletrearlo para ti,{{delay8}} antes de que respondas.{{10:4}}{{anim:Pardon target="actor" targetSpec=""}} Solo para que no haya malentendidos.{{delay8}}{{pageBreak}}
-Dos palabras: {{anim:Serious target="actor" targetSpec=""}}{{delay8}}
+{{anim:EmotEnd_0 target="actor" targetSpec=""}}Vale.{{delay40}} Chaval.{{delay40}} Necesito que colabores conmigo aquí.
+{{pageBreak}}{{anim:Serious target="actor" targetSpec=""}}¿Sabes siquiera QUÉ es una {{delay8}}{{color id="1"}}tapa de {{anim:QuestionMark target="actor" targetSpec=""}}alcantarilla{{color id="-1"}}{{delay8}}? {{delay40}}{{color id="4"}}{{size value="75"}}{{string:Dots}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}No debería ser tan difícil.{{color id="-1"}}{{size value="100"}}
+{{pageBreak}}{{delay20}}{{anim:Nodding target="actor" targetSpec=""}}Déjame deletrearlo para ti,{{delay8}} antes de que respondas.{{10:4}}{{anim:Pardon target="actor" targetSpec=""}} Solo para que no haya malentendidos.{{delay8}}
+{{pageBreak}}Dos palabras: {{anim:Serious target="actor" targetSpec=""}}{{delay8}}
  {{color id="1"}}t{{delay40}}{{10:4}}-a{{delay40}}{{10:4}}-p{{delay40}}{{10:4}}-a{{delay40}}{{10:4}} {{delay40}}{{10:4}}-d{{delay40}}{{10:4}}-e{{delay40}}{{10:4}}{{delay40}}{{10:4}}{{color id="-1"}} ESPACIO{{10:4}}{{delay40}}
  {{color id="1"}}{{delay40}}{{10:4}}a{{delay40}}{{10:4}}-l{{delay40}}{{10:4}}-c{{delay40}}{{10:4}}-a{{delay40}}{{10:4}}-n{{delay40}}{{10:4}}-t{{delay40}}{{10:4}}-a{{delay40}}{{10:4}}-r{{delay40}}{{10:4}}-i{{delay40}}{{10:4}}-l{{delay40}}{{10:4}}-l{{delay40}}{{10:4}}-a{{delay40}}{{10:4}}{{10:4}}{{10:4}}{{color id="-1"}}{{delay8}}{{delay40}}{{10:4}}{{delay40}}{{10:4}}{{color id="-1"}}{{10:4}}{{10:4}}{{10:4}}.{{delay40}}{{10:4}}{{10:4}}{{10:4}}{{10:4}}{{10:4}}
 
@@ -313,19 +312,19 @@ Dos palabras: {{anim:Serious target="actor" targetSpec=""}}{{delay8}}
 label: 031
 attribute: 0x02000000
 ---
-{{anim:Fuming target="actor" targetSpec=""}}{{size value="200"}}¡GAAAAAAAH!{{pageBreak}}
-¡NO PUEDO SOPORTARLO!{{pageBreak}}
-"¡TAP TAP TAP!"{{pageBreak}}
-"¡TAP TAP TAP!"{{pageBreak}}
-"¡TAP!"{{pageBreak}}
-"¡TAP TAP!"{{pageBreak}}
-EL CEREBRO{{delay8}}.{{delay8}}.{{delay8}}.¡ME DUELE!{{pageBreak}}
-{{anim:Fuming target="actor" targetSpec=""}}{{size value="100"}}¡¿Qué tienes contra los botones?! ¡Deberías dejar de apretarlos así,{{delay8}} chaval!{{pageBreak}}
-{{anim:Sighing target="actor" targetSpec=""}}{{delay40}}{{string:Dots}}{{delay40}}{{pageBreak}}
-{{string:Dots}}{{anim:SadSpiral target="actor" targetSpec=""}}Perdón. No quería llamarte chaval.{{pageBreak}}
-{{anim:OhGeez target="actor" targetSpec=""}}Mi psicólogo dice que debería usar palabras como "campeón"{{delay40}} o "colega" {{delay20}} o "amigo" en su lugar.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}Si vamos a trabajar juntos, {{delay40}}necesito que no me pongas de los nervios.{{pageBreak}}
-{{anim:Hesitate target="actor" targetSpec=""}}¿Hemos llegado a un {{delay20}}entendimiento sobre todo esto?
+{{anim:Fuming target="actor" targetSpec=""}}{{size value="200"}}¡GAAAAAAAH!
+{{pageBreak}}¡NO PUEDO SOPORTARLO!
+{{pageBreak}}"¡TAP TAP TAP!"
+{{pageBreak}}"¡TAP TAP TAP!"
+{{pageBreak}}"¡TAP!"
+{{pageBreak}}"¡TAP TAP!"
+{{pageBreak}}EL CEREBRO{{delay8}}.{{delay8}}.{{delay8}}.¡ME DUELE!
+{{pageBreak}}{{anim:Fuming target="actor" targetSpec=""}}{{size value="100"}}¡¿Qué tienes contra los botones?! ¡Deberías dejar de apretarlos así,{{delay8}} chaval!
+{{pageBreak}}{{anim:Sighing target="actor" targetSpec=""}}{{delay40}}{{string:Dots}}{{delay40}}
+{{pageBreak}}{{string:Dots}}{{anim:SadSpiral target="actor" targetSpec=""}}Perdón. No quería llamarte chaval.
+{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}Mi psicólogo dice que debería usar palabras como "campeón"{{delay40}} o "colega" {{delay20}} o "amigo" en su lugar.
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Si vamos a trabajar juntos, {{delay40}}necesito que no me pongas de los nervios.
+{{pageBreak}}{{anim:Hesitate target="actor" targetSpec=""}}¿Hemos llegado a un {{delay20}}entendimiento sobre todo esto?
 
 ---
 label: 031_a
@@ -378,8 +377,8 @@ attribute: 0x00000000
 label: 014
 attribute: 0x04000000
 ---
-{{anim:Grin target="actor" targetSpec=""}}¿Verdad? Je, sabía que estarías interesado.{{pageBreak}}
-{{anim:Aha target="actor" targetSpec=""}}¡Oh, una cosa más antes de dejarte ir!{{delay40}} Esto es importante.{{delay40}}{{anim:QuestionMark target="actor" targetSpec=""}}
+{{anim:Grin target="actor" targetSpec=""}}¿Verdad? Je, sabía que estarías interesado.
+{{pageBreak}}{{anim:Aha target="actor" targetSpec=""}}¡Oh, una cosa más antes de dejarte ir!{{delay40}} Esto es importante.{{delay40}}{{anim:QuestionMark target="actor" targetSpec=""}}
 ¿De dónde eres?
 
 ---
@@ -404,10 +403,8 @@ attribute: 0x00000000
 label: 017
 attribute: 0x04000000
 ---
-{{anim:WrySmile target="actor" targetSpec=""}}Je, sabía que estarías interesado.{{delay40}}{{string:Dots}}{{anim:OhGeez target="actor" targetSpec=""}}
-pareces interesado, al menos.{{pageBreak}}
-{{anim:Aha target="actor" targetSpec=""}}¡Oh, una cosa más antes de dejarte 
-ir!{{delay40}} Esto es importante.
+{{anim:WrySmile target="actor" targetSpec=""}}Je, sabía que estarías interesado.{{delay40}}{{string:Dots}}{{anim:OhGeez target="actor" targetSpec=""}} Pareces interesado, al menos.
+{{pageBreak}}{{anim:Aha target="actor" targetSpec=""}}¡Oh, una cosa más antes de dejarte ir!{{delay40}} Esto es importante.
 {{delay40}}{{anim:QuestionMark target="actor" targetSpec=""}}¿De dónde eres?
 
 ---
@@ -432,45 +429,45 @@ attribute: 0x00000000
 label: 016
 attribute: 0x00000000
 ---
-Oh, ¿{{color id="0"}}{{string:IslandName}}{{color id="-1"}}? Sabes, eso es genial.{{anim:Laughing target="actor" targetSpec=""}} ¡Perfecto, realmente! {{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}Puede que sepas que trabajo para los {{color id="1"}}Servicios de Rescate {{color id="-1"}}.{{pageBreak}}
-{{anim:Negative target="actor" targetSpec=""}}No te preocupes, {{delay8}}{{anim:Assent target="actor" targetSpec=""}}sigo estando disponible si alguna vez necesitas ayuda.{{pageBreak}}
-{{anim:Nodding target="actor" targetSpec=""}}Ya que vienes de {{color id="0"}}{{string:IslandName}}{{color id="-1"}}, asumo que ya sabes lo que son las {{color id="1"}}Millas Nook{{color id="-1"}}. {{pageBreak}}
-{{anim:Angry target="actor" targetSpec=""}}Si quieres mis {{color id="1"}}minerales{{color id="-1"}}, te van a costar esas {{color id="1"}}Millas{{color id="-1"}}.{{delay8}}{{10:4}}{{delay8}}{{anim:Pardon target="actor" targetSpec=""}}
-¿Capisce?
+Oh, ¿{{color id="0"}}{{string:IslandName}}{{color id="-1"}}? Sabes, eso es genial.{{anim:Laughing target="actor" targetSpec=""}} ¡Perfecto, realmente! 
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Puede que sepas que trabajo para los {{color id="1"}}Servicios de Rescate {{color id="-1"}}.
+{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}No te preocupes, {{delay8}}{{anim:Assent target="actor" targetSpec=""}}sigo estando disponible si alguna vez necesitas ayuda.
+{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Ya que vienes de {{color id="0"}}{{string:IslandName}}{{color id="-1"}}, asumo que ya sabes lo que son las {{color id="1"}}Millas Nook{{color id="-1"}}. 
+{{pageBreak}}{{anim:Angry target="actor" targetSpec=""}}Si quieres mis {{color id="1"}}minerales{{color id="-1"}}, te van a costar esas {{color id="1"}}Millas{{color id="-1"}}.{{delay8}}{{10:4}}{{delay8}}
+{{anim:Pardon target="actor" targetSpec=""}}¿Capisce?
 
 ---
 label: 020
 attribute: 0x00000000
 ---
 {{anim:OhGeez target="actor" targetSpec=""}}Muy bien, colega.
-{{delay8}}Guárdate tus secretos.{{pageBreak}}
-Solo ten en cuenta, {{delay20}}{{anim:Angry target="actor" targetSpec=""}}si quieres mis {{color id="1"}}minerales{{color id="-1"}}, te van a costar {{color id="1"}}Millas Nook{{color id="-1"}}.{{10:4}}{{anim:Pardon target="actor" targetSpec=""}} Espero que tengan esas de donde vienes.
+{{delay8}}Guárdate tus secretos.
+{{pageBreak}}Solo ten en cuenta, {{delay20}}{{anim:Angry target="actor" targetSpec=""}}si quieres mis {{color id="1"}}minerales{{color id="-1"}}, te van a costar {{color id="1"}}Millas Nook{{color id="-1"}}.{{10:4}}{{anim:Pardon target="actor" targetSpec=""}} Espero que tengan esas de donde vienes.
 
 ---
 label: 025
 attribute: 0x00000000
 ---
-{{anim:Aha target="actor" targetSpec=""}}Oh, y no estaré aquí los fines de semana.{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}El volumen de llamadas de rescate es demasiado alto los fines de semana.{{delay40}}{{anim:Negative target="actor" targetSpec=""}} No sabría decirte por qué.{{pageBreak}}
-{{anim:ColdChill target="actor" targetSpec=""}}Supongo que eso es todo,{{delay8}} sin embargo{{string:Dots}}{{pageBreak}}
-{{anim:OhGeez target="actor" targetSpec=""}}Así que{{delay8}} dejaré de darte la tabarra{{delay8}} 
-por ahora, {{delay8}}chico. {{10:4}}{{delay8}}{{anim:Greeting target="actor" targetSpec=""}}Ven alguna vez,{{delay8}} ¿vale?
+{{anim:Aha target="actor" targetSpec=""}}Oh, y no estaré aquí los fines de semana.
+{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}El volumen de llamadas de rescate es demasiado alto los fines de semana.{{delay40}}{{anim:Negative target="actor" targetSpec=""}} No sabría decirte por qué.
+{{pageBreak}}{{anim:ColdChill target="actor" targetSpec=""}}Supongo que eso es todo,{{delay8}} sin embargo{{string:Dots}}
+{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}Así que{{delay8}} dejaré de darte la tabarra{{delay8}} por ahora, {{delay8}}chico. {{10:4}}{{delay8}}
+{{anim:Greeting target="actor" targetSpec=""}}Ven alguna vez,{{delay8}} ¿vale?
 
 ---
 label: 030
 attribute: 0x00000000
 ---
-¡Pero escúchame! ¡Dando la tabarra como un pirata elegante o algo así! {{delay40}}{{pageBreak}}
-{{anim:Laughing target="actor" targetSpec=""}}Y justo después de decir que "no llevará ni un segundo" y todo eso. Culpa mía.
+¡Pero escúchame! ¡Dando la tabarra como un pirata elegante o algo así! {{delay40}}
+{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}Y justo después de decir que "no llevará ni un segundo" y todo eso. Culpa mía.
 
 ---
 label: 050
 attribute: 0x02000000
 ---
 {{anim:Shocked target="actor" targetSpec=""}}¿Ya de vuelta?{{10:4}}{{delay8}}{{anim:Thinking target="actor" targetSpec=""}}
-{{size value="70"}}No pensé que fuera TAN bueno vendiendo{{string:Dots}}{{pageBreak}}
-{{anim:IdeaBulb target="actor" targetSpec=""}}{{size value="100"}}Ah, ¿pero en qué puedo ayudarte?
+{{size value="70"}}No pensé que fuera TAN bueno vendiendo{{string:Dots}}
+{{pageBreak}}{{anim:IdeaBulb target="actor" targetSpec=""}}{{size value="100"}}Ah, ¿pero en qué puedo ayudarte?
 
 ---
 label: 050_a
@@ -562,7 +559,8 @@ label: 201
 attribute: 0x08000000
 ---
 {{anim:Nodding target="actor" targetSpec=""}}Entendido.{{delay20}} Tengo {{color id="1"}}rubí{{color id="-1"}}, {{color id="1"}}zafiro{{color id="-1"}}, {{color id="1"}}esmeralda{{color id="-1"}}, y {{color id="1"}}amatista{{color id="-1"}}. {{delay8}}
-¿Qué quieres?
+{{size value="50"}}No se que ocurrió con los {{color id="1"}}diamantes{{color id="-1"}}{{string:Dots}} mi hermano mayor no me ha dicho nada al respecto{{string:Dots}}{{size value="100"}}
+En fin, ¿Qué quieres?
 
 ---
 label: 201_a
@@ -700,7 +698,7 @@ attribute: 0x00000000
 label: 210
 attribute: 0x00000000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Parece que con eso{{string:Dots}} ¡ya!
+{{anim:FaintSmile target="actor" targetSpec=""}}Espera que el TPV va algo lento con esta cobertura de la comuna{{string:Dots}} ¡ya!
 Aquí tienes ese mineral.
 
 ---
@@ -751,8 +749,8 @@ label: 301
 attribute: 0x00000000
 ---
 {{anim:Negative target="actor" targetSpec=""}}No es "pos sí."{{10:4}}{{delay8}}
-Es {{delay8}}{{anim:Nodding target="actor" targetSpec=""}}"pues{{delay8}} sí."{{delay40}}{{pageBreak}}
-{{anim:Outraged target="actor" targetSpec=""}}Es una conjunción. {{delay20}}
+Es {{delay8}}{{anim:Nodding target="actor" targetSpec=""}}"pues{{delay8}} sí."{{delay40}}
+{{pageBreak}}{{anim:Outraged target="actor" targetSpec=""}}Es una conjunción. {{delay20}}
 {{anim:Outraged target="actor" targetSpec=""}}¡No es "pos"!{{delay40}}
 {{anim:Outraged target="actor" targetSpec=""}}¡NADA{{anim:Eh target="player" targetSpec=""}} DE "POS"!
 
@@ -761,105 +759,102 @@ label: 302
 attribute: 0x00000000
 ---
 {{anim:Negative target="actor" targetSpec=""}}No se dice "haiga."{{delay20}} 
-Es {{delay8}}{{anim:Silent target="actor" targetSpec=""}}"haya."{{delay40}}{{anim:Outraged target="actor" targetSpec=""}}
-¡"Haiga" ni siquiera existe!{{pageBreak}}
-{{anim:AbsentMindedness target="actor" targetSpec=""}}{{size value="75"}}Aunque me gustaría que hubiera más gente culta, {{delay8}}la verdad{{string:Dots}}{{color id="-1"}}{{pageBreak}}
-{{anim:Eh target="actor" targetSpec=""}}{{size value="100"}}Ah, eso era todo.{{delay8}}
+Es {{delay8}}{{anim:Silent target="actor" targetSpec=""}}"haya."{{delay40}}
+{{anim:Outraged target="actor" targetSpec=""}}¡"Haiga" ni siquiera existe!
+{{pageBreak}}{{anim:AbsentMindedness target="actor" targetSpec=""}}{{size value="75"}}Aunque me gustaría que hubiera más gente culta, {{delay8}}la verdad{{string:Dots}}{{color id="-1"}}
+{{pageBreak}}{{anim:Eh target="actor" targetSpec=""}}{{size value="100"}}Ah, eso era todo.{{delay8}}
 Ya puedes {{anim:Nodding target="actor" targetSpec=""}}irte.
 
 ---
 label: 303
 attribute: 0x00000000
 ---
-{{anim:Explain target="actor" targetSpec=""}}Un dolor de cabeza muy fuerte se llama "migraña," no "emigraña."{{pageBreak}}
-{{anim:Worried target="actor" targetSpec=""}}Duele mucho,{{delay8}} pero no es{{anim:Angry target="actor" targetSpec=""}} que tu cabeza se vaya a otro país!{{pageBreak}}
-{{10:12}}{{anim:Fuming target="actor" targetSpec=""}}{{size value="150"}}¡CRÉEME;{{delay40}} LO SÉ BIEN!{{size value="100"}}{{15:100 arg="0x0200"}}
+{{anim:Explain target="actor" targetSpec=""}}Un dolor de cabeza muy fuerte se llama "migraña," no "emigraña."
+{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}Duele mucho,{{delay8}} pero no es{{anim:Angry target="actor" targetSpec=""}} que tu cabeza se vaya a otro país!
+{{pageBreak}}{{10:12}}{{anim:Fuming target="actor" targetSpec=""}}{{size value="150"}}¡CRÉEME;{{delay40}} LO SÉ BIEN!{{size value="100"}}{{15:100 arg="0x0200"}}
 
 ---
 label: 304
 attribute: 0x00000000
 ---
-{{anim:Explain target="actor" targetSpec=""}}Cuando algo no importa, se dice {{delay20}}"me da {{delay20}}igual." {{pageBreak}}
-{{anim:OhGeez target="actor" targetSpec=""}}Si dices {{delay20}}"me da {{delay20}}lo mismo," {{delay8}}es correcto también.{{pageBreak}}
-{{anim:Silent target="actor" targetSpec=""}}No es tan difícil.{{delay8}} Pero no digas "me da igualmente."{{pageBreak}}
-{{anim:Pardon target="actor" targetSpec=""}}¡Habla bien o no hables!
+{{anim:Explain target="actor" targetSpec=""}}Cuando algo no importa, se dice {{delay20}}"me da {{delay20}}igual." 
+{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}Si dices {{delay20}}"me da {{delay20}}lo mismo," {{delay8}}es correcto también.
+{{pageBreak}}{{anim:Silent target="actor" targetSpec=""}}No es tan difícil.{{delay8}} Pero no digas "me da igualmente."
+{{pageBreak}}{{anim:Pardon target="actor" targetSpec=""}}¡Habla bien o no hables!
 
 ---
 label: 305
 attribute: 0x00000000
 ---
 {{anim:Negative target="actor" targetSpec=""}}No es una {{delay8}}"nueva correa de vida." 
-Es una "nueva oportunidad."{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}Una "nueva oportunidad" significa que tienes ganas de vivir.{{pageBreak}}
-{{anim:Pardon target="actor" targetSpec=""}}¿Nueva correa?{{delay40}}{{anim:Laughing target="actor" targetSpec=""}}
-¡Eso significa que tienes una nueva mascota
-{{delay8}}o algo así!
+Es una "nueva oportunidad."
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Una "nueva oportunidad" significa que tienes ganas de vivir.
+{{pageBreak}}{{anim:Pardon target="actor" targetSpec=""}}¿Nueva correa?{{delay40}}{{anim:Laughing target="actor" targetSpec=""}}
+¡Eso significa que tienes una nueva mascota {{delay8}}o algo así!
 
 ---
 label: 306
 attribute: 0x00000000
 ---
-{{anim:Serious target="actor" targetSpec=""}}Se dice "ensalada de col",{{delay8}} no "ensalada de golf."{{pageBreak}}
-{{anim:ShyBoy target="actor" targetSpec=""}}No veo el problema realmente,{{delay8}} pero{{string:Dots}}{{pageBreak}}
-{{anim:OhGeez target="actor" targetSpec=""}}"Vaya,{{delay8}} mamá,"{{delay8}} digo yo.
+{{anim:Serious target="actor" targetSpec=""}}Se dice "ensalada de col",{{delay8}} no "ensalada de golf."
+{{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}No veo el problema realmente,{{delay8}} pero{{string:Dots}}
+{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}"Vaya,{{delay8}} mamá,"{{delay8}} digo yo.
 {{delay40}}{{anim:Frantic target="actor" targetSpec=""}}¡Dale un respiro a este topo! No es que haya dicho ensalada de CARBÓN."
 
 ---
 label: 307
 attribute: 0x00000000
 ---
-{{anim:QuestionMark target="actor" targetSpec=""}}¿Sabes cuando llegas a un punto en una conversación donde todo es un punto {{delay8}}"mudo"?{{pageBreak}}
-{{anim:Worried target="actor" targetSpec=""}}¡Pues no está mudo!{{delay20}}
-¡El punto es{{delay8}} "muto"!{{10:4}}{{anim:Outraged target="actor" targetSpec=""}}
-¡"MUTO"!{{pageBreak}}
-{{anim:Aha target="actor" targetSpec=""}}¡Como cuando algo cambia!{{10:4}}{{delay8}}{{anim:Negative target="actor" targetSpec=""}} 
+{{anim:QuestionMark target="actor" targetSpec=""}}¿Sabes cuando llegas a un punto en una conversación donde todo es un punto {{delay8}}"mudo"?
+{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}¡Pues no está mudo!{{delay20}}
+¡El punto es{{delay8}} "muto"!{{10:4}}
+{{anim:Outraged target="actor" targetSpec=""}}¡"MUTO"!
+{{pageBreak}}{{anim:Aha target="actor" targetSpec=""}}¡Como cuando algo cambia!{{10:4}}{{delay8}}{{anim:Negative target="actor" targetSpec=""}} 
 No puedes silenciar un cambio.
 
 ---
 label: 308
 attribute: 0x00000000
 ---
-{{anim:QuestionMark target="actor" targetSpec=""}}¿Sabes cuando dices que algo pasó porque otra cosa lo causó?{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}Como "Achaqué sus manías a que no conocía las reglas"
-{{string:Dots}}¿Has oído esa expresión?{{pageBreak}}
-{{anim:Sighing target="actor" targetSpec=""}}{{color id="4"}}{{size value="75"}}Seguramente no,{{delay8}} hoy en día{{string:Dots}}{{size value="100"}}{{15:100 arg="0x0200"}}{{color id="-1"}}
+{{anim:QuestionMark target="actor" targetSpec=""}}¿Sabes cuando dices que algo pasó porque otra cosa lo causó?
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Como "Achaqué sus manías a que no conocía las reglas"{{string:Dots}} ¿Has oído esa expresión?
+{{pageBreak}}{{anim:Sighing target="actor" targetSpec=""}}{{color id="4"}}{{size value="75"}}Seguramente no,{{delay8}} la gente de hoy en día{{string:Dots}}{{size value="100"}}{{15:100 arg="0x0200"}}{{color id="-1"}}
 
 ---
 label: 308_01
 attribute: 0x00000000
 ---
-{{anim:OhGeez target="actor" targetSpec=""}}Bueno, fíjate que dije{{delay8}} "achaqué,"{{delay8}} no {{delay8}}"atacé."{{pageBreak}}
-{{anim:Worried target="actor" targetSpec=""}}Eso es porque no estoy atacando a nadie.{{10:4}}{{delay8}}
-"Atacar"{{delay8}} significa "agredir."{{pageBreak}}
-{{anim:Angry target="actor" targetSpec=""}}No ataques a la gente.{{delay20}} Podrías hacer daño.{{delay20}} {{anim:Negative target="actor" targetSpec=""}}Todo es diversión hasta que alguien sale lastimado.
+{{anim:OhGeez target="actor" targetSpec=""}}Bueno, fíjate que dije{{delay8}} "achaqué,"{{delay8}} no {{delay8}}"atacé."
+{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}Eso es porque no estoy atacando a nadie.{{10:4}}{{delay8}}
+"Atacar"{{delay8}} significa "agredir."
+{{pageBreak}}{{anim:Angry target="actor" targetSpec=""}}No ataques a la gente.{{delay20}} Podrías hacer daño.{{delay20}}
+{{anim:Negative target="actor" targetSpec=""}}Todo es diversión hasta que alguien sale lastimado.
 
 ---
 label: 309
 attribute: 0x00000000
 ---
-{{anim:Negative target="actor" targetSpec=""}}No es {{delay8}}"más mejor,"{{delay8}}
-es solo {{delay8}}"mejor."{{pageBreak}}
-{{anim:OhGeez target="actor" targetSpec=""}}Y si necesitas algo mejor que "mejor"{{delay40}} {{anim:Pardon target="actor" targetSpec=""}}¡prueba con "óptimo"!
+{{anim:Negative target="actor" targetSpec=""}}No es {{delay8}}"más mejor,"{{delay8}} es solo {{delay8}}"mejor."
+{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}Y si necesitas algo mejor que "mejor"{{delay40}} {{anim:Pardon target="actor" targetSpec=""}}¡prueba con "óptimo"!
 
 ---
 label: 310
 attribute: 0x00000000
 ---
-{{anim:QuestionMark target="actor" targetSpec=""}}¿Has oído a alguien decir que algo era "indiferentemente" de otra cosa?{{pageBreak}}
-{{anim:Fuming target="actor" targetSpec=""}}¡PUES YO SÍ!{{10:4}}{{delay8}}
-¡Y está mal dicho!{{pageBreak}}
-{{anim:Negative target="actor" targetSpec=""}}¡Se dice "independientemente"!{{delay20}}{{anim:Explain target="actor" targetSpec=""}} Si algo no depende de otra cosa, es "independiente."
+{{anim:QuestionMark target="actor" targetSpec=""}}¿Has oído a alguien decir que algo era "indiferentemente" de otra cosa?
+{{pageBreak}}{{anim:Fuming target="actor" targetSpec=""}}¡PUES YO SÍ!{{10:4}}{{delay8}}
+¡Y está mal dicho!
+{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}¡Se dice "independientemente"!{{delay20}}{{anim:Explain target="actor" targetSpec=""}} Si algo no depende de otra cosa, es "independiente."
 
 ---
 label: 311
 attribute: 0x00000000
 ---
 {{anim:QuestionMark target="actor" targetSpec=""}}¿Conoces el "té chai"?{{10:4}}
-{{anim:Negative target="actor" targetSpec=""}}{{string:Dots}}No tiene sentido.{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}"Chai" SIGNIFICA "té." {{delay20}}
-¡Así que decir "té chai" no tiene ningún sentido!{{pageBreak}}
-{{anim:Pardon target="actor" targetSpec=""}}
-{{10:12}}{{anim:Fuming target="actor" targetSpec=""}}{{size value="160"}}¡"TÉ TÉ" NO EXISTE!{{size value="100"}}{{15:100 arg="0x0200"}}
+{{anim:Negative target="actor" targetSpec=""}}{{string:Dots}}No tiene sentido.
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}"Chai" SIGNIFICA "té." {{delay20}}
+¡Así que decir "té chai" no tiene ningún sentido!
+{{pageBreak}}{{anim:Pardon target="actor" targetSpec=""}}{{10:12}}{{anim:Fuming target="actor" targetSpec=""}}{{size value="160"}}¡"TÉ TÉ" NO EXISTE!{{size value="100"}}{{15:100 arg="0x0200"}}
 
 ---
 label: 312
@@ -872,20 +867,20 @@ label: 312_01
 attribute: 0x00000000
 ---
 {{anim:Eh target="actor" targetSpec=""}}Ah, no te estoy diciendo que huelas mal{{delay40}}
-{{color id="4"}}{{size value="75"}}{{anim:Worried target="actor" targetSpec=""}}Esta nariz de topo es muy sensible,{{delay8}} la verdad{{string:Dots}}{{color id="-1"}}{{pageBreak}}
-{{anim:OhGeez target="actor" targetSpec=""}}{{size value="100"}}Lavarse los dientes es un buen hábito. {{delay20}}{{anim:Serious target="actor" targetSpec=""}}¿Quieres que se te pudran los dientes? {{delay20}}{{anim:Pardon target="actor" targetSpec=""}}¿EH?{{pageBreak}}
-Eso pensé.
-{{anim:Nodding target="actor" targetSpec=""}}Así que,{{delay8}} asegúrate de lavártelos bien antes de dormir, ¿vale?{{pageBreak}}
-{{string:Dots}}{{anim:Sleepy target="actor" targetSpec=""}}Supongo que te dejaré ir por ahora.
+{{color id="4"}}{{size value="75"}}{{anim:Worried target="actor" targetSpec=""}}Esta nariz de topo es muy sensible,{{delay8}} la verdad{{string:Dots}}{{color id="-1"}}
+{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}{{size value="100"}}Lavarse los dientes es un buen hábito. {{delay20}}{{anim:Serious target="actor" targetSpec=""}}¿Quieres que se te pudran los dientes? {{delay20}}{{anim:Pardon target="actor" targetSpec=""}}¿EH?
+{{pageBreak}}Eso pensé.
+{{anim:Nodding target="actor" targetSpec=""}}Así que,{{delay8}} asegúrate de lavártelos bien antes de dormir, ¿vale?
+{{pageBreak}}{{string:Dots}}{{anim:Sleepy target="actor" targetSpec=""}}Supongo que te dejaré ir por ahora.
 
 ---
 label: 313
 attribute: 0x00000000
 ---
-{{anim:QuestionMark target="actor" targetSpec=""}}¿Sabes cuando alguien dice que una historia realmente le emocionó?{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}Eso la convierte en una historia {{delay8}}"emotiva,"{{delay8}} {{anim:Negative target="actor" targetSpec=""}}no en una historia {{delay8}}"delicada."{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}"Delicada" significa que es un tema sensible.{{delay8}} "Emotiva" significa que{{anim:Smiling target="actor" targetSpec=""}} llega al corazón.{{pageBreak}}
-{{anim:OhGeez target="actor" targetSpec=""}}{{string:Dots}}Y cosas sensibleras por el estilo.
+{{anim:QuestionMark target="actor" targetSpec=""}}¿Sabes cuando alguien dice que una historia realmente le emocionó?
+{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Eso la convierte en una historia {{delay8}}"emotiva,"{{delay8}} {{anim:Negative target="actor" targetSpec=""}}no en una historia {{delay8}}"delicada."
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}"Delicada" significa que es un tema sensible.{{delay8}} "Emotiva" significa que{{anim:Smiling target="actor" targetSpec=""}} llega al corazón.
+{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}{{string:Dots}}Y cosas sensibleras por el estilo.
 
 ---
 label: 314
@@ -897,49 +892,49 @@ attribute: 0x00000000
 label: 315
 attribute: 0x00000000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}Cuando escribas "si acaso," asegúrate de que es "si" con "S-I", no "sí" con acento.{{pageBreak}}
-{{anim:OhGeez target="actor" targetSpec=""}}Cuando escribes "si acaso" mal, {{delay8}}¡estás afirmando en lugar de plantear una condición!{{pageBreak}}
-{{anim:Pardon target="actor" targetSpec=""}}¡OYE,{{delay20}} "si" es condicional {{delay8}}y "sí" es{{delay8}} afirmativo!{{pageBreak}}
-{{anim:Sighing target="actor" targetSpec=""}}Es difícil de explicar en voz alta.{{delay8}}{{10:4}}{{delay8}}{{anim:Thinking target="actor" targetSpec=""}}{{delay40}}{{color id="4"}}{{size value="75"}}{{color id="4"}}
+{{anim:Nodding target="actor" targetSpec=""}}Cuando escribas "si acaso," asegúrate de que es "si" con "S-I", no "sí" con acento.
+{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}Cuando escribes "si acaso" mal, {{delay8}}¡estás afirmando en lugar de plantear una condición!
+{{pageBreak}}{{anim:Pardon target="actor" targetSpec=""}}¡OYE,{{delay20}} "si" es condicional {{delay8}}y "sí" es{{delay8}} afirmativo!
+{{pageBreak}}{{anim:Sighing target="actor" targetSpec=""}}Es difícil de explicar en voz alta.{{delay8}}{{10:4}}{{delay8}}{{anim:Thinking target="actor" targetSpec=""}}{{delay40}}{{color id="4"}}{{size value="75"}}{{color id="4"}}
 Ojalá pudieras leer lo que estoy diciendo{{string:Dots}}{{color id="-1"}}
 
 ---
 label: 316
 attribute: 0x00000000
 ---
-{{anim:Explain target="actor" targetSpec=""}}¡De vez en cuando, acuéstate temprano!{{pageBreak}}
-{{anim:Angry target="actor" targetSpec=""}}¡Quedarse despierto hasta tarde siempre es de tontos!
+{{anim:Explain target="actor" targetSpec=""}}¡De vez en cuando, acuéstate temprano!
+{{pageBreak}}{{anim:Angry target="actor" targetSpec=""}}¡Quedarse despierto hasta tarde siempre es de tontos!
 
 ---
 label: 317
 attribute: 0x00000000
 ---
 {{anim:QuestionMark target="actor" targetSpec=""}}¿Antes de meterte en la cama esta noche?{{delay40}}
-{{anim:Shocked target="actor" targetSpec=""}}¡Lávate bien detrás de las orejas!{{delay40}}{{pageBreak}}
-{{anim:Worried target="actor" targetSpec=""}}No querrás que te crezcan patatas ahí detrás, ¿verdad?{{delay40}}
+{{anim:Shocked target="actor" targetSpec=""}}¡Lávate bien detrás de las orejas!{{delay40}}
+{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}No querrás que te crezcan patatas ahí detrás, ¿verdad?{{delay40}}
 {{anim:Pardon target="actor" targetSpec=""}}¡Eso pensé!
 
 ---
 label: 318
 attribute: 0x00000000
 ---
-{{anim:Angry target="actor" targetSpec=""}}¡Lávate las manos después de ir al baño!{{pageBreak}}
-{{anim:Negative target="actor" targetSpec=""}}¡A nadie le gusta alguien apestoso,{{delay8}} pegajoso,{{delay8}}{{anim:Outraged target="actor" targetSpec=""}} COCHINO!{{pageBreak}}
-{{anim:Hot target="actor" targetSpec=""}}{{color id="4"}}{{size value="75"}}Pero no hablo de ti, ni nada{{string:Dots}}{{pageBreak}}
-{{anim:Silent target="actor" targetSpec=""}}¡Al menos{{delay8}} ESO ESPERO!{{pageBreak}}
-{{anim:WrySmile target="actor" targetSpec=""}}Te sorprendería la cantidad de gente que no se lava las manos regularmente.{{pageBreak}}
-{{anim:Aha target="actor" targetSpec=""}}¡Ten cuidado con quién das la mano!{{delay20}}{{anim:Worried target="actor" targetSpec=""}}Y, {{delay8}}¡mantén las manos fuera de tu boca!
+{{anim:Angry target="actor" targetSpec=""}}¡Lávate las manos después de ir al baño!
+{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}¡A nadie le gusta alguien apestoso,{{delay8}} pegajoso,{{delay8}}{{anim:Outraged target="actor" targetSpec=""}} COCHINO!
+{{pageBreak}}{{anim:Hot target="actor" targetSpec=""}}{{color id="4"}}{{size value="75"}}Pero no hablo de ti, ni nada{{string:Dots}}
+{{pageBreak}}{{anim:Silent target="actor" targetSpec=""}}¡Al menos{{delay8}} ESO ESPERO!
+{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}Te sorprendería la cantidad de gente que no se lava las manos regularmente.
+{{pageBreak}}{{anim:Aha target="actor" targetSpec=""}}¡Ten cuidado con quién das la mano!{{delay20}}{{anim:Worried target="actor" targetSpec=""}}Y, {{delay8}}¡mantén las manos fuera de tu boca!
 
 ---
 label: 319
 attribute: 0x00000000
 ---
 {{anim:Serious target="actor" targetSpec=""}}¡Mastica la comida!{{delay40}}
-¡Y deja de hablar con la boca llena!{{pageBreak}}
-{{anim:EmotEnd_0 target="actor" targetSpec=""}}¡Nadie quiere ver todo eso en tu boca cuando están tratando de {{anim:Negative target="actor" targetSpec=""}}comer contigo!{{anim:EmotEnd_0 target="actor" targetSpec=""}}{{pageBreak}}
-Si me preguntaras, {{delay8}}{{anim:Hesitate target="actor" targetSpec=""}}{{delay20}}"Sr. {{color id="3"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Rese T{{color id="-1"}},{{delay20}} Señor, {{delay8}}Buen Señor, ¿cómo puedo {{anim:Pardon target="actor" targetSpec=""}}PERDER AMIGOS LO MÁS RÁPIDO POSIBLE?!"{{pageBreak}}
-{{anim:Worried target="actor" targetSpec=""}}{{string:Dots}}Te diría, "¡Mastica con la boca abierta! ¡Y asegúrate de chasquear los labios bien fuerte!"{{pageBreak}}
-{{anim:Outraged target="actor" targetSpec=""}}Ah, el chasqueo de labios es otro asunto terrible{{string:Dots}}{{delay40}}{{anim:Sighing target="actor" targetSpec=""}}pero,{{delay8}} no debería hablar tanto,{{delay8}} ¿eh?
+¡Y deja de hablar con la boca llena!
+{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}¡Nadie quiere ver todo eso en tu boca cuando están tratando de {{anim:Negative target="actor" targetSpec=""}}comer contigo!{{anim:EmotEnd_0 target="actor" targetSpec=""}}
+{{pageBreak}}Si me preguntaras, {{delay8}}{{anim:Hesitate target="actor" targetSpec=""}}{{delay20}}"Sr. {{color id="3"}}Rese T{{color id="-1"}},{{delay20}} Señor, {{delay8}}Buen Señor, ¿cómo puedo {{anim:Pardon target="actor" targetSpec=""}}PERDER AMIGOS LO MÁS RÁPIDO POSIBLE?!"
+{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}{{string:Dots}}Te diría, "¡Mastica con la boca abierta! ¡Y asegúrate de chasquear los labios bien fuerte!"
+{{pageBreak}}{{anim:Outraged target="actor" targetSpec=""}}Ah, el chasqueo de labios es otro asunto terrible{{string:Dots}}{{delay40}}{{anim:Sighing target="actor" targetSpec=""}}pero,{{delay8}} no debería hablar tanto,{{delay8}} ¿eh?
 
 ---
 label: 320
@@ -970,10 +965,10 @@ attribute: 0x00000000
 label: 320_01
 attribute: 0x00000000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}Bien hecho.{{delay8}} Solo no te olvides de terminar lo que empezaste,{{delay8}} ¿me oyes?{{pageBreak}}
-{{anim:ColdChill target="actor" targetSpec=""}}¡Tienes que sacarla a secar rápido, a menos que quieras andar con arrugas mohosas toda la semana!{{pageBreak}}
-{{anim:Negative target="actor" targetSpec=""}}Te digo,{{delay40}}{{anim:Outraged target="actor" targetSpec=""}} ¡NO quiero tener que andar con ropa que huele a trapos viejos!{{pageBreak}}
-{{anim:Angry target="actor" targetSpec=""}}¡Y tú tampoco deberías! 
+{{anim:Nodding target="actor" targetSpec=""}}Bien hecho.{{delay8}} Solo no te olvides de terminar lo que empezaste,{{delay8}} ¿me oyes?
+{{pageBreak}}{{anim:ColdChill target="actor" targetSpec=""}}¡Tienes que sacarla a secar rápido, a menos que quieras andar con arrugas mohosas toda la semana!
+{{pageBreak}}{{anim:Negative target="actor" targetSpec=""}}Te digo,{{delay40}}{{anim:Outraged target="actor" targetSpec=""}} ¡NO quiero tener que andar con ropa que huele a trapos viejos!
+{{pageBreak}}{{anim:Angry target="actor" targetSpec=""}}¡Y tú tampoco deberías! 
 {{delay40}}{{anim:Pardon target="actor" targetSpec=""}}¿Está claro?{{delay8}} ¿Cristalino?{{delay40}}{{anim:Worried target="actor" targetSpec=""}}
 Bien.
 
@@ -982,10 +977,10 @@ label: 320_02
 attribute: 0x00000000
 ---
 {{anim:OhGeez target="actor" targetSpec=""}}Asumo que las lavaste primero entonces, ¿eh?{{10:4}}{{delay8}} Al{{anim:EmotEnd_0 target="actor" targetSpec=""}} menos espero que lo hayas hecho.
-{{delay40}}{{pageBreak}}
-{{anim:Serious target="actor" targetSpec=""}}Oye, esto no es una acusación ni nada; {{delay20}}si lo fuera te lo haría saber bien descaradamente.{{pageBreak}}
-Solo{{string:Dots}} no te olvides de la parte del lavado cuando laves tu ropa{{string:Dots}}{{pageBreak}}
-{{anim:Worried target="actor" targetSpec=""}}Si no, podrías empezar a oler un poco mal{{string:Dots}}
+{{delay40}}
+{{pageBreak}}{{anim:Serious target="actor" targetSpec=""}}Oye, esto no es una acusación ni nada; {{delay20}}si lo fuera te lo haría saber bien descaradamente.
+{{pageBreak}}Sólo{{string:Dots}} no te olvides de la parte del lavado cuando laves tu ropa{{string:Dots}}
+{{pageBreak}}{{anim:Worried target="actor" targetSpec=""}}Si no, podrías empezar a oler un poco mal{{string:Dots}}
 {{anim:Pardon target="actor" targetSpec=""}}¡Créeme, conozco los malos olores!{{anim:ColdChill target="actor" targetSpec=""}}¿Estamos claros?{{delay8}} ¿Cristalino?{{delay40}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}
 Bien.
 
@@ -993,11 +988,11 @@ Bien.
 label: 320_03
 attribute: 0x00000000
 ---
-{{anim:OhGeez target="actor" targetSpec=""}}Claro.{{delay40}} Sabes, no soy tu padre ni nada. No tienes que mentirme así.{{pageBreak}}
-{{anim:ShyBoy target="actor" targetSpec=""}}Dicho esto{{string:Dots}}{{delay20}}tienes que encargarte de eso esta noche, {{anim:QuestionMark target="actor" targetSpec=""}}{{delay8}}¿vale?{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}No soy un topo malo, {{delay8}}en serio,{{delay8}}{{anim:Negative target="actor" targetSpec=""}} no lo soy. {{delay20}}Pregúntale a cualquiera.{{pageBreak}}
-{{anim:EmotEnd_24 target="actor" targetSpec=""}}Es solo que, {{delay8}}si tienes tiempo para perder el tiempo aquí,{{delay8}}{{anim:Sighing target="actor" targetSpec=""}} lo mínimo que podrías hacer es tener algo en la lavandería, {{delay8}}también.{{anim:Nodding target="actor" targetSpec=""}}¡Tienes que cuidarte!{{pageBreak}}
-{{anim:QuestionMark target="actor" targetSpec=""}}¿Estamos claros?{{delay8}}
+{{anim:OhGeez target="actor" targetSpec=""}}Claro.{{delay40}} Sabes, no soy tu padre ni nada. No tienes que mentirme así.
+{{pageBreak}}{{anim:ShyBoy target="actor" targetSpec=""}}Dicho esto{{string:Dots}}{{delay20}}tienes que encargarte de eso esta noche, {{anim:QuestionMark target="actor" targetSpec=""}}{{delay8}}¿vale?
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}No soy un topo malo, {{delay8}}en serio,{{delay8}}{{anim:Negative target="actor" targetSpec=""}} no lo soy. {{delay20}}Pregúntale a cualquiera.
+{{pageBreak}}{{anim:EmotEnd_24 target="actor" targetSpec=""}}Es solo que, {{delay8}}si tienes tiempo para perderlo aquí,{{delay8}}{{anim:Sighing target="actor" targetSpec=""}} lo mínimo que podrías hacer es tener algo en la lavandería, {{delay8}}también.{{anim:Nodding target="actor" targetSpec=""}}¡Tienes que cuidarte!
+{{pageBreak}}{{anim:QuestionMark target="actor" targetSpec=""}}¿Estamos claros?{{delay8}}
 {{anim:Smiling target="actor" targetSpec=""}}¡Bien!
 
 ---
@@ -1010,17 +1005,17 @@ attribute: 0x00000000
 label: 320_04
 attribute: 0x00000000
 ---
-{{anim:ShyBoy target="actor" targetSpec=""}}Si has estado esperando, tienes que encargarte de eso esta noche, {{anim:QuestionMark target="actor" targetSpec=""}}{{delay8}}¿vale?{{pageBreak}}
-{{anim:Explain target="actor" targetSpec=""}}No soy un topo malo, {{delay8}}en serio,{{delay8}}{{anim:Negative target="actor" targetSpec=""}} no lo soy. {{delay20}}Pregúntale a cualquiera.{{pageBreak}}
-{{anim:EmotEnd_24 target="actor" targetSpec=""}}Es solo que, {{delay8}}si tienes tiempo para perder el tiempo aquí,{{delay8}}{{anim:Sighing target="actor" targetSpec=""}} lo mínimo que podrías hacer es tener algo en la lavandería, {{delay8}}también.{{anim:Nodding target="actor" targetSpec=""}}¡Tienes que cuidarte!{{pageBreak}}
-{{anim:QuestionMark target="actor" targetSpec=""}}¿Estamos claros?{{delay8}}{{anim:Smiling target="actor" targetSpec=""}}¡Bien!
+{{anim:ShyBoy target="actor" targetSpec=""}}Si has estado esperando, tienes que encargarte de eso esta noche, {{anim:QuestionMark target="actor" targetSpec=""}}{{delay8}}¿vale?
+{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}No soy un topo malo, {{delay8}}en serio,{{delay8}}{{anim:Negative target="actor" targetSpec=""}} no lo soy. {{delay20}}Pregúntale a cualquiera.
+{{pageBreak}}{{anim:EmotEnd_24 target="actor" targetSpec=""}}Es solo que, {{delay8}}si tienes tiempo para perderlo aquí,{{delay8}}{{anim:Sighing target="actor" targetSpec=""}} lo mínimo que podrías hacer es tener algo en la lavandería, {{delay8}}también.{{anim:Nodding target="actor" targetSpec=""}}¡Tienes que cuidarte!
+{{pageBreak}}{{anim:QuestionMark target="actor" targetSpec=""}}¿Estamos claros?{{delay8}}{{anim:Smiling target="actor" targetSpec=""}}¡Bien!
 
 ---
 label: 321
 attribute: 0x06000000
 ---
-{{anim:Oops target="actor" targetSpec=""}}{{delay40}}{{string:Dots}}Se me olvidó.{{pageBreak}}
-{{anim:OhGeez target="actor" targetSpec=""}}Bueno,{{delay8}} si vuelves mañana,{{delay8}} tal vez lo recuerde entonces.{{delay40}}{{anim:Explain target="actor" targetSpec=""}}Era realmente importante, {{delay8}}te lo prometo. 
+{{anim:Oops target="actor" targetSpec=""}}{{delay40}}{{string:Dots}}Se me olvidó.
+{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}Bueno,{{delay8}} si vuelves mañana,{{delay8}} tal vez lo recuerde entonces.{{delay40}}{{anim:Explain target="actor" targetSpec=""}}Era realmente importante, {{delay8}}te lo prometo. 
 
 ---
 label: 340
@@ -1063,8 +1058,8 @@ attribute: 0x00000000
 label: 346
 attribute: 0x00000000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}Ese es mi consejo del día.{{pageBreak}}
-{{anim:Pardon target="actor" targetSpec=""}}¿Qué quieres?{{delay8}}
+{{anim:Nodding target="actor" targetSpec=""}}Ese es mi consejo del día.
+{{pageBreak}}{{anim:Pardon target="actor" targetSpec=""}}¿Qué quieres?{{delay8}}
 Soy un topo culto.
 
 ---
@@ -1105,8 +1100,8 @@ label: 600
 attribute: 0x06000000
 ---
 {{anim:Silent target="actor" targetSpec=""}}¡Espera!{{delay8}}{{anim:Sighing target="actor" targetSpec=""}}{{delay20}}
-Vas a necesitar algo de espacio en tus bolsillos.{{pageBreak}}
-{{anim:OhGeez target="actor" targetSpec=""}}Avísame cuando lo tengas, ENTONCES podremos hablar de minerales.
+Vas a necesitar algo de espacio en tus bolsillos.
+{{pageBreak}}{{anim:OhGeez target="actor" targetSpec=""}}Avísame cuando lo tengas, ENTONCES podremos hablar de minerales.
 
 ---
 label: 601
