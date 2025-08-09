@@ -915,119 +915,119 @@ attribute: 0x9C100000
 label: 2508
 attribute: 0x00000000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Hoy tengo un {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}zafiro{{color id="-1"}} para ti. Aquí tienes.
+{{anim:FaintSmile target="actor" targetSpec=""}}Hoy tengo un {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}zafiro{{color id="-1"}} para ti. Aquí tienes.
 
 ---
 label: 2508_0
 attribute: 0x00000000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Por favor, acepta este {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}zafiro{{color id="-1"}} como agradecimiento. {{delay8}}Espero que puedas darle buen uso.
+{{anim:FaintSmile target="actor" targetSpec=""}}Por favor, acepta este {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}zafiro{{color id="-1"}} como agradecimiento. {{delay8}}Espero que puedas darle buen uso.
 
 ---
 label: 2508_01
 attribute: 0x00000000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Por favor, acepta este {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}zafiro{{color id="-1"}} como agradecimiento por el giroide que me trajiste.
+{{anim:FaintSmile target="actor" targetSpec=""}}Por favor, acepta este {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}zafiro{{color id="-1"}} como agradecimiento por el giroide que me trajiste.
 
 ---
 label: 2508_02
 attribute: 0x00000000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Espero que disfrutes este {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}zafiro{{color id="-1"}} como recompensa.
+{{anim:FaintSmile target="actor" targetSpec=""}}Espero que disfrutes este {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}zafiro{{color id="-1"}} como recompensa.
 
 ---
 label: 2508_03
 attribute: 0x00000000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Aquí tienes un {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}zafiro{{color id="-1"}} por tus esfuerzos.
+{{anim:FaintSmile target="actor" targetSpec=""}}Aquí tienes un {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}zafiro{{color id="-1"}} por tus esfuerzos.
 
 ---
 label: 2509
 attribute: 0x5C120000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Hoy tengo una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}esmeralda{{color id="-1"}} para ti. Aquí tienes.
+{{anim:FaintSmile target="actor" targetSpec=""}}Hoy tengo una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}esmeralda{{color id="-1"}} para ti. Aquí tienes.
 
 ---
 label: 2509_0
 attribute: 0x5C120000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}esmeralda{{color id="-1"}} debería bastar como agradecimiento{{string:Dots}}por tus molestias.
+{{anim:FaintSmile target="actor" targetSpec=""}}Una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}esmeralda{{color id="-1"}} debería bastar como agradecimiento{{string:Dots}}por tus molestias.
 
 ---
 label: 2509_01
 attribute: 0x5C120000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Como muestra de gratitud, aquí tienes una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}esmeralda{{color id="-1"}}{{delay20}}.
+{{anim:FaintSmile target="actor" targetSpec=""}}Como muestra de gratitud, aquí tienes una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}esmeralda{{color id="-1"}}{{delay20}}.
 {{pageBreak}}{{anim:Smiling target="actor" targetSpec=""}}Cu{{string:Dots}}{{delay20}}su tono verde es tan agradable{{string:Dots}}
 
 ---
 label: 2509_02
 attribute: 0x5C120000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Por favor, acepta esta {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}esmeralda{{color id="-1"}}.
+{{anim:FaintSmile target="actor" targetSpec=""}}Por favor, acepta esta {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}esmeralda{{color id="-1"}}.
 {{pageBreak}}{{string:Dots}}{{anim:FaintSmile target="actor" targetSpec=""}}Te lo agradezco{{string:Dots}}
 
 ---
 label: 2509_03
 attribute: 0x5C120000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Espero que encuentres una buena forma de usar esta {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}esmeralda{{color id="-1"}}.
+{{anim:FaintSmile target="actor" targetSpec=""}}Espero que encuentres una buena forma de usar esta {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}esmeralda{{color id="-1"}}.
 
 ---
 label: 2510
 attribute: 0xA0120000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Hoy tengo una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}amatista{{color id="-1"}} para ti. Aquí tienes.
+{{anim:FaintSmile target="actor" targetSpec=""}}Hoy tengo una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}amatista{{color id="-1"}} para ti. Aquí tienes.
 
 ---
 label: 2510_0
 attribute: 0xA0120000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Por favor, acepta esta {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}amatista{{color id="-1"}} como recompensa.
+{{anim:FaintSmile target="actor" targetSpec=""}}Por favor, acepta esta {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}amatista{{color id="-1"}} como recompensa.
 
 ---
 label: 2510_01
 attribute: 0xA0120000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}amatista{{color id="-1"}} debería bastar como agradecimiento, {{delay8}}por ahora{{string:Dots}}
+{{anim:FaintSmile target="actor" targetSpec=""}}Una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}amatista{{color id="-1"}} debería bastar como agradecimiento, {{delay8}}por ahora{{string:Dots}}
 
 ---
 label: 2510_02
 attribute: 0xA0120000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Por favor, acepta esta {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}amatista{{color id="-1"}} {{delay20}}como muestra de gratitud.
+{{anim:FaintSmile target="actor" targetSpec=""}}Por favor, acepta esta {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}amatista{{color id="-1"}} {{delay20}}como muestra de gratitud.
 
 ---
 label: 2510_03
 attribute: 0xA0120000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Cu{{string:Dots}}Las {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}amatistas{{color id="-1"}} tienen un {{delay8}}brillo tan hermoso{{string:Dots}}
+{{anim:FaintSmile target="actor" targetSpec=""}}Cu{{string:Dots}}Las {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}amatistas{{color id="-1"}} tienen un {{delay8}}brillo tan hermoso{{string:Dots}}
 {{pageBreak}}Por favor, acepta esta como agradecimiento.
 
 ---
 label: 2505_02
 attribute: 0x34130000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}Por favor, acepta esto{{anim:Nodding target="actor" targetSpec=""}} una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}pepita de oro{{color id="-1"}}.
+{{anim:Smiling target="actor" targetSpec=""}}Por favor, acepta esto{{anim:Nodding target="actor" targetSpec=""}} una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}pepita de oro{{color id="-1"}}.
 {{pageBreak}}{{string:Dots}}Espero que no{{anim:Serious target="actor" targetSpec=""}} solo las vendas.
 
 ---
 label: 2505_03
 attribute: 0x82130000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Aquí tienes una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}pepita de oro{{color id="-1"}} como agradecimiento. {{anim:Nodding target="actor" targetSpec=""}}Intenta crear algo con ella.
+{{anim:FaintSmile target="actor" targetSpec=""}}Aquí tienes una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}pepita de oro{{color id="-1"}} como agradecimiento. {{anim:Nodding target="actor" targetSpec=""}}Intenta crear algo con ella.
 
 ---
 label: 2506_03
 attribute: 0xD2130000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Por favor, acepta esta {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}pepita de plata{{color id="-1"}} como muestra de gratitud.
+{{anim:FaintSmile target="actor" targetSpec=""}}Por favor, acepta esta {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}pepita de plata{{color id="-1"}} como muestra de gratitud.
 
 ---
 label: 2506_02
 attribute: 0xFC150000
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Tengo una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}pepita de plata{{color id="-1"}} para ti,{{delay8}} como agradecimiento.
+{{anim:FaintSmile target="actor" targetSpec=""}}Tengo una {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}pepita de plata{{color id="-1"}} para ti,{{delay8}} como agradecimiento.
 
 ---
 label: 3000
