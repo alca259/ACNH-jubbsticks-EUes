@@ -3,5 +3,6 @@
 label: 403_01
 attribute: 0x0000000000000000
 ---
-{{anim:Nodding target="actor" targetSpec=""}}These are {{delay8}}SO{{delay8}} tasty.{{delay20}} 
-{{anim:Love target="actor" targetSpec=""}}Like, {{string:Catchphrase}}-tasty.
+{{anim:Nodding target="actor" targetSpec=""}}Это же
+{{delay8}}SO{{delay8}} Вкуснятина.{{delay20}} 
+{{anim:Love target="actor" targetSpec=""}}Like, {{string:Catchphrase}}-Вкуснятина.
