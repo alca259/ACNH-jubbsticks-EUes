@@ -3,15 +3,14 @@
 label: 102
 attribute: 
 ---
-I know you're all grown up now,
-but I hope your taste buds
-haven't changed too much.
+Я знаю, что ты вырос,
+но, думаю, что твои вкусы не изменились.
 
-Eat it or plant it, but enjoy
-this small taste of home.
+Съешь или посади это, но насладись
+вкусом прямо из твоего дома.
 
 ---
 label: 251_02
 attribute: 
 ---
-Eat it or plant it, but think of me. –Mom
+Съешь или посади, но не забудь обо мне. –Мама
