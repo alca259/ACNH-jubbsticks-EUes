@@ -3,43 +3,43 @@
 label: 003
 attribute: 
 ---
-Heya, {{string:PlayerName}}!
+Привет, {{string:PlayerName}}!
 
 ---
 label: 004
 attribute: 
 ---
-Heya, {{string:PlayerName}}!
+Привет, {{string:PlayerName}}!
 
 ---
 label: 005
 attribute: 
 ---
-Heya, {{string:PlayerName}}!
+Привет, {{string:PlayerName}}!
 
 ---
 label: 006
 attribute: 
 ---
-Heya, {{string:PlayerName}}!
+Привет, {{string:PlayerName}}!
 
 ---
 label: 007
 attribute: 
 ---
-Heya, {{string:PlayerName}}!
+Привет, {{string:PlayerName}}!
 
 ---
 label: 008
 attribute: 
 ---
-Heya, {{string:PlayerName}}!
+Привет, {{string:PlayerName}}!
 
 ---
 label: 009
 attribute: 
 ---
-Heya, {{string:PlayerName}}!
+Привет, {{string:PlayerName}}!
 
 ---
 label: 011
@@ -51,209 +51,193 @@ attribute:
 label: 012
 attribute: 
 ---
-Sorry, {{string:PlayerName}}...
+Извини, {{string:PlayerName}}...
 
 ---
 label: 013
 attribute: 
 ---
-Wonderful news, {{string:PlayerName}}!
+Отличные новости, {{string:PlayerName}}!
 
 ---
 label: 014
 attribute: 
 ---
-Hiya, {{string:PlayerName}}!
+Приветик, {{string:PlayerName}}!
 
 ---
 label: 015
 attribute: 
 ---
-Hi, {{string:PlayerName}}!
+Здорово, {{string:PlayerName}}!
 
 ---
 label: 016
 attribute: 
 ---
-Happy day, {{string:PlayerName}}!
+День добрый, {{string:PlayerName}}!
 
 ---
 label: 017
 attribute: 
 ---
-Bad news, {{string:PlayerName}}...
+Плохие новости, {{string:PlayerName}}...
 
 ---
 label: 018
 attribute: 
 ---
-Oh boy, {{string:PlayerName}}!
+О боже, {{string:PlayerName}}!
 
 ---
 label: 019
 attribute: 
 ---
-How are you, {{string:PlayerName}}?
+Как дела, {{string:PlayerName}}?
 
 ---
 label: 020
 attribute: 
 ---
-Heya, {{string:PlayerName}}!
+Привет, {{string:PlayerName}}!
 
 ---
 label: 103
 attribute: 
 ---
-Last I visited {{string:IslandName}},
-I noticed all the apple trees 
-sprouting up! I thought, "Wow,
-apples sure are happy here!"
-I hope this apple will happily 
-sprout there too, even though 
-it's more sensitive than most.
+В последнее я время я посетил {{string:IslandName}},
+и я заметил растущие яблони! Вау, уверен, тут рады яблокам!"
+Надеюсь, что это яблоко тоже прорастет тут,
+хотя оно более чуствительно, чем остальные .
 
 ---
 label: 104
 attribute: 
 ---
-Last I visited {{string:IslandName}},
-I noticed all the orange trees 
-sprouting up! I thought, "Wow,
-oranges sure are happy here!"
-I hope this orange will happily 
-sprout there too, even though 
-it's more sensitive than most.
+В последнее время я посетил {{string:IslandName}},
+и я заметил растущие апельсиновые деревья! И я подумал, "Вау,
+я уверен, апельсинам тут рады!"
+Я надеюсь, что этот апельсин тоже прорастет тут, 
+хотя он более чуствителен, чем остальные.
 
 ---
 label: 105
 attribute: 
 ---
-Last I visited {{string:IslandName}},
-I noticed all the pear trees 
-sprouting up! I thought, "Wow,
-pears sure are happy here!"
-I hope this pear will happily 
-sprout there too, even though 
-it's more sensitive than most.
+В последнее время я посетил {{string:IslandName}},
+и я заметил растущие груши! И я подумал, "Вау,
+я уверен, грушам тут рады!"
+Я надеюсь, что эта груша тоже прорастет тут,
+хотя она чуствительней, чем остальные.
 
 ---
 label: 106
 attribute: 
 ---
-Last I visited {{string:IslandName}},
-I noticed all the peach trees 
-sprouting up! I thought, "Wow,
-peaches sure are happy here!" 
-I hope this peach will happily 
-sprout there too, even though 
-it's more sensitive than most.
+В последнее время я посетил {{string:IslandName}},
+и я заметил растущие персики! И я подумал, "Вау,
+похоже персикам тут рады!!" 
+Я надуюсь, что этот персик тоже прорастет тут
+хотя он более чуствительней, чем остальные.
 
 ---
 label: 107
 attribute: 
 ---
-Last I visited {{string:IslandName}},
-I noticed all the cherry trees 
-sprouting up! I thought, "Wow,
-cherries sure are happy here!"
-I hope this cherry will happily 
-sprout there too, even though 
-it's more sensitive than most.
+В последнее время я посетил {{string:IslandName}},
+и я заметил растущую вишню! И я подумал, "Вау,
+я уверен, вишням тут рады!"
+Я надеюсь, что эта вишня тоже прорастет тут
+хотя она более чуствительней, чем остальные.
 
 ---
 label: 108
 attribute: 
 ---
-After a couple of days, your 
-cultivation order is now complete!
-Here are your happy little shoots!
+Спустя несколько дней, твоё 
+проращивание готово!
+Вот твои маленькие, счастливые росточки!
 
 ---
 label: 109
 attribute: 
 ---
-It took quite a while, but 
-your bamboo cultivation order is 
-finally complete! 
+Пришлось немножко подождать, но
+твой заказ на выращивание бамбука
+наконец готов! 
 
-Thanks again for your business!
-Let me know if you need any more!
+Спасибо ещё раз за сотрудничество!
+Если ещё нужно чего, дай знать!
 
 ---
 label: 110
 attribute: 
 ---
-That young bamboo tree you
-gave me to cultivate was real lively!
+Тот молодой бамбук, что ты мне дал 
+вырастить, оказался очень живым!
 
-It's already produced some shoots!
-Here they are for you, friend.
-Let me know if you need more!
+И он произвел множество побегов!
+Все они для тебя, друг.
+Дай знать, если ещё нужно чего!
 
 ---
 label: 111
 attribute: 
 ---
-Your bamboo cultivation was a bit 
-of a failure. It took a long time, 
-and only produced a single shoot...
-But I'm sure you'll be glad
-that it's a PERFECT bamboo shoot!
-Lucky you! Here it is!
+Твой заказ на выращивание бамбука
+оказался не очень удачным. За все долгое время, 
+он принес только один росток...
+Но, я уверен, что ты будешь рад,
+так как это... ИДЕАЛЬНЫЙ РОСТОК!
+Ты удачлив! Вот он!
 
 ---
 label: 112
 attribute: 
 ---
-Your perfect bamboo cultivation
-failed! It sadly only produced a
-single shoot in return...
+Твоё выращивание идеального бамбука провалилось! К сожалению, 
+ни один росточек не пророс...
 
-We can always try to cultivate it 
-again, if you'd like to!
+Если захочешь, я попробую ещё раз!
 
 ---
 label: 113
 attribute: 
 ---
-The perfect bamboo cultivation
-was a swift success! Your tree
-already sprouted two whole shoots.
-I hope they'll grow up as
-nice and strong as they are happy!
+Заказ на проращивание идельного бамбука был успешен! 
+Твой бамбук дал два росточка.
+Я надеюсь, что они вырастут
+красивыми и сильными, так как они рады!
 
 ---
 label: 114
 attribute: 
 ---
-Sorry for the wait on your perfect
-bamboo cultivation!
-This one was a real happy little
-sprout, and made three perfect
-bamboo shoots just for you!
-How wonderful!
+Извини за ожидание твоего заказа
+на выращивание идеального бамбука!
+Видимо это был очень счастливый росток
+, так как он сделал аж три побега!
+Чудесно!
 
 ---
 label: 115
 attribute: 
 ---
-Your bamboo cultivation order produced 
-a whole bunch of shoots, which are
-enclosed below. 
-I hope they're as happy as their
-parent tree has been!
+По твоему заказу, я принес целый
+букет побегов, которые я приложил ниже. 
+Я надеюсь, что они будут рады,
+как их родители!
 
 ---
 label: 116
 attribute: 
 ---
-After a couple days, your bamboo 
-cultivation order is now complete!
+Подождав несколько дней, твой заказ 
+на выращивание бамбука уже завершен!
 
-That tree you gave me was SUPER
-happy, and decided to produce 
-lots of shoots just for you!
+Этот бамбук сделал меня
+СУПЕР счастливым, и решил вырастить 
+много побегов для тебя!
 
 ---
 label: 117
@@ -271,138 +255,134 @@ perfect bamboo tends to be.
 label: 118
 attribute: 
 ---
-After just a couple of days,
-the young perfect bamboo tree 
-you gave me to cultivate already 
-sprouted two beautiful little
-shoots! Here they are, for you!
+Подождав буквально несколько дней,
+юный идеальный бамбук 
+дал несколько ростков!
+Вот, они для тебя!
 
 ---
 label: 119
 attribute: 
 ---
-I'm sorry that your perfect
-bamboo cultivation order took
-so long! It ended up sprouting two
-whole shoots, so I'd say it was
-a success! Thanks for ordering!
+Извини, но твой заказ на выращивание идеального
+бамбука слишком затянулся! За все время у него проросло
+только два побега, однако, могу
+сказать, что это вполне успешно! 
+Спасибо за заказ!
 
 ---
 label: 120
 attribute: 
 ---
-It took quite a while, but 
-your bamboo cultivation order is 
-finally complete.
-And it produced lots of shoots!
+Пришлось немножко подождать, но
+заказ на проращивание бамбука наконец
+завершен.
+И он принес много ростков!
 
-Let me know if you need any more!
+Если что нужно, дай знать!
 
 ---
 label: 203
 attribute: 
 ---
-Try planting it! –Leif
+Попробуй посадить это! –Лейф
 
 ---
 label: 204
 attribute: 
 ---
-Try planting it! –Leif
+Попробуй посадить это! –Лейф
 
 ---
 label: 205
 attribute: 
 ---
-Try planting it! –Leif
+Попробуй посадить это! –Лейф
 
 ---
 label: 206
 attribute: 
 ---
-Try planting it! –Leif
+Попробуй посадить это! –Лейф
 
 ---
 label: 207
 attribute: 
 ---
-Try planting it! –Leif
+Попробуй посадить это! –Лейф
 
 ---
 label: 208
 attribute: 
 ---
-Thanks for hiring me! –Leif
-
+Спасибо за выбор меня! –Лейф
 ---
 label: 209
 attribute: 
 ---
-Sorry for the wait! –Leif
-
+Извини за ожидание! –Лейф
 ---
 label: 210
 attribute: 
 ---
-Thank you! –Leif
+Спасибо! –Лейф
 
 ---
 label: 211
 attribute: 
 ---
-You should plant it! –Leif
+Ты просто обязан посадить это! –Лейф
 
 ---
 label: 212
 attribute: 
 ---
-I tried my best! –Leif
+Я сделал всё, что мог! –Лейф
 
 ---
 label: 213
 attribute: 
 ---
-Good luck! –Leif
+Удачи! –Лейф
 
 ---
 label: 214
 attribute: 
 ---
-Thanks for your business! –Leif
+Спасибо за сотрудничество! –Лейф
 
 ---
 label: 215
 attribute: 
 ---
-I really appreciate your patronage! –Leif
-
+Я по - настоящему ценю твоё доверие! –Лейф
 ---
 label: 216
 attribute: 
 ---
-I bet they're happy too! –Leif
+Я клянусь, они тоже веселы! –Лейф
 
 ---
 label: 217
 attribute: 
 ---
-We can always try again! –Leif
+У нас всегда есть второй шанс! –Лейф
 
 ---
 label: 218
 attribute: 
 ---
-Thanks for your business! –Leif
+Thanks for your business! –Лейф
 
 ---
 label: 219
 attribute: 
 ---
-Have a good day! –Leif
+Хорошего дня! –Лейф
 
 ---
 label: 220
 attribute: 
 ---
-Have a good day! –Leif
+Хорошего дня! –Лейф
 
