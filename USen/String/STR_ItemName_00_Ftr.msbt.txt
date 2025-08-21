@@ -3,118 +3,119 @@
 label: Ftr_00883
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}woodland arch
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Лесной массив
 
 ---
 label: Ftr_00884
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}woodland shrub
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Лесной кустик
 
 ---
 label: Ftr_00885
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}woodland watersource
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Лесной
+источник
 
 ---
 label: Ftr_04079
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="2" defArticle="3"}}illuminated arch
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}Светящаяся арка
 
 ---
 label: Ftr_04082
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="2" defArticle="3"}}illuminated heart
+{{wordInfo gender="0" indefArticle="2" defArcticle="3"}}Светящееся сердечко
 
 ---
 label: Ftr_04085
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="2" defArticle="3"}}illuminated clock
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}Светящиеся часы
 
 ---
 label: Ftr_04091
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="2" defArticle="3"}}illuminated mini tree
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}Светящееся мини деревце
 
 ---
 label: Ftr_04095
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="2" defArticle="3"}}iceberg
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}Айсберг
 
 ---
 label: Ftr_15114
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}golden bed
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Золотая кровать
 
 ---
 label: Ftr_15115
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}golden man
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Золотой мужчина 
 
 ---
 label: Ftr_15116
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}golden woman
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Золотая женщина
 
 ---
 label: Ftr_15117
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}golden chair
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Золотой стул
 
 ---
 label: Ftr_15118
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}golden bench
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Золотая скамейка
 
 ---
 label: Ftr_15119
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}golden clock
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Золотые часы
 
 ---
 label: Ftr_15120
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}golden wall torch
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Ззолотая стена - факел
 
 ---
 label: Ftr_15121
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}golden chest
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Золотой сундук
 
 ---
 label: Ftr_15122
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}golden closet
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Золотой шкафчик
 
 ---
 label: Ftr_15123
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}golden table
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Золотой стол
 
 ---
 label: Ftr_15124
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}golden screen
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Золотой экран
 
 ---
 label: Ftr_15125
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}golden apple
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Золотое яблоко
