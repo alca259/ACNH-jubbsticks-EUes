@@ -3,4 +3,4 @@
 label: 403_01
 attribute: 0x0000000000000000
 ---
-{{anim:ShyBoy target="actor" targetSpec=""}}Those sorts of fruits are seriously tasty, {{string:Catchphrase}}. {{delay40}}{{anim:BigSmile target="actor" targetSpec=""}}Can't believe you'd just give me one for free!
+{{anim:ShyBoy target="actor" targetSpec=""}}Этот вид фруктов действительно вкусный. {{string:Catchphrase}}. {{delay40}}{{anim:BigSmile target="actor" targetSpec=""}}Я просто удивлен, что ты мне дал его бесплатно!
