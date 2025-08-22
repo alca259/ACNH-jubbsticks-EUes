@@ -3,13 +3,13 @@
 label: 200
 attribute: 0xABABABAB
 ---
-woaaaaaah phineas is here??
+Эээээээй, Финес здесь??
 
 ---
 label: 2506_1
 attribute: 0xABABABAB
 ---
-{{anim:FaintSmile target="actor" targetSpec=""}}Would you like a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}silver nugget{{color id="-1"}}
-{{anim:QuestionMark target="actor" targetSpec=""}}today?{{pageBreak}}
-{{anim:ShyBoy target="actor" targetSpec=""}}I hope you do{{string:Dots}} it's the only {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}ore{{color id="-1"}} I have right now.{{pageBreak}}
-{{anim:Negative target="actor" targetSpec=""}}Don't worry though, I should have more
+{{anim:FaintSmile target="actor" targetSpec=""}}Хочешь ли ты {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}серебрянный самородок{{color id="-1"}}
+{{anim:QuestionMark target="actor" targetSpec=""}}сегодня?{{pageBreak}}
+{{anim:ShyBoy target="actor" targetSpec=""}}Я надеюсь, ты сделаешь{{string:Dots}} это. Сейчас у меня только{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}руда{{color id="-1"}}.{{pageBreak}}
+{{anim:Negative target="actor" targetSpec=""}}Но не волнуйся, может, у меня будет больше
