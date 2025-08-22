@@ -3,178 +3,178 @@
 label: 002_03
 attribute: 0x0000000000000000
 ---
-Patient
+Терпимый
 
 ---
 label: 002_04
 attribute: 0x5E0100007C050000
 ---
-Profishional
+Профессиональный
 
 ---
 label: 110_03
 attribute: 0x96050000AA050000
 ---
-Inflated
+Надутый
 
 ---
 label: 110_02
 attribute: 0xBC050000CA050000
 ---
-Popping
+Лопающийся
 
 ---
 label: 110_01
 attribute: 0xE60500000A060000
 ---
-Playful
+Играбельный
 
 ---
 label: 110_00
 attribute: 0x1406000026060000
 ---
-Bouncing
+Прыгающий
 
 ---
 label: 111_00
 attribute: 0x3606000048060000
 ---
-Emerald
+Изумрудный
 
 ---
 label: 111_01
 attribute: 0x6C0600008A060000
 ---
-Amethyst
+Аметистовый
 
 ---
 label: 111_02
 attribute: 0xA2060000B6060000
 ---
-Ruby
+Рубиновый
 
 ---
 label: 111_03
 attribute: 0xCA060000E2060000
 ---
-Sapphire
+Сапфировый
 
 ---
 label: 111_04
 attribute: 0xF00600000A070000
 ---
-Silver
+Серебрянный
 
 ---
 label: 071_01
 attribute: 0x2207000036070000
 ---
-Safe
+Безопасный
 
 ---
 label: 071_02
 attribute: 0x4607000060070000
 ---
-Wasp
+Осиный
 
 ---
 label: 105_03
 attribute: 0x6E07000086070000
 ---
-The Very Best
+Очень хороший
 
 ---
 label: 113_00
 attribute: 0x6E07000086070000
 ---
-Mass
+Массивный
 
 ---
 label: 115_03
 attribute: 0x0000000000000000
 ---
-Methodical
+Методичный
 
 ---
 label: 115_00
 attribute: 0x0000000000000000
 ---
-Resourceful
+Находчивый
 
 ---
 label: 115_02
 attribute: 0x0000000000000000
 ---
-Nature
+Природный
 
 ---
 label: 115_01
 attribute: 0x0000000000000000
 ---
-Pioneering
+Новаторский
 
 ---
 label: 115_04
 attribute: 0x0000000000000000
 ---
-Big
+Большой
 
 ---
 label: 116_03
 attribute: 0x0000000000000000
 ---
-Painful
+Болезненный
 
 ---
 label: 116_00
 attribute: 0x0000000000000000
 ---
-Good
+Хороший
 
 ---
 label: 116_02
 attribute: 0x0000000000000000
 ---
-Ache-Inducing
+Вызывающий боль
 
 ---
 label: 116_01
 attribute: 0x0000000000000000
 ---
-Pesky
+Надоедливый
 
 ---
 label: 116_04
 attribute: 0x0000000000000000
 ---
-Thirsty
+Жаждующий
 
 ---
 label: 114_03
 attribute: 0x0000000000000000
 ---
-Wear
+Веа
 
 ---
 label: 114_00
 attribute: 0x0000000000000000
 ---
-Questionable
+Вопросительный
 
 ---
 label: 114_02
 attribute: 0x0000000000000000
 ---
-Impressive
+Впечатляющий
 
 ---
 label: 114_01
 attribute: 0x0000000000000000
 ---
-Interesting
+Интересный
 
 ---
 label: 114_04
 attribute: 0x0000000000000000
 ---
-Fashionable
+Фешенебильный
