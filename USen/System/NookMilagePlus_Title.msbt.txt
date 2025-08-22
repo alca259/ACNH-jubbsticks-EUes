@@ -3,10 +3,10 @@
 label: 001
 attribute: 
 ---
-Help Your Neighbors Out
+Помоги соседям
 
 ---
 label: 150
 attribute: 
 ---
-Dig Up Clams
+Выкопай венерок
