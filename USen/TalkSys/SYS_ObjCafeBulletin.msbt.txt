@@ -15,721 +15,719 @@ hasTXTW: false
 label: 000
 attribute: 0x020018
 ---
-There's a post titled 
-"Looking for Gyroids."{{pageBreak}}{{string:Dots}}It looks like {{color id="3"}}Brewster{{color id="-1"}} posted it.
-Should I read it?
+Тут наклеено объявление: 
+"Поиск гироидов."{{pageBreak}}{{string:Dots}}Похоже, это наклеил {{color id="3"}}Брюстер{{color id="-1"}}.
+Может, прочесть?
 
 ---
 label: 000_a
 attribute: 0x000000
 ---
-Let's see...
+Поглядим...
 
 ---
 label: 000_b
 attribute: 0x000000
 ---
-Maybe later.
+Может, потом.
 
 ---
 label: 100
 attribute: 0x020018
 ---
-"Looking for Gyroids"
-{{pageBreak}}{{string:Dots}}Looks like the post is the same as it was last time I checked. {{delay20}}
-Should I re-read it?
+"Поиск гироидов"
+{{pageBreak}}{{string:Dots}}Похоже, с последнего прочтения ничего не изменилось. {{delay20}}
+Может, перепрочитать?
 
 ---
 label: 100_a
 attribute: 0x000000
 ---
-Let's review.
+Так, посмотрим...
 
 ---
 label: 100_b
 attribute: 0x000000
 ---
-I'm okay.
+Все нормально.
 
 ---
 label: 200
 attribute: 0x020018
 ---
-"Looking for Gyroids"
-{{pageBreak}}It seems like {{color id="3"}}Brewster{{color id="0"}} crossed the gyroid I gave him yesterday off of the post!{{pageBreak}}{{color id="-1"}}Should I check the remaining list?
+"Поиск гироидов"
+{{pageBreak}}Похоже, {{color id="3"}}Брюстер{{color id="0"}} наклеил гироида, которого я дал ему сегодня!{{pageBreak}}{{color id="-1"}}Может, посмотреть, что осталось?
 
 ---
 label: 200_a
 attribute: 0x000000
 ---
-Let's see...
+Поглядим...
 
 ---
 label: 200_b
 attribute: 0x000000
 ---
-Another time.
+Попозже.
 
 ---
 label: 300
 attribute: 0x020018
 ---
-"Looking for Gyroids"
-{{pageBreak}}It seems like {{color id="3"}}Brewster{{color id="0"}} crossed the gyroids I've given him recently off of the post!{{pageBreak}}{{color id="-1"}}
-Should I check the remaining list?
+"Поиск гироидов"
+{{pageBreak}}Похоже{{color id="3"}}Брюстер{{color id="0"}} наклеил гироидов, которых я ему недавно дал!{{pageBreak}}{{color id="-1"}}
+Может, посмотреть что осталось?
 
 ---
 label: 300_a
 attribute: 0x000000
 ---
-Let's see...
+Хм... Поглядим...
 
 ---
 label: 300_b
 attribute: 0x000000
 ---
-Not right now.
+Не сейчас.
 
 ---
 label: 400
 attribute: 0x000018
 ---
-{{color id="4"}}I am currently looking to acquire
-{{color id="1"}}{{90:1 arg="0x0000"}} {{color id="4"}}more {{grammaticalNumber arg="[0,0]" zero="types of gyroids" one="gyroid type" multiple="types of gyroids"}}.{{pageBreak}}{{grammaticalNumber arg="[0,0]" zero="The list is as follows:" one="Specifically, I'm looking for the..." multiple="The list is as follows:"}}
+{{color id="4"}}Я бы хотел приобрести
+{{color id="1"}}{{90:1 arg="0x0000"}} {{color id="4"}}больше {{grammaticalNumber arg="[0,0]" zero="типов гироидов" one="типа гироидов" multiple="типов этих гироидов"}}.{{pageBreak}}{{grammaticalNumber arg="[0,0]" zero="Их список:" one="Specifically, Я ищу ..." multiple="Ищу этих гироидов:"}}
 ------------------
 
 ---
 label: 500
 attribute: 0x000018
 ---
-{{color id="4"}}If you happen to find {{grammaticalNumber arg="[0,0]" zero="any of these" one="it" multiple="any of these"}}, please bring {{grammaticalNumber arg="[0,0]" zero="them" one="it" multiple="them"}} to me at the counter.{{pageBreak}}— {{color id="3"}}Brewster
+{{color id="4"}}Если вам случится {{grammaticalNumber arg="[0,0]" zero="Кого - нибудь" one="Его" multiple="Кого - нибудь из них"}}, пожалуйста, принесите {{grammaticalNumber arg="[0,0]" zero="их" one="его" multiple="их"}} ко мне.{{pageBreak}}— {{color id="3"}}Брюстер
 
 ---
 label: 001
 attribute: 0x02001A
 ---
-{{color id="1"}}Xylophoid
+{{color id="1"}}Ксилофоид
 
 ---
 label: 001_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить чтение.
 
 ---
 label: 001_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 002
 attribute: 0x02001A
 ---
-{{color id="1"}}Babbloid
+{{color id="1"}}Лепетоид
 
 ---
 label: 002_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 002_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 003
 attribute: 0x02001A
 ---
-{{color id="1"}}Arfoid
+{{color id="1"}}Гавгавоид
 
 ---
 label: 003_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 003_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 004
 attribute: 0x02001A
 ---
-{{color id="1"}}Whistloid
+{{color id="1"}}Свистоид
 
 ---
 label: 004_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 004_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 005
 attribute: 0x02001A
 ---
-{{color id="1"}}Bwongoid
+{{color id="1"}}Бумбоид
 
 ---
 label: 005_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 005_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 006
 attribute: 0x02001A
 ---
-{{color id="1"}}Twangoid
+{{color id="1"}}Струноид
 
 ---
 label: 006_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 006_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 007
 attribute: 0x02001A
 ---
-{{color id="1"}}Laseroid
-
+{{color id="1"}}Лазероид
 ---
 label: 007_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 007_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 008
 attribute: 0x02001A
 ---
-{{color id="1"}}Squeakoid
+{{color id="1"}}Пищоид
 
 ---
 label: 008_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 008_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 009
 attribute: 0x02001A
 ---
-{{color id="1"}}Tockoid
+{{color id="1"}}Колотоид
 
 ---
 label: 009_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 009_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 010
 attribute: 0x02001A
 ---
-{{color id="1"}}Ringoid
+{{color id="1"}}Диньдоноид
 
 ---
 label: 010_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 010_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 011
 attribute: 0x02001A
 ---
-{{color id="1"}}Oinkoid
+{{color id="1"}}Хрюкоид
 
 ---
 label: 011_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 011_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 012
 attribute: 0x02001A
 ---
-{{color id="1"}}Tremoloid
+{{color id="1"}}Завывоид
 
 ---
 label: 012_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 012_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 013
 attribute: 0x02001A
 ---
-{{color id="1"}}Bubbloid
+{{color id="1"}}Надувоид
 
 ---
 label: 013_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 013_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 014
 attribute: 0x02001A
 ---
-{{color id="1"}}Petaloid
+{{color id="1"}}Лепесткоид
 
 ---
 label: 014_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 014_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 015
 attribute: 0x02001A
 ---
-{{color id="1"}}Aluminoid
+{{color id="1"}}Алюминоид
 
 ---
 label: 015_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 015_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 016
 attribute: 0x02001A
 ---
-{{color id="1"}}Wallopoid
+{{color id="1"}}Выбивоид
 
 ---
 label: 016_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 016_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 017
 attribute: 0x02001A
 ---
-{{color id="1"}}Drummoid
+{{color id="1"}}Ударноид
 
 ---
 label: 017_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 017_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 018
 attribute: 0x02001A
 ---
-{{color id="1"}}Dootoid
+{{color id="1"}}Пипоид
 
 ---
 label: 018_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 018_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 019
 attribute: 0x02001A
 ---
-{{color id="1"}}Whirroid
+{{color id="1"}}Дребезоид
 
 ---
 label: 019_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 019_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 020
 attribute: 0x02001A
 ---
-{{color id="1"}}Thwopoid
+{{color id="1"}}Хлопоид
 
 ---
 label: 020_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 020_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 021
 attribute: 0x02001A
 ---
-{{color id="1"}}Rumbloid
+{{color id="1"}}Басоид
 
 ---
 label: 021_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 021_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 022
 attribute: 0x02001A
 ---
-{{color id="1"}}Bendoid
+{{color id="1"}}Жужжоид
 
 ---
 label: 022_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 022_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 023
 attribute: 0x02001A
 ---
-{{color id="1"}}Boomoid
+{{color id="1"}}Барабаноид
 
 ---
 label: 023_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 023_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 024
 attribute: 0x02001A
 ---
-{{color id="1"}}Bloopoid
+{{color id="1"}}Каплоид
 
 ---
 label: 024_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 024_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 025
 attribute: 0x02001A
 ---
-{{color id="1"}}Sproingoid
+{{color id="1"}}Пружиноид
 
 ---
 label: 025_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 025_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 026
 attribute: 0x02001A
 ---
-{{color id="1"}}Crumploid
+{{color id="1"}}Смятоид
 
 ---
 label: 026_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 026_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 027
 attribute: 0x02001A
 ---
-{{color id="1"}}Clatteroid
+{{color id="1"}}Погремоид
 
 ---
 label: 027_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 027_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 029
 attribute: 0x02001A
 ---
-{{color id="1"}}Scatteroid
+{{color id="1"}}Потрясоид
 
 ---
 label: 029_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 029_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 030
 attribute: 0x02001A
 ---
-{{color id="1"}}Spikenoid
+{{color id="1"}}Терноид
 
 ---
 label: 030_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 030_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 031
 attribute: 0x02001A
 ---
-{{color id="1"}}Squeezoid
+{{color id="1"}}Скрипоид
 
 ---
 label: 031_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 031_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 032
 attribute: 0x02001A
 ---
-{{color id="1"}}Flutteroid
+{{color id="1"}}Трепыхоид
 
 ---
 label: 032_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 032_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 033
 attribute: 0x02001A
 ---
-{{color id="1"}}Boioingoid
+{{color id="1"}}Маскоид
 
 ---
 label: 033_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 033_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 034
 attribute: 0x02001A
 ---
-{{color id="1"}}Stelloid
+{{color id="1"}}Космоид
 
 ---
 label: 034_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 034_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 035
 attribute: 0x02001A
 ---
-{{color id="1"}}Jingloid
+{{color id="1"}}Бубенцоид
 
 ---
 label: 035_a
 attribute: 0x000000
 ---
-Continue reading.
+Продолжить читать.
 
 ---
 label: 035_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
 
 ---
 label: 036
 attribute: 0x02001A
 ---
-{{color id="1"}}Rattloid
+{{color id="1"}}Черепкоид
 
 ---
 label: 036_a
 attribute: 0x000000
 ---
-Continue reading.
-
+Продолжить читать.
 ---
 label: 036_b
 attribute: 0x000000
 ---
-Stop reading.
+Пожалуй, довольно.
