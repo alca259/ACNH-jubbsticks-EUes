@@ -3,46 +3,41 @@
 label: 709
 attribute: 0x00000000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}I hope you're all taking full
-advantage of your island time!{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Just remember, {{delay20}}if you push yourself
-too hard, you'll wind up exhausted.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}So, please take a break from time to
-time.{{delay20}} {{anim:Greeting target="actor" targetSpec=""}}It's important to pace yourself!
+{{anim:Smiling target="actor" targetSpec=""}}Я надеюсь, что вы вовсю используете ваше островное время!{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Просто помните, {{delay20}}если вы будете слишком переусердствовать, то совсем оббессилитесь.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Просто делайте перерывы время от времени.{{delay20}} {{anim:Greeting target="actor" targetSpec=""}}Важно знать меру!
 
 ---
 label: 710
 attribute: 0x00000000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Now for today's announcements{{string:Dots}}
+{{anim:Thinking target="actor" targetSpec=""}}А теперь к объявлениям{{string:Dots}}
 
 ---
 label: 711
 attribute: 0x00000000
 ---
-{{anim:Greeting target="subNpc" targetSpec=""}}{{delay40}}Hey,{{delay8}} sis!
+{{anim:Greeting target="subNpc" targetSpec=""}}{{delay40}}Эй,{{delay8}} сеструха!
 
 ---
 label: 712
 attribute: 0x00000000
 ---
-Is it really you?
+Это... правда ты?
 
 ---
 label: 713
 attribute: 0x00000000
 ---
-{{anim:Frantic target="actor" targetSpec=""}}Oh, um, sorry everyone!{{delay8}}
-{{anim:Nodding target="actor" targetSpec=""}}That's all for now, {{anim:Greeting target="actor" targetSpec=""}}have a great day!
+{{anim:Frantic target="actor" targetSpec=""}}Ох, эм, извините пожалуйста!{{delay8}}
+{{anim:Nodding target="actor" targetSpec=""}}На сегодня всё, {{anim:Greeting target="actor" targetSpec=""}}всем хорошего дня!
 
 ---
 label: 990
 attribute: 0x00000000
 ---
-{{anim:Shocked target="actor" targetSpec=""}}Ohh!{{10:4}}
-{{anim:Oops target="actor" targetSpec=""}}I almost forgot!{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}I recently came across a bundle of five unique festive recipes.{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}I haven't seen anything like them before, {{delay8}}but they're super {{anim:BigSmile target="actor" targetSpec=""}}cute!{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Just one moment{{string:Dots}}
+{{anim:Shocked target="actor" targetSpec=""}}Оуу!{{10:4}}
+{{anim:Oops target="actor" targetSpec=""}}Чуть не забыл!{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Я недавно наткулась на пять праздничных рецептов.{{pageBreak}}{{anim:Thinking target="actor" targetSpec=""}}Я никогда не видела ничего подобного, {{delay8}}но они супер {{anim:BigSmile target="actor" targetSpec=""}}миленькие!{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Секундочку{{string:Dots}}
 
 ---
 label: 991
-attribute: 0x00000000
----
-{{anim:HappyFlower target="actor" targetSpec=""}}As a special treat for today,{{delay8}} I've just sent all {{color id="1"}}DIY Recipes{{color id="-1"}} app users this {{delay8}}special set of recipes{{anim:Smiling target="actor" targetSpec=""}}.{{pageBreak}}{{anim:HappyDance target="actor" targetSpec=""}}Happy holidays, {{delay8}}everyone!{{delay20}}
-That's all for now!
+attribute: 0x0000000target="actor" targetSpec=""}}В качестве особого угощения я разослала всем{{delay8}}  {{color id="1"}}рецепты "сделай сам".{{color id="-1"}} {{delay8}}Причем не простые! Это рецепты к подсвечиваемым предметам!{{anim:Smiling target="actor" targetSpec=""}}.{{pageBreak}}{{anim:HappyDance target="actor" targetSpec=""}}Счастливых каникул {{delay8}}вам!{{delay20}}
+На сегодня всё!
