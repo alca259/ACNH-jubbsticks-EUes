@@ -3,4 +3,4 @@
 label: 403_01
 attribute: 0x0000000000000000
 ---
-{{anim:HappyDance target="actor" targetSpec=""}}I can't thank you enough, {{string:Catchphrase}}!
+{{anim:HappyDance target="actor" targetSpec=""}}Я просто не знаю, как тебя поблагодарить, {{string:Catchphrase}}!
