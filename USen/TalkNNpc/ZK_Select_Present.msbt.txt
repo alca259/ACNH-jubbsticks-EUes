@@ -3,5 +3,5 @@
 label: 403_01
 attribute: 0x0000000000000000
 ---
-{{anim:Clapping target="actor" targetSpec=""}}You're raising the bar for fruits around here, {{string:Catchphrase}}.{{delay40}}{{anim:BigSmile target="actor" targetSpec=""}} How inspirante! {{delay8}}Incroyable!{{delay8}} Magnifique!{{delay20}}
+{{anim:Clapping target="actor" targetSpec=""}}Ты повысил мою планку любви к фруктам, {{string:Catchphrase}}.{{delay40}}{{anim:BigSmile target="actor" targetSpec=""}} как вдохновенно! {{delay8}}Поразительно!{{delay8}} Великолепно!{{delay20}}
 {{size value="40"}}Etc., etc.{{string:Dots}}
