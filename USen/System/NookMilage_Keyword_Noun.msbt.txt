@@ -3,7 +3,7 @@
 label: 002_03_0
 attribute: 0x200B00002A0B0000
 ---
-Fishionista
+Любитель рыбалки
 
 ---
 label: 111_04_1
@@ -63,55 +63,55 @@ attribute: 0x0E0C0000180C0000
 label: 111_04_0
 attribute: 0x2C0C0000340C0000
 ---
-Silver
+Серебрянный
 
 ---
 label: 110_00_0
 attribute: 0x480C0000520C0000
 ---
-Balloon
+Шарик
 
 ---
 label: 110_01_0
 attribute: 0x600C00006A0C0000
 ---
-Shape
+Форма
 
 ---
 label: 110_02_0
 attribute: 0x860C0000900C0000
 ---
-Popping
+Всплывание
 
 ---
 label: 110_03_0
 attribute: 0xA20C0000AC0C0000
 ---
-Inflation
+Инфляция
 
 ---
 label: 111_00_0
 attribute: 0xBA0C0000C40C0000
 ---
-Emerald
+Изумруд
 
 ---
 label: 111_01_0
 attribute: 0xD40C0000DE0C0000
 ---
-Amethyst
+Аметист
 
 ---
 label: 111_02_0
 attribute: 0xEC0C0000F60C0000
 ---
-Ruby
+Рубин
 
 ---
 label: 111_03_0
 attribute: 0xFE0C0000080D0000
 ---
-Sapphire
+Сапфир
 
 ---
 label: 071_01_1
@@ -129,13 +129,13 @@ attribute: 0x340D00003E0D0000
 label: 071_01_0
 attribute: 0x5A0D0000640D0000
 ---
-Tree Shaker
+Встряхиватель деревьев
 
 ---
 label: 071_02_0
 attribute: 0x7E0D0000880D0000
 ---
-Hater
+Хейтер
 
 ---
 label: 105_03_1
@@ -147,13 +147,13 @@ attribute: 0x960D0000A00D0000
 label: 105_03_0
 attribute: 0xB20D0000BC0D0000
 ---
-Foodie
+Гурман
 
 ---
 label: 113_00_0
 attribute: 0xC1050000320B0000
 ---
-Manufacturer
+Производитель
 
 ---
 label: 113_00_1
@@ -171,7 +171,7 @@ attribute: 0x0000000000000000
 label: 115_03_0
 attribute: 0xC1050000320B0000
 ---
-Scientist
+Ученый
 
 ---
 label: 115_00_1
@@ -183,7 +183,7 @@ attribute: 0x0000000000000000
 label: 115_00_0
 attribute: 0xC1050000320B0000
 ---
-Prospector
+Изыскатель
 
 ---
 label: 115_02_1
@@ -195,7 +195,7 @@ attribute: 0x0000000000000000
 label: 115_02_0
 attribute: 0xC1050000320B0000
 ---
-Scout
+Разведчик
 
 ---
 label: 115_01_1
@@ -207,7 +207,7 @@ attribute: 0x0000000000000000
 label: 115_01_0
 attribute: 0xC1050000320B0000
 ---
-Breakthrough
+Прорыв
 
 ---
 label: 115_04_1
@@ -219,25 +219,25 @@ attribute: 0x0000000000000000
 label: 115_04_0
 attribute: 0xC1050000320B0000
 ---
-Sharpshooter
+Меткий стрелок
 
 ---
 label: 116_00_0
 attribute: 0xC1050000320B0000
 ---
-Brother
+Братик
 
 ---
 label: 116_00_1
 attribute: 0xC1050000320B0000
 ---
-Sister
+Сестра
 
 ---
 label: 116_01_0
 attribute: 0xC1050000320B0000
 ---
-Drink
+Напиток
 
 ---
 label: 116_01_1
@@ -249,7 +249,7 @@ attribute: 0x0000000000000000
 label: 116_02_0
 attribute: 0xC1050000320B0000
 ---
-Migraine
+Миграция
 
 ---
 label: 116_02_1
@@ -261,7 +261,7 @@ attribute: 0x0000000000000000
 label: 116_03_0
 attribute: 0xC1050000320B0000
 ---
-Withdrawal
+Вывод
 
 ---
 label: 116_03_1
@@ -273,7 +273,7 @@ attribute: 0x0000000000000000
 label: 116_04_0
 attribute: 0xC1050000320B0000
 ---
-Mole
+Крот
 
 ---
 label: 116_04_1
@@ -285,7 +285,7 @@ attribute: 0x0000000000000000
 label: 114_00_0
 attribute: 0xC1050000320B0000
 ---
-Fashion
+Мода
 
 ---
 label: 114_00_1
@@ -297,7 +297,7 @@ attribute: 0x0000000000000000
 label: 114_01_0
 attribute: 0xC1050000320B0000
 ---
-Review
+Просмотр
 
 ---
 label: 114_01_1
@@ -309,7 +309,7 @@ attribute: 0x0000000000000000
 label: 114_02_0
 attribute: 0xC1050000320B0000
 ---
-Dress
+Платье
 
 ---
 label: 114_02_1
@@ -321,7 +321,7 @@ attribute: 0x0000000000000000
 label: 114_03_0
 attribute: 0xC1050000320B0000
 ---
-Wear
+Одежда
 
 ---
 label: 114_03_1
@@ -333,10 +333,10 @@ attribute: 0x0000000000000000
 label: 114_04_0
 attribute: 0xC1050000320B0000
 ---
-Fashionista
+Модник
 
 ---
 label: 114_04_1
 attribute: 0xC1050000320B0000
 ---
-Fashionisto
+Модница
