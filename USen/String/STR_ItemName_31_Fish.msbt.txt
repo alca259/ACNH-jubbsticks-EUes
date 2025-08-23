@@ -3,28 +3,28 @@
 label: Fish_01010
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}barbel steed
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Прыгун - усач
 
 ---
 label: Fish_01012
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}eel
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Угорь
 
 ---
 label: Fish_01014
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}rainbow trout
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Радужная форель
 
 ---
 label: Fish_01016
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}dragonet
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Драгонет
 
 ---
 label: Fish_01018
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}new fish 5 placehodler placeholder
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Место для новых 5 рыб
