@@ -3,59 +3,59 @@
 label: Ore_02506
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}silver nugget
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Серебрянный самородок
 
 ---
 label: Ore_02506_pl
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="4" defArticle="3"}}silver nuggets
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}Серебрянные самородки
 
 ---
 label: Ore_02507
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}ruby
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Рубин
 
 ---
 label: Ore_02508
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sapphire
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Сапфир
 
 ---
 label: Ore_02509
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}emerald
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Изумруд
 
 ---
 label: Ore_02510
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}amethyst
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Аметист
 
 ---
 label: Ore_02510_pl
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="4" defArticle="3"}}amethysts
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}Аметисты
 
 ---
 label: Ore_02509_pl
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="4" defArticle="3"}}emeralds
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}Изумруды
 
 ---
 label: Ore_02508_pl
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="4" defArticle="3"}}sapphires
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}Сапфиры
 
 ---
 label: Ore_02507_pl
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="4" defArticle="3"}}rubies
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}Рубины
 
