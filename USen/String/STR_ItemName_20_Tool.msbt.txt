@@ -3,210 +3,210 @@
 label: Axe_02030
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy axe
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Крепкий топор
 
 ---
 label: Watering_02029
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy watering can
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Крепкая лейка
 
 ---
 label: FishingRod_02026
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy fishing rod
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Крепкая удочка
 
 ---
 label: Net_02027
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy net
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Крепкий сачок
 
 ---
 label: Shovel_02028
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy shovel
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Крепкая лопата
 
 ---
 label: Axe_02514
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}silver axe
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Серебрянный топор
 
 ---
 label: FishingRod_02518
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}silver rod
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Серебрянная удочка
 
 ---
 label: Net_02517
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}silver net
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Серебрянный сачок
 
 ---
 label: Shovel_02516
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}silver shovel
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Серебрянная лопата
 
 ---
 label: Slingshot_02519
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}silver slingshot
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Серебрянная рогатка
 
 ---
 label: Watering_02515
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}silver watering can
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Серебрянная лейка
 
 ---
 label: Axe_02055
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}ruby axe
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Рубиновый топор
 
 ---
 label: FishingRod_02052
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}ruby rod
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Рубиновая удочка
 
 ---
 label: Net_02051
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}ruby net
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Рубиновый сачок
 
 ---
 label: Shovel_02053
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}ruby shovel
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Рубиновая лопата
 
 ---
 label: Watering_02054
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}ruby watering can
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Рубиновая лейка
 
 ---
 label: Slingshot_02056
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}ruby slingshot
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Рубиновая рогатка
 
 ---
 label: Axe_02065
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sapphire axe
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Сапфировый топор
 
 ---
 label: Axe_02075
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="2" defArticle="3"}}emerald axe
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}Изумрудный топор
 
 ---
 label: Axe_02085
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="2" defArticle="3"}}amethyst axe
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}Аметистовый топор
 
 ---
 label: FishingRod_02062
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sapphire rod
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Сапфировая удочка
 
 ---
 label: Net_02061
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sapphire net
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Сапфировый сачок
 
 ---
 label: Shovel_02063
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sapphire shovel
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Сапфировая лопата
 
 ---
 label: Watering_02064
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sapphire watering can
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Сапфировая лейка
 
 ---
 label: Slingshot_02066
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sapphire slingshot
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Сапфировая рогатка
 
 ---
 label: Slingshot_02076
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="2" defArticle="3"}}emerald slingshot
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}Изумрудная рогатка
 
 ---
 label: Watering_02074
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="2" defArticle="3"}}emerald watering can
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}Изумрудная лейка
 
 ---
 label: Shovel_02073
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="2" defArticle="3"}}emerald shovel
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}Изумрудная лопата
 
 ---
 label: FishingRod_02072
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="2" defArticle="3"}}emerald rod
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}Изумрудная удочка
 
 ---
 label: Net_02071
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="2" defArticle="3"}}emerald net
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}Изумрудный сачок
 
 ---
 label: Watering_02084
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="2" defArticle="3"}}amethyst watering can
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}Аметистовая лейка
 
 ---
 label: Shovel_02083
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="2" defArticle="3"}}amethyst shovel
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}Аметистовая лопата
 
 ---
 label: Net_02081
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="2" defArticle="3"}}amethyst net
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}Аметистовый сачок
 
 ---
 label: FishingRod_02082
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="2" defArticle="3"}}amethyst rod
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}Аметистовая удочка
 
 ---
 label: Slingshot_02086
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="2" defArticle="3"}}amethyst slingshot
+{{wordInfo gender="0" indefArticle="2" defArticle="3"}}Аметистовая рогатка
 
 
