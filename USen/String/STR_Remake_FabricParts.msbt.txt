@@ -3,23 +3,23 @@
 label: Ftr_04079
 attribute: 
 ---
-Frame
+Рамка
 
 ---
 label: Ftr_04082
 attribute: 
 ---
-Frame
+Рамка
 
 ---
 label: Ftr_04085
 attribute: 
 ---
-Frame
+Рамка
 
 ---
 label: Ftr_04091
 attribute: 
 ---
-Frame
+Рамка
 
