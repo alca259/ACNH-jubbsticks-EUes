@@ -3,137 +3,134 @@
 label: 132
 attribute: 0x00000000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}Number 31!{{delay8}} Woah!{{planeAnnounce type="3"}}{{delay frames="40"}}
-It's a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}mango{{color id="-1"}}!{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Enjoy it, pal!
+{{anim:Smiling target="actor" Номер 31!{{delay8}} Вау!{{planeAnnounce type="3"}}{{delay frames="40"}}
+Это... {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}манго!{{color id="-1"}}!{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Наслаждайся им, кузен!
 
 ---
 label: 134
 attribute: 0x00000000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}The number 37's pretty funky, huh?{{planeAnnounce type="3"}}{{delay20}} Well anyway, here's your {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}lemon{{color id="-1"}}.{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Enjoy!
+{{anim:Smiling target="actor" targetSpec=""}}Ты считаешь, что число 37 очень обалденное, а?{{planeAnnounce type="3"}}{{delay20}} Ладно, в любом случае ты выиграл... {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}лимон{{color id="-1"}}.{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Наслаждайся!
 
 ---
 label: 133
 attribute: 0x00000000
 ---
-{{anim:Surprised target="actor" targetSpec=""}}WOAH! {{delay40}}Lucky you!{{10:4}}{{delay8}}{{anim:Clapping target="actor" targetSpec=""}}
-You pulled the lucky {{color id="1"}}silver ticket{{color id="-1"}}!{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}The prize for this one is real special:{{delay40}} a recipe for a {{anim:Smiling target="actor" targetSpec=""}}{{color id="1"}}silver axe{{color id="-1"}}! 
-Here ya go,{{delay8}} kid!
+{{anim:Surprised target="actor" targetSpec=""}}УХ ТЫ! {{delay40}}Ты счастливый!{{10:4}}{{delay8}}{{anim:Clapping target="actor" targetSpec=""}}
+Ты вытянул счастливый {{color id="1"}}серебрянный билет!{{color id="-1"}}!{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}На этот раз приз очень особенный:{{delay40}} рецепт "сделай сам" для {{anim:Smiling target="actor" targetSpec=""}}{{color id="1"}}серебрянного топора!{{color id="-1"}}! 
+Держи,{{delay8}} парень!
 
 ---
 label: 137
 attribute: 0x54585432
 ---
-{{anim:Smiling target="actor" targetSpec=""}}Number 40!{{delay8}} Uuf{{string:Dots}}{{anim:OhGeez target="actor" targetSpec=""}}what's that smell?{{planeAnnounce type="3"}}Oh, right. It's your prize,
-a{{anim:Smiling target="actor" targetSpec=""}} {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}durian{{color id="-1"}}!{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Here,{{delay20}} kid,{{delay8}} for you!
+{{anim:Smiling target="actor" targetSpec=""}}Номер 40!{{delay8}} Уфф...{{string:Dots}}{{anim:OhGeez target="actor" targetSpec=""}}Чем так воняет?{{planeAnnounce type="3"}}ах, да. Это твой приз,
+a{{anim:Smiling target="actor" targetSpec=""}} {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Дуриан!{{color id="-1"}}!{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Держи,{{delay20}} парень,{{delay8}} это для тебя!
 
 ---
 label: 142
 attribute: 0x203E0000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}Let's see here{{string:Dots}} it's number 33!{{delay8}} Seems kinda special to me!{{planeAnnounce type="3"}}{{delay frames="40"}}
-Today you get a tasty {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}cherry{{color id="-1"}}!{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Enjoy!
+{{anim:Smiling target="actor" targetSpec=""}}Итак, посмотрим...{{string:Dots}} Это номер 33!{{delay8}} Мне кажется, что это что-то особенное!{{planeAnnounce type="3"}}{{delay frames="40"}}
+Сегодня ты получил вкусную {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}вишню.{{color id="-1"}}!{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Наслаждайся!
 
 ---
 label: 141
 attribute: 0x00000000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}Here we go! {{delay8}}Is that a number 53?!{{planeAnnounce type="3"}}{{delay20}} Nope, it's 35, of course! Here's
-your prize: a {{color id="1"}}{{wordInfo gender="0" indefArticle="4" defArticle="3"}}peach{{color id="-1"}}!{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Enjoy!
+{{anim:Smiling target="actor" targetSpec=""}}Итак! {{delay8}}Что? Номер 53?!{{planeAnnounce type="3"}}{{delay20}} А нет, это 35, конечно! Вот и твой приз: {{color id="1"}}{{wordInfo gender="0" indefArticle="4" defArticle="3"}}персик.{{color id="-1"}}!{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Наслаждайся!
 
 ---
 label: 140
 attribute: 0x00000000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}Sounds like number 34{{delay8}} is a-knockin' at your door!{{planeAnnounce type="3"}}{{delay20}} And today you win 
-a {{color id="1"}}{{wordInfo gender="0" indefArticle="4" defArticle="3"}}pear{{color id="-1"}}!{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Enjoy!
+{{anim:Smiling target="actor" targetSpec=""}}Похоже, это номер 34{{delay8}} Оно стучит в твою дверь!{{planeAnnounce type="3"}}{{delay20}} И твой выигрыш... 
+{{color id="1"}}{{wordInfo gender="0" indefArticle="4" defArticle="3"}}Груша{{color id="-1"}}!{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Наслаждайся!
 
 ---
 label: 138
 attribute: 0x48000000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}Hmm{{string:Dots}}{{anim:Surprised target="actor" targetSpec=""}}WOAH!!!{{delay8}} It's number 32!{{planeAnnounce type="3"}}{{delay frames="40"}}
-{{string:Dots}}Your prize{{string:Dots}}{{delay20}}is{{string:Dots}}{{anim:Smiling target="actor" targetSpec=""}} an {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}apple{{color id="-1"}}!{{delay20}}
-{{anim:Clapping target="actor" targetSpec=""}}How exciting!
+{{anim:Smiling target="actor" targetSpec=""}}Хмм...{{string:Dots}}{{anim:Surprised target="actor" targetSpec=""}}ВАУ!!!{{delay8}} Это 32!{{planeAnnounce type="3"}}{{delay frames="40"}}
+{{string:Dots}}Твой приз...{{string:Dots}}{{delay20}}is{{string:Dots}}{{anim:Smiling target="actor" targetSpec=""}} Это... {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Яблоко{{color id="-1"}}!{{delay20}}
+{{anim:Clapping target="actor" targetSpec=""}}Как захватывающе!
 
 ---
 label: 135
 attribute: 0x24010000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}Wait, wait, wait!!!{{delay8}} It's number 38!{{planeAnnounce type="3"}}{{delay frames="40"}}
-And you earned a yummy {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}lychee{{color id="-1"}}.{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Enjoy!
+{{anim:Smiling target="actor" targetSpec=""}}Стоп, стоп, стоп!!!{{delay8}} Это номер 38!{{planeAnnounce type="3"}}{{delay frames="40"}}
+И ты получаешь вкусный {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}личи{{color id="-1"}}.{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Наслаждайся!
 
 ---
 label: 136
 attribute: 0x98010000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}Wasn't that fun!? {{delay8}}You drew 
-number 39!{{planeAnnounce type="3"}}{{delay20}} Here's your prize—
-a {{color id="1"}}{{wordInfo gender="0" indefArticle="4" defArticle="3"}}banana{{color id="-1"}}!{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Enjoy!
+{{anim:Smiling target="actor" targetSpec=""}}Разве не забавно!? {{delay8}}У тебя номер 39!{{planeAnnounce type="3"}}{{delay20}} Вот и приз —
+a {{color id="1"}}{{wordInfo gender="0" indefArticle="4" defArticle="3"}}Банан.{{color id="-1"}}!{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Наслаждайся!
 
 ---
 label: 139
 attribute: 0x9E020000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}Oh boy! {{delay8}}Is that a number 36?!{{planeAnnounce type="3"}}{{delay20}} 
-Yes, yes it is! And you get
-a sweet {{color id="1"}}{{wordInfo gender="0" indefArticle="4" defArticle="3"}}orange{{color id="-1"}}!{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Enjoy!
+{{anim:Smiling target="actor" targetSpec=""}}Ох, чёрт! {{delay8}}Это номер 36?!{{planeAnnounce type="3"}}{{delay20}} 
+Да. Так и есть! И ты выигрываешь сладкий {{color id="1"}}{{wordInfo gender="0" indefArticle="4" defArticle="3"}}апельсин{{color id="-1"}}!{{delay20}} {{anim:Hello target="actor" targetSpec=""}}Наслаждайся!
 
 ---
 label: 145
 attribute: 0xBA020000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hold on{{string:Dots}}don't {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}apples{{color id="-1"}}{{delay20}} {{anim:QuestionMark target="actor" targetSpec=""}}grow all over on {{10:13}}{{color id="1"}}{{uppercaseNextWord}}{{string:OtherIslandName}}{{color id="15"}}{{color id="-1"}}?{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}That's a bit of an unfortunate lucky item for ya today{{string:Dots}}
+{{anim:Thinking target="actor" targetSpec=""}}Держи{{string:Dots}}не {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}яблоки.{{color id="-1"}}{{delay20}} {{anim:QuestionMark target="actor" targetSpec=""}}Вырастишь это на {{10:13}}{{color id="1"}}{{uppercaseNextWord}}{{string:OtherIslandName}}{{color id="15"}}{{color id="-1"}}?{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}Похоже, к тебе судьба сегодня не очень расположена.{{string:Dots}}
 
 
 ---
 label: 148
 attribute: 0xDE020000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hold on{{string:Dots}}don't {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}peaches{{color id="-1"}}{{delay20}} {{anim:QuestionMark target="actor" targetSpec=""}}grow all over on {{10:13}}{{color id="1"}}{{uppercaseNextWord}}{{string:OtherIslandName}}{{color id="15"}}{{color id="-1"}}?{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}That's a bit of an unfortunate lucky item for ya today{{string:Dots}}
+{{anim:Thinking target="actor" targetSpec=""}}Держи{{string:Dots}}не {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}персики.{{color id="-1"}}{{delay20}} {{anim:QuestionMark target="actor" targetSpec=""}}Вырастишь это на {{10:13}}{{color id="1"}}{{uppercaseNextWord}}{{string:OtherIslandName}}{{color id="15"}}{{color id="-1"}}?{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}Похоже, к тебе судьба не очень расположена сегодня{{string:Dots}}
 
 ---
 label: 150
 attribute: 0x92030000
 ---
-{{anim:Apologize target="actor" targetSpec=""}}I'm afraid that's just the luck of the draw, {{50:3}}{{string:PlayerName}}.{{delay20}} {{anim:Scheming target="actor" targetSpec=""}}But you could always try again tomorrow{{string:Dots}}
+{{anim:Apologize target="actor" targetSpec=""}}Я боюсь, что это ещё одна очередная неудача, {{50:3}}{{string:PlayerName}}.{{delay20}} {{anim:Scheming target="actor" targetSpec=""}}Но ты всегда можешь попробовать позже!{{string:Dots}}
 
 ---
 label: 146
 attribute: 0xAE030000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hold on{{string:Dots}}don't {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}oranges{{color id="-1"}}{{delay20}} {{anim:QuestionMark target="actor" targetSpec=""}}grow all over on {{10:13}}{{color id="1"}}{{uppercaseNextWord}}{{string:OtherIslandName}}{{color id="15"}}{{color id="-1"}}?{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}That's a bit of an unfortunate lucky item for ya today{{string:Dots}}
+{{anim:Thinking target="actor" targetSpec=""}}Держи{{string:Dots}}не {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}апельсины.{{color id="-1"}}{{delay20}} {{anim:QuestionMark target="actor" targetSpec=""}}Вырастишь их на {{10:13}}{{color id="1"}}{{uppercaseNextWord}}{{string:OtherIslandName}}{{color id="15"}}{{color id="-1"}}?{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}Похоже, сегодня судьба к тебе сегодня не очень расположена.{{string:Dots}}
 
 
 ---
 label: 147
 attribute: 0xD2030000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hold on{{string:Dots}}don't {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}pears{{color id="-1"}}{{delay20}} {{anim:QuestionMark target="actor" targetSpec=""}}grow all over on {{10:13}}{{color id="1"}}{{uppercaseNextWord}}{{string:OtherIslandName}}{{color id="15"}}{{color id="-1"}}?{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}That's a bit of an unfortunate lucky item for ya today{{string:Dots}}
+{{anim:Thinking target="actor" targetSpec=""}}Держи{{string:Dots}}не {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}груши.{{color id="-1"}}{{delay20}} {{anim:QuestionMark target="actor" targetSpec=""}}Вырастишь их на {{10:13}}{{color id="1"}}{{uppercaseNextWord}}{{string:OtherIslandName}}{{color id="15"}}{{color id="-1"}}?{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}Похоже, судьба к тебе не очень расположена{{string:Dots}}
 
 
 ---
 label: 149
 attribute: 0xD0040000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hold on{{string:Dots}}don't {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}cherries{{color id="-1"}}{{delay20}} {{anim:QuestionMark target="actor" targetSpec=""}}grow all over on {{10:13}}{{color id="1"}}{{uppercaseNextWord}}{{string:OtherIslandName}}{{color id="15"}}{{color id="-1"}}?{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}That's a bit of an unfortunate lucky item for ya today{{string:Dots}}
+{{anim:Thinking target="actor" targetSpec=""}}Держи{{string:Dots}}не {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}вишни{{color id="-1"}}{{delay20}} {{anim:QuestionMark target="actor" targetSpec=""}}Вырастишь их на {{10:13}}{{color id="1"}}{{uppercaseNextWord}}{{string:OtherIslandName}}{{color id="15"}}{{color id="-1"}}?{{pageBreak}}{{anim:WrySmile target="actor" targetSpec=""}}Похоже, сегодня судьба к тебе не очень расположена{{string:Dots}}
 
 ---
 label: 160
 attribute: 0xD0040000
 ---
-{{anim:Eh target="actor" targetSpec=""}}Oh,{{delay20}} and it looks like ya found your {{anim:Smiling target="actor" targetSpec=""}}lucky ticket of the day,{{delay8}} pal!{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Keep playing for the usual treats and trinkets,{{delay8}} but you'll have to wait 'till tomorrow to get another lucky ticket.
+{{anim:Eh target="actor" targetSpec=""}}Ух,{{delay20}} и ты нашел самый {{anim:Smiling target="actor" targetSpec=""}}счастливый билет на сегодня,{{delay8}} кузен!{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Продолжай играть, если хочешь получить еду и другие безделушки,{{delay8}} но тебе нужно дождаться завтрашнего дня, если хочешь получить ещё один счастливый билет.
 
 ---
 label: 161
 attribute: 0x00000000
 ---
-{{anim:TakenAback target="actor" targetSpec=""}}No way!{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}You're SUPER lucky today,{{delay8}} pal!{{delay8}}{{delay8}}{{delay8}}{{delay8}}{{delay8}}{{10:4}}{{delay8}}{{anim:Clapping target="actor" targetSpec=""}}
-You drew the rainbow{{delay8}} ticket!{{pageBreak}}{{anim:Clapping target="actor" targetSpec=""}}Your prize is a special bundle of {{color id="1"}}gemstone axe{{color id="-1"}} recipes!{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}They'll let ya recolor that {{color id="1"}}silver axe{{color id="-1"}} you won a while back.{{delay20}} Lucky you!{{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}I'll send that recipe bundle to ya now.
+{{anim:TakenAback target="actor" targetSpec=""}}Без вариантов!{{pageBreak}}{{anim:Laughing target="actor" targetSpec=""}}Ты СУПЕР удачный сегодня,{{delay8}} кузен!{{delay8}}{{delay8}}{{delay8}}{{delay8}}{{delay8}}{{10:4}}{{delay8}}{{anim:Clapping target="actor" targetSpec=""}}
+Ты вытянул радужный{{delay8}} билет!{{pageBreak}}{{anim:Clapping target="actor" targetSpec=""}}Твоим призом является набор {{color id="1"}}топоров из руд!{{color id="-1"}} recipes!{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Он может перекрасить {{color id="1"}}серебрянный топор.{{color id="-1"}} Недавно ты выиграл{{delay20}} Ты счастливчик!{{pageBreak}}{{anim:FaintSmile target="actor" targetSpec=""}}Я отправлю этот рецепт тебе по почте.
 
 ---
 label: 162
 attribute: 0x00000000
 ---
-{{anim:Smiling target="actor" targetSpec=""}}And there ya have it!{{delay40}}
-{{anim:Hello target="actor" targetSpec=""}}Enjoy!
+{{anim:Smiling target="actor" targetSpec=""}}И вот тебе!{{delay40}}
+{{anim:Hello target="actor" targetSpec=""}}Наслаждайся!
