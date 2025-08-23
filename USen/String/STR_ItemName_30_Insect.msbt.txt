@@ -3,22 +3,22 @@
 label: Insect_01020
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}black widow
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Черная вдова
 
 ---
 label: Insect_01022
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}house centipede
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Домашняя сороконожка
 
 ---
 label: Insect_01026
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}luna moth
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Мотылек
 
 ---
 label: Insect_01030
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}petaltail dragonfly
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Лепестохвостая стрекоза
