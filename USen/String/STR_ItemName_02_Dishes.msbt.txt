@@ -3,82 +3,82 @@
 label: Drink_01930
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}perfect apple smoothie
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Смузи из идеального яблока
 
 ---
 label: Drink_01931
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}perfect orange smoothie
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Смузи из идеального апельсина
 
 ---
 label: Drink_01932
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}perfect pear smoothie
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Смузи из идеальной груши
 
 ---
 label: Drink_01933
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="4" defArticle="3"}}lemonade
+{{wordInfo gender="0" indefArticle="4" defArticle="3"}}Лимонад
 
 ---
 label: Drink_01934
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}perfect peach smoothie
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Смузи из идеального персика
 
 ---
 label: Drink_01936
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}perfect cherry smoothie
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Смузи из идеальной вишни
 
 ---
 label: Dishes_01935
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}perfect-apple fritter
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Оладьи из идеальных яблок
 
 ---
 label: Drink_01939
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}persimmon smoothie
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Смузи из хурмы
 
 ---
 label: Drink_01940
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}banana smoothie
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Банановый смузи
 
 ---
 label: Drink_01941
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}durian smoothie
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Смузи из дуриана
 
 ---
 label: Drink_01942
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}mango smoothie
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Смузи из манго
 
 ---
 label: Drink_01943
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}lychee smoothie
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Смузи из личи
 
 ---
 label: Dishes_01937
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}candy apple
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Засахареное яблоко
 
 ---
 label: Dishes_01938
 attribute: 
 ---
-{{wordInfo gender="0" indefArticle="1" defArticle="3"}}caramel apple
+{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Карамельное яблоко
