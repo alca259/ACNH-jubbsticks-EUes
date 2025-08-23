@@ -3,178 +3,176 @@
 label: 290_04
 attribute: 0x000018
 ---
-Aww...{{delay40}} 
-My {{color id="1"}}{{125:0 arg="0x0000"}}{{color id="-1"}} broke...
+Оуу...{{delay40}} 
+Моё{{color id="1"}}{{125:0 arg="0x0000"}}{{color id="-1"}} сломалось...
 
 ---
 label: 290_05
 attribute: 0x000018
 ---
-Phooey!{{delay40}} 
-There goes my {{color id="1"}}{{125:0 arg="0x0000"}}{{color id="-1"}} ...
+Пфууу}} 
+Вот и ушел мой {{color id="1"}}{{125:0 arg="0x0000"}}{{color id="-1"}} ...
 
 ---
 label: 300
 attribute: 0x000018
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hold on... {{delay20}}
-This fish isn't in my critterpedia app...
+{{anim:Thinking target="actor" targetSpec=""}}Держи... {{delay20}}
+Этой рыбы нет в моём атласе живности...
 
 ---
 label: 301
 attribute: 0x000018
 ---
-{{anim:IdeaBulb target="actor" targetSpec=""}}I made a new discovery!
+{{anim:IdeaBulb target="actor" targetSpec=""}}Я сделал открытие!
 
 ---
 label: 302
 attribute: 0x000018
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hold on... {{delay20}}
-This bug isn't in my critterpedia app...
+{{anim:Thinking target="actor" targetSpec=""}}Держи... {{delay20}}
+Этой букашки нет в моём атласе живности...
 
 ---
 label: 303
 attribute: 0x000018
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hold on... {{delay20}}
-This sea creature isn't in my critterpedia app...
+{{anim:Thinking target="actor" targetSpec=""}}Держи... {{delay20}}
+Этого глубоководного нет в моём атласе живности...
 
 ---
 label: 507_0_0
 attribute: 0x000018
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hmm{{string:Dots}}I like the look of my {{delay8}}{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}flimsy fishing rods{{color id="-1"}}, but I wish they lasted longer!
+{{anim:Thinking target="actor" targetSpec=""}}Хмм...{{string:Dots}} Мне так нравятся мои {{delay8}}{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}хрупкие удочки{{color id="-1"}}, но я бы хотел, чтобы они прослужили мне больше!
 
 ---
 label: 507_0_1
 attribute: 0x000018
 ---
-{{anim:IdeaBulb target="actor" targetSpec=""}}EUREKA!! I just thought of a recipe for a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy fishing rod{{color id="-1"}}!
+{{anim:IdeaBulb target="actor" targetSpec=""}}ЭВРИКА!! Я придумал новый рецепт для моих {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}хрупких удочек{{color id="-1"}}!
 
 ---
 label: 507_1_0
 attribute: 0x000018
 ---
-{{anim:Thinking target="actor" targetSpec=""}}{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Flimsy nets{{color id="-1"}} sure are rustic and cute, but they always break on me!
+{{anim:Thinking target="actor" targetSpec=""}}{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Непрочные сачки...{{color id="-1"}} Да они деревянные и милые, но они всегда могут сломаться!
 
 ---
 label: 507_1_1
 attribute: 0x000018
 ---
-{{anim:IdeaBulb target="actor" targetSpec=""}}Of course! I should craft a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy net{{color id="-1"}} instead!
+{{anim:IdeaBulb target="actor" targetSpec=""}}Точно! Я могу смастерить {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}крепкий сачок{{color id="-1"}}!
 
 ---
 label: 507_2_0
 attribute: 0x000018
 ---
-{{anim:Thinking target="actor" targetSpec=""}}I wish my {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}flimsy shovels{{color id="-1"}} weren't so{{string:Dots}}{{delay20}}flimsy{{string:Dots}}
+{{anim:Thinking target="actor" targetSpec=""}}Я так хочу чтобы мои {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}непрочные лопаты{{color id="-1"}} не были такими{{string:Dots}}{{delay20}}непрочными{{string:Dots}}
 
 ---
 label: 507_2_1
 attribute: 0x000018
 ---
-{{anim:IdeaBulb target="actor" targetSpec=""}}I know! I'll try crafting a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy shovel{{color id="-1"}}!
+{{anim:IdeaBulb target="actor" targetSpec=""}}Я знаю! Я могу попробовать смастерить {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}прочную лопату{{color id="-1"}}!
 
 ---
 label: 507_3_0
 attribute: 0x000018
 ---
-{{anim:Thinking target="actor" targetSpec=""}}I wish I could have the natural aesthetic of {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}flimsy watering cans{{color id="-1"}} without them breaking{{string:Dots}}
+{{anim:Thinking target="actor" targetSpec=""}}Я хочу, чтобы естественный вид моих {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}непрочных леек{{color id="-1"}} был таким же, но они не ломались...{{string:Dots}}
 
 ---
 label: 507_3_1
 attribute: 0x000018
 ---
-{{anim:IdeaBulb target="actor" targetSpec=""}}That's it! I bet a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy watering can {{color id="-1"}}would do the trick!
+{{anim:IdeaBulb target="actor" targetSpec=""}}Ну конечно! Я попробую сделать {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}прочные лейки. {{color id="-1"}} Обязательно попробую!
 
 ---
 label: 507_4_0
 attribute: 0x000018
 ---
-{{anim:Thinking target="actor" targetSpec=""}}My {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}flimsy axes{{color id="-1"}} break WAY too often!
+{{anim:Thinking target="actor" targetSpec=""}}Мои {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}непрочные топоры{{color id="-1"}} ломаются СЛИШКОМ часто!
 
 ---
 label: 507_4_1
 attribute: 0x000018
 ---
-{{anim:IdeaBulb target="actor" targetSpec=""}}OH! Maybe I could craft a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy axe{{color id="-1"}} that'll last longer and look the same!
+{{anim:IdeaBulb target="actor" targetSpec=""}}О! Может мне сделать {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}прочные топоры?{{color id="-1"}} Они будут выглядить также, но они будут крепче!
 
 ---
 label: 529
 attribute: 0xABAB54
 ---
-{{anim:IdeaBulb target="actor" targetSpec=""}}That's it!{{delay20}} I{{string:Dots}}I just came up with a 
-{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy axe{{color id="32"}}recipe￿!
+{{anim:IdeaBulb target="actor" targetSpec=""}}О да!{{delay20}} I{{string:Dots}}Я только что придумал рецепт "сделай сам" к  
+{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}прочному топору{{color id="32"}}￿!
 
 ---
 label: 530
 attribute: 0x585432
 ---
-{{anim:Thinking target="actor" targetSpec=""}}{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}flimsy axes{{color id="104"}}ave a nice aesthetic￿, but I wish they didn't break SO often {{string:Dots}}
+{{anim:Thinking target="actor" targetSpec=""}}{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}непрочные удочки{{color id="104"}}имеют очень крутой вид, но я хочу, чтобы они не ломались ТАК часто {{string:Dots}}
 
 ---
 label: 527
 attribute: 0xAACB00
 ---
-{{anim:IdeaBulb target="actor" targetSpec=""}} {{string:Dots}}EUREKA!{{delay8}} I just thought of a recipe for a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy fishing rod{{color id="-1"}}!
+{{anim:IdeaBulb target="actor" targetSpec=""}} {{string:Dots}}ЭВРИКА!{{delay8}} Я придумал рецепт "Сделай сам" к {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}прочным удочкам{{color id="-1"}}!
 
 ---
 label: 528
 attribute: 0x000000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}I like the look of my {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}flimsy fishing rods{{color id="-1"}}, but they always break on me!
+{{anim:Thinking target="actor" targetSpec=""}}Мне нравится вид моих{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}непрочных удочек{{color id="-1"}}, но они всё время ломаются!
 
 ---
 label: 532
 attribute: 0x000000
 ---
-{{anim:Thinking target="actor" targetSpec=""}} My {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}flimsy nets{{color id="97"}}re so cute￿! 
-It's a shame they're always so,
-uh {{string:Dots}}{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}flimsy{{color id="110" otherArg="0x000000000A000A000000"}}
+{{anim:Thinking target="actor" targetSpec=""}} Мои {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}непрочные сачки{{color id="97"}}такие няшные￿! 
+Но они так позорно, эмм, {{string:Dots}}{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}непрочные{{color id="110" otherArg="0x000000000A000A000000"}}
 
 ---
 label: 531
 attribute: 0x000000
 ---
-{{anim:IdeaBulb target="actor" targetSpec=""}}Oh, I know!{{delay20}}I should try crafting a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy net{{color id="-1"}}!
+{{anim:IdeaBulb target="actor" targetSpec=""}}О, я знаю!{{delay20}}Я попробую смастерить {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}прочный сачок{{color id="-1"}}!
 
 ---
 label: 534
 attribute: 0x7D0100
 ---
-{{anim:Thinking target="actor" targetSpec=""}}The rustic appearance of {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}flimsy shovels{{color id="-1"}} appeals to me, but crafting them
-over and over is a pain!
+{{anim:Thinking target="actor" targetSpec=""}}Деревенский вид моих {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}непрочных лопат{{color id="-1"}} мне нравится, но создавать их из раза в раз - это просто мучение!
 
 
 ---
 label: 533
 attribute: 0x00F805
 ---
-{{anim:IdeaBulb target="actor" targetSpec=""}} {{string:Dots}}Of course!{{delay8}} I should start making {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy shovels{{color id="32"}}￿instead!
+{{anim:IdeaBulb target="actor" targetSpec=""}} {{string:Dots}}КОНЕЧНО!{{delay8}} Я должен попробовать смастерить {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}Прочные лопаты{{color id="32"}}￿!
 
 ---
 label: 536
 attribute: 0x000098
 ---
-{{anim:Thinking target="actor" targetSpec=""}}The natural appearance of my {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}flimsy watering cans{{color id="-1"}} certainly shows off my green thumb, but I wish they could water more flowers at once{{string:Dots}}
+{{anim:Thinking target="actor" targetSpec=""}}Естественный вид моих{{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}непрочных леек{{color id="-1"}} определённо доказывает, что я люблю цветы, но мне хочется поливать их больше за раз{{string:Dots}}
 
 
 ---
 label: 535
 attribute: 0x060000
 ---
-{{anim:IdeaBulb target="actor" targetSpec=""}} {{string:Dots}}I've got it!{{delay8}} I bet a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}sturdy watering can{{color id="32"}}could do the trick￿!
+{{anim:IdeaBulb target="actor" targetSpec=""}} {{string:Dots}}У меня идея!{{delay8}} Я сделаю {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}прочную лейку.{{color id="32"}}Должно быть это сработает￿!
 
 ---
 label: 962
 attribute: 0x000018
 ---
-I learned a {{color id="1"}}special technique{{color id="-1"}}!{{delay frames="30"}}
-Now I can craft a whole lot of fish bait,{{delay8}} all at once!
+Я выучил {{color id="1"}}особое умение!{{color id="-1"}}!{{delay frames="30"}}
+Теперь я могу создать больше наживок,{{delay8}} в одном слоте!
 
 ---
 label: 1506
 attribute: 0xAA0600
 ---
-{{color id="3"}}Phineas {{color id="-1"}}is a genius!{{delay20}} I've just learned some {{color id="1"}}special balloon{{color id="-1"}} recipes!
+{{color id="3"}}Финес {{color id="-1"}}просто гений!{{delay20}} Он научил меня рецептам "сделай сам" для {{color id="1"}}особых воздушных шариков{{color id="-1"}}!
