@@ -3,22 +3,22 @@
 label: 057_01
 attribute: 0x00000000
 ---
-{{anim:Hesitate target="actor" targetSpec=""}}Since we have all the materials we need and can start construction on the shop{{string:Dots}}
+{{anim:Hesitate target="actor" targetSpec=""}}С тех пор как у нас появились материалы, мы реконструируем магазин{{string:Dots}}
 
 ---
 label: 059_01
 attribute: 0x00000000
 ---
-{{anim:Shocked target="actor" targetSpec=""}}Oh!{{delay8}} But it looks like your pockets are full.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Go make some room, and I'll hand you a {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}shop construction kit{{color id="-1"}} so you can find a {{anim:Smiling target="actor" targetSpec=""}}spot for it!
+{{anim:Shocked target="actor"}}Ой! Но похоже, твои карманы полные.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Сперва иди очисти их а потом я тебе дам  {{color id="1"}}{{wordInfo gender="0" indefArticle="1" defArticle="3"}}набор реконструирования магазина.{{color id="-1"}} Ты сможешь найти {{anim:Smiling target="actor" targetSpec=""}}подходящее местечко для него!
 
 ---
 label: 059_02
 attribute: 0x00000000
 ---
-{{anim:BigSmile target="actor" targetSpec=""}}Looks like you made some room! Here you go!
+{{anim:BigSmile target="actor" targetSpec=""}}Похоже ты нашел место для него. Держи!
 
 ---
 label: 060
 attribute: 0x00000000
 ---
-{{anim:Thinking target="actor" targetSpec=""}}Hold on{{string:Dots}}{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}I wanted to give you some {{color id="1"}}rewards{{color id="-1"}} as thanks for helping,{{delay8}} but you don't have{{anim:Oops target="actor" targetSpec=""}} enough room in your pockets.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}If you'll make some space for {{color id="1"}}a few more things{{color id="-1"}}, I'll be ready to {{anim:Smiling target="actor" targetSpec=""}}accept your donation of materials!
+{{anim:Thinking target="actor" targetSpec=""}}Держи.{{string:Dots}}{{pageBreak}}{{anim:Explain target="actor" targetSpec=""}}Вот твоё {{color id="1"}} вознаграждение{{color id="-1"}} и спасибо за помощь,{{delay8}} однако, у тебя {{anim:Oops target="actor" targetSpec=""}} недостаточно места в твоих карманах.{{pageBreak}}{{anim:Nodding target="actor" targetSpec=""}}Если ты уберёшь {{color id="1"}}несколько вещиц{{color id="-1"}}, я буду готов {{anim:Smiling target="actor" targetSpec=""}}принять твоё пожертвован е!
