@@ -3,14 +3,13 @@
 label: 4004
 attribute: 0x00000000
 ---
-This is a digital book filled with
-{{color id="1"}}fancy drink {{color id="-1"}}recipes!{{100:4}} {{delay8}}{{size value="75"}}...recipes!{{size value="100"}}{{15:100 arg="0x0400"}}{{pageBreak}}And it's called{{string:Dots}}
+Эта электронная книга просто кишит рецептами
+{{color id="1"}}поразительных напитков {{color id="-1"}}!{{100:4}} {{delay8}}{{size value="75"}}...Да, рецептами!{{size value="100"}}{{15:100 arg="0x0400"}}{{pageBreak}}И один из них называется {{string:Dots}}
 {{125:0 arg="0x0000"}}!
 
 ---
 label: 4005
 attribute: 0x00000000
 ---
-{{anim:BigSmile target="mainNpc" targetSpec=""}}{{anim:Smiling target="subNpc" targetSpec=""}}We're done!{{10:4}} We hope you enjoy
-{{color id="1"}}blending up drinks{{color id="-1"}} even more
-with all those new recipes!{{100:4}} {{delay8}}{{size value="75"}}...recipes!{{size value="100"}}{{15:100 arg="0x0400"}}
+{{anim:BigSmile target="mainNpc" targetSpec=""}}{{anim:Smiling target="subNpc" targetSpec=""}}Мы готовы!{{10:4}} Мы надеемся, что вы будете
+{{color id="1"}}смешивать напитки{{color id="-1"}} с еще какими - нибудь рецептами!{{100:4}} {{delay8}}{{size value="75"}}...Рецептами!{{size value="100"}}{{15:100 arg="0x0400"}}
