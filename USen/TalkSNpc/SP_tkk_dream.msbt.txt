@@ -3,20 +3,20 @@
 label: 300
 attribute: 0x00000015
 ---
-Hey, {{delay40}}{{snpcAnim:TkkNodding target="actor" targetSpec=""}}cool cat.{{delay40}}
-Long time no see{{string:Dots}}{{pageBreak}}{{snpcAnim:TkkNodding target="actor" targetSpec=""}}You know{{string:Dots}}it's good to spotlight with an old friend every once in a while.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}To know they're still{{delay8}} holdin' up. 
-{{delay40}}See how you've both grown.{{pageBreak}}Speaking of which{{string:Dots}}{{pageBreak}}I gotta {{snpcAnim:TkkNodding target="actor" targetSpec=""}}appreciate what you've done with the place. {{uppercaseNextWord}}{{string:IslandName}},
-I mean. You totally brightened it up.{{pageBreak}}So,{{delay40}} just wanted to say, {{snpcAnim:TkkEh target="actor" targetSpec=""}}thanks {{delay20}}for coming back for a little while,{{delay20}}
-{{snpcAnim:TkkQuestionMark target="actor" targetSpec=""}}you feel?{{pageBreak}}{{snpcAnim:TkkNodding target="actor" targetSpec=""}}You've got just the energy that an island like this needs.{{pageBreak}}{{string:Dots}}{{delay8}}Don't forget that.
-And keep it groovy, my friend.{{string:Dots}}{{delay frames="40"}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}{{10:7 arg="0xB4000000"}}
+Эй, {{delay40}}{{snpcAnim:TkkNodding target="actor" targetSpec=""}}крутой кот.{{delay40}}
+Давно не виделись.{{string:Dots}}{{pageBreak}}{{snpcAnim:TkkNodding target="actor" targetSpec=""}}Знаешь,{{string:Dots}}порой приятно побыть со старым другом.{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}ЗнатьБ что они все ещё{{delay8}} держатся. 
+{{delay40}}Видеть, как они растут.{{pageBreak}}Ксати об этом,{{string:Dots}}{{pageBreak}}Я должна {{snpcAnim:TkkNodding target="actor" targetSpec=""}}ценить, что ты сделал с этим местом{{uppercaseNextWord}}{{string:IslandName}},
+Я серьёзно. Ты буквально зажег это место.{{pageBreak}}Так,{{delay40}} просто хочу тебе сказать, {{snpcAnim:TkkEh target="actor" targetSpec=""}}спасибо {{delay20}}за то, что ты вернулся на немного,{{delay20}}
+{{snpcAnim:TkkQuestionMark target="actor" targetSpec=""}}ты чувствуешь?{{pageBreak}}{{snpcAnim:TkkNodding target="actor" targetSpec=""}}У тебя как раз есть та энергия, которая нужна этому острову.{{pageBreak}}{{string:Dots}}{{delay8}}Не забудь это.
+И продолжай в том же духе.{{string:Dots}}{{delay frames="40"}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}{{10:7 arg="0xB4000000"}}
 
 ---
 label: 333
 attribute: 0x00000015
 ---
-{{string:Dots}}Oh,{{delay40}}{{snpcAnim:TkkNodding target="actor" targetSpec=""}} there's one more thing{{string:Dots}}{{pageBreak}}I was supposed to tell you thanks{{delay8}} for somethin' else{{snpcAnim:TkkEh target="actor" targetSpec=""}}.{{pageBreak}}Good ol' {{color id="3"}}jubbsticks{{color id="-1"}}{{snpcAnim:TkkNodding target="actor" targetSpec=""}}{{string:Dots}}{{delay40}} wanted 
-you to know that he digs the download{{string:Dots}}{{delay8}}something like that.{{pageBreak}}And if you dig the mood and wanna show support for the mod,{{delay8}} {{snpcAnim:TkkQuestionMark target="actor" targetSpec=""}}he's got a "{{color id="1"}}ko-fi page{{color id="-1"}}."{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Can't be too sure what all that means.{{delay8}} {{snpcAnim:TkkQuestionMark target="actor" targetSpec=""}}Maybe he was just asking for a coffee?{{pageBreak}}{{string:Dots}}{{delay40}}But what do I know?{{delay40}}{{10:4}}{{delay8}}
-{{color id="4"}}{{size value="50"}}I'm just a figment of your imagination{{string:Dots}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}{{pageBreak}}{{color id="-1"}}{{size value="100"}}{{string:Dots}}Well,{{delay8}}{{snpcAnim:TkkNodding target="actor" targetSpec=""}} get out there and carpe that diem,{{delay8}} daddio.{{pageBreak}}Just take it slow,{{snpcAnim:TkkQuestionMark target="actor" targetSpec=""}} alright? {{delay40}}
-Have fun {{snpcAnim:TkkNodding target="actor" targetSpec=""}}{{delay20}}and don't overthink it.{{delay40}}
-There's no need to rush.{{pageBreak}}Catch you later.{{delay20}}
-There's plenty more comin' at you {{snpcAnim:TkkNodding target="actor" targetSpec=""}}{{delay8}}where I came from{{string:Dots}}{{delay frames="40"}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}{{10:7 arg="0xB4000000"}}
+{{string:Dots}}Ой,{{delay40}}{{snpcAnim:TkkNodding target="actor" targetSpec=""}} ещё кое-что:{{string:Dots}}{{pageBreak}}я должна сказаь тебе спасибо{{delay8}} за что-нибудь ещё{{snpcAnim:TkkEh target="actor" targetSpec=""}}.{{pageBreak}}Старый, добрый {{color id="3"}}Джабстикс{{color id="-1"}}{{snpcAnim:TkkNodding target="actor" targetSpec=""}}{{string:Dots}}{{delay40}} хотел 
+ты должен знать, что ему нравится скачивать {{string:Dots}}{{delay8}}что-то подобное.{{pageBreak}}И если ты захочешь поддержать его,{{delay8}} {{snpcAnim:TkkQuestionMark target="actor" targetSpec=""}}у него есть страничка на "{{color id="1"}}Ко-фи{{color id="-1"}}."{{pageBreak}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}Я не понимаю, что это значит.{{delay8}} {{snpcAnim:TkkQuestionMark target="actor" targetSpec=""}}Может, он хотел кофе?{{pageBreak}}{{string:Dots}}{{delay40}}Но кто его знает?{{delay40}}{{10:4}}{{delay8}}
+{{color id="4"}}{{size value="50"}}I'm just a figment of your imagination{{string:Dots}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}{{pageBreak}}{{color id="-1"}}{{size value="100"}}{{string:Dots}}Well,{{delay8}}{{snpcAnim:TkkNodding target="actor" targetSpec=""}} get зайди туда и разделай этого своего, эм{{delay8}} "папочку".{{pageBreak}}Только не торопись,{{snpcAnim:TkkQuestionMark target="actor" targetSpec=""}} хорошо? {{delay40}}
+Веселись {{snpcAnim:TkkNodding target="actor" targetSpec=""}}{{delay20}}и не задумывайся об этом.{{delay40}}
+Нет необходимости спешить.{{pageBreak}} Увидимся позже.{{delay20}}
+На тебя ещё много нападает там, {{snpcAnim:TkkNodding target="actor" targetSpec=""}}{{delay8}}где я родилась{{string:Dots}}{{delay frames="40"}}{{anim:EmotEnd_0 target="actor" targetSpec=""}}{{10:7 arg="0xB4000000"}}
